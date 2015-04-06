@@ -1,0 +1,8 @@
+// Pseudo Code for Data Treasure Hunting
+// NASA's SpaceAppsChallenge 2015
+
+1. bingSearchApi {data search/find and text file created}
+2. StanfordSemantics {textfile parsed with semantics} //http://www-nlp.stanford.edu/software/sempre/
+3. wordCounter {counts word combo usage, creates descending list}
+4. userInterface {user vote on favorite associations}
+5. JSON { popular word associatiosn are put into JSON format}
