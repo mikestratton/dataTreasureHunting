@@ -3,3 +3,6 @@ Links
 https://2015.spaceappschallenge.org/challenge/data-treasure-hunting/
 http://data.nasa.gov/
 https://project-open-data.cio.gov/schema/
+http://json.org/
+http://www.jquery.com
+http:www.jshint.com
