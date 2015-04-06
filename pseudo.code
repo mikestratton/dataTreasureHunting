@@ -1,6 +1,6 @@
 // Pseudo Code for Data Treasure Hunting
 // NASA's SpaceAppsChallenge 2015
 
-1. bingSearchApi + carrot2 {finds word associations // https://github.com/carrot2
-2. userInterface {user vote on favorite associations}
+1. bingSearchApi + carrot2 {finds word associations} // https://github.com/carrot2
+2. userInterface {users vote on favorite associations}
 3. JSON { popular word associatiosn are put into JSON format}
