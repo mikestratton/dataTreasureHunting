@@ -12,7 +12,7 @@
       1.1.1.6 score words
         1.1.1.6.1 scoring based on % value of all words used in the remaining data set
         1.1.1.6.3 count and store total number of words found in data set
-      1.1.1.7 Using Bing Synonym API to find similar words
+      1.1.1.7 Using Bing Synonym API to find similar words - attached words to keywords in data set
     1.1.2 Use array comparisons of stored words from different data sets to find associations
     
 2. CrowdSourcing { creation of web app for collaboration } 
