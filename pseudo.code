@@ -2,6 +2,25 @@
 // NASA's SpaceAppsChallenge 2015
 
 1. Refine { mine raw data}
+  1.1 compare the metadata and the data of one information asset to another in order to find new keywords
+    1.1.1 Word counter comparison 
+      1.1.1.1 Import data
+      1.1.1.2 Stanford's semantic processing to identify nouns, adjectives, verbs and adverbs
+      1.1.1.3 Remove commonnly used or unnecessary wordss
+      1.1.1.4 count number of times each word is used
+      1.1.1.5 store the top 20% of the most used words
+      1.1.1.6 score words
+        1.1.1.6.1 scoring based on % value of all words used in the remaining data set
+        1.1.1.6.3 count and store total number of words found in data set
+      1.1.1.7 Using Bing Synonym API to find similar words
+    1.1.2 Use array comparisons of stored words from different data sets to find associations
+    
 2. CrowdSourcing { creation of web app for collaboration } 
+  2.1 User can use keyword search to find data assocaitions
+  2.2 Data Separated by User type
+  2.3 User type relevant to simplicity or detail of data set
+    2.2.1 experienced user will need more details and full access 
+    2.2.2 inexperienced user will need data defined in laymens terms
+   
 
 
