@@ -1,539 +1,1515 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="1230" uniqueCount="325"><si><t>id</t></si><si><t>country</t></si><si><t>level</t></si><si><t>language</t></si><si><t>catalog_type</t></si><si><t>english_title</t></si><si><t>english_keywords</t></si><si><t>english_category</t></si><si><t>english_description</t></si><si><t>url</t></si><si><t>created_at</t></si><si><t>updated_at</t></si><si><t>catalog_id</t></si><si><t>upload_date</t></si><si><t>crawl_time</t></si><si><t>catalog_record_id</t></si><si><t>language(2)</t></si><si><t>temporal_bounds</t></si><si><t>spatial_bounds</t></si><si><t>contact_name</t></si><si><t>contact_email</t></si><si><t>contact_phone</t></si><si><t>publisher</t></si><si><t>access_level</t></si><si><t>access_level_comment</t></si><si><t>license</t></si><si><t>issue_date</t></si><si><t>release_date</t></si><si><t>last_update_date</t></si><si><t>update_frequency</t></si><si><t>bureau_code</t></si><si><t>program_code</t></si><si><t>data_quality</t></si><si><t>Australia</t></si><si><t>National</t></si><si><t>English</t></si><si><t>ckan3</t></si><si><t>Polar Environmental Data Layers</t></si><si><t>,,,,,,,,,,,,,,,,,,,,,,,,,,,,</t></si><si><t>These layers are polar climatological and other summary environmental layers that may be useful for purposes such as general modelling, regionalisation, and exploratory analyses. All of the layers in this collection are provided on a consistent 0.1-degree grid, which covers -180 to 180E, 80S to 30S (Antarctic) and 45N to 90N (Arctic). As far as practicable, each layer is provided for both the Arctic and Antarctic regions. Where possible, these have been derived from the same source data; otherwise, source data have been chosen to be as compatible as possible between the two regions. Some layers are provided for only one of the two regions.
-
-Each data layer is provided in netCDF and ArcInfo ASCII grid format. A png preview map of each is also provided.
-
-Processing details for each layer:
-
-Bathymetry
-File: bathymetry
-Measured and estimated seafloor topography from satellite altimetry and ship depth soundings.
-Antarctic:
-Source data: Smith and Sandwell V13.1 (Sep 4, 2010)
-Processing steps: Depth data subsampled from original 1-minute resolution to 0.05-degree resolution and interpolated to 0.1-degree grid using bilinear interpolation.
-Reference: Smith, W. H. F., and D. T. Sandwell (1997) Global seafloor topography from satellite altimetry and ship depth soundings. Science 277:1957-1962. http://topex.ucsd.edu/WWW_html/mar_topo.html
-Arctic:
-Source data: ETOPO1
-Processing steps: Depth data subsampled to 0.05-degree resolution and interpolated to 0.1-degree grid using bilinear interpolation on polar stereographic projection.
-Reference: Amante, C. and B. W. Eakins, ETOPO1 1 Arc-Minute Global Relief Model: Procedures, Data Sources and Analysis. NOAA Technical Memorandum NESDIS NGDC-24, 19 pp, March 2009. http://www.ngdc.noaa.gov/mgg/global/global.html
-
-----
-
-Bathymetry slope
-File: bathymetry_slope
-Slope of sea floor, derived from Smith and Sandwell V13.1 and ETOPO1 bathymetry data (above).
-Processing steps: Slope calculated on 0.1-degree gridded depth data (above). Calculated using the equation given by Burrough, P. A. and McDonell, R.A. (1998) Principles of Geographical Information Systems (Oxford University Press, New York), p. 190 (see http://webhelp.esri.com/arcgisdesktop/9.2/index.cfm?TopicName=How%20Slope%20works)
-
-----
-
-CAISOM model-derived variables
-Variables derived from the CAISOM ocean model. This model has been developed by Ben Galton-Fenzi (AAD and ACE-CRC), and is based on the Regional Ocean Modelling System (ROMS). It has circum-Antarctic coverage out to 50S, with a spatial resolution of approximately 5km. The values here are averaged over 12 snapshots from the model, each separated by 2 months. These parameters should be treated as experimental.
-
-Reference: Galton-Fenzi BK, Hunter JR, Coleman R, Marsland SJ, Warner RC (2012) Modeling the basal melting and marine ice accretion of the Amery Ice Shelf. Journal of Geophysical Research: Oceans, 117, C09031. http://dx.doi.org/10.1029/2012jc008214
-
-Floor current speed
-File: caisom_floor_current_speed
-Current speed near the sea floor.
-
-Floor temperature
-File: caisom_floor_temperature
-Potential temperature near the sea floor.
-
-Floor vertical velocity
-File: caisom_floor_vertical_velocity
-Vertical water velocity near the sea floor.
-
-Surface current speed
-File: caisom_surface_current_speed
-Near-surface current speed (at approximately 2.5m depth)
-
-----
-
-Chlorophyll summer
-File: chl_summer_climatology
-Source data: Near-surface chl-a summer climatology from MODIS Aqua
-Antarctic:
-Climatology spans the 2002/03 to 2009/10 austral summer seasons. Data interpolated from original 9km resolution to 0.1-degree grid using bilinear interpolation.
-Arctic:
-Climatology spans the 2002 to 2009 boreal summer seasons. Data interpolated from original 9km resolution to 0.1-degree grid using bilinear interpolation.
-Reference: Feldman GC, McClain CR (2010) Ocean Color Web, MODIS Aqua Reprocessing, NASA Goddard Space Flight Center. Eds. Kuring, N., Bailey, S.W. http://oceancolor.gsfc.nasa.gov/
-
-----
-
-Distance to Antarctica
-File: distance_antarctica
-Distance to nearest part of Antarctic continent (Antarctic only)
-Source data: A modified version of ESRI's world map shapefile
-Processing steps: Distances calculated in km using the Haversine formula on a spherical earth of radius 6378.137km.
-
-----
-
-Distance to nearest seabird breeding colony (Antarctic only)
-File: distance_colony
-Antarctic source data: Inventory of Antarctic seabird breeding sites, collated by Eric Woehler. http://data.aad.gov.au/aadc/biodiversity/display_collection.cfm?collection_id=61.
-Processing steps: The closest distance of each grid point to the colonies was calculated in km using the Haversine formula on a spherical earth of radius 6378.137km.
-
-----
-
-Distance to maximum winter sea ice extent 
-File: distance_max_ice_edge
-Source data: SMMR-SSM/I passive microwave estimates of daily sea ice concentration from the National Snow and Ice Data Center (NSIDC).
-Processing steps:
-Antarctic:
-Mean maximum winter sea ice extent was derived from daily estimates of sea ice concentration as described at http://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=AMD/AU/sea_ice_extent_winter. The closest distance of each grid point to this extent line was calculated in km using the Haversine formula on a spherical earth of radius 6378.137km.
-Arctic:
-The median March winter sea ice extent was obtained from the NSIDC at http://nsidc.org/data/g02135.html. The closest distance of each grid point to this extent line was calculated in km using the Haversine formula on a spherical earth of radius 6378.137km.
-Reference: Cavalieri, D., C. Parkinson, P. Gloersen, and H. J. Zwally. 1996, updated 2008. Sea ice concentrations from Nimbus-7 SMMR and DMSP SSM/I passive microwave data. Boulder, Colorado USA: National Snow and Ice Data Center. Digital media. tp://nsidc.org/data/nsidc-0051.html
-
-----
-
-Distance to shelf break
-File: distance_shelf
-Distance to nearest area of sea floor of depth 500m or less.
-Derived from Smith and Sandwell V13.1 and ETOPO1 bathymetry data (above).
-Processing steps: Distances calculated in km using the Haversine formula on a spherical earth of radius 6378.137km. Points in less than 500m of water (i.e. over the shelf) were assigned negative distances.
-See also distance to upper slope
-
-----
-
-Distance to subantarctic islands (Antarctic only)
-File: distance_subantarctic_islands
-Distance to nearest land mass north of 65S (includes land masses of e.g. South America, Africa, Australia, and New Zealand).
-Processing steps: Distances calculated in km using the Haversine formula on a spherical earth of radius 6378.137km. 
-
-----
-
-Distance to canyon
-File: distance_to_canyon
-Distance to the axis of the nearest canyon (Antarctic only)
-Source data: O'Brien and Post (2010) seafloor geomorphic feature dataset, expanded from O'Brien et al. (2009). Mapping based on GEBCO contours, ETOPO2, seismic lines.
-Processing steps: Distances to nearest canyon axis calculated in km using the Haversine formula on a spherical earth of radius 6378.137km.
-NOTE: source data extend only as far north as 45S. Do not rely on this layer near or north of 45S.
-Reference: O'Brien, P.E., Post, A.L., and Romeyn, R. (2009) Antarctic-wide geomorphology as an aid to habitat mapping and locating vulnerable marine ecosystems. CCAMLR VME Workshop 2009. Document WS-VME-09/10
-
-----
-
-Distance to polynya
-File: distance_to_polynya
-Distance to the nearest polynya area (Antarctic only)
-Source data: AMSR-E satellite estimates of daily sea ice concentration at 6.25km resolution
-Processing steps: The seaice_gt_85 layer (see below) was used. Pixels which were (on average) covered by sea ice for less than 35% of the year were identified. The distance from each grid point on the 0.1-degree grid to the nearest such polynya pixel was calculated in km using the Haversine formula on a spherical earth of radius 6378.137km. (NB the threshold of 35% was chosen to give a good empirical match to the polynya locations identified by Arrigo and van Dijken (2003), although the results were not particularly sensitive to the choice of threshold.
-Reference: Arrigo KR, van Dijken GL (2003) Phytoplankton dynamics within 37 Antarctic coastal polynya systems. Journal of Geophysical Research, 108, 3271. http://dx.doi.org/10.1029/2002JC001739
-
-----
-
-Distance to upper slope (Antarctic only)
-File: distance_upper_slope
-Distance to the "upper slope" geomorphic feature from the Geoscience Australia geomorphology data set. This is probably a better indication of the distance to the Antarctic continental shelf break than the "distance to shelf break" data (above).
-Source data: O'Brien and Post (2010) seafloor geomorphic feature dataset, expanded from O'Brien et al. (2009). Mapping based on GEBCO contours, ETOPO2, seismic lines.
-Processing steps: Distances calculated in km using the Haversine formula on a spherical earth of radius 6378.137km. Points inside of an "upper slope" polygon were assigned negative distances.
-Reference: O'Brien, P.E., Post, A.L., and Romeyn, R. (2009) Antarctic-wide geomorphology as an aid to habitat mapping and locating vulnerable marine ecosystems. CCAMLR VME Workshop 2009. Document WS-VME-09/10
-
-----
-
-Fast ice
-File: fast_ice
-The average proportion of the year for which landfast sea ice is present in a location
-Source data: 20-day composite records of East Antarctic landfast sea-ice, derived from MODIS imagery (Fraser at al. 2012)
-Processing steps: The average proportion of the year for which each pixel was covered by landfast sea ice was calculated as an average across 2001--2008. Data were regridded to the 0.1-degree grid using bilinear interpolation.
-
-
-Distance to fast ice
-File: distance_to_fast_ice
-Distance to the nearest location where fast ice is typically present.
-Source data: 20-day composite records of East Antarctic landfast sea ice, derived from MODIS imagery (Fraser at al. 2012)
-Processing steps: Pixels in the landfast sea ice data that were associated with fast ice presence for more than half of the year (on average) were identified. The distance from each pixel in the 0.1-degree grid to the nearest of these fast ice pixels was calculated in km using the Haversine formula on a spherical earth of radius 6378.137km.
-Reference: Fraser AD, Massom RA, Michael KJ, Galton-Fenzi BK and Lieser JL (2012) East Antarctic landfast sea ice distribution and variability, 2000-08. Journal of Climate 25:1137-1156.
-See also: http://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=AMD/AU/modis_20day_fast_ice
-
-----
-
-Seafloor temperature
-File: floor_temperature
-Source data: Original data derived from World Ocean Atlas 2005 data and provided on a 1-degree grid.
-Processing steps: Isolated missing pixels (i.e. single pixels of missing data with no surrounding missing pixels) were filled using bilinear interpolation. Data provided in two versions: one regridded from 1-degree grid using nearest neighbour interpolation (floor_temperature) and the other using bilinear interpolation (floor_temperature_interpolated).
-Reference: Clarke, A. et al. (2009) Spatial variation in seabed temperatures in the Southern Ocean: Implications for benthic ecology and biogeography. Journal of Geophysical Research 114:G03003. doi:10.1029/2008JG000886
-
-----
-
-Geomorphology
-File: geomorphology
-Geomorphic feature classification
-Source data: O'Brien and Post (2010) seafloor geomorphic feature dataset, expanded from O'Brien et al. (2009). Mapping based on GEBCO contours, ETOPO2, seismic lines.
-Reference: O'Brien, P.E., Post, A.L., and Romeyn, R. (2009) Antarctic-wide geomorphology as an aid to habitat mapping and locating vulnerable marine ecosystems. CCAMLR VME Workshop 2009. Document WS-VME-09/10
-
-Geomorphic feature class names and their corresponding values in the gridded files:
-
-1: Abyssal_Plain
-2: Bank_Wave_Affected
-3: Coastal_Terrane
-4: Contourite_Feature
-5: Cross_Shelf_Valley
-6: Fracture_Zone
-7: Iceshelf_Cavity
-8: Island_Arc
-9: Island_Coastal_Terrane
-10: Lower_Slope
-11: Margin_Ridges
-12: Marginal_Plateau
-13: Mid_Ocean_Ridge_Valley
-14: Plateau
-15: Plateau_Slope
-16: Ridge
-17: Rough_Seafloor
-18: Seamount
-19: Seamount_Ridges
-20: Shelf_Bank
-21: Shelf_Deep
-22: Structural_Slope
-23: Trench
-24: Trough
-25: Trough_Mouth_Fan
-26: Upper_Slope
-27: Volcano
-
-
-----
-
-Light budget
-File: light_budget
-Annual light budget (cumulative solar radiation) reaching the water surface.
-Processing steps: As per Clark et al. (in press). Daily incident solar radiation was modelled assuming a cloud-free sky (Suri and Hofierka 2004). Sea ice data (AMSR-E sea ice concentration) were used as a mask: if sea ice was present on a given day then the solar radiation reaching the ocean surface was assumed to be zero. The annual light budget for a given pixel was therefore calculated as the sum of daily solar radiation values on all days when sea ice was not present. The values here are the mean annual light budget over the 2002/03 to 2010/11 austral summer seasons (1-Jul to 30-Jun). Calculations were made on the AMSR-E 6.25km polar stereographic grid, and then interpolated to the 0.1-degree rectangular grid using triangle-based linear interpolation.
-References: 
-Clark GF, Stark JS, Johnston EL, Runcie JW, Goldsworthy PM, Raymond B, Riddle MJ (in press) Light-driven tipping points in polar ecosystems. Global Change Biology. http://dx.doi.org/10.1111/gcb.12337
-Suri M, J Hofierka (2004) A new GIS-based solar radiation model and its application to photovoltaic assessments. Transactions in GIS, 8, 175-190
-
-----
-
-Mixed layer depth
-File: mixed_layer_depth_summer_climatology and mixed_layer_depth_summer_climatology_interpolated
-Summer mixed layer depth climatology from ARGOS data
-Processing steps: Data provided in two versions: one regridded from 2-degree grid using nearest neighbour interpolation (mixed_layer_depth_summer_climatology) and the other using bilinear interpolation (mixed_layer_depth_summer_climatology_interpolated).
-Reference: de Boyer Montegut, C., G. Madec, A. S. Fischer, A. Lazar, and D. Iudicone (2004), Mixed layer depth over the global ocean: an examination of profile data and a profile-based climatology, J. Geophys. Res., 109, C12003, doi:10.1029/2004JC002378. http://www.lodyc.jussieu.fr/~cdblod/mld.html
-
-----
-
-Sea ice cover
-File: seaice_gt85
-Proportion of time the ocean is covered by sea ice of concentration 85% or higher.
-Source data: AMSR-E satellite estimates of daily sea ice concentration at 6.25km resolution
-Processing steps: Concentration data from 1-Jan-2003 to 31-Dec-2010 used. The fraction of time each pixel was covered by sea ice of at least 85% concentration was calculated for each pixel in the original (polar stereographic) grid. Data then regridded to 0.1-degree grid using triangle-based linear interpolation.
-Reference: Spreen, G., L. Kaleschke, and G. Heygster (2008), Sea ice remote sensing using AMSR-E 89 GHz channels, J. Geophys. Res., doi:10.1029/2005JC003384 http://www.ifm.zmaw.de/en/research/remote-sensing-assimilation/sea-ice/amsr-e-sea-ice-concentration/
-
-----
-
-Sea ice summer variability
-File: seaice_summer_variability
-Variability of sea ice cover during summer months
-Source data: AMSR-E satellite estimates of daily sea ice concentration at 6.25km resolution
-Processing steps: Daily estimates of sea ice concentration across December, January, and February of a given austral summer season were collated. For each pixel, the standard deviation of these values was calculated. The values given here are averaged over the 2002/03 to 2009/10 austral summer seasons.
-Reference: Spreen, G., L. Kaleschke, and G. Heygster (2008), Sea ice remote sensing using AMSR-E 89 GHz channels, J. Geophys. Res., doi:10.1029/2005JC003384 http://www.ifm.zmaw.de/en/research/remote-sensing-assimilation/sea-ice/amsr-e-sea-ice-concentration/
-
-----
-
-Sea surface height variables
-
-NOTE: The sea surface height-related data are derivative works of level-4 gridded altimetry data (data courtesy of Ssalto/Duacs, Aviso, and CNES; http://www.aviso.oceanobs.com/duacs/). These derivative works are available for scientific purposes ONLY.
-
-Sea surface height
-File: ssh
-Source data: CNES-CLS09 Mean Dynamic Topography v1.1 (Rio et al., 2009)
-Processing steps: Regridded to 0.1-degree grid using bilinear interpolation.
-
-SSH spatial gradient
-File: ssh_spatial_gradient
-The spatial gradient (in mm/km) of the mean dynamic topography.
-Source data: CNES-CLS09 Mean Dynamic Topography v1.1 (Rio et al., 2009)
-Processing steps: Gradient calculated on the native 0.25-degree grid and interpolated to 0.1-degree grid using bilinear interpolation.
-
-SSH variability
-File: ssha_variability
-The variability of sea surface height over time
-Source data: SSHA data from http://www.aviso.oceanobs.com/en/data/products/sea-surface-height-products/global/index.html
-Processing steps: Weekly SSHA data covering the period 14-Oct-1992 to 14-Oct-2007 were used. For each pixel in the native 1/3-degree Mercator grid, the standard deviation of SSHA values over that period was calculated. Data were then interpolated to 0.1-degree grid using bilinear interpolation.
-
-Reference: Rio, M-H, P. Schaeffer, G. Moreaux, J-M Lemoine, E. Bronner (2009) : A new Mean Dynamic Topography computed 
-over the global ocean from GRACE data, altimetry and in-situ measurements . Poster communication at OceanObs09 symposium, 
-21-25 September 2009, Venice
-
-----
-
-SST summer
-File: sst_summer_climatology
-Source data: Sea surface temperature summer climatology from MODIS Aqua.
-Antarctic:
-Climatology spans the 2002/03 to 2009/10 austral summer seasons. Data interpolated from original 9km resolution to 0.1-degree grid using bilinear interpolation.
-Arctic:
-Climatology spans the 2002 to 2009 boreal summer seasons. Data interpolated from original 9km resolution to 0.1-degree grid using bilinear interpolation on polar stereographic grid.
-Reference: Feldman GC, McClain CR (2010) Ocean Color Web, MODIS Aqua Reprocessing, NASA Goddard Space Flight Center. Eds. Kuring, N., Bailey, S.W. http://oceancolor.gsfc.nasa.gov/
-
-----
-
-SST spatial gradient
-File: sst_spatial_gradient
-Source data: Sea surface temperature summer climatology from MODIS Aqua.
-Antarctic:
-Climatology spans the 2002/03 to 2009/10 austral summer seasons. Spatial gradient of the SST (degrees C per km) calculated on the original 9km resolution data, following the equation given in http://webhelp.esri.com/arcgisdesktop/9.2/index.cfm?TopicName=How%20Slope%20works. Gradient values were then interpolated from original 9km resolution to 0.1-degree grid using bilinear interpolation.
-Reference: Feldman GC, McClain CR (2010) Ocean Color Web, MODIS Aqua Reprocessing, NASA Goddard Space Flight Center. Eds. Kuring, N., Bailey, S.W. http://oceancolor.gsfc.nasa.gov/
-
-----
-
-Surface wind
-File: surface_wind_annual
-Source data: Average 10m wind (2000-2010) from Monthly NCEP/DOE Reanalysis 2
-Processing steps: Monthly mean 10m wind speed (from u- and v-wind components) from Jan-2000 to Dec-2010 was averaged. Data interpolated from original 2.5-degree grid to 0.1-degree grid using bilinear interpolation.
-Reference: http://www.esrl.noaa.gov/psd/data/gridded/data.ncep.reanalysis2.html
-
-----
-
-Salinity 0m winter
-File: salinity_0_winter_climatology and salinity_0_interpolated_winter_climatology
-Salinity winter climatology at 0m depth.
-Source data: World Ocean Atlas 2009 (National Oceanographic Data Center, Silver Springs, MD, U.S.A.) http://www.nodc.noaa.gov/OC5/WOA09/pr_woa09.html
-Processing steps: Data regridded to 0.1-degree grid using nearest-neighbour interpolation (salinity_0_winter_climatology) and bilinear interpolation (salinity_0_interpolated_winter_climatology).
-Reference: Antonov, J. I., D. Seidov, T. P. Boyer, R. A. Locarnini, A. V. Mishonov, and H. E. Garcia, 2010. World Ocean Atlas 2009, Volume 2: Salinity. S. Levitus, Ed. NOAA Atlas NESDIS 69, U.S. Government Printing Office, Washington, D.C., 184 pp.
-
-----
-
-Salinity 0m summer
-See above (WOA)
-
-----
-
-Salinity 50m winter
-See above (WOA)
-
-----
-
-Salinity 50m summer
-See above (WOA)
-
-----
-
-Salinity 200m winter
-See above (WOA)
-
-----
-
-Salinity 200m summer
-See above (WOA)
-
-----
-
-Salinity 500m winter
-See above (WOA)
-
-----
-
-Salinity 500m summer
-See above (WOA)
-
-----
-
-NOX and Silicate 0m winter
-See above (WOA)
-File: nox_0_winter_climatology, nox_0_interpolated_winter_climatology; and si_0_winter_climatology, si_0_interpolated_winter_climatology
-Reference: Garcia, H. E., R. A. Locarnini, T. P. Boyer, and J. I. Antonov, 2010. World Ocean Atlas 2009, Volume 4: Nutrients (phosphate, nitrate, silicate). S. Levitus, Ed. NOAA Atlas NESDIS 71, U.S. Government Printing Office, Washington, D.C., 398 pp.
-
-----
-
-NOX and Silicate 0m summer 
-See above (WOA)
-
-----
-
-
-NOX and Silicate 50m summer
-See above (WOA)
-
-----
-
-NOX and Silicate 50m winter
-See above (WOA)
-
-----
-
-NOX and Silicate 200m summer
-See above (WOA)
-
-----
-
-NOX and Silicate 200m winter
-See above (WOA)
-
-----
-
-Oxygen 0m winter
-See above (WOA)
-File: oxygen_0_winter_climatology and oxygen_0_interpolated_winter_climatology
-Reference: Garcia, H. E., R. A. Locarnini, T. P. Boyer, and J. I. Antonov, 2010. World Ocean Atlas 2009, Volume 3: Dissolved Oxygen, Apparent Oxygen Utilization, and Oxygen Saturation. S. Levitus, Ed. NOAA Atlas NESDIS 70, U.S. Government Printing Office, Washington, D.C., 344 pp.
-
-----
-
-Oxygen 0m summer
-See above (WOA)
-
-----
-
-Oxygen 50m winter
-See above (WOA)
-
-----
-
-Oxygen 50m summer
-See above (WOA)
-
-----
-
-Oxygen 200m winter
-See above (WOA)
-
-----
-
-Oxygen 200m summer
-See above (WOA)
-
-----
-
-Temperature 0m winter
-See above (WOA)
-File: t_0_winter_climatology and t_0_interpolated_winter_climatology
-Reference: Locarnini, R. A., A. V. Mishonov, J. I. Antonov, T. P. Boyer, and H. E. Garcia, 2010. World Ocean Atlas 2009, Volume 1: Temperature. S. Levitus, Ed. NOAA Atlas NESDIS 68, U.S. Government Printing Office, Washington, D.C., 184 pp.
-
-----
-
-Temperature 0m summer
-See above (WOA)
-
-----
-
-Temperature 50m winter
-See above (WOA)
-
-----
-
-Temperature 50m summer
-See above (WOA)
-
-----
-
-Temperature 200m winter
-See above (WOA)
-
-----
-
-Temperature 200m summer
-See above (WOA)
-
-----
-
-Temperature 500m summer
-See above (WOA)
-
-----
-
-Temperature 500m winter
-See above (WOA)
-
-
-----
-
-Vertical velocity
-File: vertical_velocity_250 and vertical_velocity_500
-Upward sea water velocity at 250m and 500m depth (Antarctic only)
-Source data: CSIRO Mk3.5d climate model
-Processing steps: Mean values calculated from the 20C3M model run 1, averaged over 1980--2000. Values then interpolated from original grid (approximate resolution 0.9 degrees latitude by 1.9 degrees longitude) to 0.1-degree grid using bilinear interpolation.
-Reference: Gordon et al. (2010) The CSIRO Mk3.5 Climate Model. CAWCR Technical Report 21. http://www.cawcr.gov.au/publications/technicalreports/CTR_021.pdf</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=polar-environmental-data-layers</t></si><si><t>2014-12-04 00:30:13.216967</t></si><si><t>2014-11-16 00:31:19</t></si><si><t>2014-12-03 23:14:30.395</t></si><si><t>81cfe159-0de9-495d-bb78-3059b12cf629</t></si><si><t>Australian Antarctic Division</t></si><si><t>Creative Commons Attribution 3.0 Australia</t></si><si><t>MODIS derived Euphotic Depth (Zeu) datasets</t></si><si><t>,,,</t></si><si><t>The datasets measure the Euphotic Depth (Zeu) of Australian oceans. They are derived products from MODIS (aqua) images using NASA's SeaDAS image processing software. The extent of the datasets covers the entire Australian EEZ and surrounding waters (including the southern ocean). The spatial resolution of the datasets is 0.01 dd. The datasets contain 36 monthly Zeu layers between 2009 and 2011. The unit of the datasets is metre.
-
-You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=modis-derived-euphotic-depth-zeu-datasets</t></si><si><t>2014-11-02 04:16:46.665016</t></si><si><t>2014-03-31 05:55:12</t></si><si><t>2014-10-29 12:01:15</t></si><si><t>9627696e-eec7-4459-8339-5c49cf3e06f1</t></si><si><t>Geoscience Australia</t></si><si><t>AIMS Remote Sensing Data (Great Barrier Reef Subset)</t></si><si><t>,,,,</t></si><si><t>This dataset consists of products generated from satellite remote sensing data received at AIMS or obtained from other sources.
-
-Currently there are three products: (Skin) Sea Surface  Temperature (SST); Chlorophyll-a (Chl a); and Diffuse attenuation coefficient at 490nm (K490). The SST data are derived from data from the AVHRR sensor on the NOAA series satellites received at AIMS and currently covers the period from June 2003 to present. This dataset will be expanded back to 1990 in the near future.  The Chl a and K490 ( an ocean turbidity proxy) are derived from data from the SeaWiFS sensor on board the Orbview-2 satellite. These products are available for the period January 1998 to August 2005.
-The datasets will also be augmented with data from the MODIS sensor on the EOS satellites. This data will be sourced from NASA for the period prior to installation of the AIMS X-band ground-station and then from directly received data.</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=aims-remote-sensing-data-great-barrier-reef-subset</t></si><si><t>2014-11-02 07:27:52.42554</t></si><si><t>2014-10-24 06:24:30</t></si><si><t>2014-10-29 12:03:46</t></si><si><t>538bc6c1-9a67-41fc-8e8c-1c68e948f018</t></si><si><t>Australian Institute of Marine Science</t></si><si><t>MODIS derived Total Suspended Materials (TSM) datasets</t></si><si><t>The datasets measure the Total Suspended Materials (TSM) concentrations of ocean surface waters. They are derived products from MODIS (aqua) images using NASA's SeaDAS image processing software. The extent of the datasets covers the entire Australian EEZ and surrounding waters (including the southern ocean). The spatial resolution of the datasets is 0.01 dd. The datasets contain 36 monthly TSM layers between 2009 and 2011. The unit of the datasets is g/m3.
-
-You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=modis-derived-total-suspended-materials-tsm-datasets</t></si><si><t>2014-11-04 21:47:35.326951</t></si><si><t>2014-03-31 07:19:38</t></si><si><t>47b0e974-972f-4ca2-9cd6-23245a713ee6</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=aims-remote-sensing-data-great-barrier-reef-subsetea79f</t></si><si><t>2014-12-03 23:40:26.682736</t></si><si><t>2014-11-21 08:39:29</t></si><si><t>3c2952ca-d247-41b7-98e4-4dac188d559c</t></si><si><t>MODIS derived Coloured Dissolved Organic Matter (CDOM) datasets</t></si><si><t>The datasets measure the Coloured Dissolved Organic Matter (CDOM) concentrations of ocean surface waters. They are derived products from MODIS (aqua) images using NASA's SeaDAS image processing software. The extent of the datasets covers the entire Australian EEZ and surrounding waters (including the southern ocean). The spatial resolution of the datasets is 0.01 dd. The datasets contain 36 monthly CDOM layers between 2009 and 2011. The unit of the datasets is 1/m.
-
-You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=modis-derived-coloured-dissolved-organic-matter-cdom-datasets968ac</t></si><si><t>2014-10-29 12:47:34.326157</t></si><si><t>2014-06-07 09:52:23</t></si><si><t>145e4734-4ad5-4537-b76b-e8b4f8a46094</t></si><si><t>Marine Seismic Surveys Shape files and Kml files September 2013 Version</t></si><si><t>,,</t></si><si><t>Geoscience Australia is releasing its 2013 version of the Marine Seismic Surveys Shape files and Kml files. These files have been updated to include recent openfile surveys. The spatial files have been created from a cleansed, updated collection of p190 navigation files. This navigation collection has grown from the checking of navigation submitted to the GA Repository under Offshore Petroleum and Greenhouse Gas Storage Regulations, checking of the 2003 SNIP navigation files and the digitisation of old survey track maps as required. Soon the individual p190 files will be available for download through the new NOPIMS delivery system. The collection is based on P190 navigation files which follows the UKOOA standard. Extensive industry standard metadata associated with a seismic survey is preserved in the attribute tables of these datasets. The files have been categorised into 2D and 3D seismic files. A further category contains legacy data that still requires checking. The process of adding to this navigation database and checking of legacy data is ongoing. Geoscience Australia (email - AusGeodata@ga.gov.au) appreciates being notified of any errors found in the navigation collection.
-
-The data is available in both KML and Shape file formats.
-
-The KML file can be viewed using a range of applications including Google Earth, NASA WorldWind, ESRI ArcGIS Explorer, Adobe PhotoShop, AutoCAD3D or any other earth browser (geobrowser) that accepts KML formatted data.
-
-Alternatively the Shape files can be downloaded and viewed using any application that supports shape files.
-
-Disclaimer: Geoscience Australia gives no warranty regarding the data downloads provided herein nor the data's accuracy, completeness, currency or suitability for any particular purpose. Geoscience Australia disclaims all other liability for all loss, damages, expense and costs incurred by any person as a result of relying on the information in the data downloads.
-
-You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=marine-seismic-surveys-shape-files-and-kml-files-september-2013-version</t></si><si><t>2014-10-29 13:00:39.07253</t></si><si><t>2014-01-20 08:05:43</t></si><si><t>cece9151-5ccc-402c-93d7-1982a94a8c11</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=modis-derived-coloured-dissolved-organic-matter-cdom-datasets</t></si><si><t>2014-10-29 13:39:08.447476</t></si><si><t>2014-03-31 07:00:28</t></si><si><t>673f2051-1aa9-4ed6-b944-6b0983af8449</t></si><si><t>MODIS derived Sea Surface Temperature (SST) datasets</t></si><si><t>The datasets measure the Sea Surface Temperature (SST) of Australian oceans. They are derived products from MODIS (aqua) images using NASA's SeaDAS image processing software. The extent of the datasets covers the entire Australian EEZ and surrounding waters (including the southern ocean). The spatial resolution of the datasets is 0.01 dd. The datasets contain 126 monthly SST layers between 2002 and 2012.
-
-You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=modis-derived-sea-surface-temperature-sst-datasets</t></si><si><t>2014-10-31 19:33:26.560878</t></si><si><t>2014-03-31 07:03:41</t></si><si><t>2ae3b6b6-2cc1-4320-b470-bfe9aa81133a</t></si><si><t>MODIS derived K490 datasets</t></si><si><t>The datasets measure the K490 parameter (Downwelling diffuse attenuation coefficient at 490 nm, a turbidity parameter) of Australian oceans. They are derived products from MODIS (aqua) images using NASA's SeaDAS image processing software. The extent of the datasets covers the entire Australian EEZ and surrounding waters (including the southern ocean). The spatial resolution of the datasets is 0.01 dd. The datasets contain 36 monthly k490 layers between 2009 and 2011. The unit of the datasets is 1/m.
-
-You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=modis-derived-k490-datasets</t></si><si><t>2014-10-31 22:11:52.598068</t></si><si><t>2014-04-05 11:18:12</t></si><si><t>c9cd86d0-fced-47c3-adbc-19ea038952d2</t></si><si><t>Shared Navigation Integration Project (SNIP) - Seismic Navigation</t></si><si><t>The SNIP (Shared Navigation Integration Project) data was purchased by Geoscience Australia from Fugro Multi Client Services in 2007. The dataset includes 3156 onshore and offshore seismic navigation data from Australia and New Zealand for surveys acquired prior to 2003.
-
-Geoscience Australia is making available the SNIP data (as originally purchased) in two formats, KML and Shapefile formats. These files were generated from WGS84 coordinates of all surveys contained in the SNIP database.
-
-The KML file can be viewed using a range of applications including Google Earth, NASA WorldWind, ESRI ArcGIS Explorer, Adobe PhotoShop, AutoCAD3D or any other earth browser (geobrowser) that accepts KML formatted data.
-
-Alternatively the Shapefile can be downloaded and viewed using any application that supports shape files.
-
-Geoscience Australia plans to build on this dataset to deliver this information over the web in the future.
-
-Disclaimer: Geoscience Australia gives no warranty regarding the data downloads provided herein nor the data's accuracy, completeness, currency or suitability for any particular purpose. Geoscience Australia disclaims all other liability for all loss, damages, expense and costs incurred by any person as a result of relying on the information in the SNIP data downloads.
-
-You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=shared-navigation-integration-project-snip-seismic-navigation</t></si><si><t>2014-10-31 23:56:49.261268</t></si><si><t>2014-01-20 11:38:32</t></si><si><t>60367530-c299-4f58-9a30-6edf96cc7e98</t></si><si><t>MODIS derived Chlorophyll a datasets</t></si><si><t>The datasets measure the Chlorophyll a concentrations of ocean surface waters. They are derived products from MODIS (aqua) images using NASA's SeaDAS image processing software. The extent of the datasets covers the entire Australian EEZ and surrounding waters (including the southern ocean). The spatial resolution of the datasets is 0.01 dd. The datasets contain 36 monthly Chlorophyll a layers between 2009 and 2011. The unit of the datasets is mg/m3.
-
-You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=modis-derived-chlorophyll-a-datasets</t></si><si><t>2014-11-01 01:03:57.209928</t></si><si><t>2014-03-31 07:22:28</t></si><si><t>fcf41950-f654-41b6-b7aa-fc0b84181442</t></si><si><t>Three-dimensional visualisation of the Great Artesian Basin</t></si><si><t>,,,,,</t></si><si><t>This three-dimensional visualisation product is intended to accompany the reports from the Great Artesian Basin Water Resource Assessment, specifically "The three-dimensional visualisation of the Great Artesian Basin" report (Nelson et al., 2012). The report describes products, outputs and outcomes of the three-dimensional (3D) visualisation component of the Great Artesian Basin Water Resource Assessment (the Assessment). This report specifically encompasses the following topics associated with the 3D visualisation component:
-
--	The requirements and potential benefits
--	The effective datasets
--	Methodology used in content creation
--	The output datasets
--	Discussions regarding outcomes, limitations and future directions
-
-The Assessment is designed to assist water managers in the Great Artesian Basin (GAB) to meet National Water Initiative commitments.
-
-The key datasets of the 3D visualisation component include contact surfaces between major aquifers and aquitards with coverage of significant portions of the GAB, well lithostratigraphic and wire-line data and hydrogeochemistry produced by State and National Agencies. These datasets are manipulated within GOCAD® to develop the 3D visualisation component and communication products for use by end users to assist visualisation and conceptualisation of the GAB. While many options have been investigated for distribution of these 3D products, 2D screen captures and content delivery via the Geoscience Australia (GA) World Wind 3D data viewer will be the most efficient and effective products.
-
-This 3D visualisation should be viewed in reference to the "Lexicon of the lithostratigraphic and hydrogeological units of the Great Artesian Basin and its Cenozoic cover" report (Radke et al., 2012) also created as part of the Assessment.
-
-LINEAGE (continued from Lineage field)
-
-REFERENCES
-1.	Welsh, W.D. 2000. GABFLOW: A steady state groundwater flow model of the Great Artesian Basin, Bureau Rural Sciences. Canberra.
-2.	Nelson GJ, Carey H, Radke BM and Ransley TR (2012) The three-dimensional visualisation of the Great Artesian Basin. A report to the Australian Government from the CSIRO Great Artesian Basin Water Resource Assessment. CSIRO Water for a Healthy Country Flagship, Australia.
-3.	Radke BM, Kellett JR, Ransley TR and Bell JG (2012) Lexicon of the lithostratigraphic and hydrogeological units of the Great Artesian Basin and its Cenozoic cover. A technical report to the Australian Government from the CSIRO Great Artesian Basin Water Resource Assessment. CSIRO Water for a Healthy Country Flagship, Australia.
-4.	Ransley TR and Smerdon BD (eds) (2012) Hydrostratigraphy, hydrogeology and system conceptualisation of the Great Artesian Basin. A technical report to the Australian Government from the CSIRO Great Artesian Basin Water Resource Assessment. CSIRO Water for a Healthy Country Flagship, Australia.
-5.	Senior and associates (1997). Geoscience Australia internal data set and contour interpretations by Senior B. Canberra, Groundwater Group, Environmental Geoscience Division, Geoscience Australia.
-6.	Van der Wielen S, Kirkby A, Britt A, Nicoll M and Skirrow R (in prep.) An integrated, multiuse 3D map for the greater Eromanga Basin, Australia. Geoscience Australia record 2011/XX, Canberra.
-
-METHOD
-
-The data are visualised in the Geoscience Australia (GA) 3D Data Viewer, a virtual globe application developed at GA using the NASA World Wind Java SDK. A public version of the Viewer is available on the GA website
-at http://www.ga.gov.au/apps/world-wind, and the source code for the tool is available open-source at
-http://github.com/ga-m3dv/ga-worldwind-suite.
-
-You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=three-dimensional-visualisation-of-the-great-artesian-basin</t></si><si><t>2014-11-01 19:59:28.144394</t></si><si><t>2014-02-18 11:29:58</t></si><si><t>6dc547b6-1fd8-4b55-825f-dcb1646e2daa</t></si><si><t>Marine Seismic Survey Shape and Kml Files - 2014 Version</t></si><si><t>Geoscience Australia is releasing its 2014 version of the Marine Seismic Surveys Shape and Kml files. These files have been updated to include recent openfile surveys. The spatial files have been created from a cleansed, updated collection of p190 navigation files. This navigation collection has grown from the checking of navigation submitted to the GA Repository under the Offshore Petroleum and Greenhouse Gas Storage Regulations, checking of the 2003 SNIP navigation files and the digitisation of old survey track maps as required. Soon the individual p190 files will be available for download through the new NOPIMS delivery system. The collection is based on P190 navigation files which follows the UKOOA standard. Extensive industry standard metadata associated with a seismic survey is preserved in the attribute tables of these datasets. 
-
-The shapefiles have been categorised into 3D exploration, 2D exploration and 2D investigative seismic files. All marine surveys undertaken by Geoscience Australia for exploration or investigative purposes have been included in the collection. Geoscience Australia (email - AusGeodata@ga.gov.au) appreciates being notified of any errors found in the navigation collection.
-
-The data is available in both KML and Shape file formats.
-
-The KML file can be viewed using a range of applications including Google Earth, NASA WorldWind, ESRI ArcGIS Explorer, Adobe PhotoShop, AutoCAD3D or any other earth browser (geobrowser) that accepts KML formatted data.
-
-Alternatively the Shape files can be downloaded and viewed using any application that supports shape files.
-
-Disclaimer: Geoscience Australia gives no warranty regarding the data downloads provided herein nor the data's accuracy, completeness, currency or suitability for any particular purpose. Geoscience Australia disclaims all other liability for all loss, damages, expense and costs incurred by any person as a result of relying on the information in the data downloads.
-
-You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=marine-seismic-survey-shape-and-kml-files-2014-version</t></si><si><t>2014-11-01 21:45:51.21152</t></si><si><t>2014-04-13 08:36:10</t></si><si><t>0aab5603-d292-41de-a4c8-e13e1313dce6</t></si><si><t>Marine Seismic Surveys Shape files and Kml files</t></si><si><t>,,,,,,</t></si><si><t>Geoscience Australia has been updating its collection of navigation for marine seismic surveys in Australia. These include original navigation files, the 2003 SNIP navigation files and digitised survey track maps. The result will be an updated cleansed navigation collection.
-
-The collection is based on the SNIP format P190 navigation file which follows the UKOOA standard. Industry standard metadata associated with a seismic survey is preserved.
-
-To assist industry, Geoscience Australia is making available its updated version of cleansed navigation. Although the process of updating the navigation data is ongoing and there is still legacy data to check, the navigation data is at a point where a significant improvement has been achieved and it is now usable. Users should be aware that this navigation is not final and there may be errors. Geoscience Australia (email - AusGeodata@ga.gov.au) appreciates being notified of any errors found.
-
- The data is available in both KML and Shape file formats.
-
-The KML file can be viewed using a range of applications including Google Earth, NASA WorldWind, ESRI ArcGIS Explorer, Adobe PhotoShop, AutoCAD3D or any other earth browser (geobrowser) that accepts KML formatted data.
-
-Alternatively the Shape files can be downloaded and viewed using any application that supports shape files.
-
-Disclaimer: Geoscience Australia gives no warranty regarding the data downloads provided herein nor the data's accuracy, completeness, currency or suitability for any particular purpose. Geoscience Australia disclaims all other liability for all loss, damages, expense and costs incurred by any person as a result of relying on the information in the data downloads.
-
-You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t></si><si><t>http://data.gov.au/api/3/action/package_show?id=marine-seismic-surveys-shape-files-and-kml-files</t></si><si><t>2014-11-01 22:59:01.141507</t></si><si><t>2014-01-20 12:19:42</t></si><si><t>2f9e8ccd-0d34-47b3-8854-19742c72fa88</t></si><si><t>United States</t></si><si><t>Municipality</t></si><si><t>data.json</t></si><si><t>Reanalysis Intercomparison and Observations</t></si><si><t>CIN;MSL;ERA;longwave;volcano;radiation flux;soil temperature;SSM/I;kinetic energy;humidity;thickness;global;buoy;FGGE;transport;evaporation;pressure;aircraft;albedo;detrainment;gravity wave;aerosol;carbon dioxide;transpiration;greeness;LAI;snowfall;momentum flux;balloon;radiosonde;GDAS;u-wind;shortwave;snow cover;GATE;latent heat flux;SST;ECMWF;potential energy;convection;sublimation;water;meridional winds;radiation;ITOVS;GEOS-5;cloud liquid;diffusivity;RAOB;snow depth;solar radiation;planetary boundary height;PDR;ALPEX;TOGA-COARE;TOVS;sea ice;potential evaporation;upper-level winds;zonal winds;CFSR;ice concentration;freezing;wind profiler;wspd;sensible heat;ground heat;NCEP;omega;NARR;dropsonde;precipitation;turbulence;grids;cloud cover;radiance;cloud microphysics;dewpoint;hydrological;temperature;CAPE;precipitable water;AVHRR;ice thickness;optical;ATOVS;vertical velocity;chemistry;cloud-top roughness;solar flux;ERS;MERRA;runoff;geopotential height;emissivity;soil moisture;ozone;ship;v-wind</t></si><si><t>Geography and Environment</t></si><si><t>Reanalysis is a scientific method to combine observations and models for developing a comprehensive record of how weather and climate are changing over time. A reanalysis dataset typically extends over several decades or longer, and covers the entire globe from the Earth's surface to well above the stratosphere.  Reanalysis products are used extensively in climate research and services, including for monitoring and comparing current climate conditions with those of the past, identifying the causes of climate variations and change, and preparing climate predictions. Recently, the National Oceanic and Atmospheric Administration (NOAA), National Aeronautical and Space Administration (NASA), European Centre for Medium-Range Weather Forecasts (ECMWF), and Japanese Meterological Agency (JMA) have produced new reanalysis datasets that, in total, span 1871 to present. It is crucial to our scientific understanding of climate variability and change that these new datasets be validated and compared with each other and with the underlying observations. International working groups of the Global Climate Observing System (GCOS, the climate element of the Global Earth Observing System of Systems) and the World Climate Research Program, and the Atmospheric Circulation Reconstruction over the Earth (ACRE) initiative need a community portal to exchange quickly and disseminate publicly results of such intercomparisons. NOAA's own mission and strategic goals regarding reanalyzes, as well as its leading role in the US Global Change Research Program, GCOS, WCRP, and ACRE, make NOAA the logical and obvious choice to serve a website dedicated to improving understanding of the international reanalysis datasets, including those recently generated by NOAA, the 20th Century Reanalysis and Climate Forecast System Reanalysis.  The new website "reanalyses.org" will serve as a central portal for Reanalysis Intercomparison and Observations (RIO) by NOAA, NASA, ECMWF, JMA, and national and international scientists. The website should be outside the "noaa.gov" domain. It will help NOAA and the international scientific community to improve the climate science and services that reanalyzes underpin.  NOAA strategic plans and US Global Climate Research Program plans to which NOAA Office of Atmospheric Research and the new NOAA Climate Service will respond specifically call for advances in understanding reanalysis datasets. The RIO will coordinate with the NOAA Climate Services portal to make the intercomparison and observation documentation public.</t></si><si><t>https://data.ny.gov/data.json</t></si><si><t>2014-10-01 09:47:52.002721</t></si><si><t>2014-09-30 16:18:44</t></si><si><t>i7pz-wcu4</t></si><si><t>data.ny.gov</t></si><si><t>public</t></si><si><t>No license provided</t></si><si><t>2011-05-11 00:00:00</t></si><si><t>NASA Education Weekly Activity Reports (WAR)</t></si><si><t>National Aeronautics and Space Administration;graduate student fellowship;space for education;Spacecenter.org;grade level;student;state standards;informal science education;NASA;faculty;Earth science education;technology education activities;internships;NASA graduate fellowship;student lesson plans;online educator resources;education program;poster lesson;planetariums;science centers;museums;education;life science education;workshops for educators;Summer workshops for teachers;introduction to astrobiology;physical science education;nasa careers;teacher;space science experiments;science experiments;science education resources;scholarships;national standards;education catalog;graduate student fellowships</t></si><si><t>Education</t></si><si><t>The NASA Education Weekly Activity Reports (WAR) tool facilitates the collection, tracking, and archiving of NASA WAR reports.</t></si><si><t>2014-10-01 08:27:53.315697</t></si><si><t>9sks-vysr</t></si><si><t>2012-10-18 00:00:00</t></si><si><t>Consolidated Federal Funds Report</t></si><si><t>wages;justice;life;authority;hospital;insurance;military;nutrition;formula;broadcasting;existing;election;report;delta;FIPS;grants;student;civilian;small;library;investment;CFFR;arts;force;sub-county;salaries;labor;systems;compensation;income;humanities;regional;commodity;areas;benefits;parish;homes;governments;catalog;state;congressional;records;DOE;public;USDA;opportunity;dollars;inactive;security;endowment;HUD;energy;community;institute;administration;place;retire;DHHS;protection;SNAP;Virgin Islands;aid;EEOC;museum;assistance;EAC;exhibit;funds;agreements;veterans;borough;Mariana;business;treasury;district;price;GSA;agricultural;undistributed;county;DOI;army;DOL;family;agency;commission;postal;science;human;Puerto Rico;Marshall;space;consolidated;Palau;expenditures;domestic;deposit;FAS;territories;crop;NASA;education;reported;Guam;spending;employment;DOJ;major;equal;annual;geographic;Samoa;actual;Appalachian;statistics;mortgage;American;fiscal;volume;contracts;Northern;foundation;rankings;employees;outlying;financial;population;retirement;local;archives;corporation;obligations;defense;FDIC;DHS;guaranteed;Islands;navy;housing;nondefense;cooperative;municipality;per-capita;earned;urban;Federal;dollar;affairs;agencies;EPA;data;homeland;environmental;social;states;disability;CFDA;foreign;Micronesia;condominiums;commerce;interior;payments;flood;SSA;program;department;tax;direct;loans;active;unemployment;supplemental;aeronautics;name;procurement;resident;credits;air;funding;medicare;insured</t></si><si><t>Federal Government Finances and Employment</t></si><si><t>Data on federal government expenditures or obligations in state, county, and subcounty areas of the United States, including the District of Columbia and U.S. Outlying Areas.  It contains statistics on the geographic distribution of federal program expenditures, using data submitted by federal departments and agencies.</t></si><si><t>2014-10-01 09:40:41.488689</t></si><si><t>76js-8nq4</t></si><si><t>2012-02-16 00:00:00</t></si><si><t>Science.gov</t></si><si><t>ocean sciences;DOD;NIH;government technology;USGS;astronomy;technology;NLM;federal regulations;health;NIST;communication;OSTI;biology;materials;environment;nature;DOE;science portal;homework help;environmental science;energy;medicine;NBII;environmental quality;GPO;science gateway;NTIS;conservation;engineering;weather;NLE;legislation;U.S. government science;space;DTIC;applied science;NASA;earth science;HHS;NARA;science education;computer science;federal government;NAL;teaching aids;natural resources;photo search;defense;science news;climatology;energy conservation;image search;geology;computers;EPA;LC;technologies;FDA;agriculture;physics;NSF;chemistry;federated search;science internships;mathematics;food;oceanography</t></si><si><t>Science and Technology</t></si><si><t>Science.gov finds selected science information provided by 12 U.S. Government agencies. The Science.gov interagency portal contains over 55 databases and 2,100 selected websites, offering 200 million pages of authoritative U.S. government science information, including research and development results. Science.gov is governed by the Science.gov Alliance of federal agencies and is supported by CENDI.  Science.gov Alliance Participants:  Department of Agriculture, National Agricultural Library, United States Forest Service, Department of Commerce, National Institute of Standards and Technology, National Technical Information Service, Department of Defense, Defense Technical Information Center, Department of Energy, Office of Scientific and Technical Information, Department of Health and Human Services, Food and Drug Administration, National Institutes of Health, National Library of Medicine, Department of Interior, United States Geological Survey, Department of Transportation, National Transportation Library, Environmental Protection Agency, Office of Environmental Information, Office of Research and Development, Library of Congress, National Aeronautics and Space Administration, Scientific and Technical Information Program, National Archives and Records Administration, National Science Foundation.</t></si><si><t>2014-10-01 09:44:01.5331</t></si><si><t>7w3a-67xj</t></si><si><t>2013-11-01 00:00:00</t></si><si><t>Regional</t></si><si><t>Google Moon lunar mapping data</t></si><si><t>lunar;ESMD;Moon;NASA;lunar surface;lunar map;Apollo;geological survey;Google;spaceflight</t></si><si><t>A collection of lunar maps and charts. This tool is an exciting new way to explore the story of the Apollo missions, still the only time mankind has set foot on another world.</t></si><si><t>http://data.hawaii.gov/data.json</t></si><si><t>2014-09-30 23:43:08.872256</t></si><si><t>2014-09-30 15:24:10</t></si><si><t>wgpn-b5yg</t></si><si><t>data.hawaii.gov</t></si><si><t>Physical Oceanography Distributed Active Archive Center (PO.DAAC)</t></si><si><t>Oceans;EOS;JPL;ocean dynamics;Jet Propulsion Laboratory;NASA;information systems;navigation;Earth observing system</t></si><si><t>PO.DAAC is an element of the Earth Observing System Data Information System (EOSDIS). PO.DAAC's primary responsibility is to provide distribution and archive support for NASA's physical oceanography missions such as TOPEX/Poseidon and SeaWinds on QuikSCAT. However, PO.DAAC additionally collaborates with other institutes to acquire complementary data products and value-added services.</t></si><si><t>2014-09-30 23:43:10.641472</t></si><si><t>m3pz-97uv</t></si><si><t>NASA Image Exchange</t></si><si><t>solar system;aircraft;wind tunnel;people;facilities;space;NASA;education;aeronautics;spaceflight;devices;Images;projects</t></si><si><t>The NASA Image Exchange (NIX) is a collection of multimedia content from across NASA's missions and projects.</t></si><si><t>2014-09-30 23:43:14.234203</t></si><si><t>irva-tgt8</t></si><si><t>JPL Tropical Cyclone Information System Analysis Tool</t></si><si><t>numerical weather forecasting;ocean currents;climate;JPL;ocean dynamics;geophysics;meteorology;sea ice;NASA;ocean;biochemistry;oceanography</t></si><si><t>This tool will let you analyze data associated with a storm. You can plot histograms, maps, and profiles for many different data sets and products.</t></si><si><t>2014-09-30 23:43:16.009433</t></si><si><t>k2kp-kbw5</t></si><si><t>JPL Tropical Cyclone Information System</t></si><si><t>The JPL Tropical Cyclone Information System (TCIS) brings together satellite and in situ data sets from various sources to help you find information for a particular tropical cyclone over the world's oceans.</t></si><si><t>2014-09-30 23:43:17.788902</t></si><si><t>s22a-ip3v</t></si><si><t>Global Climate Change</t></si><si><t>National Aeronautics and Space Administration;JPL;NASA climate change;global climate change;Jet Propulsion Laboratory;greenhouse gases;Earth;NASA;Climate change;global warming</t></si><si><t>NASA's Eyes on the Earth: Global Climate Change and Global Warming. Current news and data streams about global warming and climate change from NASA's Jet Propulsion Laboratory.</t></si><si><t>2014-09-30 23:43:28.439964</t></si><si><t>jccb-hhgd</t></si><si><t>Map-A-Planet</t></si><si><t>solar system;Magellan;Rhea;Viking Orbiter;Iapetus;Lunar Prospector;USGS;Saturn;PDS;Europa;Lunar Orbiter;Enceladus;JPL;U. S. Geological Survey;Flagstaff;Mars;Clementine;Dione;Image Map;Patty Garcia;planet;Planetary Data System;Io;Voyager 1;NIR;UVVIS;Voyager 2;Ganymede;LIDAR;space;NASA;Tethys;Moon;Galileo;Venus;Mars Global Surveyor;astrogeology;mapaplanet;Callisto;Jupiter;mission;topography</t></si><si><t>The USGS Map-a-Planet web site is an online mapping tool that allows you to explore the images of the surface of a planet or satellite (moon), access information related to the area you're exploring, and order a seamless, tailor-made image map in a wide variety of image formats.   Map-a-Planet is driven by the MapMaker engine, software developed by the USGS Astrogeology Research Program to generate image maps from our image data repository. The data sets served by the site are cartographically accurate global image mosaics prepared by the USGS Astrogeology Research Program for NASA. There are numerous data sets available, covering many planets and satellites, from numerous spaced exploration missions, such as Viking, Voyager, and Clementine.   In addition to the web site tools for exploring these images, the site offers the Map-a-Planet Web Map Service, an online service for accessing image data from desktop GIS and mapping software.</t></si><si><t>2014-09-30 23:47:36.837868</t></si><si><t>nkr2-ae9m</t></si><si><t>http://data.oregon.gov/data.json</t></si><si><t>2014-10-01 11:52:13.948738</t></si><si><t>2014-09-30 16:28:56</t></si><si><t>data.oregon.gov</t></si><si><t>2014-10-01 12:55:41.536471</t></si><si><t>2014-10-01 12:59:15.113705</t></si><si><t>2014-10-01 13:03:24.382991</t></si><si><t>ARRA NEPA Quarterly Report- Second Report: NASA</t></si><si><t>ARRA;NEPA;Report</t></si><si><t>Reports prepared by the Departments and Agencies on status of NEPA progress for activities and projects funded under Division A of the American Recovery and Reinvestment Act of 2009</t></si><si><t>2014-10-01 13:59:46.880787</t></si><si><t>mqv6-2dzt</t></si><si><t>ARRA NEPA Quarterly Report- First Report: NASA</t></si><si><t>2014-10-01 14:01:52.967649</t></si><si><t>quy6-zi44</t></si><si><t>Land Surface Temperature at Night</t></si><si><t>National Aeronautics and Space Administration;land surface;climate;NASA;night temperature;solid earth;Goddard;GSFC;temperature</t></si><si><t>MODIS (or Moderate Resolution Imaging Spectroradiometer) is a key instrument aboard the Terra (EOS AM) and Aqua (EOS PM) satellites. Terra's orbit around the Earth is timed so that it passes from north to south across the equator in the morning, while Aqua passes south to north over the equator in the afternoon. Terra MODIS and Aqua MODIS are viewing the entire Earth's surface every 1 to 2 days, acquiring data in 36 spectral bands, or groups of wavelengths (see MODIS Technical Specifications). This map shows the temperature of Earth's lands during the nighttime. Temperature is a measure of how warm or cold an object is. During the day, the Sun's rays warm Earth's lands. At night, the lands typically cool off. Landscapes cool off at night because they release their warmth to air above while they are no longer receiving sunlight. Scientists can measure the temperature of Earth's lands from space using instruments carried on satellites. Scientists want to know the land's temperature for many important reasons. For example, in places where it is too hot or too cold food crops may die. Temperature also influences weather and climate patterns. So, mapping the temperature of Earth's lands helps scientists to better understand our world.  The colors on these maps represent temperature patterns of the top millimeter (or skin) of the land surface including bare land, snow or ice cover, urban areas, and cropland or forest canopy as observed by MODIS in clear-sky conditions for the time period indicated. Yellow shows the warmest temperatures (up to 45°C) and light blue shows the coldest temperatures (down to -25°C). Black means "no data."</t></si><si><t>2014-10-01 14:13:13.55038</t></si><si><t>dg3h-giyg</t></si><si><t>Tropical surface current velocities (HOLD) Broken Link!</t></si><si><t>currents;oceans;climate;JPL;Jet Propulsion Laboratory;Nino;NASA;Science Mission Directorate;Sea surface;paleoclimate;terrestrial hydrosphere;current velocity</t></si><si><t>These data are estimates of the horizontal near-surface currents of the Tropical Pacific ocean, from October 1992 to current.</t></si><si><t>2014-10-01 14:13:15.494534</t></si><si><t>4867-iiet</t></si><si><t>2012-07-19 00:00:00</t></si><si><t>On Earth</t></si><si><t>Goddard Space Flight Center;biology;oceans;climate;JPL;Jet Propulsion Laboratory;NASA;biosphere;Atmosphere;GSFC</t></si><si><t>MODIS (or Moderate Resolution Imaging Spectroradiometer) is a key instrument aboard the Terra (EOS AM) and Aqua (EOS PM) satellites. Terra's orbit around the Earth is timed so that it passes from north to south across the equator in the morning, while Aqua passes south to north over the equator in the afternoon. Terra MODIS and Aqua MODIS are viewing the entire Earth's surface every 1 to 2 days, acquiring data in 36 spectral bands, or groups of wavelengths (see MODIS Technical Specifications). These data will improve our understanding of global dynamics and processes occurring on the land, in the oceans, and in the lower atmosphere. MODIS is playing a vital role in the development of validated, global, interactive Earth system models able to predict global change accurately enough to assist policy makers in making sound decisions concerning the protection of our environment.</t></si><si><t>2014-10-01 14:13:17.491086</t></si><si><t>wgr9-dymw</t></si><si><t>Solar Data Analysis Center Data Finder</t></si><si><t>Goddard Space Flight Center;SOHO;Sun;Solar Probe;NASA;Solar;GSFC</t></si><si><t>An integrated resource of solar imagery and data.</t></si><si><t>2014-10-01 14:15:54.262364</t></si><si><t>89u6-3v2q</t></si><si><t>Global 1-km Sea Surface Temperature (G1SST)</t></si><si><t>numerical weather forecasting;ocean currents;Pacific Ocean;climate;JPL;ocean dynamics;geophysics;meteorology;sea ice;NASA;ocean;coasts;biochemistry;oceanography</t></si><si><t>A daily, global Sea Surface Temperature (SST) data set is produced at 1-km (also known as ultra-high resolution) by the JPL ROMS (Regional Ocean Modeling System) group.</t></si><si><t>2014-10-01 14:15:56.082167</t></si><si><t>7hdi-2i3a</t></si><si><t>Planetary Data System</t></si><si><t>Pluto;Saturn;Mercury;space missions;JPL;Neptune;geophysics;Earth;NASA;Uranus;Venus;Science Mission Directorate;Geology;Mars;Jupiter;data systems;SMD</t></si><si><t>The Planetary Data System (PDS) is an archive of data products from NASA planetary missions, which is sponsored by NASA's Science Mission Directorate. We actively manage the archive to maximize its usefulness, and it has become a basic resource for scientists around the world.</t></si><si><t>2014-10-01 14:16:01.71045</t></si><si><t>w8fw-kgap</t></si><si><t>Tropospheric Emission Spectrometer Data</t></si><si><t>oceans;Sun;JPL;troposphere;Jet Propulsion Laboratory;Tropospheric Emission Spectrometer;NASA;biosphere;TES;chemistry;Atmosphere;stratosphere;Earth observing system EOS</t></si><si><t>TES focuses on the troposphere, the layer of atmosphere that stretches from the ground to the altitude at which airplanes fly. With very high spectral resolution, TES can distinguish concentrations of gases at different altitudes, a key factor in understanding their behavior and impact. It's the first orbiting instrument able to do this with ozone, a very important chemical with regard to both global warming and air pollution.</t></si><si><t>2014-10-01 14:16:05.481189</t></si><si><t>k8vs-g3kt</t></si><si><t>2014-09-30 21:24:29.280812</t></si><si><t>Goddard Earth Sciences Data and Information Services Center (GeES DISC)</t></si><si><t>Goddard Space Flight Center;atmoshpere;senors;NASA;Earth science;chemistry;GSFC;ozone</t></si><si><t>The NASA Goddard Earth Sciences (GES) Data and Information Services Center (DISC)  is the home (archive) of Precipitation, Atmospheric Chemistry and Dynamics, and information, as well as data and information from other related disciplines.</t></si><si><t>2014-10-01 14:16:09.513159</t></si><si><t>tiir-9mtp</t></si><si><t>Global Change Master Directory</t></si><si><t>Goddard Space Flight Center;oceans;Agriculture;climate;Sun;cryosphere;atmosphere;solid Earth;NASA;land surface;biosphere;bilogy;paleoclimate;GSFC;terrestrial hydrosphere</t></si><si><t>The GCMD database holds more than 30,000 descriptions of Earth science data sets and services covering all aspects of Earth and environmental sciences.</t></si><si><t>2014-10-01 14:16:13.204886</t></si><si><t>5m47-qrfp</t></si><si><t>Global Hydrology Resource Center</t></si><si><t>satellites;hurricanes;weather;lightning;NASA;convection;tropical storms</t></si><si><t>The GHRC is the data management and user services arm of the Global Hydrology and Climate Center. It encompasses the data and information management, supporting product generation, archival, and distribution of research quality and operational datasets for a variety of data types, including lightning, passive microwave, radar and others.</t></si><si><t>2014-10-01 14:16:15.053089</t></si><si><t>fstr-d7km</t></si><si><t>Ocean Color Web</t></si><si><t>Goddard Space Flight Center;MODIS;Ocean;sea viewing;spectrometer;marine biology;NASA;water color;GSFC</t></si><si><t>A comprehensive image analysis package for the processing, display, analysis, and quality control of ocean color data.</t></si><si><t>2014-10-01 14:16:16.914285</t></si><si><t>z8n5-d7pq</t></si><si><t>2013-05-09 00:00:00</t></si><si><t>NASA World Wind</t></si><si><t>landmark;Landsat;NASA;imaging;satellite imagery;topography;elevation</t></si><si><t>World Wind allows any user to zoom from satellite altitude into any place on Earth, leveraging high resolution LandSat imagery and SRTM elevation data to experience Earth in visually rich 3D, just as if you were really there.</t></si><si><t>2014-10-01 14:16:20.589872</t></si><si><t>6hcn-x265</t></si><si><t>2014-10-01 14:16:22.451885</t></si><si><t>2014-10-01 14:16:24.29997</t></si><si><t>2014-10-01 14:16:28.070833</t></si><si><t>2014-10-01 14:16:29.942524</t></si><si><t>2014-10-01 14:16:31.799715</t></si><si><t>2014-10-01 14:16:43.410367</t></si><si><t>2014-10-01 14:21:21.263095</t></si><si><t>Warehouse Inventory Search Tool</t></si><si><t>algorithms;calibration;NASA;Earth science;remote sensing;data processing;Japan</t></si><si><t>The Warehouse Inventory Search tool is a Web-based search-and-order tool that provides a way for users to search for Earth Science data from multiple participating archives.</t></si><si><t>2014-10-01 14:16:07.613963</t></si><si><t>5yxb-m2nj</t></si><si><t>2014-09-30 22:27:20.150428</t></si><si><t>2014-09-30 22:30:37.908036</t></si><si><t>2014-09-30 22:34:35.994343</t></si><si><t>2014-09-30 23:28:22.632489</t></si><si><t>2014-09-30 23:30:23.428717</t></si><si><t>2014-09-30 23:41:01.884168</t></si><si><t>2014-09-30 23:41:03.838529</t></si><si><t>2014-09-30 23:41:05.714361</t></si><si><t>2014-09-30 23:42:42.104082</t></si><si><t>2014-09-30 23:42:43.876663</t></si><si><t>2014-09-30 23:42:49.200398</t></si><si><t>2014-09-30 23:42:52.738358</t></si><si><t>2014-09-30 23:42:54.530212</t></si><si><t>2014-09-30 23:42:56.3018</t></si><si><t>2014-09-30 23:42:59.851613</t></si><si><t>2014-09-30 23:43:01.662875</t></si><si><t>2014-09-30 23:43:03.546037</t></si><si><t>2014-09-30 23:43:07.097972</t></si><si><t>Dear NASA Data Treasure Hunt Participant,</t></si><si><t>What methodology, technique, or system would you develop to help NASA discover new keywords (not only in the Space domain!) that will help NASA make its information assets become more easily accessible to the citizens of the world?</t></si><si><t>Remember: we ask you to provide us with both the new keywords for some or all of the 71 datasets whose metadata is listed under the 'metadata' worksheet in this workbook but we also ask you to explain and demonstrate the software or solution you developed to discover these new keywords!</t></si><si><t>Good luck!</t></si><si><t>Alon Peled (Alon.Peled@post.harvard.edu)</t></si><si><t>Under the "metadata" spreadsheet in this Excel workbook, you will find the data.json or ckan descriptions of 71 datasets that NASA released and that other governmental agencies worldwide have released on Open Government Data (GOD) portals.</t></si><si><t>You will see immediately why this 'data treasure hunt' challenge is so tough:--the hard-working and good public officials that publish these datasets have neither the time, resources, or expertise to develop good metadata that will make these datasets become more easily accessible and discoverable on the web for citizens and entrepreneurs working to solve data-driven non-space problems.</t></si></sst>
+<sst xmlns="http://schemas.openxmlformats.org/spreadsheetml/2006/main" count="1230" uniqueCount="325">
+  <si>
+    <t>id</t>
+  </si>
+  <si>
+    <t>country</t>
+  </si>
+  <si>
+    <t>level</t>
+  </si>
+  <si>
+    <t>language</t>
+  </si>
+  <si>
+    <t>catalog_type</t>
+  </si>
+  <si>
+    <t>english_title</t>
+  </si>
+  <si>
+    <t>english_keywords</t>
+  </si>
+  <si>
+    <t>english_category</t>
+  </si>
+  <si>
+    <t>english_description</t>
+  </si>
+  <si>
+    <t>url</t>
+  </si>
+  <si>
+    <t>created_at</t>
+  </si>
+  <si>
+    <t>updated_at</t>
+  </si>
+  <si>
+    <t>catalog_id</t>
+  </si>
+  <si>
+    <t>upload_date</t>
+  </si>
+  <si>
+    <t>crawl_time</t>
+  </si>
+  <si>
+    <t>catalog_record_id</t>
+  </si>
+  <si>
+    <t>language(2)</t>
+  </si>
+  <si>
+    <t>temporal_bounds</t>
+  </si>
+  <si>
+    <t>spatial_bounds</t>
+  </si>
+  <si>
+    <t>contact_name</t>
+  </si>
+  <si>
+    <t>contact_email</t>
+  </si>
+  <si>
+    <t>contact_phone</t>
+  </si>
+  <si>
+    <t>publisher</t>
+  </si>
+  <si>
+    <t>access_level</t>
+  </si>
+  <si>
+    <t>access_level_comment</t>
+  </si>
+  <si>
+    <t>license</t>
+  </si>
+  <si>
+    <t>issue_date</t>
+  </si>
+  <si>
+    <t>release_date</t>
+  </si>
+  <si>
+    <t>last_update_date</t>
+  </si>
+  <si>
+    <t>update_frequency</t>
+  </si>
+  <si>
+    <t>bureau_code</t>
+  </si>
+  <si>
+    <t>program_code</t>
+  </si>
+  <si>
+    <t>data_quality</t>
+  </si>
+  <si>
+    <t>Australia</t>
+  </si>
+  <si>
+    <t>National</t>
+  </si>
+  <si>
+    <t>English</t>
+  </si>
+  <si>
+    <t>ckan3</t>
+  </si>
+  <si>
+    <t>Polar Environmental Data Layers</t>
+  </si>
+  <si>
+    <t>,,,,,,,,,,,,,,,,,,,,,,,,,,,,</t>
+  </si>
+  <si>
+    <t>These layers are polar climatological and other summary environmental layers that may be useful for purposes such as general modelling, regionalisation, and exploratory analyses. All of the layers in this collection are provided on a consistent 0.1-degree grid, which covers -180 to 180E, 80S to 30S (Antarctic) and 45N to 90N (Arctic). As far as practicable, each layer is provided for both the Arctic and Antarctic regions. Where possible, these have been derived from the same source data; otherwise, source data have been chosen to be as compatible as possible between the two regions. Some layers are provided for only one of the two regions.
+      
+      Each data layer is provided in netCDF and ArcInfo ASCII grid format. A png preview map of each is also provided.
+      
+      Processing details for each layer:
+      
+      Bathymetry
+      File: bathymetry
+      Measured and estimated seafloor topography from satellite altimetry and ship depth soundings.
+      Antarctic:
+      Source data: Smith and Sandwell V13.1 (Sep 4, 2010)
+      Processing steps: Depth data subsampled from original 1-minute resolution to 0.05-degree resolution and interpolated to 0.1-degree grid using bilinear interpolation.
+      Reference: Smith, W. H. F., and D. T. Sandwell (1997) Global seafloor topography from satellite altimetry and ship depth soundings. Science 277:1957-1962. http://topex.ucsd.edu/WWW_html/mar_topo.html
+      Arctic:
+      Source data: ETOPO1
+      Processing steps: Depth data subsampled to 0.05-degree resolution and interpolated to 0.1-degree grid using bilinear interpolation on polar stereographic projection.
+      Reference: Amante, C. and B. W. Eakins, ETOPO1 1 Arc-Minute Global Relief Model: Procedures, Data Sources and Analysis. NOAA Technical Memorandum NESDIS NGDC-24, 19 pp, March 2009. http://www.ngdc.noaa.gov/mgg/global/global.html
+      
+      ----
+      
+      Bathymetry slope
+      File: bathymetry_slope
+      Slope of sea floor, derived from Smith and Sandwell V13.1 and ETOPO1 bathymetry data (above).
+      Processing steps: Slope calculated on 0.1-degree gridded depth data (above). Calculated using the equation given by Burrough, P. A. and McDonell, R.A. (1998) Principles of Geographical Information Systems (Oxford University Press, New York), p. 190 (see http://webhelp.esri.com/arcgisdesktop/9.2/index.cfm?TopicName=How%20Slope%20works)
+      
+      ----
+      
+      CAISOM model-derived variables
+      Variables derived from the CAISOM ocean model. This model has been developed by Ben Galton-Fenzi (AAD and ACE-CRC), and is based on the Regional Ocean Modelling System (ROMS). It has circum-Antarctic coverage out to 50S, with a spatial resolution of approximately 5km. The values here are averaged over 12 snapshots from the model, each separated by 2 months. These parameters should be treated as experimental.
+      
+      Reference: Galton-Fenzi BK, Hunter JR, Coleman R, Marsland SJ, Warner RC (2012) Modeling the basal melting and marine ice accretion of the Amery Ice Shelf. Journal of Geophysical Research: Oceans, 117, C09031. http://dx.doi.org/10.1029/2012jc008214
+      
+      Floor current speed
+      File: caisom_floor_current_speed
+      Current speed near the sea floor.
+      
+      Floor temperature
+      File: caisom_floor_temperature
+      Potential temperature near the sea floor.
+      
+      Floor vertical velocity
+      File: caisom_floor_vertical_velocity
+      Vertical water velocity near the sea floor.
+      
+      Surface current speed
+      File: caisom_surface_current_speed
+      Near-surface current speed (at approximately 2.5m depth)
+      
+      ----
+      
+      Chlorophyll summer
+      File: chl_summer_climatology
+      Source data: Near-surface chl-a summer climatology from MODIS Aqua
+      Antarctic:
+      Climatology spans the 2002/03 to 2009/10 austral summer seasons. Data interpolated from original 9km resolution to 0.1-degree grid using bilinear interpolation.
+      Arctic:
+      Climatology spans the 2002 to 2009 boreal summer seasons. Data interpolated from original 9km resolution to 0.1-degree grid using bilinear interpolation.
+      Reference: Feldman GC, McClain CR (2010) Ocean Color Web, MODIS Aqua Reprocessing, NASA Goddard Space Flight Center. Eds. Kuring, N., Bailey, S.W. http://oceancolor.gsfc.nasa.gov/
+      
+      ----
+      
+      Distance to Antarctica
+      File: distance_antarctica
+      Distance to nearest part of Antarctic continent (Antarctic only)
+      Source data: A modified version of ESRI's world map shapefile
+      Processing steps: Distances calculated in km using the Haversine formula on a spherical earth of radius 6378.137km.
+      
+      ----
+      
+      Distance to nearest seabird breeding colony (Antarctic only)
+      File: distance_colony
+      Antarctic source data: Inventory of Antarctic seabird breeding sites, collated by Eric Woehler. http://data.aad.gov.au/aadc/biodiversity/display_collection.cfm?collection_id=61.
+      Processing steps: The closest distance of each grid point to the colonies was calculated in km using the Haversine formula on a spherical earth of radius 6378.137km.
+      
+      ----
+      
+      Distance to maximum winter sea ice extent 
+      File: distance_max_ice_edge
+      Source data: SMMR-SSM/I passive microwave estimates of daily sea ice concentration from the National Snow and Ice Data Center (NSIDC).
+      Processing steps:
+      Antarctic:
+      Mean maximum winter sea ice extent was derived from daily estimates of sea ice concentration as described at http://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=AMD/AU/sea_ice_extent_winter. The closest distance of each grid point to this extent line was calculated in km using the Haversine formula on a spherical earth of radius 6378.137km.
+      Arctic:
+      The median March winter sea ice extent was obtained from the NSIDC at http://nsidc.org/data/g02135.html. The closest distance of each grid point to this extent line was calculated in km using the Haversine formula on a spherical earth of radius 6378.137km.
+      Reference: Cavalieri, D., C. Parkinson, P. Gloersen, and H. J. Zwally. 1996, updated 2008. Sea ice concentrations from Nimbus-7 SMMR and DMSP SSM/I passive microwave data. Boulder, Colorado USA: National Snow and Ice Data Center. Digital media. tp://nsidc.org/data/nsidc-0051.html
+      
+      ----
+      
+      Distance to shelf break
+      File: distance_shelf
+      Distance to nearest area of sea floor of depth 500m or less.
+      Derived from Smith and Sandwell V13.1 and ETOPO1 bathymetry data (above).
+      Processing steps: Distances calculated in km using the Haversine formula on a spherical earth of radius 6378.137km. Points in less than 500m of water (i.e. over the shelf) were assigned negative distances.
+      See also distance to upper slope
+      
+      ----
+      
+      Distance to subantarctic islands (Antarctic only)
+      File: distance_subantarctic_islands
+      Distance to nearest land mass north of 65S (includes land masses of e.g. South America, Africa, Australia, and New Zealand).
+      Processing steps: Distances calculated in km using the Haversine formula on a spherical earth of radius 6378.137km. 
+      
+      ----
+      
+      Distance to canyon
+      File: distance_to_canyon
+      Distance to the axis of the nearest canyon (Antarctic only)
+      Source data: O'Brien and Post (2010) seafloor geomorphic feature dataset, expanded from O'Brien et al. (2009). Mapping based on GEBCO contours, ETOPO2, seismic lines.
+      Processing steps: Distances to nearest canyon axis calculated in km using the Haversine formula on a spherical earth of radius 6378.137km.
+      NOTE: source data extend only as far north as 45S. Do not rely on this layer near or north of 45S.
+      Reference: O'Brien, P.E., Post, A.L., and Romeyn, R. (2009) Antarctic-wide geomorphology as an aid to habitat mapping and locating vulnerable marine ecosystems. CCAMLR VME Workshop 2009. Document WS-VME-09/10
+      
+      ----
+      
+      Distance to polynya
+      File: distance_to_polynya
+      Distance to the nearest polynya area (Antarctic only)
+      Source data: AMSR-E satellite estimates of daily sea ice concentration at 6.25km resolution
+      Processing steps: The seaice_gt_85 layer (see below) was used. Pixels which were (on average) covered by sea ice for less than 35% of the year were identified. The distance from each grid point on the 0.1-degree grid to the nearest such polynya pixel was calculated in km using the Haversine formula on a spherical earth of radius 6378.137km. (NB the threshold of 35% was chosen to give a good empirical match to the polynya locations identified by Arrigo and van Dijken (2003), although the results were not particularly sensitive to the choice of threshold.
+      Reference: Arrigo KR, van Dijken GL (2003) Phytoplankton dynamics within 37 Antarctic coastal polynya systems. Journal of Geophysical Research, 108, 3271. http://dx.doi.org/10.1029/2002JC001739
+      
+      ----
+      
+      Distance to upper slope (Antarctic only)
+      File: distance_upper_slope
+      Distance to the "upper slope" geomorphic feature from the Geoscience Australia geomorphology data set. This is probably a better indication of the distance to the Antarctic continental shelf break than the "distance to shelf break" data (above).
+      Source data: O'Brien and Post (2010) seafloor geomorphic feature dataset, expanded from O'Brien et al. (2009). Mapping based on GEBCO contours, ETOPO2, seismic lines.
+      Processing steps: Distances calculated in km using the Haversine formula on a spherical earth of radius 6378.137km. Points inside of an "upper slope" polygon were assigned negative distances.
+      Reference: O'Brien, P.E., Post, A.L., and Romeyn, R. (2009) Antarctic-wide geomorphology as an aid to habitat mapping and locating vulnerable marine ecosystems. CCAMLR VME Workshop 2009. Document WS-VME-09/10
+      
+      ----
+      
+      Fast ice
+      File: fast_ice
+      The average proportion of the year for which landfast sea ice is present in a location
+      Source data: 20-day composite records of East Antarctic landfast sea-ice, derived from MODIS imagery (Fraser at al. 2012)
+      Processing steps: The average proportion of the year for which each pixel was covered by landfast sea ice was calculated as an average across 2001--2008. Data were regridded to the 0.1-degree grid using bilinear interpolation.
+      
+      
+      Distance to fast ice
+      File: distance_to_fast_ice
+      Distance to the nearest location where fast ice is typically present.
+      Source data: 20-day composite records of East Antarctic landfast sea ice, derived from MODIS imagery (Fraser at al. 2012)
+      Processing steps: Pixels in the landfast sea ice data that were associated with fast ice presence for more than half of the year (on average) were identified. The distance from each pixel in the 0.1-degree grid to the nearest of these fast ice pixels was calculated in km using the Haversine formula on a spherical earth of radius 6378.137km.
+      Reference: Fraser AD, Massom RA, Michael KJ, Galton-Fenzi BK and Lieser JL (2012) East Antarctic landfast sea ice distribution and variability, 2000-08. Journal of Climate 25:1137-1156.
+      See also: http://data.aad.gov.au/aadc/metadata/metadata_redirect.cfm?md=AMD/AU/modis_20day_fast_ice
+      
+      ----
+      
+      Seafloor temperature
+      File: floor_temperature
+      Source data: Original data derived from World Ocean Atlas 2005 data and provided on a 1-degree grid.
+      Processing steps: Isolated missing pixels (i.e. single pixels of missing data with no surrounding missing pixels) were filled using bilinear interpolation. Data provided in two versions: one regridded from 1-degree grid using nearest neighbour interpolation (floor_temperature) and the other using bilinear interpolation (floor_temperature_interpolated).
+      Reference: Clarke, A. et al. (2009) Spatial variation in seabed temperatures in the Southern Ocean: Implications for benthic ecology and biogeography. Journal of Geophysical Research 114:G03003. doi:10.1029/2008JG000886
+      
+      ----
+      
+      Geomorphology
+      File: geomorphology
+      Geomorphic feature classification
+      Source data: O'Brien and Post (2010) seafloor geomorphic feature dataset, expanded from O'Brien et al. (2009). Mapping based on GEBCO contours, ETOPO2, seismic lines.
+      Reference: O'Brien, P.E., Post, A.L., and Romeyn, R. (2009) Antarctic-wide geomorphology as an aid to habitat mapping and locating vulnerable marine ecosystems. CCAMLR VME Workshop 2009. Document WS-VME-09/10
+      
+      Geomorphic feature class names and their corresponding values in the gridded files:
+      
+      1: Abyssal_Plain
+      2: Bank_Wave_Affected
+      3: Coastal_Terrane
+      4: Contourite_Feature
+      5: Cross_Shelf_Valley
+      6: Fracture_Zone
+      7: Iceshelf_Cavity
+      8: Island_Arc
+      9: Island_Coastal_Terrane
+      10: Lower_Slope
+      11: Margin_Ridges
+      12: Marginal_Plateau
+      13: Mid_Ocean_Ridge_Valley
+      14: Plateau
+      15: Plateau_Slope
+      16: Ridge
+      17: Rough_Seafloor
+      18: Seamount
+      19: Seamount_Ridges
+      20: Shelf_Bank
+      21: Shelf_Deep
+      22: Structural_Slope
+      23: Trench
+      24: Trough
+      25: Trough_Mouth_Fan
+      26: Upper_Slope
+      27: Volcano
+      
+      
+      ----
+      
+      Light budget
+      File: light_budget
+      Annual light budget (cumulative solar radiation) reaching the water surface.
+      Processing steps: As per Clark et al. (in press). Daily incident solar radiation was modelled assuming a cloud-free sky (Suri and Hofierka 2004). Sea ice data (AMSR-E sea ice concentration) were used as a mask: if sea ice was present on a given day then the solar radiation reaching the ocean surface was assumed to be zero. The annual light budget for a given pixel was therefore calculated as the sum of daily solar radiation values on all days when sea ice was not present. The values here are the mean annual light budget over the 2002/03 to 2010/11 austral summer seasons (1-Jul to 30-Jun). Calculations were made on the AMSR-E 6.25km polar stereographic grid, and then interpolated to the 0.1-degree rectangular grid using triangle-based linear interpolation.
+      References: 
+      Clark GF, Stark JS, Johnston EL, Runcie JW, Goldsworthy PM, Raymond B, Riddle MJ (in press) Light-driven tipping points in polar ecosystems. Global Change Biology. http://dx.doi.org/10.1111/gcb.12337
+      Suri M, J Hofierka (2004) A new GIS-based solar radiation model and its application to photovoltaic assessments. Transactions in GIS, 8, 175-190
+      
+      ----
+      
+      Mixed layer depth
+      File: mixed_layer_depth_summer_climatology and mixed_layer_depth_summer_climatology_interpolated
+      Summer mixed layer depth climatology from ARGOS data
+      Processing steps: Data provided in two versions: one regridded from 2-degree grid using nearest neighbour interpolation (mixed_layer_depth_summer_climatology) and the other using bilinear interpolation (mixed_layer_depth_summer_climatology_interpolated).
+      Reference: de Boyer Montegut, C., G. Madec, A. S. Fischer, A. Lazar, and D. Iudicone (2004), Mixed layer depth over the global ocean: an examination of profile data and a profile-based climatology, J. Geophys. Res., 109, C12003, doi:10.1029/2004JC002378. http://www.lodyc.jussieu.fr/~cdblod/mld.html
+      
+      ----
+      
+      Sea ice cover
+      File: seaice_gt85
+      Proportion of time the ocean is covered by sea ice of concentration 85% or higher.
+      Source data: AMSR-E satellite estimates of daily sea ice concentration at 6.25km resolution
+      Processing steps: Concentration data from 1-Jan-2003 to 31-Dec-2010 used. The fraction of time each pixel was covered by sea ice of at least 85% concentration was calculated for each pixel in the original (polar stereographic) grid. Data then regridded to 0.1-degree grid using triangle-based linear interpolation.
+      Reference: Spreen, G., L. Kaleschke, and G. Heygster (2008), Sea ice remote sensing using AMSR-E 89 GHz channels, J. Geophys. Res., doi:10.1029/2005JC003384 http://www.ifm.zmaw.de/en/research/remote-sensing-assimilation/sea-ice/amsr-e-sea-ice-concentration/
+      
+      ----
+      
+      Sea ice summer variability
+      File: seaice_summer_variability
+      Variability of sea ice cover during summer months
+      Source data: AMSR-E satellite estimates of daily sea ice concentration at 6.25km resolution
+      Processing steps: Daily estimates of sea ice concentration across December, January, and February of a given austral summer season were collated. For each pixel, the standard deviation of these values was calculated. The values given here are averaged over the 2002/03 to 2009/10 austral summer seasons.
+      Reference: Spreen, G., L. Kaleschke, and G. Heygster (2008), Sea ice remote sensing using AMSR-E 89 GHz channels, J. Geophys. Res., doi:10.1029/2005JC003384 http://www.ifm.zmaw.de/en/research/remote-sensing-assimilation/sea-ice/amsr-e-sea-ice-concentration/
+      
+      ----
+      
+      Sea surface height variables
+      
+      NOTE: The sea surface height-related data are derivative works of level-4 gridded altimetry data (data courtesy of Ssalto/Duacs, Aviso, and CNES; http://www.aviso.oceanobs.com/duacs/). These derivative works are available for scientific purposes ONLY.
+      
+      Sea surface height
+      File: ssh
+      Source data: CNES-CLS09 Mean Dynamic Topography v1.1 (Rio et al., 2009)
+      Processing steps: Regridded to 0.1-degree grid using bilinear interpolation.
+      
+      SSH spatial gradient
+      File: ssh_spatial_gradient
+      The spatial gradient (in mm/km) of the mean dynamic topography.
+      Source data: CNES-CLS09 Mean Dynamic Topography v1.1 (Rio et al., 2009)
+      Processing steps: Gradient calculated on the native 0.25-degree grid and interpolated to 0.1-degree grid using bilinear interpolation.
+      
+      SSH variability
+      File: ssha_variability
+      The variability of sea surface height over time
+      Source data: SSHA data from http://www.aviso.oceanobs.com/en/data/products/sea-surface-height-products/global/index.html
+      Processing steps: Weekly SSHA data covering the period 14-Oct-1992 to 14-Oct-2007 were used. For each pixel in the native 1/3-degree Mercator grid, the standard deviation of SSHA values over that period was calculated. Data were then interpolated to 0.1-degree grid using bilinear interpolation.
+      
+      Reference: Rio, M-H, P. Schaeffer, G. Moreaux, J-M Lemoine, E. Bronner (2009) : A new Mean Dynamic Topography computed 
+      over the global ocean from GRACE data, altimetry and in-situ measurements . Poster communication at OceanObs09 symposium, 
+      21-25 September 2009, Venice
+      
+      ----
+      
+      SST summer
+      File: sst_summer_climatology
+      Source data: Sea surface temperature summer climatology from MODIS Aqua.
+      Antarctic:
+      Climatology spans the 2002/03 to 2009/10 austral summer seasons. Data interpolated from original 9km resolution to 0.1-degree grid using bilinear interpolation.
+      Arctic:
+      Climatology spans the 2002 to 2009 boreal summer seasons. Data interpolated from original 9km resolution to 0.1-degree grid using bilinear interpolation on polar stereographic grid.
+      Reference: Feldman GC, McClain CR (2010) Ocean Color Web, MODIS Aqua Reprocessing, NASA Goddard Space Flight Center. Eds. Kuring, N., Bailey, S.W. http://oceancolor.gsfc.nasa.gov/
+      
+      ----
+      
+      SST spatial gradient
+      File: sst_spatial_gradient
+      Source data: Sea surface temperature summer climatology from MODIS Aqua.
+      Antarctic:
+      Climatology spans the 2002/03 to 2009/10 austral summer seasons. Spatial gradient of the SST (degrees C per km) calculated on the original 9km resolution data, following the equation given in http://webhelp.esri.com/arcgisdesktop/9.2/index.cfm?TopicName=How%20Slope%20works. Gradient values were then interpolated from original 9km resolution to 0.1-degree grid using bilinear interpolation.
+      Reference: Feldman GC, McClain CR (2010) Ocean Color Web, MODIS Aqua Reprocessing, NASA Goddard Space Flight Center. Eds. Kuring, N., Bailey, S.W. http://oceancolor.gsfc.nasa.gov/
+      
+      ----
+      
+      Surface wind
+      File: surface_wind_annual
+      Source data: Average 10m wind (2000-2010) from Monthly NCEP/DOE Reanalysis 2
+      Processing steps: Monthly mean 10m wind speed (from u- and v-wind components) from Jan-2000 to Dec-2010 was averaged. Data interpolated from original 2.5-degree grid to 0.1-degree grid using bilinear interpolation.
+      Reference: http://www.esrl.noaa.gov/psd/data/gridded/data.ncep.reanalysis2.html
+      
+      ----
+      
+      Salinity 0m winter
+      File: salinity_0_winter_climatology and salinity_0_interpolated_winter_climatology
+      Salinity winter climatology at 0m depth.
+      Source data: World Ocean Atlas 2009 (National Oceanographic Data Center, Silver Springs, MD, U.S.A.) http://www.nodc.noaa.gov/OC5/WOA09/pr_woa09.html
+      Processing steps: Data regridded to 0.1-degree grid using nearest-neighbour interpolation (salinity_0_winter_climatology) and bilinear interpolation (salinity_0_interpolated_winter_climatology).
+      Reference: Antonov, J. I., D. Seidov, T. P. Boyer, R. A. Locarnini, A. V. Mishonov, and H. E. Garcia, 2010. World Ocean Atlas 2009, Volume 2: Salinity. S. Levitus, Ed. NOAA Atlas NESDIS 69, U.S. Government Printing Office, Washington, D.C., 184 pp.
+      
+      ----
+      
+      Salinity 0m summer
+      See above (WOA)
+      
+      ----
+      
+      Salinity 50m winter
+      See above (WOA)
+      
+      ----
+      
+      Salinity 50m summer
+      See above (WOA)
+      
+      ----
+      
+      Salinity 200m winter
+      See above (WOA)
+      
+      ----
+      
+      Salinity 200m summer
+      See above (WOA)
+      
+      ----
+      
+      Salinity 500m winter
+      See above (WOA)
+      
+      ----
+      
+      Salinity 500m summer
+      See above (WOA)
+      
+      ----
+      
+      NOX and Silicate 0m winter
+      See above (WOA)
+      File: nox_0_winter_climatology, nox_0_interpolated_winter_climatology; and si_0_winter_climatology, si_0_interpolated_winter_climatology
+      Reference: Garcia, H. E., R. A. Locarnini, T. P. Boyer, and J. I. Antonov, 2010. World Ocean Atlas 2009, Volume 4: Nutrients (phosphate, nitrate, silicate). S. Levitus, Ed. NOAA Atlas NESDIS 71, U.S. Government Printing Office, Washington, D.C., 398 pp.
+      
+      ----
+      
+      NOX and Silicate 0m summer 
+      See above (WOA)
+      
+      ----
+      
+      
+      NOX and Silicate 50m summer
+      See above (WOA)
+      
+      ----
+      
+      NOX and Silicate 50m winter
+      See above (WOA)
+      
+      ----
+      
+      NOX and Silicate 200m summer
+      See above (WOA)
+      
+      ----
+      
+      NOX and Silicate 200m winter
+      See above (WOA)
+      
+      ----
+      
+      Oxygen 0m winter
+      See above (WOA)
+      File: oxygen_0_winter_climatology and oxygen_0_interpolated_winter_climatology
+      Reference: Garcia, H. E., R. A. Locarnini, T. P. Boyer, and J. I. Antonov, 2010. World Ocean Atlas 2009, Volume 3: Dissolved Oxygen, Apparent Oxygen Utilization, and Oxygen Saturation. S. Levitus, Ed. NOAA Atlas NESDIS 70, U.S. Government Printing Office, Washington, D.C., 344 pp.
+      
+      ----
+      
+      Oxygen 0m summer
+      See above (WOA)
+      
+      ----
+      
+      Oxygen 50m winter
+      See above (WOA)
+      
+      ----
+      
+      Oxygen 50m summer
+      See above (WOA)
+      
+      ----
+      
+      Oxygen 200m winter
+      See above (WOA)
+      
+      ----
+      
+      Oxygen 200m summer
+      See above (WOA)
+      
+      ----
+      
+      Temperature 0m winter
+      See above (WOA)
+      File: t_0_winter_climatology and t_0_interpolated_winter_climatology
+      Reference: Locarnini, R. A., A. V. Mishonov, J. I. Antonov, T. P. Boyer, and H. E. Garcia, 2010. World Ocean Atlas 2009, Volume 1: Temperature. S. Levitus, Ed. NOAA Atlas NESDIS 68, U.S. Government Printing Office, Washington, D.C., 184 pp.
+      
+      ----
+      
+      Temperature 0m summer
+      See above (WOA)
+      
+      ----
+      
+      Temperature 50m winter
+      See above (WOA)
+      
+      ----
+      
+      Temperature 50m summer
+      See above (WOA)
+      
+      ----
+      
+      Temperature 200m winter
+      See above (WOA)
+      
+      ----
+      
+      Temperature 200m summer
+      See above (WOA)
+      
+      ----
+      
+      Temperature 500m summer
+      See above (WOA)
+      
+      ----
+      
+      Temperature 500m winter
+      See above (WOA)
+      
+      
+      ----
+      
+      Vertical velocity
+      File: vertical_velocity_250 and vertical_velocity_500
+      Upward sea water velocity at 250m and 500m depth (Antarctic only)
+      Source data: CSIRO Mk3.5d climate model
+      Processing steps: Mean values calculated from the 20C3M model run 1, averaged over 1980--2000. Values then interpolated from original grid (approximate resolution 0.9 degrees latitude by 1.9 degrees longitude) to 0.1-degree grid using bilinear interpolation.
+      Reference: Gordon et al. (2010) The CSIRO Mk3.5 Climate Model. CAWCR Technical Report 21. http://www.cawcr.gov.au/publications/technicalreports/CTR_021.pdf</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=polar-environmental-data-layers</t>
+  </si>
+  <si>
+    <t>2014-12-04 00:30:13.216967</t>
+  </si>
+  <si>
+    <t>2014-11-16 00:31:19</t>
+  </si>
+  <si>
+    <t>2014-12-03 23:14:30.395</t>
+  </si>
+  <si>
+    <t>81cfe159-0de9-495d-bb78-3059b12cf629</t>
+  </si>
+  <si>
+    <t>Australian Antarctic Division</t>
+  </si>
+  <si>
+    <t>Creative Commons Attribution 3.0 Australia</t>
+  </si>
+  <si>
+    <t>MODIS derived Euphotic Depth (Zeu) datasets</t>
+  </si>
+  <si>
+    <t>,,,</t>
+  </si>
+  <si>
+    <t>The datasets measure the Euphotic Depth (Zeu) of Australian oceans. They are derived products from MODIS (aqua) images using NASA's SeaDAS image processing software. The extent of the datasets covers the entire Australian EEZ and surrounding waters (including the southern ocean). The spatial resolution of the datasets is 0.01 dd. The datasets contain 36 monthly Zeu layers between 2009 and 2011. The unit of the datasets is metre.
+      
+      You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=modis-derived-euphotic-depth-zeu-datasets</t>
+  </si>
+  <si>
+    <t>2014-11-02 04:16:46.665016</t>
+  </si>
+  <si>
+    <t>2014-03-31 05:55:12</t>
+  </si>
+  <si>
+    <t>2014-10-29 12:01:15</t>
+  </si>
+  <si>
+    <t>9627696e-eec7-4459-8339-5c49cf3e06f1</t>
+  </si>
+  <si>
+    <t>Geoscience Australia</t>
+  </si>
+  <si>
+    <t>AIMS Remote Sensing Data (Great Barrier Reef Subset)</t>
+  </si>
+  <si>
+    <t>,,,,</t>
+  </si>
+  <si>
+    <t>This dataset consists of products generated from satellite remote sensing data received at AIMS or obtained from other sources.
+      
+      Currently there are three products: (Skin) Sea Surface  Temperature (SST); Chlorophyll-a (Chl a); and Diffuse attenuation coefficient at 490nm (K490). The SST data are derived from data from the AVHRR sensor on the NOAA series satellites received at AIMS and currently covers the period from June 2003 to present. This dataset will be expanded back to 1990 in the near future.  The Chl a and K490 ( an ocean turbidity proxy) are derived from data from the SeaWiFS sensor on board the Orbview-2 satellite. These products are available for the period January 1998 to August 2005.
+      The datasets will also be augmented with data from the MODIS sensor on the EOS satellites. This data will be sourced from NASA for the period prior to installation of the AIMS X-band ground-station and then from directly received data.</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=aims-remote-sensing-data-great-barrier-reef-subset</t>
+  </si>
+  <si>
+    <t>2014-11-02 07:27:52.42554</t>
+  </si>
+  <si>
+    <t>2014-10-24 06:24:30</t>
+  </si>
+  <si>
+    <t>2014-10-29 12:03:46</t>
+  </si>
+  <si>
+    <t>538bc6c1-9a67-41fc-8e8c-1c68e948f018</t>
+  </si>
+  <si>
+    <t>Australian Institute of Marine Science</t>
+  </si>
+  <si>
+    <t>MODIS derived Total Suspended Materials (TSM) datasets</t>
+  </si>
+  <si>
+    <t>The datasets measure the Total Suspended Materials (TSM) concentrations of ocean surface waters. They are derived products from MODIS (aqua) images using NASA's SeaDAS image processing software. The extent of the datasets covers the entire Australian EEZ and surrounding waters (including the southern ocean). The spatial resolution of the datasets is 0.01 dd. The datasets contain 36 monthly TSM layers between 2009 and 2011. The unit of the datasets is g/m3.
+      
+      You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=modis-derived-total-suspended-materials-tsm-datasets</t>
+  </si>
+  <si>
+    <t>2014-11-04 21:47:35.326951</t>
+  </si>
+  <si>
+    <t>2014-03-31 07:19:38</t>
+  </si>
+  <si>
+    <t>47b0e974-972f-4ca2-9cd6-23245a713ee6</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=aims-remote-sensing-data-great-barrier-reef-subsetea79f</t>
+  </si>
+  <si>
+    <t>2014-12-03 23:40:26.682736</t>
+  </si>
+  <si>
+    <t>2014-11-21 08:39:29</t>
+  </si>
+  <si>
+    <t>3c2952ca-d247-41b7-98e4-4dac188d559c</t>
+  </si>
+  <si>
+    <t>MODIS derived Coloured Dissolved Organic Matter (CDOM) datasets</t>
+  </si>
+  <si>
+    <t>The datasets measure the Coloured Dissolved Organic Matter (CDOM) concentrations of ocean surface waters. They are derived products from MODIS (aqua) images using NASA's SeaDAS image processing software. The extent of the datasets covers the entire Australian EEZ and surrounding waters (including the southern ocean). The spatial resolution of the datasets is 0.01 dd. The datasets contain 36 monthly CDOM layers between 2009 and 2011. The unit of the datasets is 1/m.
+      
+      You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=modis-derived-coloured-dissolved-organic-matter-cdom-datasets968ac</t>
+  </si>
+  <si>
+    <t>2014-10-29 12:47:34.326157</t>
+  </si>
+  <si>
+    <t>2014-06-07 09:52:23</t>
+  </si>
+  <si>
+    <t>145e4734-4ad5-4537-b76b-e8b4f8a46094</t>
+  </si>
+  <si>
+    <t>Marine Seismic Surveys Shape files and Kml files September 2013 Version</t>
+  </si>
+  <si>
+    <t>,,</t>
+  </si>
+  <si>
+    <t>Geoscience Australia is releasing its 2013 version of the Marine Seismic Surveys Shape files and Kml files. These files have been updated to include recent openfile surveys. The spatial files have been created from a cleansed, updated collection of p190 navigation files. This navigation collection has grown from the checking of navigation submitted to the GA Repository under Offshore Petroleum and Greenhouse Gas Storage Regulations, checking of the 2003 SNIP navigation files and the digitisation of old survey track maps as required. Soon the individual p190 files will be available for download through the new NOPIMS delivery system. The collection is based on P190 navigation files which follows the UKOOA standard. Extensive industry standard metadata associated with a seismic survey is preserved in the attribute tables of these datasets. The files have been categorised into 2D and 3D seismic files. A further category contains legacy data that still requires checking. The process of adding to this navigation database and checking of legacy data is ongoing. Geoscience Australia (email - AusGeodata@ga.gov.au) appreciates being notified of any errors found in the navigation collection.
+      
+      The data is available in both KML and Shape file formats.
+      
+      The KML file can be viewed using a range of applications including Google Earth, NASA WorldWind, ESRI ArcGIS Explorer, Adobe PhotoShop, AutoCAD3D or any other earth browser (geobrowser) that accepts KML formatted data.
+      
+      Alternatively the Shape files can be downloaded and viewed using any application that supports shape files.
+      
+      Disclaimer: Geoscience Australia gives no warranty regarding the data downloads provided herein nor the data's accuracy, completeness, currency or suitability for any particular purpose. Geoscience Australia disclaims all other liability for all loss, damages, expense and costs incurred by any person as a result of relying on the information in the data downloads.
+      
+      You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=marine-seismic-surveys-shape-files-and-kml-files-september-2013-version</t>
+  </si>
+  <si>
+    <t>2014-10-29 13:00:39.07253</t>
+  </si>
+  <si>
+    <t>2014-01-20 08:05:43</t>
+  </si>
+  <si>
+    <t>cece9151-5ccc-402c-93d7-1982a94a8c11</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=modis-derived-coloured-dissolved-organic-matter-cdom-datasets</t>
+  </si>
+  <si>
+    <t>2014-10-29 13:39:08.447476</t>
+  </si>
+  <si>
+    <t>2014-03-31 07:00:28</t>
+  </si>
+  <si>
+    <t>673f2051-1aa9-4ed6-b944-6b0983af8449</t>
+  </si>
+  <si>
+    <t>MODIS derived Sea Surface Temperature (SST) datasets</t>
+  </si>
+  <si>
+    <t>The datasets measure the Sea Surface Temperature (SST) of Australian oceans. They are derived products from MODIS (aqua) images using NASA's SeaDAS image processing software. The extent of the datasets covers the entire Australian EEZ and surrounding waters (including the southern ocean). The spatial resolution of the datasets is 0.01 dd. The datasets contain 126 monthly SST layers between 2002 and 2012.
+      
+      You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=modis-derived-sea-surface-temperature-sst-datasets</t>
+  </si>
+  <si>
+    <t>2014-10-31 19:33:26.560878</t>
+  </si>
+  <si>
+    <t>2014-03-31 07:03:41</t>
+  </si>
+  <si>
+    <t>2ae3b6b6-2cc1-4320-b470-bfe9aa81133a</t>
+  </si>
+  <si>
+    <t>MODIS derived K490 datasets</t>
+  </si>
+  <si>
+    <t>The datasets measure the K490 parameter (Downwelling diffuse attenuation coefficient at 490 nm, a turbidity parameter) of Australian oceans. They are derived products from MODIS (aqua) images using NASA's SeaDAS image processing software. The extent of the datasets covers the entire Australian EEZ and surrounding waters (including the southern ocean). The spatial resolution of the datasets is 0.01 dd. The datasets contain 36 monthly k490 layers between 2009 and 2011. The unit of the datasets is 1/m.
+      
+      You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=modis-derived-k490-datasets</t>
+  </si>
+  <si>
+    <t>2014-10-31 22:11:52.598068</t>
+  </si>
+  <si>
+    <t>2014-04-05 11:18:12</t>
+  </si>
+  <si>
+    <t>c9cd86d0-fced-47c3-adbc-19ea038952d2</t>
+  </si>
+  <si>
+    <t>Shared Navigation Integration Project (SNIP) - Seismic Navigation</t>
+  </si>
+  <si>
+    <t>The SNIP (Shared Navigation Integration Project) data was purchased by Geoscience Australia from Fugro Multi Client Services in 2007. The dataset includes 3156 onshore and offshore seismic navigation data from Australia and New Zealand for surveys acquired prior to 2003.
+      
+      Geoscience Australia is making available the SNIP data (as originally purchased) in two formats, KML and Shapefile formats. These files were generated from WGS84 coordinates of all surveys contained in the SNIP database.
+      
+      The KML file can be viewed using a range of applications including Google Earth, NASA WorldWind, ESRI ArcGIS Explorer, Adobe PhotoShop, AutoCAD3D or any other earth browser (geobrowser) that accepts KML formatted data.
+      
+      Alternatively the Shapefile can be downloaded and viewed using any application that supports shape files.
+      
+      Geoscience Australia plans to build on this dataset to deliver this information over the web in the future.
+      
+      Disclaimer: Geoscience Australia gives no warranty regarding the data downloads provided herein nor the data's accuracy, completeness, currency or suitability for any particular purpose. Geoscience Australia disclaims all other liability for all loss, damages, expense and costs incurred by any person as a result of relying on the information in the SNIP data downloads.
+      
+      You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=shared-navigation-integration-project-snip-seismic-navigation</t>
+  </si>
+  <si>
+    <t>2014-10-31 23:56:49.261268</t>
+  </si>
+  <si>
+    <t>2014-01-20 11:38:32</t>
+  </si>
+  <si>
+    <t>60367530-c299-4f58-9a30-6edf96cc7e98</t>
+  </si>
+  <si>
+    <t>MODIS derived Chlorophyll a datasets</t>
+  </si>
+  <si>
+    <t>The datasets measure the Chlorophyll a concentrations of ocean surface waters. They are derived products from MODIS (aqua) images using NASA's SeaDAS image processing software. The extent of the datasets covers the entire Australian EEZ and surrounding waters (including the southern ocean). The spatial resolution of the datasets is 0.01 dd. The datasets contain 36 monthly Chlorophyll a layers between 2009 and 2011. The unit of the datasets is mg/m3.
+      
+      You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=modis-derived-chlorophyll-a-datasets</t>
+  </si>
+  <si>
+    <t>2014-11-01 01:03:57.209928</t>
+  </si>
+  <si>
+    <t>2014-03-31 07:22:28</t>
+  </si>
+  <si>
+    <t>fcf41950-f654-41b6-b7aa-fc0b84181442</t>
+  </si>
+  <si>
+    <t>Three-dimensional visualisation of the Great Artesian Basin</t>
+  </si>
+  <si>
+    <t>,,,,,</t>
+  </si>
+  <si>
+    <t>This three-dimensional visualisation product is intended to accompany the reports from the Great Artesian Basin Water Resource Assessment, specifically "The three-dimensional visualisation of the Great Artesian Basin" report (Nelson et al., 2012). The report describes products, outputs and outcomes of the three-dimensional (3D) visualisation component of the Great Artesian Basin Water Resource Assessment (the Assessment). This report specifically encompasses the following topics associated with the 3D visualisation component:
+      
+      -	The requirements and potential benefits
+      -	The effective datasets
+      -	Methodology used in content creation
+      -	The output datasets
+      -	Discussions regarding outcomes, limitations and future directions
+      
+      The Assessment is designed to assist water managers in the Great Artesian Basin (GAB) to meet National Water Initiative commitments.
+      
+      The key datasets of the 3D visualisation component include contact surfaces between major aquifers and aquitards with coverage of significant portions of the GAB, well lithostratigraphic and wire-line data and hydrogeochemistry produced by State and National Agencies. These datasets are manipulated within GOCAD® to develop the 3D visualisation component and communication products for use by end users to assist visualisation and conceptualisation of the GAB. While many options have been investigated for distribution of these 3D products, 2D screen captures and content delivery via the Geoscience Australia (GA) World Wind 3D data viewer will be the most efficient and effective products.
+      
+      This 3D visualisation should be viewed in reference to the "Lexicon of the lithostratigraphic and hydrogeological units of the Great Artesian Basin and its Cenozoic cover" report (Radke et al., 2012) also created as part of the Assessment.
+      
+      LINEAGE (continued from Lineage field)
+      
+      REFERENCES
+      1.	Welsh, W.D. 2000. GABFLOW: A steady state groundwater flow model of the Great Artesian Basin, Bureau Rural Sciences. Canberra.
+      2.	Nelson GJ, Carey H, Radke BM and Ransley TR (2012) The three-dimensional visualisation of the Great Artesian Basin. A report to the Australian Government from the CSIRO Great Artesian Basin Water Resource Assessment. CSIRO Water for a Healthy Country Flagship, Australia.
+      3.	Radke BM, Kellett JR, Ransley TR and Bell JG (2012) Lexicon of the lithostratigraphic and hydrogeological units of the Great Artesian Basin and its Cenozoic cover. A technical report to the Australian Government from the CSIRO Great Artesian Basin Water Resource Assessment. CSIRO Water for a Healthy Country Flagship, Australia.
+      4.	Ransley TR and Smerdon BD (eds) (2012) Hydrostratigraphy, hydrogeology and system conceptualisation of the Great Artesian Basin. A technical report to the Australian Government from the CSIRO Great Artesian Basin Water Resource Assessment. CSIRO Water for a Healthy Country Flagship, Australia.
+      5.	Senior and associates (1997). Geoscience Australia internal data set and contour interpretations by Senior B. Canberra, Groundwater Group, Environmental Geoscience Division, Geoscience Australia.
+      6.	Van der Wielen S, Kirkby A, Britt A, Nicoll M and Skirrow R (in prep.) An integrated, multiuse 3D map for the greater Eromanga Basin, Australia. Geoscience Australia record 2011/XX, Canberra.
+      
+      METHOD
+      
+      The data are visualised in the Geoscience Australia (GA) 3D Data Viewer, a virtual globe application developed at GA using the NASA World Wind Java SDK. A public version of the Viewer is available on the GA website
+      at http://www.ga.gov.au/apps/world-wind, and the source code for the tool is available open-source at
+      http://github.com/ga-m3dv/ga-worldwind-suite.
+      
+      You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=three-dimensional-visualisation-of-the-great-artesian-basin</t>
+  </si>
+  <si>
+    <t>2014-11-01 19:59:28.144394</t>
+  </si>
+  <si>
+    <t>2014-02-18 11:29:58</t>
+  </si>
+  <si>
+    <t>6dc547b6-1fd8-4b55-825f-dcb1646e2daa</t>
+  </si>
+  <si>
+    <t>Marine Seismic Survey Shape and Kml Files - 2014 Version</t>
+  </si>
+  <si>
+    <t>Geoscience Australia is releasing its 2014 version of the Marine Seismic Surveys Shape and Kml files. These files have been updated to include recent openfile surveys. The spatial files have been created from a cleansed, updated collection of p190 navigation files. This navigation collection has grown from the checking of navigation submitted to the GA Repository under the Offshore Petroleum and Greenhouse Gas Storage Regulations, checking of the 2003 SNIP navigation files and the digitisation of old survey track maps as required. Soon the individual p190 files will be available for download through the new NOPIMS delivery system. The collection is based on P190 navigation files which follows the UKOOA standard. Extensive industry standard metadata associated with a seismic survey is preserved in the attribute tables of these datasets. 
+      
+      The shapefiles have been categorised into 3D exploration, 2D exploration and 2D investigative seismic files. All marine surveys undertaken by Geoscience Australia for exploration or investigative purposes have been included in the collection. Geoscience Australia (email - AusGeodata@ga.gov.au) appreciates being notified of any errors found in the navigation collection.
+      
+      The data is available in both KML and Shape file formats.
+      
+      The KML file can be viewed using a range of applications including Google Earth, NASA WorldWind, ESRI ArcGIS Explorer, Adobe PhotoShop, AutoCAD3D or any other earth browser (geobrowser) that accepts KML formatted data.
+      
+      Alternatively the Shape files can be downloaded and viewed using any application that supports shape files.
+      
+      Disclaimer: Geoscience Australia gives no warranty regarding the data downloads provided herein nor the data's accuracy, completeness, currency or suitability for any particular purpose. Geoscience Australia disclaims all other liability for all loss, damages, expense and costs incurred by any person as a result of relying on the information in the data downloads.
+      
+      You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=marine-seismic-survey-shape-and-kml-files-2014-version</t>
+  </si>
+  <si>
+    <t>2014-11-01 21:45:51.21152</t>
+  </si>
+  <si>
+    <t>2014-04-13 08:36:10</t>
+  </si>
+  <si>
+    <t>0aab5603-d292-41de-a4c8-e13e1313dce6</t>
+  </si>
+  <si>
+    <t>Marine Seismic Surveys Shape files and Kml files</t>
+  </si>
+  <si>
+    <t>,,,,,,</t>
+  </si>
+  <si>
+    <t>Geoscience Australia has been updating its collection of navigation for marine seismic surveys in Australia. These include original navigation files, the 2003 SNIP navigation files and digitised survey track maps. The result will be an updated cleansed navigation collection.
+      
+      The collection is based on the SNIP format P190 navigation file which follows the UKOOA standard. Industry standard metadata associated with a seismic survey is preserved.
+      
+      To assist industry, Geoscience Australia is making available its updated version of cleansed navigation. Although the process of updating the navigation data is ongoing and there is still legacy data to check, the navigation data is at a point where a significant improvement has been achieved and it is now usable. Users should be aware that this navigation is not final and there may be errors. Geoscience Australia (email - AusGeodata@ga.gov.au) appreciates being notified of any errors found.
+      
+      The data is available in both KML and Shape file formats.
+      
+      The KML file can be viewed using a range of applications including Google Earth, NASA WorldWind, ESRI ArcGIS Explorer, Adobe PhotoShop, AutoCAD3D or any other earth browser (geobrowser) that accepts KML formatted data.
+      
+      Alternatively the Shape files can be downloaded and viewed using any application that supports shape files.
+      
+      Disclaimer: Geoscience Australia gives no warranty regarding the data downloads provided herein nor the data's accuracy, completeness, currency or suitability for any particular purpose. Geoscience Australia disclaims all other liability for all loss, damages, expense and costs incurred by any person as a result of relying on the information in the data downloads.
+      
+      You can also purchase hard copies of Geoscience Australia data and other products at http://www.ga.gov.au/products-services/how-to-order-products/sales-centre.html</t>
+  </si>
+  <si>
+    <t>http://data.gov.au/api/3/action/package_show?id=marine-seismic-surveys-shape-files-and-kml-files</t>
+  </si>
+  <si>
+    <t>2014-11-01 22:59:01.141507</t>
+  </si>
+  <si>
+    <t>2014-01-20 12:19:42</t>
+  </si>
+  <si>
+    <t>2f9e8ccd-0d34-47b3-8854-19742c72fa88</t>
+  </si>
+  <si>
+    <t>United States</t>
+  </si>
+  <si>
+    <t>Municipality</t>
+  </si>
+  <si>
+    <t>data.json</t>
+  </si>
+  <si>
+    <t>Reanalysis Intercomparison and Observations</t>
+  </si>
+  <si>
+    <t>CIN;MSL;ERA;longwave;volcano;radiation flux;soil temperature;SSM/I;kinetic energy;humidity;thickness;global;buoy;FGGE;transport;evaporation;pressure;aircraft;albedo;detrainment;gravity wave;aerosol;carbon dioxide;transpiration;greeness;LAI;snowfall;momentum flux;balloon;radiosonde;GDAS;u-wind;shortwave;snow cover;GATE;latent heat flux;SST;ECMWF;potential energy;convection;sublimation;water;meridional winds;radiation;ITOVS;GEOS-5;cloud liquid;diffusivity;RAOB;snow depth;solar radiation;planetary boundary height;PDR;ALPEX;TOGA-COARE;TOVS;sea ice;potential evaporation;upper-level winds;zonal winds;CFSR;ice concentration;freezing;wind profiler;wspd;sensible heat;ground heat;NCEP;omega;NARR;dropsonde;precipitation;turbulence;grids;cloud cover;radiance;cloud microphysics;dewpoint;hydrological;temperature;CAPE;precipitable water;AVHRR;ice thickness;optical;ATOVS;vertical velocity;chemistry;cloud-top roughness;solar flux;ERS;MERRA;runoff;geopotential height;emissivity;soil moisture;ozone;ship;v-wind</t>
+  </si>
+  <si>
+    <t>Geography and Environment</t>
+  </si>
+  <si>
+    <t>Reanalysis is a scientific method to combine observations and models for developing a comprehensive record of how weather and climate are changing over time. A reanalysis dataset typically extends over several decades or longer, and covers the entire globe from the Earth's surface to well above the stratosphere.  Reanalysis products are used extensively in climate research and services, including for monitoring and comparing current climate conditions with those of the past, identifying the causes of climate variations and change, and preparing climate predictions. Recently, the National Oceanic and Atmospheric Administration (NOAA), National Aeronautical and Space Administration (NASA), European Centre for Medium-Range Weather Forecasts (ECMWF), and Japanese Meterological Agency (JMA) have produced new reanalysis datasets that, in total, span 1871 to present. It is crucial to our scientific understanding of climate variability and change that these new datasets be validated and compared with each other and with the underlying observations. International working groups of the Global Climate Observing System (GCOS, the climate element of the Global Earth Observing System of Systems) and the World Climate Research Program, and the Atmospheric Circulation Reconstruction over the Earth (ACRE) initiative need a community portal to exchange quickly and disseminate publicly results of such intercomparisons. NOAA's own mission and strategic goals regarding reanalyzes, as well as its leading role in the US Global Change Research Program, GCOS, WCRP, and ACRE, make NOAA the logical and obvious choice to serve a website dedicated to improving understanding of the international reanalysis datasets, including those recently generated by NOAA, the 20th Century Reanalysis and Climate Forecast System Reanalysis.  The new website "reanalyses.org" will serve as a central portal for Reanalysis Intercomparison and Observations (RIO) by NOAA, NASA, ECMWF, JMA, and national and international scientists. The website should be outside the "noaa.gov" domain. It will help NOAA and the international scientific community to improve the climate science and services that reanalyzes underpin.  NOAA strategic plans and US Global Climate Research Program plans to which NOAA Office of Atmospheric Research and the new NOAA Climate Service will respond specifically call for advances in understanding reanalysis datasets. The RIO will coordinate with the NOAA Climate Services portal to make the intercomparison and observation documentation public.</t>
+  </si>
+  <si>
+    <t>https://data.ny.gov/data.json</t>
+  </si>
+  <si>
+    <t>2014-10-01 09:47:52.002721</t>
+  </si>
+  <si>
+    <t>2014-09-30 16:18:44</t>
+  </si>
+  <si>
+    <t>i7pz-wcu4</t>
+  </si>
+  <si>
+    <t>data.ny.gov</t>
+  </si>
+  <si>
+    <t>public</t>
+  </si>
+  <si>
+    <t>No license provided</t>
+  </si>
+  <si>
+    <t>2011-05-11 00:00:00</t>
+  </si>
+  <si>
+    <t>NASA Education Weekly Activity Reports (WAR)</t>
+  </si>
+  <si>
+    <t>National Aeronautics and Space Administration;graduate student fellowship;space for education;Spacecenter.org;grade level;student;state standards;informal science education;NASA;faculty;Earth science education;technology education activities;internships;NASA graduate fellowship;student lesson plans;online educator resources;education program;poster lesson;planetariums;science centers;museums;education;life science education;workshops for educators;Summer workshops for teachers;introduction to astrobiology;physical science education;nasa careers;teacher;space science experiments;science experiments;science education resources;scholarships;national standards;education catalog;graduate student fellowships</t>
+  </si>
+  <si>
+    <t>Education</t>
+  </si>
+  <si>
+    <t>The NASA Education Weekly Activity Reports (WAR) tool facilitates the collection, tracking, and archiving of NASA WAR reports.</t>
+  </si>
+  <si>
+    <t>2014-10-01 08:27:53.315697</t>
+  </si>
+  <si>
+    <t>9sks-vysr</t>
+  </si>
+  <si>
+    <t>2012-10-18 00:00:00</t>
+  </si>
+  <si>
+    <t>Consolidated Federal Funds Report</t>
+  </si>
+  <si>
+    <t>wages;justice;life;authority;hospital;insurance;military;nutrition;formula;broadcasting;existing;election;report;delta;FIPS;grants;student;civilian;small;library;investment;CFFR;arts;force;sub-county;salaries;labor;systems;compensation;income;humanities;regional;commodity;areas;benefits;parish;homes;governments;catalog;state;congressional;records;DOE;public;USDA;opportunity;dollars;inactive;security;endowment;HUD;energy;community;institute;administration;place;retire;DHHS;protection;SNAP;Virgin Islands;aid;EEOC;museum;assistance;EAC;exhibit;funds;agreements;veterans;borough;Mariana;business;treasury;district;price;GSA;agricultural;undistributed;county;DOI;army;DOL;family;agency;commission;postal;science;human;Puerto Rico;Marshall;space;consolidated;Palau;expenditures;domestic;deposit;FAS;territories;crop;NASA;education;reported;Guam;spending;employment;DOJ;major;equal;annual;geographic;Samoa;actual;Appalachian;statistics;mortgage;American;fiscal;volume;contracts;Northern;foundation;rankings;employees;outlying;financial;population;retirement;local;archives;corporation;obligations;defense;FDIC;DHS;guaranteed;Islands;navy;housing;nondefense;cooperative;municipality;per-capita;earned;urban;Federal;dollar;affairs;agencies;EPA;data;homeland;environmental;social;states;disability;CFDA;foreign;Micronesia;condominiums;commerce;interior;payments;flood;SSA;program;department;tax;direct;loans;active;unemployment;supplemental;aeronautics;name;procurement;resident;credits;air;funding;medicare;insured</t>
+  </si>
+  <si>
+    <t>Federal Government Finances and Employment</t>
+  </si>
+  <si>
+    <t>Data on federal government expenditures or obligations in state, county, and subcounty areas of the United States, including the District of Columbia and U.S. Outlying Areas.  It contains statistics on the geographic distribution of federal program expenditures, using data submitted by federal departments and agencies.</t>
+  </si>
+  <si>
+    <t>2014-10-01 09:40:41.488689</t>
+  </si>
+  <si>
+    <t>76js-8nq4</t>
+  </si>
+  <si>
+    <t>2012-02-16 00:00:00</t>
+  </si>
+  <si>
+    <t>Science.gov</t>
+  </si>
+  <si>
+    <t>ocean sciences;DOD;NIH;government technology;USGS;astronomy;technology;NLM;federal regulations;health;NIST;communication;OSTI;biology;materials;environment;nature;DOE;science portal;homework help;environmental science;energy;medicine;NBII;environmental quality;GPO;science gateway;NTIS;conservation;engineering;weather;NLE;legislation;U.S. government science;space;DTIC;applied science;NASA;earth science;HHS;NARA;science education;computer science;federal government;NAL;teaching aids;natural resources;photo search;defense;science news;climatology;energy conservation;image search;geology;computers;EPA;LC;technologies;FDA;agriculture;physics;NSF;chemistry;federated search;science internships;mathematics;food;oceanography</t>
+  </si>
+  <si>
+    <t>Science and Technology</t>
+  </si>
+  <si>
+    <t>Science.gov finds selected science information provided by 12 U.S. Government agencies. The Science.gov interagency portal contains over 55 databases and 2,100 selected websites, offering 200 million pages of authoritative U.S. government science information, including research and development results. Science.gov is governed by the Science.gov Alliance of federal agencies and is supported by CENDI.  Science.gov Alliance Participants:  Department of Agriculture, National Agricultural Library, United States Forest Service, Department of Commerce, National Institute of Standards and Technology, National Technical Information Service, Department of Defense, Defense Technical Information Center, Department of Energy, Office of Scientific and Technical Information, Department of Health and Human Services, Food and Drug Administration, National Institutes of Health, National Library of Medicine, Department of Interior, United States Geological Survey, Department of Transportation, National Transportation Library, Environmental Protection Agency, Office of Environmental Information, Office of Research and Development, Library of Congress, National Aeronautics and Space Administration, Scientific and Technical Information Program, National Archives and Records Administration, National Science Foundation.</t>
+  </si>
+  <si>
+    <t>2014-10-01 09:44:01.5331</t>
+  </si>
+  <si>
+    <t>7w3a-67xj</t>
+  </si>
+  <si>
+    <t>2013-11-01 00:00:00</t>
+  </si>
+  <si>
+    <t>Regional</t>
+  </si>
+  <si>
+    <t>Google Moon lunar mapping data</t>
+  </si>
+  <si>
+    <t>lunar;ESMD;Moon;NASA;lunar surface;lunar map;Apollo;geological survey;Google;spaceflight</t>
+  </si>
+  <si>
+    <t>A collection of lunar maps and charts. This tool is an exciting new way to explore the story of the Apollo missions, still the only time mankind has set foot on another world.</t>
+  </si>
+  <si>
+    <t>http://data.hawaii.gov/data.json</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:43:08.872256</t>
+  </si>
+  <si>
+    <t>2014-09-30 15:24:10</t>
+  </si>
+  <si>
+    <t>wgpn-b5yg</t>
+  </si>
+  <si>
+    <t>data.hawaii.gov</t>
+  </si>
+  <si>
+    <t>Physical Oceanography Distributed Active Archive Center (PO.DAAC)</t>
+  </si>
+  <si>
+    <t>Oceans;EOS;JPL;ocean dynamics;Jet Propulsion Laboratory;NASA;information systems;navigation;Earth observing system</t>
+  </si>
+  <si>
+    <t>PO.DAAC is an element of the Earth Observing System Data Information System (EOSDIS). PO.DAAC's primary responsibility is to provide distribution and archive support for NASA's physical oceanography missions such as TOPEX/Poseidon and SeaWinds on QuikSCAT. However, PO.DAAC additionally collaborates with other institutes to acquire complementary data products and value-added services.</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:43:10.641472</t>
+  </si>
+  <si>
+    <t>m3pz-97uv</t>
+  </si>
+  <si>
+    <t>NASA Image Exchange</t>
+  </si>
+  <si>
+    <t>solar system;aircraft;wind tunnel;people;facilities;space;NASA;education;aeronautics;spaceflight;devices;Images;projects</t>
+  </si>
+  <si>
+    <t>The NASA Image Exchange (NIX) is a collection of multimedia content from across NASA's missions and projects.</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:43:14.234203</t>
+  </si>
+  <si>
+    <t>irva-tgt8</t>
+  </si>
+  <si>
+    <t>JPL Tropical Cyclone Information System Analysis Tool</t>
+  </si>
+  <si>
+    <t>numerical weather forecasting;ocean currents;climate;JPL;ocean dynamics;geophysics;meteorology;sea ice;NASA;ocean;biochemistry;oceanography</t>
+  </si>
+  <si>
+    <t>This tool will let you analyze data associated with a storm. You can plot histograms, maps, and profiles for many different data sets and products.</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:43:16.009433</t>
+  </si>
+  <si>
+    <t>k2kp-kbw5</t>
+  </si>
+  <si>
+    <t>JPL Tropical Cyclone Information System</t>
+  </si>
+  <si>
+    <t>The JPL Tropical Cyclone Information System (TCIS) brings together satellite and in situ data sets from various sources to help you find information for a particular tropical cyclone over the world's oceans.</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:43:17.788902</t>
+  </si>
+  <si>
+    <t>s22a-ip3v</t>
+  </si>
+  <si>
+    <t>Global Climate Change</t>
+  </si>
+  <si>
+    <t>National Aeronautics and Space Administration;JPL;NASA climate change;global climate change;Jet Propulsion Laboratory;greenhouse gases;Earth;NASA;Climate change;global warming</t>
+  </si>
+  <si>
+    <t>NASA's Eyes on the Earth: Global Climate Change and Global Warming. Current news and data streams about global warming and climate change from NASA's Jet Propulsion Laboratory.</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:43:28.439964</t>
+  </si>
+  <si>
+    <t>jccb-hhgd</t>
+  </si>
+  <si>
+    <t>Map-A-Planet</t>
+  </si>
+  <si>
+    <t>solar system;Magellan;Rhea;Viking Orbiter;Iapetus;Lunar Prospector;USGS;Saturn;PDS;Europa;Lunar Orbiter;Enceladus;JPL;U. S. Geological Survey;Flagstaff;Mars;Clementine;Dione;Image Map;Patty Garcia;planet;Planetary Data System;Io;Voyager 1;NIR;UVVIS;Voyager 2;Ganymede;LIDAR;space;NASA;Tethys;Moon;Galileo;Venus;Mars Global Surveyor;astrogeology;mapaplanet;Callisto;Jupiter;mission;topography</t>
+  </si>
+  <si>
+    <t>The USGS Map-a-Planet web site is an online mapping tool that allows you to explore the images of the surface of a planet or satellite (moon), access information related to the area you're exploring, and order a seamless, tailor-made image map in a wide variety of image formats.   Map-a-Planet is driven by the MapMaker engine, software developed by the USGS Astrogeology Research Program to generate image maps from our image data repository. The data sets served by the site are cartographically accurate global image mosaics prepared by the USGS Astrogeology Research Program for NASA. There are numerous data sets available, covering many planets and satellites, from numerous spaced exploration missions, such as Viking, Voyager, and Clementine.   In addition to the web site tools for exploring these images, the site offers the Map-a-Planet Web Map Service, an online service for accessing image data from desktop GIS and mapping software.</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:47:36.837868</t>
+  </si>
+  <si>
+    <t>nkr2-ae9m</t>
+  </si>
+  <si>
+    <t>http://data.oregon.gov/data.json</t>
+  </si>
+  <si>
+    <t>2014-10-01 11:52:13.948738</t>
+  </si>
+  <si>
+    <t>2014-09-30 16:28:56</t>
+  </si>
+  <si>
+    <t>data.oregon.gov</t>
+  </si>
+  <si>
+    <t>2014-10-01 12:55:41.536471</t>
+  </si>
+  <si>
+    <t>2014-10-01 12:59:15.113705</t>
+  </si>
+  <si>
+    <t>2014-10-01 13:03:24.382991</t>
+  </si>
+  <si>
+    <t>ARRA NEPA Quarterly Report- Second Report: NASA</t>
+  </si>
+  <si>
+    <t>ARRA;NEPA;Report</t>
+  </si>
+  <si>
+    <t>Reports prepared by the Departments and Agencies on status of NEPA progress for activities and projects funded under Division A of the American Recovery and Reinvestment Act of 2009</t>
+  </si>
+  <si>
+    <t>2014-10-01 13:59:46.880787</t>
+  </si>
+  <si>
+    <t>mqv6-2dzt</t>
+  </si>
+  <si>
+    <t>ARRA NEPA Quarterly Report- First Report: NASA</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:01:52.967649</t>
+  </si>
+  <si>
+    <t>quy6-zi44</t>
+  </si>
+  <si>
+    <t>Land Surface Temperature at Night</t>
+  </si>
+  <si>
+    <t>National Aeronautics and Space Administration;land surface;climate;NASA;night temperature;solid earth;Goddard;GSFC;temperature</t>
+  </si>
+  <si>
+    <t>MODIS (or Moderate Resolution Imaging Spectroradiometer) is a key instrument aboard the Terra (EOS AM) and Aqua (EOS PM) satellites. Terra's orbit around the Earth is timed so that it passes from north to south across the equator in the morning, while Aqua passes south to north over the equator in the afternoon. Terra MODIS and Aqua MODIS are viewing the entire Earth's surface every 1 to 2 days, acquiring data in 36 spectral bands, or groups of wavelengths (see MODIS Technical Specifications). This map shows the temperature of Earth's lands during the nighttime. Temperature is a measure of how warm or cold an object is. During the day, the Sun's rays warm Earth's lands. At night, the lands typically cool off. Landscapes cool off at night because they release their warmth to air above while they are no longer receiving sunlight. Scientists can measure the temperature of Earth's lands from space using instruments carried on satellites. Scientists want to know the land's temperature for many important reasons. For example, in places where it is too hot or too cold food crops may die. Temperature also influences weather and climate patterns. So, mapping the temperature of Earth's lands helps scientists to better understand our world.  The colors on these maps represent temperature patterns of the top millimeter (or skin) of the land surface including bare land, snow or ice cover, urban areas, and cropland or forest canopy as observed by MODIS in clear-sky conditions for the time period indicated. Yellow shows the warmest temperatures (up to 45°C) and light blue shows the coldest temperatures (down to -25°C). Black means "no data."</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:13:13.55038</t>
+  </si>
+  <si>
+    <t>dg3h-giyg</t>
+  </si>
+  <si>
+    <t>Tropical surface current velocities (HOLD) Broken Link!</t>
+  </si>
+  <si>
+    <t>currents;oceans;climate;JPL;Jet Propulsion Laboratory;Nino;NASA;Science Mission Directorate;Sea surface;paleoclimate;terrestrial hydrosphere;current velocity</t>
+  </si>
+  <si>
+    <t>These data are estimates of the horizontal near-surface currents of the Tropical Pacific ocean, from October 1992 to current.</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:13:15.494534</t>
+  </si>
+  <si>
+    <t>4867-iiet</t>
+  </si>
+  <si>
+    <t>2012-07-19 00:00:00</t>
+  </si>
+  <si>
+    <t>On Earth</t>
+  </si>
+  <si>
+    <t>Goddard Space Flight Center;biology;oceans;climate;JPL;Jet Propulsion Laboratory;NASA;biosphere;Atmosphere;GSFC</t>
+  </si>
+  <si>
+    <t>MODIS (or Moderate Resolution Imaging Spectroradiometer) is a key instrument aboard the Terra (EOS AM) and Aqua (EOS PM) satellites. Terra's orbit around the Earth is timed so that it passes from north to south across the equator in the morning, while Aqua passes south to north over the equator in the afternoon. Terra MODIS and Aqua MODIS are viewing the entire Earth's surface every 1 to 2 days, acquiring data in 36 spectral bands, or groups of wavelengths (see MODIS Technical Specifications). These data will improve our understanding of global dynamics and processes occurring on the land, in the oceans, and in the lower atmosphere. MODIS is playing a vital role in the development of validated, global, interactive Earth system models able to predict global change accurately enough to assist policy makers in making sound decisions concerning the protection of our environment.</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:13:17.491086</t>
+  </si>
+  <si>
+    <t>wgr9-dymw</t>
+  </si>
+  <si>
+    <t>Solar Data Analysis Center Data Finder</t>
+  </si>
+  <si>
+    <t>Goddard Space Flight Center;SOHO;Sun;Solar Probe;NASA;Solar;GSFC</t>
+  </si>
+  <si>
+    <t>An integrated resource of solar imagery and data.</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:15:54.262364</t>
+  </si>
+  <si>
+    <t>89u6-3v2q</t>
+  </si>
+  <si>
+    <t>Global 1-km Sea Surface Temperature (G1SST)</t>
+  </si>
+  <si>
+    <t>numerical weather forecasting;ocean currents;Pacific Ocean;climate;JPL;ocean dynamics;geophysics;meteorology;sea ice;NASA;ocean;coasts;biochemistry;oceanography</t>
+  </si>
+  <si>
+    <t>A daily, global Sea Surface Temperature (SST) data set is produced at 1-km (also known as ultra-high resolution) by the JPL ROMS (Regional Ocean Modeling System) group.</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:15:56.082167</t>
+  </si>
+  <si>
+    <t>7hdi-2i3a</t>
+  </si>
+  <si>
+    <t>Planetary Data System</t>
+  </si>
+  <si>
+    <t>Pluto;Saturn;Mercury;space missions;JPL;Neptune;geophysics;Earth;NASA;Uranus;Venus;Science Mission Directorate;Geology;Mars;Jupiter;data systems;SMD</t>
+  </si>
+  <si>
+    <t>The Planetary Data System (PDS) is an archive of data products from NASA planetary missions, which is sponsored by NASA's Science Mission Directorate. We actively manage the archive to maximize its usefulness, and it has become a basic resource for scientists around the world.</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:16:01.71045</t>
+  </si>
+  <si>
+    <t>w8fw-kgap</t>
+  </si>
+  <si>
+    <t>Tropospheric Emission Spectrometer Data</t>
+  </si>
+  <si>
+    <t>oceans;Sun;JPL;troposphere;Jet Propulsion Laboratory;Tropospheric Emission Spectrometer;NASA;biosphere;TES;chemistry;Atmosphere;stratosphere;Earth observing system EOS</t>
+  </si>
+  <si>
+    <t>TES focuses on the troposphere, the layer of atmosphere that stretches from the ground to the altitude at which airplanes fly. With very high spectral resolution, TES can distinguish concentrations of gases at different altitudes, a key factor in understanding their behavior and impact. It's the first orbiting instrument able to do this with ozone, a very important chemical with regard to both global warming and air pollution.</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:16:05.481189</t>
+  </si>
+  <si>
+    <t>k8vs-g3kt</t>
+  </si>
+  <si>
+    <t>2014-09-30 21:24:29.280812</t>
+  </si>
+  <si>
+    <t>Goddard Earth Sciences Data and Information Services Center (GeES DISC)</t>
+  </si>
+  <si>
+    <t>Goddard Space Flight Center;atmoshpere;senors;NASA;Earth science;chemistry;GSFC;ozone</t>
+  </si>
+  <si>
+    <t>The NASA Goddard Earth Sciences (GES) Data and Information Services Center (DISC)  is the home (archive) of Precipitation, Atmospheric Chemistry and Dynamics, and information, as well as data and information from other related disciplines.</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:16:09.513159</t>
+  </si>
+  <si>
+    <t>tiir-9mtp</t>
+  </si>
+  <si>
+    <t>Global Change Master Directory</t>
+  </si>
+  <si>
+    <t>Goddard Space Flight Center;oceans;Agriculture;climate;Sun;cryosphere;atmosphere;solid Earth;NASA;land surface;biosphere;bilogy;paleoclimate;GSFC;terrestrial hydrosphere</t>
+  </si>
+  <si>
+    <t>The GCMD database holds more than 30,000 descriptions of Earth science data sets and services covering all aspects of Earth and environmental sciences.</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:16:13.204886</t>
+  </si>
+  <si>
+    <t>5m47-qrfp</t>
+  </si>
+  <si>
+    <t>Global Hydrology Resource Center</t>
+  </si>
+  <si>
+    <t>satellites;hurricanes;weather;lightning;NASA;convection;tropical storms</t>
+  </si>
+  <si>
+    <t>The GHRC is the data management and user services arm of the Global Hydrology and Climate Center. It encompasses the data and information management, supporting product generation, archival, and distribution of research quality and operational datasets for a variety of data types, including lightning, passive microwave, radar and others.</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:16:15.053089</t>
+  </si>
+  <si>
+    <t>fstr-d7km</t>
+  </si>
+  <si>
+    <t>Ocean Color Web</t>
+  </si>
+  <si>
+    <t>Goddard Space Flight Center;MODIS;Ocean;sea viewing;spectrometer;marine biology;NASA;water color;GSFC</t>
+  </si>
+  <si>
+    <t>A comprehensive image analysis package for the processing, display, analysis, and quality control of ocean color data.</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:16:16.914285</t>
+  </si>
+  <si>
+    <t>z8n5-d7pq</t>
+  </si>
+  <si>
+    <t>2013-05-09 00:00:00</t>
+  </si>
+  <si>
+    <t>NASA World Wind</t>
+  </si>
+  <si>
+    <t>landmark;Landsat;NASA;imaging;satellite imagery;topography;elevation</t>
+  </si>
+  <si>
+    <t>World Wind allows any user to zoom from satellite altitude into any place on Earth, leveraging high resolution LandSat imagery and SRTM elevation data to experience Earth in visually rich 3D, just as if you were really there.</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:16:20.589872</t>
+  </si>
+  <si>
+    <t>6hcn-x265</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:16:22.451885</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:16:24.29997</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:16:28.070833</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:16:29.942524</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:16:31.799715</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:16:43.410367</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:21:21.263095</t>
+  </si>
+  <si>
+    <t>Warehouse Inventory Search Tool</t>
+  </si>
+  <si>
+    <t>algorithms;calibration;NASA;Earth science;remote sensing;data processing;Japan</t>
+  </si>
+  <si>
+    <t>The Warehouse Inventory Search tool is a Web-based search-and-order tool that provides a way for users to search for Earth Science data from multiple participating archives.</t>
+  </si>
+  <si>
+    <t>2014-10-01 14:16:07.613963</t>
+  </si>
+  <si>
+    <t>5yxb-m2nj</t>
+  </si>
+  <si>
+    <t>2014-09-30 22:27:20.150428</t>
+  </si>
+  <si>
+    <t>2014-09-30 22:30:37.908036</t>
+  </si>
+  <si>
+    <t>2014-09-30 22:34:35.994343</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:28:22.632489</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:30:23.428717</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:41:01.884168</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:41:03.838529</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:41:05.714361</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:42:42.104082</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:42:43.876663</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:42:49.200398</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:42:52.738358</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:42:54.530212</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:42:56.3018</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:42:59.851613</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:43:01.662875</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:43:03.546037</t>
+  </si>
+  <si>
+    <t>2014-09-30 23:43:07.097972</t>
+  </si>
+  <si>
+    <t>Dear NASA Data Treasure Hunt Participant,</t>
+  </si>
+  <si>
+    <t>What methodology, technique, or system would you develop to help NASA discover new keywords (not only in the Space domain!) that will help NASA make its information assets become more easily accessible to the citizens of the world?</t>
+  </si>
+  <si>
+    <t>Remember: we ask you to provide us with both the new keywords for some or all of the 71 datasets whose metadata is listed under the 'metadata' worksheet in this workbook but we also ask you to explain and demonstrate the software or solution you developed to discover these new keywords!</t>
+  </si>
+  <si>
+    <t>Good luck!</t>
+  </si>
+  <si>
+    <t>Alon Peled (Alon.Peled@post.harvard.edu)</t>
+  </si>
+  <si>
+    <t>Under the "metadata" spreadsheet in this Excel workbook, you will find the data.json or ckan descriptions of 71 datasets that NASA released and that other governmental agencies worldwide have released on Open Government Data (GOD) portals.</t>
+  </si>
+  <si>
+    <t>You will see immediately why this 'data treasure hunt' challenge is so tough:--the hard-working and good public officials that publish these datasets have neither the time, resources, or expertise to develop good metadata that will make these datasets become more easily accessible and discoverable on the web for citizens and entrepreneurs working to solve data-driven non-space problems.</t>
+  </si>
+</sst>
