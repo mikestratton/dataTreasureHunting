@@ -3,14 +3,17 @@
 // Pseudo Code Derived from:
 // MESSAGE POSTED IN NASA STARTER KIT
 // Posted by Alon Peled, Harvard University
-// FILE: xl/sharedStrings.xml
+// FILE: NASA_starter_kit/xl/sharedStrings.xml
 
 Dear NASA Data Treasure Hunt Participant,
 
 1. Develop system to discover new keywords
   1.1 Provide new keywords for 71 data sets using meta data
   1.2 Explain and demonstrate solution
+  
   1.3 Import meta data from data.json or ckan
+      { FILE: 002.pseudo.JSON.code }
+      
   1.4 Output new meta data that is
     1.4.1 Easily accessible to non-technical user
     1.4.2 Search engine friendly
