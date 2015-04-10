@@ -1,1 +1,75 @@
-// Import meta data from data.json or ckan
+// Under the "metadata" spreadsheet in this Excel 
+// workbook, you  will find the data.json or ckan 
+// descriptions of 71 datasets that NASA released and 
+// that other governmental agencies worldwide have 
+// released on Open Government Data (GOD) portals.
+      
+// TODO: Import meta data from data.json or ckan
+
+import(FILE: "NASA_starter_kit/xl/sharedStrings.xml")
+public static void importMetaData
+{
+  array metadata = new array;
+    [categories
+      ( id,country,level,language,catalog_type,
+        english_title,english_keywords,english_category,
+        english_description,url,created_at,updated_at,
+        catalog_id,upload_date,crawl_time,catalog_record_id,
+        language(2),temporal_bounds,spatial_bounds,contact_name,
+        contact_email,contact_phone,publisher,access_level,
+        access_level_comment,license,issue_date,release_date,
+        last_update_date,update_frequency,bureau_code,program_code,
+        data_quality
+      )
+    ]
+  function(remove_uneccesary) {
+    array metdata = remove (  language,catalog_type,created_at,updated_at,
+                              catalog_id,upload_date,crawl_time,
+                              catalog_record_id,language(2),temporal_bounds,
+                              spatial_bounds,contact_name,contact_email,
+                              contact_phone,access_level,access_level_comment,
+                              license,issue_date,release_date,last_update_date,
+                              update_frequency,bureau_code,program_code,data_quality
+                            )
+    array metadata ==
+    [categories
+      ( id,country,level,english_title,english_keywords,english_category,
+        english_description,url,publisher  
+      )
+    ]
+  } // end remove_uneccessary
+  
+  function(storeCrucialMetaData {
+    array crucialMeta = new array;
+    
+    crucialMeta = metadata - (id,country,level,publisher);
+    crucialMeta == [categories
+                    ( english_title,english_keywords,english_category,
+                      english_description
+                    );
+    while ([categories (english_title == noContent)) {
+      function {1.locateData, 2.importData, 3.createEnglishTitle}
+    }
+    while ([categories (english_keywords == noContent)) {
+      function {1.locateData, 2.importData, 3.createEnglishKeywords}
+    }
+    while ([categories (english_category == noContent)) {
+      function {1.locateData, 2.importData, 3.createEnglishCategory}
+    }
+    while ([categories (english_description == noContent)) {
+      function {1.locateData, 2.importData, 3.createEnglishDescription}
+    }
+    //TODO: create sub-function that will locate datasource
+      subfunction {locateData}
+      
+    //TODO: create sub-function that import data
+      subfunction {importData}
+    
+    //TODO: create sub-function that will count characters in each category...
+    //if characters do not fall within a specific range, content must be adjusted
+     subfunction {createContent(CategoryType)}
+    
+  } // end storeCrucialMetaData
+  }//end public
+    
+
