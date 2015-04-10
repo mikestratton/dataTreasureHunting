@@ -1,7 +1,7 @@
 # dataTreasureHunting
 Created for NASA's Space Apps Challenge (2015). Website: https://2015.spaceappschallenge.org/challenge/data-treasure-hunting/
 
-// MESSAGE POSTED IN NASA STARTER KIT
+// MESSAGE POSTED IN NASA STARTER KIT    
 Dear NASA Data Treasure Hunt Participant,
 
 What methodology, technique, or system would you develop to help NASA discover new keywords (not only in the Space domain!) that will help NASA make its information assets become more easily accessible to the citizens of the world?
