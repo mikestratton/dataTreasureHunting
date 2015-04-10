@@ -5,6 +5,9 @@
   1.1 compare the metadata and the data of one information asset to another in order to find new keywords
     1.1.1 Word counter comparison 
       1.1.1.1 Import data
+        1.1.1.1.1 JSON?
+        1.1.1.1.2 PHP?
+        1.1.1.1.3 JAVA?
       1.1.1.2 Stanford's semantic processing to identify nouns, adjectives, verbs and adverbs
       1.1.1.3 Remove commonnly used or unnecessary words
       1.1.1.4 count number of times each word is used
