@@ -8,36 +8,43 @@ Dear NASA Data Treasure Hunt Participant,
 1. Develop system to discover new keywords
   1.1 Provide new keywords for 71 data sets using meta data
   1.2 Explain and demonstrate solution
-  1.3 
-  1.4 
+  1.3 Import meta data from data.json or ckan
+  1.4 Output new meta data that is
+    1.4.1 Easily accessible to non-technical user
+    1.4.2 Search engine friendly
+    1.4.3 Non-technical user friendly
+    1.4.4 Helps non-technical user solve data-driven, non-space problems
 
-1 {
-  What methodology, technique, or system would you develop 
+  1. { What methodology, technique, or system would you develop 
   to help NASA discover new keywords (not only in the Space 
   domain!) that will help NASA make its information assets 
   become more easily accessible to the citizens of the world?
   }
 
-2 {
-  Remember: we ask you to provide us with both the new keywords 
-  for some or all of the 71 datasets whose metadata is listed 
-  under the 'metadata' worksheet in this workbook but we also 
-  ask you to explain and demonstrate the software or solution 
-  you developed to discover these new keywords!
+    Remember: we ask you to provide us with both the 
+    1.1 { new keywords for some or all of the 71 datasets whose 
+          metadata is listed under the 'metadata' worksheet in this 
+          workbook 
+        } 
+        but we also ask you to 
+    1.2 { explain and demonstrate the software or solution 
+          you developed to discover these new keywords!
+        }
 
-3 {
-  Under the "metadata" spreadsheet in this Excel workbook, you 
-  will find the data.json or ckan descriptions of 71 datasets 
-  that NASA released and that other governmental agencies 
-  worldwide have released on Open Government Data (GOD) portals.
-  }
-
-4 {
-  You will see immediately why this 'data treasure hunt' challenge 
-  is so tough:--the hard-working and good public officials that 
-  publish these datasets have neither the time, resources, or 
-  expertise to develop good metadata that will make these datasets 
-  become more easily accessible and discoverable on the web for 
-  citizens and entrepreneurs working to solve data-driven non-space 
-  problems.
-  }
+    1.3 { Under the "metadata" spreadsheet in this Excel 
+          workbook, you  will find the data.json or ckan 
+          descriptions of 71 datasets that NASA released and 
+          that other governmental agencies worldwide have 
+          released on Open Government Data (GOD) portals.
+        }
+        
+    1.4 { You will see immediately why this 'data treasure hunt' 
+          challenge is so tough:--the hard-working and good public 
+          officials that publish these datasets have neither the 
+          time, resources, or expertise to develop good metadata 
+          that will make these datasets become more 
+            1.4.1 {easily accessible} and 
+            1.4.2 {discoverable on the web }
+            1.4.3 {for citizens  and entrepreneurs}
+            1.4.4 {working to solve data-driven non-space problems.}
+        }
