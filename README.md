@@ -2,7 +2,8 @@
 Created for NASA's Space Apps Challenge (2015).     
 Website: https://2015.spaceappschallenge.org/challenge/data-treasure-hunting/
 
-// MESSAGE POSTED IN NASA STARTER KIT    
+// MESSAGE POSTED IN NASA STARTER KIT  
+// Posted by Alon Peled, Harvard University    
      
 Dear NASA Data Treasure Hunt Participant,
 
@@ -11,8 +12,6 @@ What methodology, technique, or system would you develop to help NASA discover n
 Remember: we ask you to provide us with both the new keywords for some or all of the 71 datasets whose metadata is listed under the 'metadata' worksheet in this workbook but we also ask you to explain and demonstrate the software or solution you developed to discover these new keywords!
 
 Good luck!
-
-Alon Peled (Alon.Peled@post.harvard.edu)
 
 Under the "metadata" spreadsheet in this Excel workbook, you will find the data.json or ckan descriptions of 71 datasets that NASA released and that other governmental agencies worldwide have released on Open Government Data (GOD) portals.
 
