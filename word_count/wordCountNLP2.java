@@ -1,9 +1,7 @@
-
-
 import java.util.*;
 import java.io.*;
 
-public class wordCountNLP
+public class wordCountNLP2
 {  
     public static void main(String[] args) throws FileNotFoundException 
    {
@@ -14,17 +12,20 @@ public class wordCountNLP
       File file = new File(inputFile);
       Scanner in = new Scanner(file);
       
-      while (in.hasNext()) {
-         String word = in.next(); 
-            
-            if(map.containsKey(word)) {
-               Integer count = (Integer)map.get(word);
-               map.put(word, new Integer(count.intValue() + 1));
-            }           
-            else {
-               map.put(word, new Integer(1));
-            }
-       }
+      while(console.hasNextLine()){  // while there is a next line
+    String line = in.nextLine();  // line = that next line
+
+    // do something with that line
+    //String newLine;
+    String newLine = "c";
+    
+          // replace a character
+    for (int i = 0; i < line.length(); i++){
+        if (line.charAt(i) != 'a') {  // or anything other character you chose
+            newLine += line.charAt(i);
+        }
+    }
+
        
       Scanner output = new Scanner(System.in);           
       System.out.println("Please select output file name: ");
@@ -52,4 +53,7 @@ public class wordCountNLP
                   e.printStackTrace(); 
                }              
     }  
+
+
+}
 }
