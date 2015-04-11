@@ -1,0 +1,226 @@
+[
+    {
+        "id": "36114",
+        "url": "https://data.ny.gov/data.json"
+    },
+    {
+        "id": "33593",
+        "url": "https://data.ny.gov/data.json"
+    },
+    {
+        "id": "35879",
+        "url": "https://data.ny.gov/data.json"
+    },
+    {
+        "id": "35986",
+        "url": "https://data.ny.gov/data.json"
+    },
+    {
+        "id": "15721",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15722",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15724",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15725",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15726",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15732",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15870",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "39879",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "41875",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "41986",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "42114",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "43854",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "43922",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44263",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44264",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44265",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44319",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44320",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44323",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44325",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "11237",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "44327",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44329",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44330",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44331",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44333",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44334",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44335",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44337",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44338",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44339",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44345",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44483",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "44326",
+        "url": "http://data.oregon.gov/data.json"
+    },
+    {
+        "id": "13266",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "13373",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "13501",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15241",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15309",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15650",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15651",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15652",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15706",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15707",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15710",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15712",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15713",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15714",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15716",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15717",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15718",
+        "url": "http://data.hawaii.gov/data.json"
+    },
+    {
+        "id": "15720",
+        "url": "http://data.hawaii.gov/data.json"
+    }
+]
