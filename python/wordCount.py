@@ -1,11 +1,12 @@
 #!/usr/bin/python
 import re
-file=open("id59748.txt","r+")
+file=open("HAWAII_GOV_readout_ANSI.txt","r+")
 wordcount={}
 
 for word in file.read().split():
 
-    word = re.sub('[^\w]', '', word)
+    #remove alphanumeric characters and underscores
+    #word = re.sub('[^\w]', '', word)
     
     if word not in wordcount:
         wordcount[word] = 1
@@ -13,7 +14,6 @@ for word in file.read().split():
         wordcount[word] += 1
         
 for k,v in wordcount.items():
-    sorted(word, key=lambda total: total[1])
     print(k,v)
-    #(word,wordcount)
+    #print(word,wordcount)
 file.close();

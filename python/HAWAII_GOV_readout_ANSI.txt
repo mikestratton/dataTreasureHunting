@@ -1,0 +1,1411 @@
+0
+  Hawaii State Ethics Commission's Organizations' Expenditure Statements Hawaii State Ethics Commission's Organizations' Expenditure Statements
+***************************
+1
+  Hawaii State Ethics Commission's Lobbyist Registration Statements Hawaii State Ethics Commission's Lobbyist Registration Statements
+***************************
+2
+  Hawaii State Ethics Commission's Lobbyists' Expenditure Statements Hawaii State Ethics Commission's Lobbyists' Expenditure Statements
+***************************
+3
+  Hawaii State Ethics Commission's Public Disclosures Hawaii State Ethics Commission's Public Disclosures
+***************************
+4
+ Health Current & Expired Product List List of pesticide products licensed for distribution and sale in the state of Hawaii, including currently licensed and expired.  This list is provided for informational purposes only.  Restricted use pesticides are indicated by an asterisk (*).  Restricted use pesticides can only be distributed and sold by a licensed dealer and only to certified applicators.  It is a violation of state and federal laws to use these restricted use pesticides unless the person is a certified pesticide applicator or under the direct supervision of a certified pesticide applicator.  Product names followed by a number in parenthesis, for example (1) or (2), indicate that the product will be discontinued and will only be renewed for one or two additional years after the current license period expires.
+***************************
+5
+wc weeks claimed ui weeks claimed ui wc weeks claims Employment UI WC2009 To Present ODI Weeks claimed are requests for weekly unemployment payments, whether or not benefits are actually paid.
+***************************
+6
+ui ic ic initial claims Employment UI Initial Claims 2009 To Present Initial claims initiate a determination of eligibility to begin a claimant's benefit year (new claims) or subsequent period of unemployment (additional claims) within the benefit year.
+***************************
+7
+campaign spending commission campaign finance candidate hawaii candidates fundraiser fundraiser notices Community Fundraiser Notices Filed By Hawaii State and County Candidates Fundraiser Notices Filed By Hawaii State and County Candidates
+***************************
+8
+  Agricultural Use Refunds (Gasoline) Gasoline used for off-road consumption in agricultural production is subject to a tax of only 1 cent per gallon.  The user is eligible for a refund for any taxes paid on such gasoline in excess of 1 cent per gallon.
+***************************
+9
+  Liquid Fuel Tax Allocation by Fund This series shows how the State and County liquid fuel taxes and the State environmental response tax are divided between the State and the Counties and how the tax collections are distributed among the various special funds.
+***************************
+10
+  Maui County Fuel Tax Allocation (by Island) The Maui County Fuel Tax Allocation by island, which is 99% of what is collected, as is reported on tax form M-20A.
+***************************
+11
+  General Excise and Use Tax Collections This series shows taxable income and taxes collected for the general excise tax, broken down by activity of the taxpayer (e.g., retailing, services, contracting, etc.)
+***************************
+12
+  Liquid Fuel Tax Base and Tax Collections This series shows quantities and tax amounts for fuel subject to fuel taxes or to the environmental response tax.  The quantities and taxes are broken down by county and by type of fuel.
+***************************
+13
+  Liquor Tax Collections and Permits This series shows collections of the liquor tax and permit fees, and penalties and interest on the tax.
+***************************
+14
+  Tobacco Tax Collections and Permits This series shows collections of the cigarette and tobacco taxes, broken down by type of tobacco product.  The series also shows how the tax on cigarettes is allocated among the various special funds.
+***************************
+15
+  State Tax Collections and Distribution This series shows collections of taxes administered by the State and the allocations of the taxes among the State's general fund and the various special funds.
+***************************
+16
+uipa oip records request Government-Wide Support OIP Master UIPA Record Request Semiannual Log For FY 2015 OIP Master UIPA Record Request Semiannual Log For FY 2015 (record requests received July 1, 2014, through December 31, 2014)
+***************************
+17
+  Projects Awarded Projects Awarded
+***************************
+18
+  Projects Completed Projects Completed
+***************************
+19
+  Projects Accepted Projects Accepted
+***************************
+20
+  Projects Under Construction Projects Under Construction
+***************************
+21
+  Projects Planned Projects Planned
+***************************
+22
+  OIP Master UIPA Record Request Year- End Log For FY 2014 19mar15 This Master Log is the basis for OIP's Summary of the Master UIPA Record Request Year-End Log for FY 2014. This Log is as of March 19, 2015, with one agency deleted (Solid & Hazardous Waste Branch of the Department of Health).
+***************************
+23
+uipa oip records request Government-Wide Support OIP Master UIPA Record Request Year-End Log For FY 2014 OIP Master UIPA Record Request Year-End Log For FY 2014 (record requests received July 1, 2013, through June 30, 2014
+***************************
+24
+  Hawaii State Ethics Commission's Ethics Advice Hawaii State Ethics Commission's Ethics Advice
+***************************
+25
+ Health Kaua'i Agricultural Good Neighbor Program RUP Use Reporting Aggregate usage of Restricted Use Pesticides as reported through the Kaua'i Agricultural Good Neighbor Program.
+***************************
+26
+  KAGNP Receipt Log Record of receipt of monthly RUP use summary from those farms participating in the Kaua'i Agricultural Good Neighbor Program.
+***************************
+27
+  Gasoline Prices: U.S. vs. Hawaii  (Source: DBEDT) Gasoline Prices: U.S. vs. Hawaii  (Source: DBEDT)
+***************************
+28
+  Electricity Prices: U.S. vs Hawaii  (Source: EIA) Electricity Prices: U.S. vs Hawaii  (Source: EIA)
+***************************
+29
+  HDOA TEST Dataset Updated HDOA Registered Livestock brand with brand picture included in the dataset.
+***************************
+30
+  Election Maps - Statewide Election Maps - Statewide
+***************************
+31
+  Number of employments employed by QHTBs, by employment status Number of employments employed by QHTBs, by employment status
+***************************
+32
+  Reported Research Expenses And Tax Credit Reported Research Expenses And Tax Credit
+***************************
+33
+  Qualified High Technology Businesses Qualified High Technology Businesses
+***************************
+34
+  Hawaii Ledger Dataset Hawaii Ledger Dataset
+***************************
+35
+  Film Tax Credit Film Tax Credit
+***************************
+36
+  Expenditures Expenditures
+***************************
+37
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Durable Assets For Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014 Durable Assets For Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014
+***************************
+38
+ Community Fundraiser Notices Filed By Hawaii Noncandidate Committees Fundraiser Notices Filed By Hawaii Noncandidate Committees
+***************************
+39
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Expenditures Made By Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014 Expenditures Made By Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014
+***************************
+40
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Other Receipts For Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014 Other Receipts For Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014
+***************************
+41
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Durable Assets For Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014 Durable Assets For Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014
+***************************
+42
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Unpaid Expenditures For Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014 Unpaid Expenditures For Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014
+***************************
+43
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Contributions Received By Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014 Contributions Received By Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014
+***************************
+44
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Campaign Contributions Made To Candidates By Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014 Campaign Contributions Made To Candidates By Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014
+***************************
+45
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Loans Received By Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014 Loans Received By Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014
+***************************
+46
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Unpaid Expenditures For Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014 Unpaid Expenditures For Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014
+***************************
+47
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Other Receipts For Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014 Other Receipts For Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014
+***************************
+48
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Expenditures Made By Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014 Expenditures Made By Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014
+***************************
+49
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending elections Community Campaign Contributions Received By Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014 Campaign Contributions Received By Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014
+***************************
+50
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Profiles For Hawaii State and County Candidates Profiles For Hawaii State and County Candidates
+***************************
+51
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Organizational Reports For Hawaii Noncandidate Committees Organizational Reports For Hawaii Noncandidate Committees
+***************************
+52
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Organizational Reports For Hawaii State and County Candidates Organizational Reports For Hawaii State and County Candidates
+***************************
+53
+  Capital Improvement Projects Capital Improvement Projects
+***************************
+54
+campaign spending candidates campaign spending commission elections Community 2014 Elections - Ballot Issue Committees 2014 Elections - Ballot Issue Committees
+***************************
+55
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending Community Election Periods for Hawaii Noncandidate Committees Election Periods for Hawaii Noncandidate Committees
+***************************
+56
+ Community 2014 Elections - Super PACs Total Receipts and Total Disbursements 2014 Elections - Super PACs Total Receipts and Total Disbursements
+***************************
+57
+campaign spending candidates campaign spending commission elections Community 2014 Elections - Independent Expenditure Committees Financial Summaries (as of November 4, 2014) 2014 Elections - Independent Expenditure Committees Financial Summaries (as of November 4, 2014)
+***************************
+58
+  Hawaii Long-Form Content Configuration Hawaii Long-Form Content Configuration
+***************************
+59
+  UFund Data FY 2015 UFund Data FY 2015
+***************************
+60
+  Ez.shp Ez.shp
+***************************
+61
+ Economic Development Dbedt Tax Credits Dbedt Tax Credits
+***************************
+62
+  Hawaii Operating Budget Hawaii Operating Budget
+***************************
+63
+  Major Recurring Federal Awards Major Recurring Federal Awards
+***************************
+64
+ Other Maui County Office of Council Services: UIPA Record Requests Log Maui County Office of Council Services: UIPA Record Requests Log
+***************************
+65
+  Hawaii String Configurations Hawaii String Configurations
+***************************
+66
+ Government-Wide Support UIPA- Record- Request- Log- FORM. FY2015 July - Dec 2014 - Budget And Finance FY 2015 July-December 2014
+***************************
+67
+  Solar- Related Construction Expenditures (value of solar projects as percentage of total building permit value)    (Source: DBEDT) Solar- Related Construction Expenditures (value of solar projects as percentage of total building permit value)    (Source: DBEDT)
+***************************
+68
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending elections Community 2014 Elections - Lt. Governor - Receipts and Disbursements 2014 Elections - Lt. Governor - Receipts and Disbursements
+***************************
+69
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending elections Community 2014 Elections - Kauai Mayor - Receipts and Disbursements 2014 Elections - Kauai Mayor - Receipts and Disbursements
+***************************
+70
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending elections Community 2014 Elections - Maui Mayor - Receipts and Disbursements 2014 Elections - Maui Mayor - Receipts and Disbursements
+***************************
+71
+campaign spending commission campaign finance candidate hawaii candidates contributions political contributions campaign contributions campaign spending elections Community 2014 Elections - Governor - Receipts and Disbursements 2014 Elections - Governor - Receipts and Disbursements
+***************************
+72
+campaign spending elections Community 2014 Elections - Top 10 Surplus (as of November 4, 2014) 2014 Elections - Top 10 Surplus (as of November 4, 2014)
+***************************
+73
+campaign spending campaign elections Community 2014 Elections - Top 10 Cost Per Vote 2014 Elections - Top 10 Cost Per Vote
+***************************
+74
+campaign spending elections Community 2014 Expenditures by Category 2014 Expenditures by Category
+***************************
+75
+campaign spending commission Community 2014 Elections - Expenditures by Authorized Use 2014 Elections - Expenditures by Authorized Use
+***************************
+76
+campaign spending commission Community 2014 Elections - Top 10 Expenditures 2014 Elections - Top 10 Expenditures
+***************************
+77
+campaign spending commission Community 2014 Elections - Top 10 Disbursements (includes Expenditures, Loans Repaid/Forgiven and Unpaid Ex. Paid/Forgiven) 2014 Elections - Top 10 Disbursements (includes Expenditures, Loans Repaid/Forgiven and Unpaid Ex. Paid/Forgiven)
+***************************
+78
+campaign spending commission Community 2014 Elections - Loans by Loan Type 2014 Elections - Loans by Loan Type
+***************************
+79
+campaign spending commission Community 2014 Elections - Top 10 Loans 2014 Elections - Top 10 Loans
+***************************
+80
+cmapaign spending commission Community 2014 Elections - Contributions Received (more than $100) by Contibutor Type 2014 Elections - Contributions Received (more than $100) by Contibutor Type
+***************************
+81
+campaign spending commission Community 2014 Elections - Top 10 Contributions Received 2014 Elections - Top 10 Contributions Received
+***************************
+82
+ Community 2014 Elections - Total Disbursements 2014 Elections - Total Disbursements
+***************************
+83
+ Community 2014 Elections - Total Receipts 2014 Elections - Total Receipts
+***************************
+84
+ Community 2014 Elections - Total Receipts and Disbursements by Office 2014 Elections - Total Receipts and Disbursements by Office
+***************************
+85
+campaign spending commission Community 2014 Elections - Top 10 Receipts (includes Contributions Received, Other Receipts and Loans) 2014 Elections - Top 10 Receipts (includes Contributions Received, Other Receipts and Loans)
+***************************
+86
+  View Bid Results View Bid Results
+***************************
+87
+  Sample DataSet For testing purposes only
+***************************
+88
+uipa oip records request Government-Wide Support OIP Master UIPA Record Request Semiannual Log for FY 2014 OIP Master UIPA Record Request Semiannual Log For FY 2014 (record requests received July 1, 2013, through December 31, 2013)
+***************************
+89
+  Construction Bids 13-14 Construction Bids 13-14
+***************************
+90
+  Construction Bids Construction Bids
+***************************
+91
+sbir hawaii award 2013 htdc innovate hawaii high technology development corporation Economic Development Phase 2 SBIR Awards in Hawaii - 2000~2013 Phase 2 SBIR Awards in Hawaii from 2000 to 2013
+***************************
+92
+hawaii sbir 2013 phase 1 award Economic Development SBIR Awards in Hawaii - Phase 1 - 2000 to 2013 Phase 1 SBIR Awards in State of Hawaii from 2000 to 2013
+***************************
+93
+  IE for 2014 IE for 2014
+***************************
+94
+  [Open Expenditures] Content Config [Open Expenditures] Content Config
+***************************
+95
+  [Open Expenditures] String Config [Open Expenditures] String Config
+***************************
+96
+  Hawaii Renewable Portfolio Standards ( RPS)  (Source: Hawaii Public Utilities Commission) Hawaii Renewable Portfolio Standards ( RPS)  (Source: Hawaii Public Utilities Commission)
+***************************
+97
+  Hawaii Energy Efficiency Portfolio Standards (EEPS)  (Source: Hawaii Public Utilities Commission) Hawaii Energy Efficiency Portfolio Standards (EEPS)  (Source: Hawaii Public Utilities Commission)
+***************************
+98
+  Hawaii Renewable Energy Generation by Utility/County (Source: Hawaii Public Utilities Commission) Hawaii Renewable Energy Generation by Utility/County (Source: Hawaii Public Utilities Commission)
+***************************
+99
+  New Distributed Renewable Energy Systems Installed In Hawaii (Source: Hawaii Public Utilities Commission) New Distributed Renewable Energy Systems Installed In Hawaii (Source: Hawaii Public Utilities Commission)
+***************************
+100
+cip capital Government-Wide Support Table 21.25 STATE GOVERNMENT CAPITAL IMPROVEMENT PROJECT EXPENDITURES  1990 TO 2013 * General obligation bond consists of general obligation bonds and reimbursable general obligation bonds.    							
+* Revenue bond consists of revenue bonds and special purpose revenue bonds.    							
+* Federal funds includes special federal aid:  interstate, primary, secondary; and federal funds.   							
+     Source:  Hawaii State Department of Accounting and General Services, records, and calculations by DBEDT							
+Please go to the DBEDT Databook site, http://hawaii.gov/dbedt/info/economic/databook,  for the complete data source.
+***************************
+101
+visitor unit county Culture and Recreation Table 23.34 VISITOR ACCOMMODATIONS, BY COUNTY  1975 TO 2013 (number Of Units) Source:  Hawaii Tourism Authority, Visitor Plant Inventory (annual) 					
+Please go to the DBEDT Databook site, http://hawaii.gov/dbedt/info/economic/databook,  for the complete data source.
+***************************
+102
+population Government-Wide Support Table 1.06 RESIDENT POPULATION, BY COUNTY 2000 TO 2013 (as of July 1) * Based on place of usual residence, regardless of physical location on the estimate or census date.  									
+* Includes military personnel stationed or homeported in Hawaii and residents temporarily absent; excludes visitors present									
+* Maui County includes Kalawao County (Kalaupapa Settlement).  Kalawao had 147 in 2000, 90 in 2010 and 90 in 2013. 									
+* Population estimates for 2000 through 2009 were revised based upon the April 1, 2010  figures which were released September 28, 2011.  									
+* Population estimates after April 1, 2010 were based on revisions released in March 2014 and may differ somewhat from earlier figures cited in other tables. 									
+     Source:  U.S. Bureau of the Census
+***************************
+103
+population Economic Development Table 1.09 DE FACTO POPULATION, BY COUNTY  1990 TO 2013 (as of July 1) * Includes all persons physically present in an area, regardless of military status or usual place of residence.  					
+* Includes visitors present but excludes residents temporarily absent, both calculated as an average daily census.					
+* Maui County includes Kalawao County.  The 2013 de facto population of Kalawao County, which is the Kalaupapa Settlement on Molokai, was 90. 					
+     Source:  DBEDT calculations based on Hawaii tourism data and population data by the U.S. Census Bureau					
+Please go to the DBEDT Databook site, http://hawaii.gov/dbedt/info/economic/databook,  for the complete data source.
+***************************
+104
+high school graduates public private Economic Development Table 3.14 HAWAII STATE HIGH SCHOOL GRADUATES BY PUBLIC AND PRIVATE HIGH SCHOOL 1982 TO 2013 Source:  University of Hawai'i, Institutional Research and Analysis Office, records.
+***************************
+105
+enrollment Economic Development Table 3.22 HEADCOUNT ENROLLMENT AT THE UNIVERSITY OF HAWAII, BY CAMPUS  FALL 1997 TO 2013 * Fall headcount of credit students, includes special students (early admits and concurrent registrants) for all years shown																
+* Unclassified at UH Manoa includes no data on educational level.																
+     Source:  University of Hawai'i, Institutional Research and Analysis Office, records.
+***************************
+106
+marine army air force navy Public Safety Table 10.03 ACTIVE DUTY PERSONNEL, BY SERVICE 1953 TO 2013 * As of June 30 for 1953 to 1956; as of September 30 for 1957 and thereafter. 											
+* Excludes Coast Guard											
+* Exclude personnel afloat or temporary shore-based, but include deployed for Operations Iraqi Freedom, Enduring Freedom, and New Dawn.											
+     Source:  U.S. Department of Defense, Defense Manpower Data Center, Statistical Information Analysis Division, Historical Military Personnel and Active Duty Military Personnel by Service by Region/Country, Total DOD											
+Please go to the DBEDT Databook site, http://hawaii.gov/dbedt/info/economic/databook,  for the complete data source.
+***************************
+107
+social security Economic Development Table 11.11 SOCIAL SECURITY BENEFICIARIES AND BENEFITS PAID 1991 TO 2012 * December data.  Previous to 2006 based on 10-percent samples, 2006 and after based on Master Beneficiary Record, 100 percent data								
+* Previous to 2007 includes special age-72 beneficiaries.								
+    Source:  U.S. Social Security Administration, Office of Policy Data, Annual Statistical Supplement,								
+Please go to the DBEDT Databook site, http://hawaii.gov/dbedt/info/economic/databook,  for the complete data source.
+***************************
+108
+wage dollars Economic Development Table 12.27 AVERAGE ANNUAL WAGE  IN CURRENT AND CONSTANT DOLLARS  1969 TO 2012 *For Employees Covered by the Hawaii Employment Security Law and Unemployment Compensation for Federal Employees, including government							
+     Source:  Hawaii State Department of Labor and Industrial Relations, Employment and Payrolls in Hawaii , and U.S. Bureau of Labor Statistics, Honolulu Consumer Price Index, All Items							
+Please go to the DBEDT Databook site, http://hawaii.gov/dbedt/info/economic/databook,  for the complete data source.
+***************************
+109
+gdp capita resident Economic Development Table 13.02 GROSS DOMESTIC PRODUCT, TOTAL AND PER CAPITA AND RESIDENT POPULATION 1963 TO 2013 * Real GDP is an inflation-adjusted measure of each State’s gross product that is based on national prices for the goods and services produced within that State.							
+*  Midyear population estimates of the Census Bureau.  Last updated on March 27, 2014.							
+* There is a discontinuity in the GDP time series at 1997, when the data change from SIC industry definitions to NAICS industry definition.  This data discontinuity may affect both the levels and the growth rates of the GDP estimates. Users of the GDP estimates are strongly cautioned against appending the two data series in an attempt to construct a single time series of GDP estimates for 1963 to 2013. 							
+     Source:  U.S. Bureau of Economic Analysis, Gross Domestic Product by Industry 1963 to 2013,  Annual State Personal Income and Employment, "SA1-3 Personal income summary, Population 1929-2013" and DBEDT calculation							
+Please go to the DBEDT Databook site, http://hawaii.gov/dbedt/info/economic/databook,  for the complete data source.
+***************************
+110
+income Economic Development Table 13.07 TOTAL AND PER CAPITA PERSONAL INCOME FOR THE UNITED STATES AND HAWAII 1969 TO 2012 * Resident population as of July 1 of year indicated.							
+* Per capita personal income is total personal income divided by July 1 population. 									
+     Source:  U.S. Bureau of Economic Analysis, State Personal Income, and calculations by DBEDT 							
+Please go to the DBEDT Databook site, http://hawaii.gov/dbedt/info/economic/databook,  for the complete data source.
+***************************
+111
+price index cpi Economic Development Table 14.04 CONSUMER PRICE INDEX, FOR ALL URBAN CONSUMERS ( CPI- U), ALL ITEMS, FOR HONOLULU AND UNITED STATES  1940 TO 2013 * 1982-1984 average = 100.  Excludes rent before 1963							
+     Source:  For Honolulu: 1940-1963 from surveys by Eugene Danaher and Hawaii State Department of Labor and Industrial Relations, cited in Hawaii State Department of Planning and Economic Development,							
+U.S. Bureau of Labor Statistics, Consumer Price Index-All Urban Consumers [CPI-U] Honolulu and the United States							
+Please go to the DBEDT Databook site, http://hawaii.gov/dbedt/info/economic/databook,  for the complete data source.
+***************************
+112
+energy Economic Development Table 17.03 CONSUMPTION OF ENERGY BY END- USE SECTOR 1960 TO 2011 (Trillion btu)
+* There is a discontinuity between 1988 and 1989 due to the expanded coverage of renewable energy sources beginning in 1989.										
+* Beginning in 1980, adjusted for the double-counting of supplemental gaseous fuels, which are included in both natural gas and the other fossil fuels from which they are mostly derived, but should be counted only once in net energy and total.										
+* Small amouts of solar thermal and photovoltaic energy consumed in the commercial sector cannot be separately identified and are included in residential consumption.  										
+* From 1981 through 1992, includes fuel ethanol blended into motor gasoline that is not included in the motor gasoline column.  										
+* Beginning in 1980, adjusted for the double-counting of supplemental gaseous fuels, which are included in both natural gas and the other fossil fuels from which they are mostly derived, but should be counted only once in net energy and total.										
+     Source:  U.S. Department of Energy, Energy Information Administration, State Energy Data System (SEDS)										
+Please go to the DBEDT Databook site, http://hawaii.gov/dbedt/info/economic/databook,  for the complete data source.
+***************************
+113
+energy Economic Development Table 17.05 PRIMARY ENERGY CONSUMPTION, BY SOURCE  1993 TO 2012 Source:  Hawaii State Department of Business, Economic Development & Tourism, Strategic Industries Division, Energy Planning & Policy Branch, records.
+***************************
+114
+cars vehicles Economic Development Table 18.07  MOTOR VEHICLES REGISTERED, BY COUNTY 1995 TO 2013 * Taxable and exempt vehicles.  							
+* Includes passenger cars, ambulances, buses, trucks, motorcycles and vehicles registered but subsequently scrapped or shipped out of State.  							
+* Exclude trailers and semi-trailers							
+     Source:  Hawaii State Department of Transportation, Safe Communities Program, records.
+***************************
+115
+bus transit Transportation Facilities Table 18.25 PUBLIC TRANSIT, FOR OAHU  1993 TO 2013 * As of June 30.  Service provided by City and County of Honolulu bus system							
+* Number of buses refers to number of buses in active fleet.							
+* Vehicle miles and total passengers are estimated.							
+* Bus strike for 34 days in 2004.							
+     Source:  City and County of Honolulu, Department of Transportation Services, Public Transit Division, records.
+***************************
+116
+ampaign spending commission campaign finance candidate hawaii candidates statement of intent public funds Community Statement of Intents Filed By Hawaii State and County Candidates Statement of Intents Filed By Hawaii State and County Candidates
+***************************
+117
+campaign spending commission campaign finance candidate hawaii candidates fundraiser fundraiser notices Community Fundraiser Notices Filed By Hawaii State and County Candidates (2009-2012) Fundraiser Notices Filed By Hawaii State and County Candidates (2009-2012)
+***************************
+118
+  Electricity Use per Capita (monthly kWh per person) Electricity Use per Capita (monthly kWh per person)
+***************************
+119
+oip uipa records requests log sample practice  Sample (Practice) OIP Master UIPA Records Request Log For All Agencies Office of Information Practices Master Log for all agencies to practice using to upload their own logs of record requests received under the Uniform Information Practices Act.
+***************************
+120
+degrees outcomes higher education college university Formal Education University Of Hawaii - Degrees Awarded By Major, CIP, And Hawaiian Legacy Degrees awarded for Fiscal Years 2010, 2011, 2012, 2013, 2014
+***************************
+121
+enrollment higher education demographics gender college Formal Education University Of Hawaii - Enrollment Demographics Enrollment demographics for the University of Hawaii for Fall Enrollments from Fall 2010
+***************************
+122
+enrollment zip code higher education Formal Education University Of Hawaii - Enrollment By Zipcode Summary enrollment headcount by zipcode for Fall enrollments
+***************************
+123
+  Second in Nation 2014 Electric Vehicles Registered (Source: Clean Edge) Second in Nation 2014 Electric Vehicles Registered (Source: Clean Edge)
+***************************
+124
+  First in Nation Per Capita Top Ten U.S. States Ranked by Grid-Connected PV Cumulative Installed Capacity per Capita (Source: Interstate Renewable Energy Council) First in Nation Per Capita Top Ten U.S. States Ranked by Grid-Connected PV Cumulative Installed Capacity per Capita (Source: Interstate Renewable Energy Council)
+***************************
+125
+ampaign spending commission campaign finance candidate hawaii candidates affidavit expenditure limits Community Affidavits Filed By Hawaii State and County Candidates Affidavits Filed By Hawaii State and County Candidates
+***************************
+126
+  Hawaii Renewable Energy Generation By Resource (Source: Hawaii Public Utilities Commission) Hawaii Renewable Energy Generation By Resource (Source: Hawaii Public Utilities Commission)
+***************************
+127
+  Hawaii Public Electric Vehicle Charging Stations Hawaii Public Electric Vehicle Charging Stations
+***************************
+128
+ Employment Job Count by Industry - State of Hawaii This dataset shows the job counts by industry for the State of Hawaii and will be updated monthly with new data.
+***************************
+129
+  Hawaii's Petroleum Use, Gallons by Sector (Source: DBEDT) Hawaii's Petroleum Use, Gallons by Sector (Source: DBEDT)
+***************************
+130
+  Hawaii's Electricity Production by Source (Source: EIA) Hawaii's Electricity Production by Source (Source: EIA)
+***************************
+131
+  Third in Nation 2013 Clean Energy Jobs Announced (Source: E2 Environmental Entrepreneurs) Third in Nation 2013 Clean Energy Jobs Announced (Source: E2 Environmental Entrepreneurs)
+***************************
+132
+ Employment Top 50 Employers - Maui County Largest employers in Maui County as provided by InfoGroup.
+***************************
+133
+ Employment Top 50 Employers - Kauai County Largest employers in Kauai County as provided by InfoGroup.
+***************************
+134
+employer business company Employment Top 50 Employers - Hawaii County Largest employers in Hawaii County as provided by InfoGroup.
+***************************
+135
+employer business company Employment Top 50 Employers - Honolulu County Largest employers in Honolulu County as provided by InfoGroup.
+***************************
+136
+  First In Nation 2013 Energy Services Coalition "Race to the Top"  (Source: Energy Services Coalition) First In Nation 2013 Energy Services Coalition "Race to the Top"  (Source: Energy Services Coalition)
+***************************
+137
+  Ninth in Nation 2013 LEED Green Building (Source: U.S. Green Building Council) Ninth in Nation 2013 LEED Green Building (Source: U.S. Green Building Council)
+***************************
+138
+  Second in Nation 2013 United States Renewable Energy Attractiveness Indices (Source: Ernst & Young) Second in Nation 2013 United States Renewable Energy Attractiveness Indices (Source: Ernst & Young)
+***************************
+139
+  First in Nation 2013 The "Solar Stars" (Cities with more than 50 watts of installed solar PV capacity per person, end of 2013)  (Source: Environment America Research & Policy Center) First in Nation 2013 The "Solar Stars" (Cities with more than 50 watts of installed solar PV capacity per person, end of 2013)  (Source: Environment America Research & Policy Center)
+***************************
+140
+  RPS copy on data.hawaii.gov RPS copy on data.hawaii.gov
+***************************
+141
+unemployment unemployment rate employed unemployed maui county monthly Employment UNEMPLOYMENT RATE - MAUI County - Monthly - Not Seasonally Adjusted UNEMPLOYMENT RATE - MAUI County - Monthly - Not Seasonally Adjusted
+***************************
+142
+unemployment unemployment rate employed unemployed maui county annual Employment UNEMPLOYMENT RATE - MAUI County - Annual - Not Seasonally Adjusted UNEMPLOYMENT RATE - MAUI County - Annual - Not Seasonally Adjusted
+***************************
+143
+jobs jobcount job count state hawaii annual Employment JOBCOUNT - STATE OF HAWAII - Annual - Not Seasonally Adjusted JOBCOUNT - STATE OF HAWAII - Annual - Not Seasonally Adjusted
+***************************
+144
+  Home Page Stories Home Page Stories
+***************************
+145
+unemployment unemployment rate employed unemployed state hawaii monthly Employment UNEMPLOYMENT RATE - STATE OF HAWAII - Monthly - Not Seasonally Adjusted UNEMPLOYMENT RATE - STATE OF HAWAII - Monthly - Not Seasonally Adjusted
+***************************
+146
+unemployment unemployment rate employed unemployed kauai county monthly Employment UNEMPLOYMENT RATE - KAUAI County - Monthly - Not Seasonally Adjusted UNEMPLOYMENT RATE - KAUAI County - Monthly - Not Seasonally Adjusted
+***************************
+147
+unemployment unemployment rate employed unemployed kauai county annual Employment UNEMPLOYMENT RATE - KAUAI County - Annual - Not Seasonally Adjusted UNEMPLOYMENT RATE - KAUAI County - Annual - Not Seasonally Adjusted
+***************************
+148
+unemployment unemployment rate employed unemployed honolulu oahu monthly Employment UNEMPLOYMENT RATE - HONOLULU - Monthly - Not Seasonally Adjusted UNEMPLOYMENT RATE - HONOLULU - Monthly - Not Seasonally Adjusted
+***************************
+149
+unemployment unemployment rate employed unemployed honolulu oahu county annual Employment UNEMPLOYMENT RATE - HONOLULU - Annual - Not Seasonally Adjusted UNEMPLOYMENT RATE - HONOLULU - Annual - Not Seasonally Adjusted
+***************************
+150
+unemployment unemployment rate employed unemployed hawaii county monthly Employment UNEMPLOYMENT RATE - HAWAII County - Monthly - Not Seasonally Adjusted UNEMPLOYMENT RATE - HAWAII County - Monthly - Not Seasonally Adjusted
+***************************
+151
+unemployment unemployment rate employed unemployed hawaii county annual Employment UNEMPLOYMENT RATE - HAWAII County - Annual - Not Seasonally Adjusted UNEMPLOYMENT RATE - HAWAII County - Annual - Not Seasonally Adjusted
+***************************
+152
+unemployment unemployment rate employed unemployed state hawaii monthly Employment UNEMPLOYMENT RATE - STATE OF HAWAII - Monthly - Seasonally Adjusted UNEMPLOYMENT RATE - STATE OF HAWAII - Monthly - Seasonally Adjusted
+***************************
+153
+green grocery store dbedt sustainabe Economic Development HGBP Grocery Stores HGBP Grocery Stores
+***************************
+154
+green restaurants sustainable dbedt hawaii Economic Development HGBP Restaurants HGBP Restaurants
+***************************
+155
+green business hotel resort hospitality Economic Development HGBP Hotels & Resorts HGBP Hotels & Resorts
+***************************
+156
+green business hawaii dbedt hotels offices restaurants grocery stores Economic Development Green Business Program Green Business Program
+***************************
+157
+  Sixth in Nation 2013 Annual PV Installations (Source: Solar Energy Industries Association) Sixth in Nation 2013 Annual PV Installations (Source: Solar Energy Industries Association)
+***************************
+158
+  International Students in Hawaii International Students in Hawaii
+***************************
+159
+  State Tax Revenue On International Study State Tax Revenue On International Study
+***************************
+160
+  Hawaii International Study Direct Spending-2 Hawaii International Study Direct Spending-2
+***************************
+161
+ Government-Wide Support Special Expenditures FY 13 - 01-12
+***************************
+162
+ Government-Wide Support Trust Expenditures FY 13 - 01-12
+***************************
+163
+ Government-Wide Support Bond Expenditures FY 13 - 01-12
+***************************
+164
+ Government-Wide Support General Expenditures FY 13 - 01-12
+***************************
+165
+ Government-Wide Support Purchasing Card Expenditures uploaded 2013.01.23
+***************************
+166
+  Major Object Descriptions for use with Expenditure data
+***************************
+167
+  Program ID Descriptions for use with Expenditure data
+***************************
+168
+  Department Descriptions to be used with Expenditure data
+***************************
+169
+  Budget Table: K2 (Other Current Expenses: Leasing) Budget Table: K2 (Other Current Expenses: Leasing)
+***************************
+170
+  Budget Table: J4 (Motor Vehicles) Budget Table: J4 (Motor Vehicles)
+***************************
+171
+  Budget Table: J3 (Equipment) Budget Table: J3 (Equipment)
+***************************
+172
+  Budget Table: J2 (Other Current Expenses) Budget Table: J2 (Other Current Expenses)
+***************************
+173
+  Budget Table - J1 (Salary and FTE) Budget Table - J1 (Salary and FTE)
+***************************
+174
+oimt procurements spending acquisitions Other OIMT Spending Report to Legislature FY13-FY14 OIMNT Spending Report to Legislature
+***************************
+175
+  PC TSSB WKLY ICSD
+***************************
+176
+  Blog Posts Blog Posts
+***************************
+177
+  Top 10 Source Countries Of International Students in the US 2013 Top 10 Source Countries Of International Students in the US 2013
+***************************
+178
+  Hawaii International Study Market Share Compare To US Hawaii International Study Market Share Compare To US
+***************************
+179
+ Government-Wide Support Hawaii State Departments,  Counties and Important Offices Hawaii State Departments,  Counties and Important Offices  This data is leveraged in the Hawaii State Portal at https://portal.ehawaii.gov/government/departments-and-agencies/
+***************************
+180
+investor relations underlying credit ratings Economic Development Underlying Credit Ratings for State of Hawaii Underlying Credit Ratings for State of Hawaii
+***************************
+181
+ Economic Development Fitch Ratings for DHHL - 8/11/11 Fitch Ratings for Department of Hawaiian Homelands published on August 11, 2011
+***************************
+182
+investor relations fitch rating report Economic Development Fitch Ratings for DBF - 8/11/11 Fitch Rating for Department of Hawaiian Homelands published on August 11, 2011
+***************************
+183
+investor relations Economic Development Underlying Credit Ratings for DHHL Hawaii Underlying Credit Ratings for Department of Hawaiian Homelands
+***************************
+184
+investor relations Economic Development Underlying Credit Ratings for DBF Underlying Credit Ratings for State of Hawaii, Department of Budget and Finance
+***************************
+185
+  Home Page Featured Story Home Page Featured Story
+***************************
+186
+  PSD Facility Addresses PSD Facility Addresses
+***************************
+187
+ Public Safety Department of  Public Safety Weekly Population Reports Department of  Public Safety Weekly Population Reports
+***************************
+188
+  Roll-up By Location Source data: https://data.hawaii.gov/Public-Safety/Roll-up-by-Location/v3gj-97wt
+***************************
+189
+  OIMT Open Data Interview alt OIMT Open Data Interview alt
+***************************
+190
+ Public Safety Department Of  Public Safety Weekly Population Reports Updated for August 2013 data.  
+
+Bed Capacity Dataset: https://data.hawaii.gov/Public-Safety/Department-of-Public-Safety-Bed-Capacity-2013/qv4n-m8rb
+***************************
+191
+  Profile Pictures for Hawaii State and County Candidates Profile Pictures for Hawaii State and County Candidates
+***************************
+192
+  OIMT Open Data Interview OIMT Open Data Interview
+***************************
+193
+  Messages Messages
+***************************
+194
+  Category Information Dataset to configure categories on the Home page
+***************************
+195
+ Training TRAINING DATASET: Hands-On Formatting Data Part 2 (Download This File) TRAINING DATASET: Hands-On Formatting Data Part 2 (Download This File)
+***************************
+196
+ Training TRAINING DATASET: Hands-On Uploading Data (Download This File) TRAINING DATASET: Hands-On Uploading Data (Download This File)
+***************************
+197
+ Training TRAINING DATASET: Hands-On Formatting Data Part 1 (Download This File) TRAINING DATASET: Hands-On Formatting Data Part 1 (Download This File)
+***************************
+198
+farmer's market local fruits local vegetables Economic Development Hawaii Farmer's Markets Buy Local It Matters at one of many neighborhood farmer's market throughout Hawaii.
+***************************
+199
+  data.hawaii.gov Dataset Catalog data.hawaii.gov Dataset Catalog
+***************************
+200
+ Economic Development Hawaii EV Charging Stations 02072013 Hawaii EV Charging Stations
+***************************
+201
+federal expenditure Economic Development Table 9.51 FEDERAL EXPENDITURES IN HAWAII, BY TYPE  1983 TO 2010 In Millions
+* For fiscal year ending September 30 for federal, June 30 for others							
+     Source:  U.S. Census Bureau, Consolidated Federal Funds Report for Fiscal Year, State and County Areas							
+Please go to the DBEDT Databook site, http://hawaii.gov/dbedt/info/economic/databook,  for the complete data source.
+***************************
+202
+uipa oip records request Government-Wide Support OIP Master UIPA Record Request Year-End Log For FY 2013 OIP Master UIPA Record Request Year-End Log For FY 2013 (record requests received July 1, 2012, through June 30, 2013)
+***************************
+203
+unemployment unemployment rate employed unemployed honolulu oahu monthly Employment UNEMPLOYMENT RATE - HONOLULU - Monthly - Seasonally Adjusted UNEMPLOYMENT RATE - HONOLULU - Monthly - Seasonally Adjusted
+***************************
+204
+jobs jobcount job count state hawaii monthly Employment JOBCOUNT - STATE OF HAWAII - Monthly - Not Seasonally Adjusted JOBCOUNT - STATE OF HAWAII - Monthly - Not Seasonally Adjusted
+***************************
+205
+jobs jobcount job count state hawaii monthly Employment JOBCOUNT - STATE OF HAWAII - Monthly - Total Jobcount - Seasonally Adjusted JOBCOUNT - STATE OF HAWAII - Monthly - Total Jobcount - Seasonally Adjusted
+***************************
+206
+ Transportation Facilities Oahu State Public Parking Lots September 20, 2013
+***************************
+207
+  Connector Market Place Assisters Updated:  9.9.13
+***************************
+208
+  Med-QUEST Offices Locations
+***************************
+209
+green retail stores & offices sustainable hawaii Economic Development HGBP Retail Stores & Offices HGBP Retail Stores & Offices
+***************************
+210
+green state agencies sustainable dbedt Economic Development HGBP State Agencies HGBP State Agencies
+***************************
+211
+ Public Safety Department of  Public Safety Weekly Population Reports July 2012  - July 31, 2013
+
+Attached PSD definitions for data.
+***************************
+212
+  Statewide LEED Certified Buildings Statewide LEED Certified Buildings
+***************************
+213
+  Initial Conferences Held ( RSN 39973) Labor and Industrial Relations Appeals Board - Initial Conferences Held
+***************************
+214
+  Settlement And Status Conferences Held ( RSN 39974) Labor and Industrial Relations Appeals Board - Settlement And Status Conferences Held
+***************************
+215
+trial hearing Employment Trials and Hearings De Novo Held ( RSN 39975) Labor and Industrial Relations Appeals Board - Trials and Hearings De Novo Held
+***************************
+216
+  Number of Appeals ( RSN 39972) Labor and Industrial Relations Appeals Board - Appeals Received
+***************************
+217
+  Motions Hearings Held ( RSN 39976) Labor and Industrial Relations Appeals Board - Motions Hearings Held
+***************************
+218
+ Other Hawaii.gov Mobile Apps Mobile Apps for the state of Hawaii
+***************************
+219
+ Economic Development Passenger Counts May 2013 Updated daily, Monday through Friday.  International Passenger Count excluding flights from Canada.  May 2012 counts included for comparison.
+***************************
+220
+  Top 10 Source Countries Of International Undergraduate Student In The US 2012 Top 10 Source Countries Of International Undergraduate Student In The US 2012
+***************************
+221
+ Public Safety Department of Public Safety Bed Capacity 2013 Q1 2013.  Capacity is compared with the Weekly Population Report.
+***************************
+222
+  Hawaii International Study Direct Spending final State of Hawaii International Study Direct Spending final
+***************************
+223
+ Economic Development CIP 2011-2012 . Capital Improvement Projects (CIP) are renovations, repairs, and major maintenance to existing facilities, landscape improvements, new construction, land acquisition, and utility modifications. These types of projects are accounted for in a capital improvement budget code of a department.
+***************************
+224
+  Lead By Example Hawaii State Agencies Electricity Consumption Lead By Example Hawaii State Agencies Electricity Consumption
+***************************
+225
+ Economic Development Enterprise Zone Enrollment Enterprise Zone Enrollment
+***************************
+226
+ Economic Development Passenger Counts  International and Domestic May 2013 Passenger Counts  International and Domestic May 2013
+***************************
+227
+  Test-Dailypassenger Total Test-Dailypassenger Total
+***************************
+228
+2013 bills legislature Government-Wide Support Bills That Passed 2013 Legislature Bills that Passed the 2013 Legislature
+***************************
+229
+  Hawaii Charity Online On this site you can pay annual registration fees that are due and conduct searches for charitable organizations registered in the State of Hawaii.
+***************************
+230
+  Crime in Hawaii - Uniform Crime Reports Hawaii Crime Data for 1975 - 2011 in MS Excel format
+***************************
+231
+ Other 20130423 ERP STAFF AND INTERESTED PARTIES 20130423 ERP STAFF AND INTERESTED PARTIES
+***************************
+232
+open data maps charts Government-Wide Support State of Hawaii Open Data growth Quarter by quarter updates of the number of maps, charts and datasets made available to the public
+***************************
+233
+ Government-Wide Support 2013 CIP Encumbrances DAGS supplied data
+***************************
+234
+economic dbedt Government-Wide Support Monthly Economic Indicators - State Of Hawaii 1/  Historical labor force and jobs data revised.  For details, see Hawaii DLIR <http://www.hiwi.org/cgi/dataanalysis/?PAGEID=94> .									
+     2/  Data from January 1999 have been revised and consist of domestic and international air arrivals.  They are not comparable to Eastbound and Westbound series.									
+     Source:  Hawaii Department of Labor & Industrial Relations; Hawaii Department of Taxation;  Hawaii Department of Business, Economic 									
+Development and Tourism; county building departments; Honolulu Board of REALTORS® compiled by Harvey Shapiro, Title Guaranty of 									
+Hawaii and Realtors® Association of Maui, Inc.  Final tables compiled by Statistics and Data Support Branch, READ, DBEDT
+***************************
+235
+tax tobacco Government-Wide Support TAX 12-2012 Tobacco Tax Collections Tobacco Tax Collections
+***************************
+236
+liquor tax Government-Wide Support TAX 12-2012 Liquor Collections And Permits Liquor Collections And Permits
+***************************
+237
+rate tax fuel Government-Wide Support TAX 12-2012 LIQUID FUEL RATE SCHEDULE SCHEDULE OF TAX RATES PER GALLON				
+(Effective July 1, 2010)				
+(Fuel Tax rates in cents per gallon)
+***************************
+238
+fuel tax liquid allocation Government-Wide Support TAX 12 2012 Liquid Fuel Allocations * Effective July 1, 2010, environmental tax rate increased from $0.05 to $1.05 per barrel.  
+Tax Research & Planning
+Monthly 01-15-13
+***************************
+239
+tax fuel liquid Government-Wide Support TAX 12 2012  Liquid Fuel Collections *Effective 7-1-93 (per barrel). "Barrel" means 42 U.S. Gallons of Petroleum Products.				
+***Other fuel includes Ethanol, Methanol, Biodiesel, Naphtha, Compressed Natural Gas, and Liquefied Natural Gas.
+***************************
+240
+ Government-Wide Support December 2012 Encumbrances DAGS supplied data
+***************************
+241
+ Government-Wide Support October 2012 Encumbrances DAGS supplied data
+***************************
+242
+ebcumbrance Government-Wide Support September 2012 Encumbrances DAGS supplied data
+***************************
+243
+elections Government-Wide Support General Election 2012 Summary Results General Election 2012 Summary results
+***************************
+244
+elections Government-Wide Support General Election 2012 Results General Election Results 2012
+***************************
+245
+house senate Government-Wide Support State of Hawaii Elected Officials Legislators with contact info, district and location
+***************************
+246
+  Tax Returns Processed Tax Returns Processed
+***************************
+247
+civil unions Health Civil Unions YTD 2012 Statistics on Civil Unions
+***************************
+248
+  DBEDT Hawaii Annual Electricity Consumption DBEDT Hawaii Annual Electricity Consumption
+***************************
+249
+  Hawaii Annual Electricity Cost Hawaii Annual Electricity Cost
+***************************
+250
+  Green Jobs By Industry Green Jobs By Industry
+***************************
+251
+  Report Card 4c Tax TAT Report Card 4c Tax TAT
+***************************
+252
+  Report Card 4b Tax Tax Revenues From Visitor Expenditures Report Card 4b Tax Tax Revenues From Visitor Expenditures
+***************************
+253
+  Report Card 4a Tax Visitor Expenditures Report Card 4a Tax Visitor Expenditures
+***************************
+254
+  Report Card 3i Resident Sentiment Resources Report Card 3i Resident Sentiment Resources
+***************************
+255
+  Report Card 3h Resident Sentiment Treatment Report Card 3h Resident Sentiment Treatment
+***************************
+256
+  Report Card 3g Resident Sentiment Jobs Report Card 3g Resident Sentiment Jobs
+***************************
+257
+  Report Card 3f Resident Sentiment Govt Promote Report Card 3f Resident Sentiment Govt Promote
+***************************
+258
+  Report Card 3e Resident Sentiment Quality of Life Report Card 3e Resident Sentiment Quality of Life
+***************************
+259
+  Report Card 3d Resident Sentiment Island Expense Locals Report Card 3d Resident Sentiment Island Expense Locals
+***************************
+260
+  Report Card 3c Resident Sentiment Island Economy Report Card 3c Resident Sentiment Island Economy
+***************************
+261
+  Report Card 3b Resident Sentiment Tourism for Family Report Card 3b Resident Sentiment Tourism for Family
+***************************
+262
+  Report Card 3a Resident Sentiment Benefits Report Card 3a Resident Sentiment Benefits
+***************************
+263
+  Report Card 2.3a VSAT Expectations Statewide By MMA Report Card 2.3a VSAT Expectations Statewide By MMA
+***************************
+264
+  Report Card 2.2a VSAT Return Statewide By MMA Report Card 2.2a VSAT Return Statewide By MMA
+***************************
+265
+  Report Card 2.1g VSAT Recommend Big Island By MMA Report Card 2.1g VSAT Recommend Big Island By MMA
+***************************
+266
+  Report Card 2.1f VSAT Recommend Kauai By MMA Report Card 2.1f VSAT Recommend Kauai By MMA
+***************************
+267
+  Report Card 2.1e VSAT Recommend Lanai By MMA Report Card 2.1e VSAT Recommend Lanai By MMA
+***************************
+268
+  2.1d VSAT Recommend Molokai By MMA 2.1d VSAT Recommend Molokai By MMA
+***************************
+269
+  Report Card 2.1c VSAT Recommend Maui By MMA Report Card 2.1c VSAT Recommend Maui By MMA
+***************************
+270
+  Report Card 2.1b VSAT Recommend Oahu By MMA Report Card 2.1b VSAT Recommend Oahu By MMA
+***************************
+271
+  Report Card 2.1a VSAT Recommend Statewide By MMA Report Card 2.1a VSAT Recommend Statewide By MMA
+***************************
+272
+  Report Card 2g VSAT Overall Satisfaction Hawaii Island By MMA Report Card 2g VSAT Overall Satisfaction Hawaii Island By MMA
+***************************
+273
+  Report Card 2f VSAT Overall Satisfaction Kauai By MMA Report Card 2f VSAT Overall Satisfaction Kauai By MMA
+***************************
+274
+  Report Card 2e VSAT Overall Satisfaction Lanai By MMA Report Card 2e VSAT Overall Satisfaction Lanai By MMA
+***************************
+275
+  Report Card 2d VSAT Overall Satisfaction Molokai By MMA Report Card 2d VSAT Overall Satisfaction Molokai By MMA
+***************************
+276
+  Report Card 2c VSAT Overall Satisfaction Maui By MMA Report Card 2c VSAT Overall Satisfaction Maui By MMA
+***************************
+277
+  Report Card 2b VSAT Overall Satisfaction Oahu By MMA Report Card 2b VSAT Overall Satisfaction Oahu By MMA
+***************************
+278
+  Report Card 1:  Overall Hawaii Visitor Numbers Report Card 1:  Overall Hawaii Visitor Numbers
+***************************
+279
+livestock brands registered Health Hawaii's Registered Livestock Brands Listing of livestock brands registered with the Department of Agriculture Animal Disease Control Branch for year 2011.  To include annual supplements for years 2012-2014.
+***************************
+280
+ Government-Wide Support State of Hawaii - Land Use Commission Findings of Fact, Conclusions of Law, and Decision and Order Per Counties:
+***************************
+281
+famis dags Government-Wide Support CIP Encumberances June 2012 CIP Encumbrances. Created from a monthly extract of FAMIS - Financial Administration and Management System.  Additional analysis may need to be done to interpret fields
+***************************
+282
+restaurant food Health Statewide Food Est List11-2011 Statewide dbase as of the end of 2011.
+all of the permitted Food Establishments.  These include everything from Restaurants, take out, Fast-food, Convenience stores, Mom and Pop Markets, shave ice stands, supermarkets, Mega markets like Costco-Sam’s-Walmart, lunch wagons, food manufacturers, etc
+***************************
+283
+ev ev charging stations electric vehicles Transportation Facilities Public Charging Stations in Hawaii Public Charging Stations in Hawaii
+***************************
+284
+  Shared EV Contact Directory Shared EV Contact Directory
+***************************
+285
+food restaurants Health OAHU Food Establishments lists represent all of the permitted Food Establishments.  These include everything from Restaurants, take out, Fast-food, Convenience stores, Mom and Pop Markets, shave ice stands, supermarkets, Mega markets like Costco-Sam’s-Walmart, lunch wagons, food manufacturers, etc
+***************************
+286
+rural health Health Rural Health Clinics Department of Health Rural Health Clinic
+***************************
+287
+fy13 budget Government-Wide Support FY 13 Operating Budget By Cost Element (w. SUB) STATE OF HAWAII																																								
+FY 13 OPERATING APPROPRIATIONS BY COST ELEMENT, PROGRAM ID AND ORGANIZATION CODE																																								
+ACT 164, SLH 2011, AS AMENDED BY ACT 106, SLH 2012
+***************************
+288
+budget fy12 fy13 Government-Wide Support FY 12 & FY 13 CIP Budget STATE OF HAWAII													
+FY 12 & FY 13 CAPITAL IMPROVEMENT PROJECTS - ACT 164, SLH 2011, AS AMENDED BY ACT 106, SLH 2012													
+Note:  Senate and Rep District information for some projects was not available at time of download.  Also, Item Numbers do not include program area alpha designations (e.g., AGR project P12000 is A-1.02).
+***************************
+289
+applications app apps egov egovernment Government-Wide Support Hawaii eGov Apps All Hawaii Portal Applications
+***************************
+290
+  Slideshow Content Slideshow Content
+***************************
+291
+  Category Stories Dataset of information for Category Detail pages
+***************************
+292
+electricity cost Economic Development DBEDT Cost Of Electricity For State Agencies by Fiscal Year Cost Of Electricity For State Agencies
+***************************
+293
+  Hawaii Training Providers 2011 List of training providers, programs, and completers.
+***************************
+294
+famis dags Government-Wide Support CIP Expenditures CIP Expenditures. Monthly Data Extract from FAMIS - Financial Accounting Management Information System.  Coded fields may require further analysis to interpret
+***************************
+295
+english income Culture and Recreation Ability To Speak English By Total Income (Excluding those less than 5 years old or speak only English)				
+	Hawaii’s Limited English Proficient (LEP) Population:
+A Demographic and Socio-Economic Profile
+***************************
+296
+race english Culture and Recreation Ability To Speak English By Race (Excluding those less than 5 years old or speak only English)				
+	Hawaii’s Limited English Proficient (LEP) Population:
+A Demographic and Socio-Economic Profile
+***************************
+297
+native english Culture and Recreation Ability To Speak English By Nativity (Excluding those less than 5 years old or speak only English)				
+
+Hawaii’s Limited English Proficient (LEP) Population:
+A Demographic and Socio-Economic Profile
+***************************
+298
+marital english Culture and Recreation Ability To Speak English By Marital Status (Excluding those less than 5 years old or speak only English)				
+
+Hawaii’s Limited English Proficient (LEP) Population:
+A Demographic and Socio-Economic Profile
+***************************
+299
+language english Culture and Recreation Ability To Speak English By Language (Excluding those less than 5 years old or speak only English)				
+
+Hawaii’s Limited English Proficient (LEP) Population:
+A Demographic and Socio-Economic Profile
+***************************
+300
+english Culture and Recreation Ability To Speak English By Gender (Excluding those less than 5 years old or speak only English)	
+	Hawaii’s Limited English Proficient (LEP) Population:
+A Demographic and Socio-Economic Profile
+***************************
+301
+age language Culture and Recreation Ability To Speak English By Age (Excluding those less than 5 years old or speak only English)				
+HAWAII’S LIMITED ENGLISH PROFICIENT (LEP) POPULATION:
+A DEMOGRAPHIC AND SOCIO-ECONOMIC PROFILE
+(2007)
+***************************
+302
+dhhl right of entry hawaiian home lands Economic Development DHHL Right Of Entry DHHL Right Of Entry
+***************************
+303
+siren scd Public Safety Department of Defense - State Civil Defense Emergency Siren Locations State Civil Defense Emergency Siren Locations
+***************************
+304
+shelter Public Safety State Civil Defense Hurricane Shelters State Civil Defense Hurricane Shelters at schools
+***************************
+305
+dhhl general leases hawaiian home lands Economic Development DHHL General Leases DHHL General Leases
+***************************
+306
+dhhl licenses hawaiian home lands Economic Development DHHL Licenses DHHL Licenses
+***************************
+307
+dhhl recovable permits hawaiian home lands Economic Development DHHL Revocable Permits DHHL Revocable Permits
+***************************
+308
+dlir hawaii green employers green jobs green companies hawaii businesses department of labor and industrial relations jobs employers hawaii green jobs initiative solar energy green conservation leed sustainability environment waste management energy efficiency renewable energy clean energy recycling Employment Hawaii Directory Of Green Employers The Hawai'i Directory of Green Employers is a growing online directory of green employers in Hawai'i. The Hawaii Department of Labor and Industrial Relations (DLIR) defines green employers as businesses that employ workers in occupations in these core areas: 
+
+•	Generate clean, renewable, sustainable Energy 
+•	Reduce pollution and waste; conserve natural resources; recycle
+•	Energy efficiency 
+•	Education, training and support of green workforce 
+•	Natural, sustainable, environmentally-friendly production 
+
+The Directory contains employers’ self-posted profiles that describe their operations, specify their core occupations, and describe the skills and education they want in employees. Jobseekers, students, their counselors and advisors, and others can access the employer profiles to learn about these companies and the workers they require.
+***************************
+309
+birth deaths mariiage civil unions Health Maui County Births, Deaths, Marriages, Civil Unions 2012 Births, deaths, marriages and civil unions in Maui County
+***************************
+310
+birth death civil unions marriage Health Kauai County Births, Deaths, Marriages, Civil Unions 2012 Births, Deaths, marriages and civil unions in Kauai County
+***************************
+311
+birth death marriages civil union Health Honolulu County Births, Deaths, Marriages, Civil Unions 2012 City & County of Honolulu statistics
+***************************
+312
+birth marriagee death civil union Health Hawaii County Births, Deaths, Marriages, Civil Unions 2012 County and island of Hawaii statistics
+***************************
+313
+birth death marriage civil Health Statewide Births, Deaths, Marriages, Civil Unions 2012 Births, Deaths, Marriages and Civil Unions counts by month
+***************************
+314
+wedding Culture and Recreation Non-resident Marriages 2012 Marriages Where Both Bride and Groom Are Non-Residents
+***************************
+315
+birth Health Birth Rate, State of Hawaii 1900 - 2011 Birth rates over time
+***************************
+316
+death Health Death Rate, State Of Hawaii 1900 - 2011 Statistics from the Department of Health
+***************************
+317
+electric hybrid Economic Development DBEDT Pie Chart Of Electric Hybrid Fossil Cars DBEDT Pie Chart Of Electric Hybrid Fossil Cars
+***************************
+318
+energy renewable Economic Development DBEDT New Distributed Renewable Energy Systems Installed In Hawaii Annually 2001-2010 DBEDT New Distributed Renewable Energy Systems Installed In Hawaii Annually 2001-2010
+***************************
+319
+electricity Economic Development DBEDT HECO Ranks Third In 2010 Annual Solar Watts Per Customer DBEDT HECO Ranks Third In 2010 Annual Solar Watts Per Customer
+***************************
+320
+clean job Economic Development DBEDT Hawaii's Clean Economy Job Growth DBEDT Hawaii's Clean Economy Job Growth
+***************************
+321
+miles vehicle Transportation Facilities DBEDT Hawaii Vehicle Miles Traveled 1990-2010 DBEDT Hawaii Vehicle Miles Traveled 1990-2010
+***************************
+322
+utility energy electric Economic Development DBEDT Hawaii Utility Companies Rank Among The Top DBEDT Hawaii Utility Companies Rank Among The Top
+***************************
+323
+energy utility Economic Development DBEDT Hawaii Utility Companies Rank Among The Top In Cumulative Solar Watts Per Customer DBEDT Hawaii Utility Companies Rank Among The Top In Cumulative Solar Watts Per Customer
+***************************
+324
+electricity energy Economic Development DBEDT Hawaii State Agencies Electricity Consumption And Cost FY05- FY10 DBEDT Hawaii State Agencies Electricity Consumption And Cost FY05- FY10
+***************************
+325
+energy Economic Development DBEDT Hawaii Renewable Energy Generation 2005-2010 DBEDT Hawaii Renewable Energy Generation 2005-2010
+***************************
+326
+product Economic Development DBEDT Hawaii Nominal Gross Domestic Product 2000-2010 DBEDT Hawaii Nominal Gross Domestic Product 2000-2010
+***************************
+327
+fuel Economic Development DBEDT Hawaii Fossil Fuel Consumption And Expenditures 1970-2009 DBEDT Hawaii Fossil Fuel Consumption And Expenditures 1970-2009
+***************************
+328
+building energy Economic Development DBEDT Hawaii Energy Star Buildings 2003-2011 DBEDT Hawaii Energy Star Buildings 2003-2011
+***************************
+329
+energy Economic Development DBEDT Hawaii Energy Efficiency Improvements 2005-2010 DBEDT Hawaii Energy Efficiency Improvements 2005-2010
+***************************
+330
+electricity energy Economic Development DBEDT Hawaii Electricity Consumption 1970-2010 DBEDT Hawaii Electricity Consumption 1970-2010
+***************************
+331
+people population Economic Development DBEDT Hawaii De Facto Population By County 2000-2010 DBEDT Hawaii De Facto Population By County 2000-2010
+***************************
+332
+electricity energy hybrid Economic Development DBEDT Hawaii Cumulative Hybrid And Electric Vehicles Registered 2000-2010 DBEDT Hawaii Cumulative Hybrid And Electric Vehicles Registered 2000-2010
+***************************
+333
+electricity energy Economic Development DBEDT Hawaii Annual Electricity Cost And Consumption 2006-2010 DBEDT Hawaii Annual Electricity Cost And Consumption 2006-2010
+***************************
+334
+energy Economic Development DBEDT Energy Savings Performance Contracting Per Capita DBEDT Energy Savings Performance Contracting Per Capita
+***************************
+335
+electricity energy Economic Development DBEDT Electricity Consumption By State Agencies FY05- FY10 DBEDT Electricity Consumption By State Agencies FY05- FY10
+***************************
+336
+energy Economic Development DBEDT Currently Proposed Renewable Energy Projects In Hawaii DBEDT Currently Proposed Renewable Energy Projects In Hawaii
+***************************
+337
+electricity energy Economic Development DBEDT Cumulative Installed Photovoltaic Capacity Per Capita DBEDT Cumulative Installed Photovoltaic Capacity Per Capita
+***************************
+338
+electricity energy Economic Development DBEDT Cost Of Electricity For State Agencies FY05- FY10 DBEDT Cost Of Electricity For State Agencies FY05- FY10
+***************************
+339
+clean economy Economic Development DBEDT Clean Economy Job Growth 2003-2010 DBEDT Clean Economy Job Growth 2003-2010
+***************************
+340
+gasoline fuel Economic Development DBEDT Average Monthly Regular Gasoline Price Hawaii Vs U. S. 2006-2010 DBEDT Average Monthly Regular Gasoline Price Hawaii Vs U. S. 2006-2010
+***************************
+341
+gasoline energy Economic Development DBEDT Average Annual Regular Gasoline Price Hawaii Vs U. S. 2006-2010 DBEDT Average Annual Regular Gasoline Price Hawaii Vs U. S. 2006-2010
+***************************
+342
+hospital Health Hospitals in Hawaii Department of Health Hospitals listing
+***************************
+343
+visitor tourism Economic Development Table 7.03 VISITOR ARRIVALS AND AVERAGE DAILY VISITOR CENSUS 1966 TO 2011 * Covers visitors staying overnight or longer anywhere in the state, and any overnight or  non-overnight interisland trips reported by these visitors.															
+* Domestic includes passengers from all flights originating from the mainland United States.  															
+* International includes passengers from all flights originating from U.S. territories and other countries															
+ Source:  Hawaii Tourism Authority
+***************************
+344
+nursing care Health Skilled Nursing Care Facilities Department of Health Skilled Nursing Care Facilities
+***************************
+345
+outpatient physical therapy Health Outpatient Physical therapy locations Department of Health Outpatient Physical Therapy locations
+***************************
+346
+organ organs Health Organ Procurement facilities Department of Health Organ Procurement facilities
+***************************
+347
+mental health retarded Health Licensed Intermediate Care Facilities Licensed Intermediate Care Facilities for the Mentally Retarded
+***************************
+348
+hospice Health Hospice Facilities Department of Health Hospice listing
+***************************
+349
+home health Health Home Health Agencies Department of Health Home Health Agencies listing
+***************************
+350
+family guidance Health Family Guidance Centers Department of Health listing of Family Guidance centers
+***************************
+351
+xray Health Free Standing X-Ray Facility Free standing X-RAY Facility
+***************************
+352
+family Health Family Guidance Centers Family Guidance Centers
+***************************
+353
+ev electric charging Transportation Facilities Alt Energy Station Data Alt Energy Refueling Station Data
+***************************
+354
+doh Health Dialysis Centers Dialysis Center in Hawaii
+***************************
+355
+ Health DOH CAMHD Intensive Home or Residential care services
+***************************
+356
+doh Health Ambulatory Surgical Centers Outpatient surgery locations
+***************************
+357
+drugs alcohol Health Alcohol and Drug Abuse Prevention Services Location of facilities participating in Alocohol and Drug Abuse Prevention and Awareness Services
+***************************
+358
+adhc Health Adult Day Health Center facilities Adult Day Health Center
+***************************
+359
+big island agencies Government-Wide Support Hawaii County TEFAP Agencies Organizations on the Big Island who participate in the USDA Emergency Food Program
+***************************
+360
+maui county agencies Government-Wide Support Maui County TEFAP Agencies Organizations in Maui County participating in the USDA
+***************************
+361
+kauai agencies Government-Wide Support Kauai TEFAP Agencies Organizations participating in the USDA Emergency Food Program on Kauai
+***************************
+362
+oahu tefap Government-Wide Support Oahu TEFAP Agencies Organizations participating in the USDA Emergency Food Assistance Program
+***************************
+363
+election primary Government-Wide Support Primary Election Summary Results 2012 Summary results of the 2012 Primary Election
+***************************
+364
+election primary Government-Wide Support Primary Election Precinct Results 2012 Detailed results of the 2012 Primary Election
+***************************
+365
+visitor tourist rooms hotel condo timeshare individual vacation units bed & breakfast Economic Development 2011 Visitor Plant Inventory Hawaii The Visitor Plant Inventory presents the results of the Hawaii Tourism Authority's enumeration of visitor accommodations in Hawaii. Existing visitor accommodations as of May 1, 2011.
+***************************
+366
+broadband Government-Wide Support HI-NBM-ADDRESS-SHP-December 2011 Broadband Availibility data in address points Census blocks over 2 square mile- December-2011
+This folders contain broadband availibility data submitted to the National Telecommunications and Information  Administration (NTIA) on April 1, 2012 from State Broadband Initiative grantees in every state, Territory and the District of Columbia. This data is current as of December 31, 2011.
+***************************
+367
+  HI- NBM- Block- SHP- December-2011 Broadband Information
+***************************
+368
+  HI- NBM- Road- SHP- December-2011 Broadband information
+***************************
+369
+  HI- NBM- Wireless- SHP- December-2011 Broadband Information
+***************************
+370
+databook Economic Development 2011 Data Book Sections And Tables Over 800 DatSets Avilable via the Department of Business Economic Development and Tourism Data Book links
+***************************
+371
+  State Of Hawaii Open Data Policy State Of Hawaii Open Data Policy
+***************************
+372
+seals of quality agriculture Economic Development SEALS OF QUALITY Seals of Quality represents the cream of the crop of Hawai`i's agricultural producers. Products with this seal are genuine, Hawai`i-grown or Hawai`i-made premium products, a guarantee that is enforced by the State of Hawai`i.
+***************************
+373
+schools  Hawaii Public Schools Data about all public schools in Hawaii
+***************************
+374
+ Culture and Recreation Honolulu Areas Of Interest Areas of Interest in Hawaii
+***************************
+375
+ Other Oahu Zipcodes Zipcode Layer for Oahu
+***************************
+376
+public health nursing listing Health Public Health Nursing Listing DOH Facilities Listing
+***************************
+377
+arch listing Health Adult Residential Care Home LISTING DOH Adult Residential Care Home Facilities Listing
+***************************
+378
+std hiv clinic Health STD HIV Clinic DOH Facilities Listing
+***************************
+379
+alf listing Health Assisted Living Facilities Listing DOH Assisted Living Facilities Listing
+***************************
+380
+key economic indicators Health Table A1: Actual and Forecast of Key Economic Indicators for Hawaii: 2010 TO 2015 DOH Environmental Indicators
+***************************
+381
+hazardous waste generated Health Table 19: Hazardous Waste Generated DOH Environmental Indicators
+***************************
+382
+leaking underground storage tanks Health Table 18: Leaking Underground Storage Tanks DOH Environmental Indicators
+***************************
+383
+solid waste recycled Health Table 17: Solid Waste Recycled (in tons) DOH Environmental Indicators
+***************************
+384
+solid waste generated Health Table 16: Solid Waste Generated Per Person (Pounds) DOH Environmental Indicators
+***************************
+385
+oil chemical releases Health Table 15: Oil and Chemical Releases DOH Environmental Indicators
+***************************
+386
+toxic release inventory Health Table 14: Toxic Release Inventory (TRI) (in pounds) DOH Environmental Indicators
+***************************
+387
+wastewater recycled Health Table 13: Wastewater Recycled DOH Environmental Indicators
+***************************
+388
+wastewater treatment plant Health Table 12: Wastewater Treatment Plant Operations & Compliance DOH Environmental Indicators
+***************************
+389
+underground injection control Health Table 11: Total Underground Injection Control (UIC) Permits DOH Environmental Indicators
+***************************
+390
+water sanitary Health Table 10: Cumulative Sanitary Surveys of Drinking Water Systems DOH Environmental Indicators
+***************************
+391
+percentage population safe drinking water Health Table 9: Percentage of Population served Safe Drinking Water DOH Environmental Indicators
+***************************
+392
+number perennial streams Health Table 7: Number of Hawaiian Perennial Streams by Island DOH Environmental Indicators
+***************************
+393
+hawaiian coastal waters Health Table 6: Number of Hawaiian Coastal Waters by Island (2006) DOH Environmental Indicators
+***************************
+394
+levels carbon monoxide Health Table 5: Ambient Levels of Carbon Monoxide (CO) in Honolulu DOH Environmental Indicators
+***************************
+395
+ambient levels airborne particulates Health Table 2: Ambient Levels of Airborne Particulates (PM) in Honolulu DOH Environmental Indicators
+***************************
+396
+army hiarng Public Safety Department of Defense Hawaii Army National Guard Facility Locations Hawaii Army National Guard Facility Locations
+***************************
+397
+hiang Public Safety Department of Defense Hawaii Air National Guard Hawaii Air National Guard Facility Locations
+***************************
+398
+library Formal Education Libraries Material Inventory 2005 - 2012 Inventory of materials and their value for all libraries statewide
+***************************
+399
+library Formal Education Libraries Hosted Programs FY2009 - FY2011 Hawaii State Public Library Programs hosted FY2009 - FY2011 with attendance
+***************************
+400
+library Formal Education Libraries Outreach Programs FY2009 - FY2011 Statistics regarding the Outreach  Programs conducted by the Hawaii State Public Library System
+***************************
+401
+library Formal Education Libraries Holdings 1984 - 2011 Hawaii State Public Library quantity of holdings for the years 1984 through 2011
+***************************
+402
+library circulation Formal Education Libraries Circulation Activity 1984 - 2011 Hawaii state public Library System Circulation quantities for years 1984 through 2011
+***************************
+403
+ Formal Education Libraries Borrowers 1984 - 2011 Number of borrowers by Library for 1984-2011
+***************************
+404
+library Formal Education Libraries Collections Statistics 2005-2011 Quantities of various media contained in Libraries
+***************************
+405
+library expenditure Formal Education Libraries Expenditures FY2007 - FY2010 Expenditure information for items procured by the State  Libraries
+***************************
+406
+blind handicapped library Formal Education Libraries Blind And Physically Handicapped Fiscal 2011 PUBLIC SERVICES SECTION  NLS (National Library Service for the Blind and Physically Handicapped) STATISTICS
+***************************
+407
+library books holdings Formal Education Libraries Annual Statistics Comparison 2010-2011 Annual Statistics for Circulation, borrowers, holdings and holds
+***************************
+408
+dcca ins insurance insurance license entities license search Economic Development Insurance License Search Lookup information about Insurance entities registered with DCCA
+***************************
+409
+dcca pvl professional and vocational licensing professional & vocational licensing professional profession vocation vocational license licensing search Economic Development Professional and Vocational Licensing (PVL) Search This website allows you to search for information about professionals licensed by DCCA. Please check the PVL web site for a list of those professions. Other professionals may be licensed by other Federal, State, or local government agenciesSome licensed companies have licensed employees associated with the company. These companies include contractors that have a responsible managing entity (RME) and real estate companies that have a principal broker (PB).
+***************************
+410
+dcca breg business registration business name business registration name search Economic Development Business Name Search Search for a business by name. You can obtain business information and then proceed to purchase a certificate of good standing or other documents. The purpose of this search is simply to determine whether a company/entity exists and to provide basic information on the company/entity.
+***************************
+411
+dcca ocp office of consumer protection consumer protection complaint complaints search history Other Office of Consumer Protection (OCP) Complaint History Search This web site is designed to help you obtain basic information about complaints filed regarding companies that do business in Hawaii.
+
+The web site provides access to complaints that were filed with or initiated by OCP. Case numbers reflected in this web site relate to OCP cases.
+
+The information contained in this web site DOES NOT comprise all information from official OCP records available to the public. For more detailed information about how cases are processed in OCP, go to http://hawaii.gov/dcca/ocp/about.
+
+Legal Actions that were filed by OCP before 2001 may not be reflected on this site.
+***************************
+412
+dcca rico regulated industries complaints office complaint complaints search history Other Regulated Industries Complaints Office (RICO) Complaint History Search This web site is designed to help you obtain basic information about complaints filed regarding companies that do business in Hawaii.
+
+The web site provides access to selected complaints that were filed with or initiated by RICO. Case numbers reflected in this web site relate to RICO cases.
+
+The information contained in this web site DOES NOT comprise all information from official RICO records available to the public. For more detailed information about how cases are processed in RICO, go to http://hawaii.gov/dcca/rico/about.
+
+Legal Actions that were filed by RICO before 1986 may not be reflected on this site.
+***************************
+413
+ Formal Education Training - State of Hawaii Developer training session The recording from the Developer Training on July 17 can be accessed here
+***************************
+414
+ Formal Education Training - State of Hawaii Publisher training session #2 The recording from the Publisher Training on July 16 can be accessed here
+***************************
+415
+ Formal Education Training - Hawaii Publisher Training session A one hour recording of the publisher training done for the State of Hawaii on July 6, 2012
+***************************
+416
+ Formal Education Training - Hawaii Briefing on Open Government A recording of a one hour training session done for the State of Hawaii by Socrata.  It covers what Open Data is all about, how others have used Open data to improve the relationship of government to citizens.  It also explores the many features and uses of Open Data.
+***************************
+417
+ Health OIE-FAVN TEST RESULTS BY MICROCHIP - under construction with test data For details on the data provided in this dataset, please go the AQS microchip webpage at: http://hawaii.gov/hdoa/ai/aqs/copy_of_microchip
+***************************
+418
+seo Economic Development WTI Barrel of Oil Future Prices Daily WTI Contract 1 Future Prices
+***************************
+419
+seo Economic Development AAA Fuel Prices AAA Monthly Fuel Prices
+***************************
+420
+seo Government-Wide Support HI Electricity Prices HI Electricity Prices
+***************************
+421
+seo Economic Development HI KWh Utility Supply 2008 - 2012 Electric utility production and electricity purchase
+***************************
+422
+library Social Services Libraries Collection Statistics 2011 Statistics by type of media in Hawaii State Public Libraries for 2011
+***************************
+423
+library Social Services Libraries State Of Hawaii Listing of the Public Libraries in the State of Hawaii
+***************************
+424
+computers Social Services Libraries Computers Available Number of desktop coputers and laptops available in Hawaii Libraries
+***************************
+425
+library Social Services Libraries Holdings FY84 - FY12 Number of holdings libraries in the State of Hawaii have
+***************************
+426
+internet Social Services Libraries Internet Sessions By Year FY06 - FY11 Number of internet sessions in use for Libraries throughout the State of Hawaii
+***************************
+427
+elections vote Government-Wide Support General Election Results 2010 2010 General Elections Results fom Office of Elections
+***************************
+428
+elections Government-Wide Support General Election 2010 Summary Results.csv General Elections 2010 Summary results from the Office of Elections
+***************************
+429
+class jobs emplyment Employment Class Specification And Minimum Qualification Department of Human Resources information regarding class specs and minimum qualifications for State positions
+***************************
+430
+holiday days off closed Employment 2013 State Holidays State Holidays for calendar year 2013
+***************************
+431
+holiday days off Employment 2014 State Holidays Stte of Hawaii Holidays for calendar year 2014
+***************************
+432
+bills 2012 legislature Government-Wide Support Bills Passed 2012 Bills Passed by 2012 Legislature
+***************************
