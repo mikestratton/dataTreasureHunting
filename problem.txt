@@ -1,0 +1,10 @@
+THe challenge included a set of 71 datasets.  Each data set contained a reference to a JSON data source. 
+The JSON data source often limited our ability to find relevant keywords as a result of the complexity
+and accessibility of the data.
+Problems incurred:
+* Inaccessible data (Restricted acess)
+* Not easily accessible data (each data set had a specific method of accessing the subsets of data).
+* Irrelavant data (data sets may reference information that is not relevant)
+
+The solution to this may easily be found in keyword usage and keyword associations with the input of data
+being the result of locating and storing indexes of all data 
