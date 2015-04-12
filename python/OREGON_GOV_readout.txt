@@ -1,0 +1,1958 @@
+0
+events regattas races boats parades tournaments exhibits log races cruises sponsored marine Recreation MARINE BOARD PERMITTED EVENTS This is a list of all events permitted by the Oregon State Marine Board for the current year on Oregon waterways.
+***************************
+1
+  Bills Signed By Governor Brown 2015 Bills Signed By Governor Brown 2015
+***************************
+2
+  Home Page Stories Home Page Stories
+***************************
+3
+fertilizer Natural Resources Fertilizer Program Stop Sales The products listed below are under a current stop sale, use, or removal order. They are not legal for sale or distribution in Oregon. For questions about these products, please call (503) 986-4635.
+***************************
+4
+business business name registered agent Business Active Business List (Updated on Apr 8, 2015) This is a list of the businesses that are active on the Corporation Division records on 4/7/2015. The list contains the name and address of the registered agent or authorized representative and a mailing address if one was provided.
+***************************
+5
+  Dhs-training-county-contacts-2 Dhs-training-county-contacts-2
+***************************
+6
+ Administrative OHLA Board Members Members of citizen boards managed by the Oregon Health Licensing Agency.
+***************************
+7
+boating access boat launches boat ramps boating in oregon marine board kayaking canoeing cruising waterskiing lakes reservoirs rivers bays pacific ocean waterway access recreational boating boating facilities restrooms campgrounds parks fishing angling Recreation Boating Access Sites in Oregon Find a boat ramp in a location near you! Hundreds of boating access points, amenities, and launch information is available from this map. New coordinates are being added and other information to make your boating excursion fast and easy.
+***************************
+8
+business registration benefit Business Benefit Companies (Updated Apr 8, 2015) Corporations and Limited Liability Companies designated as benefit companies.
+***************************
+9
+trademark service mark registration Business Active Trademark Registrations (Updated Apr. 8, 2015) List of trademark registrations that are active on the record of the Secretary of State Corporation Division as of the end of the previous month. Filings through April 7, 2015.
+***************************
+10
+parc Natural Resources PARC meeting agendas and materials Pesticide Analytical Response Center meetings and information
+***************************
+11
+foreclosure mediation sb 558 Public Safety 2015 Foreclosure Avoidance Mediation Beneficiary Exemption Affidavits Pursuant To SB 558 Financial institutions that have filed an exemption for participation in foreclosure mediation in 2015, pursuant to SB 558.
+***************************
+12
+ucc secured party Business UCC Secured Parties List List of All Active Filings and their associated Secured Parties. 
+This Dataset will be updated monthly by the 9th of each month.
+***************************
+13
+ucc Business UCC List of Filings Entered Last Month List of New UCC filings entered during the previous month. This list will be updated by the 9th of every month.
+***************************
+14
+consumer complaint consumer protection department of justice doj attorney general ag Public Safety Oregon Consumer Complaints Consumer complaints registered with the Oregon Dept. of Justice.  The database of consumer complaints is derived from consumer contacts for the past 3 years and is for information only. This database may not offer a completely accurate or comprehensive account of every incident. Several factors, including a company’s size and volume of transactions, may affect the likelihood of a consumer complaint being filed. The number of complaints about a business may not be a reliable measure as to whether it is appropriately conducting business.
+
+The information in this database is updated as soon as possible. However, recently submitted complaints may not be immediately available.
+
+The statements in this database do not necessarily reflect the opinion of the DOJ.
+
+For more information, see http://www.doj.state.or.us/finfraud/index.shtml
+***************************
+15
+e-gov services online portfolio Administrative ETS E-Government Service Portfolio List of services provided by the Oregon E-Government Program.
+***************************
+16
+nonprofit nonprofit name registration Business Active Nonprofit Corporations Nonprofit corporations active on the record of the Secretary of State Corporation Division as of the first working day of the month. Updated 3/2/2014.
+***************************
+17
+business name registration Business New Businesses Registered Last Month New businesses registered with the Secretary of State Corporation Division during the previous month.  Data is updated on the first working day of each month.
+***************************
+18
+buisness name registration Business New Business List - February Businesses registered with the Secretary of State Corporation Division during the month of February.
+***************************
+19
+agriculture weed-free forage feed Natural Resources Weed Free Forage List of Oregon weed free forage providers
+***************************
+20
+  Developers Featured Content Developers Featured Content
+***************************
+21
+ Natural Resources ODOEPublicRecordsRequests Public records requests made to the Oregon Department of Energy
+***************************
+22
+epab e-government portal advisory board  Electronic Government Portal Advisory Board Meetings Dates, agendas, minutes, and handouts of the E-Government Portal Advisory Board meetings. The board was formed by Oregon Revised Statute 182.128
+http://www.oregon.gov/eapb
+***************************
+23
+parc Natural Resources PARC board and consultants PARC board and consultants
+***************************
+24
+ Natural Resources Fertilizer research and development The Oregon Department of Agriculture's fertilizer research and development program provides grant monies for field level projects that address the interactions of fertilizers, agricultural minerals, and agricultural amendments with ground or surface water. Since 1990, the program has provided over 1.9 million dollars for 90+ projects dealing with a wide variety of Oregon crops throughout the state. All funds distributed are generated through fertilizer, agricultural mineral, and agricultural amendments product sales.
+***************************
+25
+board of ag department of agriculture agriculture ag Administrative Board Of Ag Meetings Board Of Ag Meetings
+***************************
+26
+osac oregon state athletic commission mixed martial arts mma kick boxing boxing entertainment wrestling wrestling ring side sports Public Safety OSAC Calendar Oregon State Athletic Commission calendar of events
+***************************
+27
+ Administrative Oregon Liquor Control Commission Licenses This is a dataset of the OLCC licenses for businesses that sell, manufacture, import, or distribute alcohol in Oregon.
+***************************
+28
+oregon social media facebook twitter youtube blog flickr slideshare Administrative State of Oregon Social Media Sites List of social media sites by agency
+***************************
+29
+weeds oregon Natural Resources Oregon Noxious Weeds Oregon state listed noxious weeds and relevant links.
+***************************
+30
+task force school safety state police education governors Public Safety Public Meeting Task Force on School Safety This is the public meeting calendar for the Task Force on School Safety
+***************************
+31
+  Developers Test API Developers Test API
+***************************
+32
+pesticides Natural Resources Oregon Section 18 exemptions Oregon Section 18 exemptions
+***************************
+33
+business name registration Business New Business List - December Businesses registered with the Secretary of State Corporation Division during the month of December.
+***************************
+34
+foreclosure mediation sb 558 Public Safety 2014 Foreclosure Avoidance Mediation Beneficiary Exemption Affidavits Pursuant To SB 558 Financial institutions that have filed an exemption for participation in foreclosure mediation in 2014, pursuant to SB 558.
+***************************
+35
+  Oregon Public Meetings Oregon Public Meetings
+***************************
+36
+agency agencies board boards commissions public meeting notice  Oregon Agencies, Boards and Commissions A listing of Oregon agencies boards and commissions.  The primary intention of this dataset is to be used as a lookup field when inputting data into the the Public Meeting Notices dataset.
+***************************
+37
+oregon new markets tax credit program 2014 oregon nmtc nmtc 2014 Revenue & Expense Oregon New Markets Tax Credit (NMTC) Program: 2014 (update 1.26.15) (1.26.15 update) The Oregon Low Income Community Jobs Initiative (Oregon New Markets Tax Credit, or NMTC) program helps finance investments and create jobs in low-income communities; delivers below-market-rate investment options to Oregon businesses; attracts additional Federal New Market Tax Credit investments in Oregon; and sparks revitalization in Oregon’s low-income communities. The program is available to Community Development Entities (CDEs) serving Oregon that have been allocated Federal New Market Tax Credits. The Oregon new market tax credits are then provided to investors who make qualified equity investments in community development entities that in turn invest in projects located in low-income communities. Investments can only be made in qualified, existing low-income community businesses located in Oregon as defined by section 45D of the Internal Revenue Code. If you have additional questions, please contact Laura Engstrom at laura.engstrom@oregon.gov
+***************************
+38
+ Administrative Bills Signed By Governor Kitzhaber  2014 Bills Signed By Governor Kitzhaber  2014
+***************************
+39
+2014 public meetings archived public meetings 2014 meetings public meetings 2014 Administrative Archived 2014 Oregon Public Meetings 1 This data set includes all public meetings that were posted to the Transparency website by State of Oregon agencies, boards, commissions and ESD's from January 1. 2014 through December 31, 2014. The meetings are sorted by date.
+***************************
+40
+  RCRA Rulemaking The proposed rules will adopt federal rules into Oregon’s rules. The amendments will incorporate amended versions of previously adopted federal rules, and will also incorporate some federal rules for the first time. The purpose of these amendments is to align Oregon rules with federal rules and to enable Oregon to retain delegated federal authority to operate its Resource and Recovery Act hazardous waste program.
+***************************
+41
+business name registration Business New Business List - November Businesses registered with the Secretary of State Corporation Division during the month of November.
+***************************
+42
+energy energy incentive energy incentive program incentive program 2014 Revenue & Expense Energy Incentive Program: Fiscal Year 2014 Energy Incentive Program: Fiscal Year 2014
+***************************
+43
+tax credit tax credit program energy tax credit program biomass biomass producer biomass collector 2014 Revenue & Expense Biomass Tax Credit Program: Producer or Collector: FY 2014 Summary of Certificates·Issued·from·July·1,·2013·through·June·30,·2014 (Fiscal·Year·2014)
+***************************
+44
+tax credit busiess energy tax credit tax credit program 2014 2014 Revenue & Expense Business Energy Tax Credit Program: Fiscal Year 2014 Business Energy Tax Credit Program—Oregon Department of Energy 
+
+The Business Energy Tax Credit program ended July 1, 2014 (HB 3672 in 2011 and HB 4079 in 2012) and tax credits are no longer being awarded under this program.  
+
+•	This year’s spreadsheet covers July 1, 2013 through June 30, 2014.
+
+•	Per statute, this list does not include final certificates issued for Combined Heat and Power or High Performance Homes projects. Withdrawn, Denied, Inactive, Rejected, and Revoked Projects are also excluded.
+•	Every effort has been made to ensure the data are complete, but these records reflect information reported to this agency by others. The Oregon Department of Energy is not responsible for data that is misinterpreted or altered in any way.
+•	If errors are discovered after publication of the records, the data are corrected in the electronic files.  It is estimated that there is a margin of error of less than one percent.
+***************************
+45
+residential energy tax credit program residential energy residential tax credit energy credit program energy program 2014 Revenue & Expense Residential Energy Tax Credit Program: Fiscal Year 2014 Residential Energy Tax Credit Program: Fiscal Year 2014
+***************************
+46
+oregon investment oregon strategic investment oregon strategic investment program 2014 Revenue & Expense Strategic Investment Program - Fiscal Year 2014 Strategic Investment Program - Fiscal Year 2014
+***************************
+47
+oregon production investment fund opif investment fund oregon investment fund film and television governor's office of film and television 2014 Revenue & Expense Oregon Production Investment Fund: FY-2014 Governor's office of Film and Television Oregon Investment Fund for Fiscal Year 2014
+***************************
+48
+green light green light program governor's office of film and television 2014 Revenue & Expense Green Light Program - Fiscal Year 2014 Green Light Program - Fiscal Year 2014
+***************************
+49
+oregon investment advantage oregon investment advantage 2014 2014 Revenue & Expense Oregon Investment Advantage - Fiscal Year 2014 Fiscal Year 2014 (annual) Certifications of Facility to Receive Oregon Investment Advantage Tax Benefit under ORS 316.778 or 317.391; Reporting Agency: Oregon Business Development Department. For further specificity about process & criteria related to specific outcomes of the programs and taxpayer requirements see: 
+http://www.oregon4biz.com/Oregon-Business/Tax-Incentives/OIA
+***************************
+50
+odot odot 2014 construction contracts odot construction contracts odot construction contracts 2014 2014 Revenue & Expense Construction Contracts: ODOT: Fiscal Year 2014 Summary of Oregon Department of Transportation construction contracts that are not in ORPIN for Fiscal Year 2014.
+***************************
+51
+contracts agency contracts state contracts state contracts 2014 2014 Revenue & Expense Contracts: Agencies: As of June 30, 2014 This report provides information on contracts and amendments to contracts issued from July 1, 2013 - June 30, 2014, for state agencies who are subject to DAS contracting authority. These agencies must report their contracting activity through the Oregon Procurement Information Network (ORPIN) system. The contract values reflected in this report are estimates.
+***************************
+52
+contracts expired contracts agency expired contracts Revenue & Expense Summary of Expired Contracts - As of June 30, 2014 The following data is provided as an extract from the Statewide Procurement System (Oregon Procurement Information Network - ORPIN). It is a complete list of contracts that expired on or before June 30, 2014 and represents the full extent of electronic records of expired contracts that are tracked within ORPIN. The contract values reflected in the report are estimates only. Note: A number of contracts may indicate an “Amendment Date” that may exceed the “Expiration Date”. In these instances, the “Amendment Date” reflects an automated system time/date stamp that the system appends to the contract when the electronic version was accessed or modified, not necessarily when the legal instrument (the contract itself) was modified. Note: This report may not include contract information for the Oregon Judicial Department, Oregon State Lottery, Oregon University System, Oregon State Treasurer, or semi-independent state agencies, boards, and commissions. Some executive branch agencies have independent contracting authority for specific goods and services (e.g., Transportation, Secretary of State, State Treasurer, Human Services, Fish and Wildlife, Parks and Recreation, Aviation, Economic and Community Development, Housing, Corrections, Veterans Affairs, Military, Education, and state agencies "specifically authorized" by any law outside the Code to "enter into a contract"). Thus, the ORPIN system may not capture contract information about those activities.
+***************************
+53
+contracts oregon judicial contracts oregon judicial 2014 2014 Revenue & Expense Contracts: State Agency: Oregon Judicial Department: Fiscal Year 2014 Contracts: State Agency: Oregon Judicial Department: Fiscal Year 2014
+***************************
+54
+contracts state treasurer state treasurer contracts state treasurer's office treasury contracts treasury 2014 2014 Revenue & Expense Contracts: State Treasurer: Fiscal Year 2014 Contracts for the State Treasurer's office for Fiscal Year 2014
+***************************
+55
+lottery contracts lottery oregon state lottery contracts 2014 2014 Revenue & Expense Contracts: Lottery: Fiscal Year 2014 Contracts: Lottery: Fiscal Year 2014
+***************************
+56
+salaries lottery employees salaries of lottery employees wages of lottery employees salaries 2014 2014 Revenue & Expense Salaries:Oregon Lottery Payroll Report: As of June 30, 2014 Salaries of Oregon Lottery work force
+***************************
+57
+salaries state employees salaries of state employees wages of state employees salaries 2014 2014 Revenue & Expense Salaries: State Agencies: As of June 30, 2014 Salaries of state work force sorted by agency.
+***************************
+58
+ous salaries oregon univeristy system salaries southern oregon university salaries sou salaries 2014 2014 Revenue & Expense Salaries: OUS: Southern Oregon University: FY 2014 Salaries: OUS: Southern Oregon University: FY 2014
+***************************
+59
+sou expenditures southern oregon university expenditures ous expenditures 2014 2014 Revenue & Expense Expenditures: OUS: Southern Oregon University: FY 2014 Expenditures: OUS: Southern Oregon University: FY 2014
+***************************
+60
+ous salaries oregon university system salaries university of oregon salaries uo salaries 2014 2014 Revenue & Expense Salaries: OUS: University of Oregon: FY 2014 Salaries: OUS: University of Oregon: FY 2014
+***************************
+61
+uo expenditures u of o expenditures university of oregon expenditures ous expenditures 2014 2014 Revenue & Expense Expenditures: OUS: University of Oregon: FY 2014 Expenditures: OUS: University of Oregon: FY 2014
+***************************
+62
+ous salaries oregon university system salaries portland state university salaries psu salaries 2014 2014 Revenue & Expense Salaries: OUS: Portland State University: FY 2014 Salaries: OUS: Portland State University: FY 2014
+***************************
+63
+ous expenditures psu expenditures portland state university expenditures 2014 Revenue & Expense Expenditures: OUS: Portland State University: FY 2014 Expenditures: OUS: Portland State University: FY 2014
+***************************
+64
+ous salaries oregon univeristy system salaries oregon state university salaries osu salaries 2014 2014 Revenue & Expense Salaries: OUS: Oregon State University: FY 2014 Salaries: OUS: Oregon State University: FY 2014
+***************************
+65
+ous expenditures osu expenditures oregon state university expenditures 2014 2014 Revenue & Expense Expenditures OUS: Oregon State University: FY 2014 Expenditures OUS: Oregon State University: FY 2014
+***************************
+66
+agency expenditures all agency expenditures state agency expenditures 2014 2014 Revenue & Expense Expenditures: State Agencies: Fiscal Year 2014 A list of expenditures for state agencies for Fiscal Year 2014. Sorted by Agency Number.
+***************************
+67
+tractor training Natural Resources Youth Tractor Safety Training in Oregon List of tractor safety training providers
+***************************
+68
+salaries esd high desert fiscal year 2014 Revenue & Expense Salaries: ESD: High Desert: Fiscal Year 2014 Salaries for High Desert ESD for Fiscal Year 2014
+***************************
+69
+expenditures esd high desert fiscal year 2014 Revenue & Expense Expenditures: ESD: Hight Desert: Fiscal Year 2014 Expenditures for High Desert ESD for Fiscal Year 2014
+***************************
+70
+contracts esd high desert fiscal year 2014 Revenue & Expense Contracts: ESD: High Desert: Fiscal Year 2014 Contracts for High Desert ESD for Fiscal Year 2014
+***************************
+71
+salaries esd northwest regional nw regional fiscal year 2014 Revenue & Expense Salaries: ESD: Northwest Regional: Fiscal Year 2014 Salaries for Northwest Regional ESD for Fiscal Year 2014
+***************************
+72
+expenditures esd northwest regional nw regional fiscal year 2014 Revenue & Expense Expenditures: ESD: Northwest Regional: Fiscal Year 2014 Expenditures for Northwest Regional ESD for Fiscal Year 2014
+***************************
+73
+contracts esd northwest regional nw regional fiscal year 2014 Revenue & Expense Contracts: ESD: Northwest Regional: Fiscal Year 2014 Contracts for Northwest Regional ESD for Fiscal Year 2014
+***************************
+74
+jefferson esd salaries jefferson county esd salaries jcesd salaries esd salaries 2014 Revenue & Expense Salaries: ESD: Jefferson County: Fiscal Year 2014 Summary of salaries for Jefferson County ESD for Fiscal Year 2014.
+***************************
+75
+jefferson esd jefferson county esd jefferson esd expenditures jefferson county esd expenditures 2014 Revenue & Expense Expenditures: ESD: Jefferson County: Fiscal Year 2014 This is a summary of expenditures by Jefferson County ESD for Fiscal Year 2014.
+***************************
+76
+jefferson county esd contracts esd contracts contracts esd education service district contracts 2014 Revenue & Expense Contracts: ESD: Jefferson: Fiscal Year 2014 Contracts for Jefferson County ESD for Fiscal Year 2014
+***************************
+77
+esd esd salaries lbl esd salaries lbl esd linn benton lincoln esd 2014 Revenue & Expense Salaries: ESD: LBL (Linn, Benton, Lincoln) Fiscal Year 2014 Summary of salaries for ESD: Linn, Benton, and Lincoln for Fiscal Year 2014
+***************************
+78
+esd expenditures esd expenditures lbl esd expenditures lbl esd linn benton lincoln esd 2014 Revenue & Expense Expenditures: ESD: LBL (Linn, Benton, Lincoln)  Fiscal Year 2014 Summary of expenditures for ESD Linn, Benton, and Lincoln for Fiscal Year 2014
+***************************
+79
+esd contracts esd contracts lbl esd contracts linn benton lincoln esd contracts 2014 Revenue & Expense Contracts: ESD: LBL (Linn, Benton, Lincoln) Fiscal Year 2014 Summary of contracts for Linn, Benton, and Lincoln ESD for Fiscal Year 2014.
+***************************
+80
+salaries esd grant fiscal year 2014 Revenue & Expense Salaries: ESD: Grant: Fiscal Year 2014 Salaries for Grant ESD for Fiscal Year 2014
+***************************
+81
+expenditures esd grant fiscal year 2014 Revenue & Expense Expenditures: ESD: Grant: Fiscal Year 2014 Expenditures for Grant ESD for Fiscal Year 2014
+***************************
+82
+contracts esd grant fiscal year 2014 Revenue & Expense Contracts: ESD: Grant: Fiscal Year 2014 Contracts for the Grant ESD for Fiscal Year 2014
+***************************
+83
+salaries esd columbia gorge fiscal year 2014 Revenue & Expense Salaries: ESD: Columbia Gorge; Fiscal Year 2014 Salaries for Columbia Gorge ESD for Fiscal Year 2014
+***************************
+84
+expenditures esd columbia gorge fiscal year 2014 Revenue & Expense Expenditures: ESD: Columbia Gorge: Fiscal Year 2014 ESD Expenditures for Columbia Gorge during Fiscal Year 2014.
+***************************
+85
+contracts esd columbia gorge fiscal year 2014 Revenue & Expense Contracts: ESD: Columbia Gorge: Fiscal Year 2014 Columbia Gorge ESD Contracts for Fiscal year 2014
+***************************
+86
+esd salaries esd clackamas esd salaries clackamas esd 2014 Revenue & Expense Salaries:ESD: Clackamas: Fiscal Year 2014 Summary of salaries for Clackamas ESD for Fiscal Year 2014.
+***************************
+87
+esd expenditures clackamas esd clackamas esd expenditures esd 2014 Revenue & Expense Expenditures: ESD: Clackamas: FY 2014 Expenditures: ESD: Clackamas: FY 2014
+
+Summary of expenditures for Clackamas ESD for Fiscal Year 2014.
+***************************
+88
+esd clackamas esd contracts esd contracts clackamas esd contracts 2014 Revenue & Expense Contracts: ESD: Clackamas: Fiscal Year 2014 Summary of contracts for Clackamas ESD for Fiscal Year 2014
+***************************
+89
+salaries esd harney fiscal year 2014 Revenue & Expense Salaries: ESD: Harney; Fiscal Year 2014 Salries for Harney ESD for Fiscal Year 2014
+***************************
+90
+expenditures esd harney fiscal year 2014 Revenue & Expense Expenditures: ESD: Harney: Fiscal Year 2014 Expenditures for Harney ESD for Fiscal Year 2014
+***************************
+91
+contracts esd harney fiscal year 2014 Revenue & Expense Contracts: ESD: Harney: Fiscal Year 2014 Contracts for Harney ESD for Fiscal Year 2014
+***************************
+92
+salaries esd intermountain fiscal year 2014 Revenue & Expense Salaries: ESD: Inter Mountain: Fiscal Year 2014 Salaries for Inter Mountain ESD for Fiscal Year 2014
+***************************
+93
+expenditures esd intermountain fiscal year 2014 Revenue & Expense Expenditures: ESD: Inter Mountain: Fiscal Year 2014 Expenditures for Inter Mountain ESD for Fiscal Year 2014
+***************************
+94
+contracts esd inter mountain fiscal year 2014 Revenue & Expense Contracts: ESD: Inter Mountain: Fiscal Year 2014 Contracts for Inter Mountain ESD for Fiscal Year 2014
+***************************
+95
+salaries esd willamette fiscal year 2014 Revenue & Expense Salaries: ESD: Willamette: Fiscal Year 2014 Salaries for Willamette ESD for Fiscal Year 2014
+***************************
+96
+expenditures esd willamette fiscal year 2014 Revenue & Expense Expenditures: ESD: Willamette: Fiscal Year 2014 Expenditures for Willamette ESD for Fiscal Year 2014
+***************************
+97
+contracts esd willamette fiscal year 2014 Revenue & Expense Contracts: ESD: Willamette: Fiscal Year 2014 Contracts for Willamette ESD for Fiscal Year 2014
+***************************
+98
+lane esd salaries lane esd esd salaries 2014 Revenue & Expense Salaries: ESD: Lane: Fiscal Year 2014 Summary of salaries for Lane ESD for Fiscal Year 2014.
+***************************
+99
+expenditures esd expenditures lane esd expenditures 2014 Revenue & Expense Expenditures: ESD: Lane:Fiscal Year 2014 Summary of expenditures by Lane ESD for Fiscal Year 2014
+***************************
+100
+esd contracts lane esd lane esd contracts 2014 Revenue & Expense Contracts: ESD: Lane ESD: Fiscal Year 2014 Contracts: ESD: Lane ESD: Fiscal Year 2014
+***************************
+101
+salaries esd salaries educational service districts malheur esd malheur esd salaries Revenue & Expense Salaries: ESD: Malheur: Fiscal Year 2014 Salaries as reported by Malheur Educational Service District for Fiscal Year 2014
+***************************
+102
+esd malheur esd malheur esd expenditures malheur educational service district Revenue & Expense Expenditures: ESD: Malheur: Fiscal Year 2014 A list of expenditures for Malheur Educational Service District for Fiscal Year 2014
+***************************
+103
+contracts malheur esd contracts malheur contracts malheur educational service district Revenue & Expense Contracts: ESD: Malheur: Fiscal Year 2014 Contracts for Malheur Educational Service District for Fiscal Year 2014.
+***************************
+104
+soesd salaries southern oregon esd salaries southern oregon salaries Revenue & Expense Salaries: ESD: Southern Oregon: FY 2014 Summary of salaries for Southern Oregon ESD for Fiscal Year 2014.
+***************************
+105
+soesd soesd expenditures southern oregon esd expenditures southern oregon expenditures Revenue & Expense Expenditures: ESD: Southern Oregon: FY 2014 Summary of expenditures for Southern Oregon ESD for Fiscal Year 2014.
+***************************
+106
+soesd soesd contracts southern oregon esd contracts southern oregon contracts Revenue & Expense Contracts: ESD: Southern Oregon: FY 2014 Summary of contracts for Southern Oregon ESD for Fiscal Year 2014.
+***************************
+107
+salaries esd wallows fiscal year 2014 Revenue & Expense Salaries: ESD: Wallowa: Fiscal Year 2014 Salaries for Wallowa ESD for Fiscal Year 2014
+***************************
+108
+expenditures esd wallowa fiscal year 2014 Revenue & Expense Expenditures: ESD: Wallowa: Fiscal Year 2014 Expenditures for Wallowa ESD for Fiscal Year 2014
+***************************
+109
+contracts esd wallowa fiscal year 2014 Revenue & Expense Contracts: ESD: Wallowa: Fiscal Year 2014 Contracts for Wallowa ESD for Fiscal Year 2014
+***************************
+110
+salaries esd north central fiscal year 2014 Revenue & Expense Salaries: ESD: North Central: Fiscal Year 2014 Salaries for North Central ESD for Fiscal Year 2014
+***************************
+111
+expenditures esd north central fiscal year 2014 Revenue & Expense Expenditures: ESD: North Central: Fiscal Year 2014 Expenditures for North Central ESD for Fiscal Year 2014
+***************************
+112
+contracts esd north central fiscal year 2014 Revenue & Expense Contracts: ESD: North Central: Fiscal Year 2014 Contracts for North Central ESD for Fiscal Year 2014
+***************************
+113
+salaries esd south coast fiscal year 2014 Revenue & Expense Salaries: ESD: South Coast: Fiscal Year 2014 Salaries for South Coast ESD for Fiscal Yer 2014
+***************************
+114
+expenditures esd south coast fiscal year 2014 Revenue & Expense Expenditures: ESD: South Coast: Fiscal Year 2014 Expenditures for South Coast ESD for Fiscal Year 2014
+***************************
+115
+contracts esd south coast fiscal year 2014 Revenue & Expense Contracts: ESD: South Coast: Fiscal Year 2014 Contacts for South Coast ESD for Fiscal Year 2014
+***************************
+116
+salaries esd douglas fiscal year 2014 Revenue & Expense Salaries: ESD: Douglas: Fiscal Year 2014 Salaries for Douglas ESD for Fiscal Year 2014
+***************************
+117
+expenditures esd douglas fiscal year 2014 Revenue & Expense Expenditures: ESD: Douglas: Fiscal Year 2014 Expenditures for Douglas ESD for Fiscal Year 2014
+***************************
+118
+contracts esd douglas fiscal year 2014 Revenue & Expense Contracts: ESD: Douglas: Fiscal Year 2014 Contracts for Douglas ESD for Fiscal Year 2014
+***************************
+119
+safety net clinics in oregon Health & Human Services Safety Net Clinics These clinics provide comprehensive primary care services to all patients, regardless of a person’s ability to pay. Please note that unless indicated, only Hospital Emergency Departments within a hospital necessarily treat patients regardless of their ability to pay. Check with the individual clinic for their specific financial policies and how they are applied.
+***************************
+120
+esd esd salaries multnomah esd mesd mesd salaries multnomah esd salaries 2014 Revenue & Expense Salaries: ESD: Multnomah County: Fiscal Year 2014 Salaries of Multnomah County ESD employees for Fiscal Year 2014
+***************************
+121
+esd expenditures esd expenditures multnomah esd expenditures 2014 Revenue & Expense Expenditures: ESD: Multnomah County: Fiscal Year 2014 Expenditures for Multnomah County ESD for Fiscal Year 2014
+***************************
+122
+esd esd contracts multnomah esd contracts mesd mesd contracts 2014 Revenue & Expense Contracts: ESD: Multnomah County: Fiscal Year 2014 Contracts for Multnomah County ESD for Fiscal Year 2014
+***************************
+123
+salaries esd lake county fiscal year 2014 Revenue & Expense Salaries: ESD: Lake County: Fiscal Year 2014 Salaries of Lake County ESD employees for Fiscal Year 2014
+***************************
+124
+expenditures esd lake county fiscal year 2014 2014 Revenue & Expense Expenditures: ESD: Lake County: Fiscal Year 2014 Expenditures for Lake County ESD for Fiscal Year 2014
+***************************
+125
+contracts esd lake county fiscal year 2014 2014 Revenue & Expense Contracts: ESD: Lake County: Fiscal Year 2014 Contracts for Lake County ESD for Fiscal Year 2014
+***************************
+126
+business name registration Business New Business List - October Businesses registered with the Secretary of State Corporation Division during the month of October.
+***************************
+127
+deq  Questions for DEQ Questions for DEQ
+***************************
+128
+deq  GP CO PM limited maintenance plans GP CO PM limited maintenance plans
+***************************
+129
+  Grants Pass CO PM LMP Grants Pass CO PM LMP
+***************************
+130
+exporting plants exporting plants from oregon shipping plants out of oregon  Exporting Plants Regulations for Exporting Plants out of Oregon
+***************************
+131
+  CleanFuels CleanFuels
+***************************
+132
+business name registration Business New Business List - September Businesses registered with the Secretary of State Corporation Division during the month of September.
+***************************
+133
+public floating restroom boating on-water restrooms port-a-potty Recreation Floating Restroom Locations This is a list of Oregon's floating restrooms on some of Oregon's most heavily used waterbodies.  More than 3 million gallons of human waste is collected from these facilities each year...help keep our waterways clean and pristine -and use a floating restroom!
+***************************
+134
+ Business Business Events This dataset provides information about business events and training.
+***************************
+135
+business name registration Business New Business List - August Businesses registered with the Secretary of State Corporation Division during the month of August.
+***************************
+136
+pesticides Natural Resources Pesticides news archives Pesticides news archives
+***************************
+137
+administrative rules admin rules agency admin rules agency administrative rules Administrative Agency Admin Rules URLs As a result of HB 2370 that was passed in 2013 agencies began providing links to Agency website/webpage that has Agency Administrative Rules or information about rules. Sorted by Agency name (V5). This data is updated periodically as new links are reported..
+***************************
+138
+  AQPerm AQPerm
+***************************
+139
+payroll osps agency contact Administrative Agency Payroll Contacts Need to contact someone in your agency's payroll department.  Well look no further!
+***************************
+140
+agriculture oda board meetings minutes agenda Natural Resources Board of Agriculture Meetings Board of Agriculture Meetings
+***************************
+141
+business name registration Business New Business List - July Businesses registered with the Secretary of State Corporation Division during th emonth of July.
+***************************
+142
+  LRAPAPS Comment - Incorporate LRAPA rules for permit streamlining into State Implementation Plan
+***************************
+143
+  WQNH3 WQNH3
+***************************
+144
+biological control biological agent oregon bio control Natural Resources Oregon Weeds Biocontrol Guide-2 biological control agents of Oregon and their current status and release information.
+***************************
+145
+oregon oda agriculture weeds biocontrol Natural Resources Oregon Weeds Biocontrol Guide Biocontrol planning guide by target weed and biocontrol agent​
+***************************
+146
+  LRAPAOB Comment - Incorporate LRAPA rules for open burning into State Implementation Plan
+***************************
+147
+ Transportation OBPAC August 26-27 meeting The Oregon Bicycle and Pedestrian Advisory Committee acts as a liaison between the public and ODOT. They advise ODOT in the regulation of bicycle and pedestrian traffic and the establishment of bikeways and walkways.
+***************************
+148
+ Transportation OLPC August 22, 2014  Meeting OLPC is a partnership with counties, cities, Oregon Department of Transportation and Federal Highway Administration, which meets to improve policy, process and oversight in the delivery of the Local Federal Aid Program and other local street and road programs and projects administered through ODOT.
+***************************
+149
+gas marina e-10 ethanol fuel fueling clear gasoline non-ethanol Recreation "Clear" Gasoline locations Where to buy clear gasoline in Oregon.  "Clear" gasoline is defined as a non-ethanol blended gas, generally produced with 91 octane and sold asa  premium blend.  Clear gasoline is a much better fuel for boats, ATV's, 1990 era and earlier car models, chainsaws, and yard equipment because of the rubber hoses, fuel lines, gaskets, etc. that can easily deteriorate with the use of ethanol-blended fuel.
+***************************
+150
+"state-listed" "rare plant" threatened endangered "plant conservation" Natural Resources Oregon listed and candidate plants - complete list This is an attempt to compile a complete dataset of all state-listed (both threatened and endangered) and candidate plant species along with all their plant profile information.
+***************************
+151
+oregon quarantines oregon regulations shipping regulations oregon import regulations oregon import quarantines  Importing Plants Regulations for importing plants into Oregon
+***************************
+152
+plant health pathogen laboratory fungi bacteria Natural Resources Plant Pathogen Plant pathogen list from the Oregon Department of Agriculture, Plant Health Laboratory.
+***************************
+153
+bugs insects spiders pests Natural Resources Bugs, insects, and spiders dataset for insects
+***************************
+154
+parc Natural Resources PARC annual reports PARC annual reports
+***************************
+155
+  Oregon Opioid Treatment Programs Medication-Assisted Treatment and Recovery Programs in Oregon
+***************************
+156
+register boat agents bonded dealers renew Recreation Bonded Boat Registration Agents The Marine Board has a partnership with many boat dealers and sporting good stores who provide exceptional customer service to boaters by serving as registration agents.
+***************************
+157
+business name registration Business New Business List - June Businesses registered with the Secretary of State Corporation Division during the month of June.
+***************************
+158
+  Oregon listed plants by county - complete list for map Oregon listed plants by county - complete list for map
+***************************
+159
+ Public Safety Chicago Crime Types2014 Chicago Crime Types2014
+***************************
+160
+  ODA Emergency Preparedness Resources Oregon Department of Agriculture Emergency Preparedness Resources Catalog
+***************************
+161
+fertilizer crop nutrients Natural Resources Fertilizer publications, forms, tonnage reports and lab analysis Fertilizer publications, forms, tonnage reports and lab analysis
+***************************
+162
+business name registration Business New Business List - May Businesses registered with the Secretary of State Corporation Division during the month of May
+***************************
+163
+ Natural Resources Bio Control Bio Control
+***************************
+164
+  Messages Messages
+***************************
+165
+dump pumpout boating guides sewage discharge clean boater facilities Recreation Boat Pumpout and Dump Stations Information about boat holding tank pumpout and potty dump stations in Oregon. These are public facilities paid for with Clean Vessel Act funds.
+***************************
+166
+business name registration Business New Business List - April Businesses registered with the Secretary of State Corporation Division during the month of April.
+***************************
+167
+bicycle pedestrian safety intersection transportation Transportation OBPAC June 4 Portland Oregon Bicycle and Pedestrian Advisory Committee (OBPAC) will meet at the ODOT building in Portland June 4th for the monthly committee meeting. Please review the attached agenda for public comment
+***************************
+168
+  HousingDocuments HousingDocuments
+***************************
+169
+ Administrative Image Dataset with Form Form with file up load to be embedded on a page
+***************************
+170
+field burning Natural Resources Field burning season summaries Field burning season summaries
+***************************
+171
+county noxious weed control Natural Resources Oregon County Weed Control Programs List of contact information for all County Weed Control Programs in Oregon.
+***************************
+172
+aquatic invasive species permit program paddle craft vessel out-of-state motor boats boats non-motorized Recreation AISP 1 & 2-Year Tyvek Tag Dealers, Online ODFW License Sales Where to get the Tyvek AISP Permit.  Paddle craft, out-of-state Motor Boats, and other non-motorized vessels 10' and over.
+***************************
+173
+  TVCPI TVCPI
+***************************
+174
+  WQFee14 WQFee14
+***************************
+175
+parc Natural Resources PARC meeting minute archive PARC meeting minute archive
+***************************
+176
+business name registration Business New Business List - March Businesses registered with the Secretary of State Corporation Division during the month of March.
+***************************
+177
+foreclosure mediation sb 558 Public Safety 2013 Foreclosure Avoidance Mediation Beneficiary Exemption Affidavits Pursuant To SB 558 Financial institutions that have filed an exemption for participation in foreclosure mediation on or after August 4, 2013, pursuant to SB 558.
+***************************
+178
+bicycle bike ped obpac Transportation OBPAC April 22 Portland Agenda Oregon Bicycle and Pedestrian Advisory Committee meeting April 22, 2014, Agenda.
+***************************
+179
+  updateCFP updateCFP
+***************************
+180
+esd esd revenue esd revenue 2012 esd revenue 2013 esd revenue by source Revenue & Expense Revenue: ESD: Revenue By Fund And Source-by ESD 2012-13 ESD revenue by fund and source for FY 2012-2013
+***************************
+181
+license pesticide Natural Resources ODA Pesticide Applicator Licenses Status information for persons holding any type of pesticide applicator license from the Oregon Department of Agriculture.
+***************************
+182
+  SmokeManagement SmokeManagement
+***************************
+183
+  ACDPfee ACDPfee
+***************************
+184
+  Columbia Pacific Comment space for the Columbia Pacific Bio-Refinery
+***************************
+185
+comments land sales land exchanges Natural Resources DSL-Real Property Public comments and questions related to land sales and exchanges
+***************************
+186
+esd contracts lane esd lane esd contracts Administrative Contracts: ESD: Lane ESD: Fiscal Year 2013 Contracts: ESD: Lane ESD: Fiscal Year 2013
+***************************
+187
+  Air Quality Rulemaking Update to Address Federal Regulations Air Quality Rulemaking Update to Address Federal Regulations
+***************************
+188
+  LRAPAfed rulemaking for permitting requirements
+***************************
+189
+obpac bicycle pedestrian public comment connectoregon Transportation OBPAC Newsflash Clarification on Public Comments at the March 10, 2014 OBPAC meeting in Corvallis, OR
+***************************
+190
+bicycle; pedestrian Transportation OBPAC March 10 11 Agenda Oregon Bicycle and Pedestrian Advisory Committee Agenda for March 10-11, 2014
+***************************
+191
+business name registration Business New Business List - January Businesses registered with the Secretary of State Corporation Division during the month of January.
+***************************
+192
+oregon "oregon counties" "county" Natural Resources Oregon counties map Oregon counties map
+***************************
+193
+2012 public meetings archived pubic meetings 2012 archived public meetings pubic meetings 2012 meetings Administrative Archived 2012 Oregon Public Meetings This dataset includes all public meetings that were posted to the Transparency website by State of Oregon agencies, boards, commissions and ESD's from January 1, 2012 through December 31. 2012. The meetings are sorted by name of Agency, Board, Commission or ESD.
+***************************
+194
+foreclosure mediation Public Safety 2013 Foreclosure Avoidance Mediation Beneficiary Exemption Affidavits Financial institutions that have filed an exemption for participation in foreclosure avoidance mediation (2013)
+***************************
+195
+"water quality" oregon agriculture Natural Resources Oregon Ag Water Quality Management Areas Map Oregon Ag Water Quality Management Areas
+***************************
+196
+2013 public meetings archived public meetings 2013 meetings public meetings Administrative Archived 2013 Oregon Public Meetings This dataset includes all public meetings that were posted to the Transparency website by State of Oregon agencies, boards, commissions and ESD's from January 1. 2013 through December 31, 2013.  The meetings are sorted by name of agency, board, commission or ESD.
+***************************
+197
+ Administrative GPL Documents GPL Documents
+***************************
+198
+ Administrative National County Map National County Map
+***************************
+199
+oregon arra recovery and reinvestment act stimulus reporting jobs employment Administrative Oregon Recovery and Reinvestment Act Data (Prime Awards) - March, 2012 This spreadsheet contains prime awards created through the Oregon Recovery and Reinvestment Act (ARRA). Please note that these are preliminary data reflected from the most recent reporting period of the American Recovery and Reinvestment Act of 2009, including data through April 30, 2011. For the latest recovery award data, please visit http://www.recovery.gov.
+***************************
+200
+agency expenditures all agency expenditures state agency expenditures Revenue & Expense Expenditures: State Agencies: Fiscal Year 2013 A list of expenditures for state agencies for Fiscal Year 2013.  Sorted by Agency Number.
+***************************
+201
+  deslgrntP Comment - Align diesel grant program with federal guidelines
+***************************
+202
+  Sample Health File Sample Health File
+***************************
+203
+  Sample Meetings Sample Meetings
+***************************
+204
+ Administrative Oregon Cities This data is based on 2010 Census information.
+***************************
+205
+contracts malheur esd contracts malheur contracts malheur educational service district Revenue & Expense Contracts: ESD: Malheur: Fiscal Year 2013 Contracts for Malheur Educational Service District for Fiscal Year 2013.
+***************************
+206
+salaries esd salaries educational service districts malheur esd malheur esd salaries Revenue & Expense Salaries: ESD: Malheur: Fiscal Year 2013 Salaries as reported by Malheur Educational Service District for Fiscal Year 2013
+***************************
+207
+esd malheur esd malheur esd contracts malheur educational service district Revenue & Expense Expenditures: ESD: Malheur: Fiscal Year 2013 A list of expenditures for Malheur Educational Service District for Fiscal Year 2013
+***************************
+208
+contracts state treasurer state treasurer contracts state treasurer's office treasury contracts treasury Revenue & Expense Contracts: State Treasurer: Fiscal Year 2013 Contracts for the State Treasurer's office for Fiscal Year 2013
+***************************
+209
+chancellors office expenditures ous expenditures Revenue & Expense EXPENDITURES: OUS: CHANCELLORS OFFICE: FY 2013 EXPENDITURES: OUS: CHANCELLORS OFFICE: FY 2013
+***************************
+210
+lottery contracts lottery oregon state lottery contracts Revenue & Expense Contracts: Lottery: Fiscal Year 2013 Contracts: Lottery: Fiscal Year 2013
+***************************
+211
+esd esd salaries multnomah esd mesd mesd salaries multnomah esd salaries Revenue & Expense Salaries: ESD: Multnomah: FY 2013 Summary of salaries for Multnomah ESD for Fiscal Year 2013
+***************************
+212
+esd esd contracts multnomah esd contracts mesd mesd contracts Revenue & Expense Contracts: ESD: Multnomah: FY 2013 Summary of contracts for Multnomah ESD for Fiscal Year 2013
+***************************
+213
+esd esd salaries lbl esd salaries lbl esd linn benton lincoln esd Revenue & Expense Salaries: ESD: LBL: FY2013 Summary of salaries for Linn, Benton, Lincoln ESD for Fiscal Year 2013
+***************************
+214
+esd expenditures esd expenditures lbl esd expenditures lbl esd linn benton lincoln esd Revenue & Expense Expenditures: ESD: LBL: FY2013 Summary of expenditures for LBL ESD for Fiscal Year 2013
+***************************
+215
+esd contracts esd contracts lbl esd contracts linn benton lincoln esd contracts Revenue & Expense Contracts: ESD: LBL: FY2013 Summary of contracts for Linn, Benton, Lincoln ESD for Fiscal Year 2013.
+***************************
+216
+esd clackamas esd contracts esd contracts clackamas esd contracts Revenue & Expense Contracts: ESD: Clackamas: FY 2013 Summary of contracts for Clackamas ESD for Fiscal Year 2013
+***************************
+217
+esd salaries esd clackamas esd salaries clackamas esd education service district salaries Revenue & Expense Salaries; ESD: Clackamas: FY 2013 Summary of salaries for Clackamas ESD for Fiscal Year 2013.
+***************************
+218
+esd expenditures clackamas esd clackamas esd expenditures esd education service district Revenue & Expense Expenditures:  ESD: Clackamas: FY 2013 Summary of expenditures for Clackamas ESD for Fiscal Year 2013.
+***************************
+219
+esd expenditures esd expenditures multnomah esd expenditures Revenue & Expense Expenditures: ESD: Multnomah: FY 2013 Summary of expenditures for Multnomah ESD for Fiscal Year 2013
+***************************
+220
+ous contracts ous capital construction retainer programs ous retainer programs Revenue & Expense Contracts: OUS: Captial Construction Retainer Programs: Totals: FY2013 Contracts: OUS: Captial Construction Retainer Programs: Totals: FY2013
+***************************
+221
+ous capital construction retainer program pc amendments pc amendments ous retainer programs Revenue & Expense Contracts: OUS: Captial Construction Retainer Program: PC Amendments: FY2013 Contracts: OUS: Captial Construction Retainer Program: PC Amendments: FY2013
+***************************
+222
+ous capital construction retainer program pc supplements pc supplements ous Revenue & Expense Contracts: OUS: Captial Construction Retainer Program: PC Supplements: FY2013 Contracts: OUS: Captial Construction Retainer Program: PC Supplements: FY2013
+***************************
+223
+ous capital construction retainer program crs supplements capital construction retainer program Revenue & Expense Contracts: OUS: Captial Construction Retainer Program: CRS Supplements: FY2013 Contracts: OUS: Captial Construction Retainer Program: CRS Supplements: FY2013
+***************************
+224
+ous capital construction retainer program crs crs amendments capital construction retainer program Revenue & Expense Contracts: OUS: Captial Construction Retainer Program: CRS Amendments: FY2013 Contracts: OUS: Captial Construction Retainer Program: CRS Amendments: FY2013
+***************************
+225
+uo expenditures u of o expenditures university of oregon expenditures ous expenditures Revenue & Expense EXPENDITURES: OUS: UNIVERSITY OF OREGON: FY 2013 EXPENDITURES: OUS: UNIVERSITY OF OREGON: FY 2013
+***************************
+226
+jefferson county esd contracts esd contracts contracts esd education service district contracts contract Revenue & Expense Contracts: ESD: Jefferson County: FY 2013 Contracts: ESD: Jefferson County: FY 2013
+***************************
+227
+wou expenditures western oregon university expenditures ous expenditures Revenue & Expense EXPENDITURES: OUS: WESTERN OREGON UNIVERSITY: FY 2013 EXPENDITURES: OUS: WESTERN OREGON UNIVERSITY: FY 2013
+***************************
+228
+sou expenditures southern oregon university expenditures ous expenditures Revenue & Expense EXPENDITURES: OUS: SOUTHERN OREGON UNIVERSITY: FY 2013 EXPENDITURES: OUS: SOUTHERN OREGON UNIVERSITY: FY 2013
+***************************
+229
+ous expenditures psu expenditures portland state university expenditures Revenue & Expense EXPENDITURES: OUS: PORTLAND STATE UNIVERSITY: FY 2013 EXPENDITURES: OUS: PORTLAND STATE UNIVERSITY: FY 2013
+***************************
+230
+ous expenditures oit expenditures oregon tech expenditures oregon institute of technology expenditures Revenue & Expense EXPENDITURES: OUS: OREGON INSTITUTE OF TECHNOLOGY: FY 2013 EXPENDITURES: OUS: OREGON INSTITUTE OF TECHNOLOGY: FY 2013
+***************************
+231
+ous expenditures osu expenditures oregon state university expenditures Revenue & Expense EXPENDITURES: OUS: OREGON STATE UNIVERSITY: FY 2013 EXPENDITURES: OUS: OREGON STATE UNIVERSITY: FY 2013
+***************************
+232
+eastern oregon university expenditures ous expenditures eou expenditures Revenue & Expense EXPENDITURES: OUS: EASTERN OREGON UNIVERSITY: FY 2013 EXPENDITURES: OUS: EASTERN OREGON UNIVERSITY: FY 2013
+***************************
+233
+ Revenue & Expense Contracts: ESD: Southern Oregon: FY 2013 Summary of contracts for Southern Oregon ESD for Fiscal Year 2013.
+***************************
+234
+soesd salaries souther oregon esd salaries southern oregon salaries Revenue & Expense Salaries: ESD: Southern Oregon: FY 2013 Summary of salaries for Southern Oregon ESD for Fiscal Year 2013.
+***************************
+235
+soesd soesd expenditures southern oregon esd expenditures southern oregon expenditures Revenue & Expense Expenditures: ESD: Southern Oregon: FY 2013 Summary of exependitures for Southern Oregon ESD for Fiscal Year 2013.
+***************************
+236
+expenditures esd expenditures lane esd expenditures Revenue & Expense Expenditures: ESD: Lane: FY 2013 Summary of expenditures by Lane ESD for Fiscal Year 2013
+***************************
+237
+lane esd salaries lane esd esd salaries Revenue & Expense Salaries: ESD: Lane: FY 2013 Summary of salaries for Lane ESD for Fiscal Year 2013.
+***************************
+238
+jefferson esd salaries jefferson county esd salaries jcesd salaries esd salaries jefferson co esd salaries Revenue & Expense Salaries: ESD: Jefferson County: FY 2013 Summary of salaries for Jefferson County ESD for Fiscal Year 2013.
+***************************
+239
+jefferson esd jefferson county esd jefferson esd expenditures jefferson county esd expenditures Revenue & Expense Expenditures: ESD: Jefferson County: FY 2013 This is a summary of expenditures by Jefferson County ESD for Fiscal Year 2013.
+***************************
+240
+ous salaries.oregon university system salaries western oregon university salaries wou salaries Revenue & Expense Salaries: OUS: Western Oregon University: FY 2013 Salaries: OUS: Western Oregon University: FY 2013
+***************************
+241
+ous salaries oregon university system salaries university of oregon salaries uo salaries Revenue & Expense Salaries: OUS: University of Oregon: FY 2013 Salaries: OUS: University of Oregon: FY 2013
+***************************
+242
+ous salaries oregon univeristy system salaries southern oregon university salaries sou salaries Revenue & Expense Salaries: OUS: Southern Oregon University: FY 2013 Salaries: OUS: Southern Oregon University: FY 2013
+***************************
+243
+ous salaries oregon university system salaries portland state university salaries psu salaries Revenue & Expense Salaries: OUS: Portland State University: FY 2013 Salaries: OUS: Portland State University: FY 2013
+***************************
+244
+ous salaries oregon university system salaries oit salaries oregon institute of technology salaries Revenue & Expense Salaries: OUS: Oregon Institute of Technology: FY 2013 Salaries: OUS: Oregon Institute of Technology: FY 2013
+***************************
+245
+ous salaries oregon univeristy system salaries oregon state university salaries osu salaries Revenue & Expense Salaries: OUS: Oregon State University: FY 2013 Salaries: OUS: Oregon State University: FY 2013
+***************************
+246
+ous salaries eastern oregon university salaries eou salaries oregon university system salaries Revenue & Expense Salaries: OUS: Eastern Oregon University: FY 2013 Salaries: OUS: Eastern Oregon University: FY 2013
+***************************
+247
+ous salaries oregon university system oregon university system salaries chancellor's office salaries Revenue & Expense Salaries: OUS: Chancellor's Officce: FY 2013 Salaries: OUS: Chancellor's Officce: FY 2013
+***************************
+248
+energy energy incentive energy incentive program incentive program Revenue & Expense Energy Incentive Program: Fiscal Year 2013 Energy Incentive Program: Fiscal Year 2013
+***************************
+249
+residential energy tax credit program residential energy residential tax credit energy credit program energy program Revenue & Expense Residential Energy Tax Credit Program: Fiscal Year 2013 Residential Energy Tax Credit Program: Fiscal Year 2013
+***************************
+250
+tax credit busiess energy tax credit tax credit program Revenue & Expense Business Energy Tax Credit Program: Fiscal Year 2013 Certificates·Issued·from·July·1,·2012·through·June·30,·2013. Withdrawn, Denied, and Incomplete applications are excluded. Every effort has been made to ensure the data are complete, but these records reflect information reported to this agency by others. The Oregon Department of Energy is not responsible for data that is misinterpreted or altered in any way. If errors are discovered after publication of the records, the data are corrected in the electronic files.  It is estimated that there is a margin of error of less than one percent. NOTE: This data reports tax credits issued and may differ slightly from the tax credits allowed due to rounding. The tax-credit rate depends on the biomass material type. The energy value of the biomass materials in Million Btu (MMBtu) are estimates.
+***************************
+251
+tax credit tax credit program energy tax credit program biomass biomass producer biomass collector Revenue & Expense Biomass Tax Credit Program: Producer or Collector: FY 2013 Summary of Certificates·Issued·from·July·1,·2012·through·June·30,·2013 (Fiscal·Year·2013)
+***************************
+252
+oregon production investment fund opif investment fund oregon investment fund film and television governor's office of film and television Revenue & Expense Oregon Production Investment Fund: FY-2013 Governor's office of Film and Television Oregon Investment Fund for Fiscal Year 2013
+***************************
+253
+green light green light program governor's office of film and televesion Revenue & Expense Green Light Program - Fiscal Year 2013 Green Light Program - Fiscal Year 2013
+***************************
+254
+oregon investment advantage Revenue & Expense Oregon Investment Advantage - Fiscal Year 2013 Fiscal Year 2013 (annual) Certifications of Facility to Receive Oregon Investment Advantage Tax Benefit under ORS 316.778 or 317.391; Reporting Agency: Oregon Business Development Department. For further specificity about process & criteria related to specific outcomes of the programs and taxpayer requirements see: http://www.oregon4biz.com/The-Oregon-Advantage/Incentives/The-oregon-Investment-Advantage/
+***************************
+255
+odot construction contracts odot construction contracts Revenue & Expense Construction Contracts: ODOT: Fiscal Year 2013 Summary of Oregon Department of Transportation construction contracts that are not in ORPIN for Fiscal Year 2013.
+***************************
+256
+oregon investment oregon strategic investment oregon strategic investment program Revenue & Expense Strategic Investment Program - Fiscal Year 2013 Strategic Investment Program - Fiscal Year 2013
+***************************
+257
+contracts oregon judicial contracts oregon judicial Revenue & Expense Contracts: State Agency: Oregon Judicial Department: Fiscal Year 2013 Contracts: State Agency: Oregon Judicial Department: Fiscal Year 2013
+***************************
+258
+contracts expired contracts agency expired contracts Revenue & Expense Summary of Expired Contracts - As of June 30, 2013 The following data is provided as an extract from the Statewide Procurement System (Oregon Procurement Information Network - ORPIN). It is a complete list of contracts that expired on or before June 30, 2013 and represents the full extent of electronic records of expired contracts that are tracked within ORPIN. The contract values reflected in the report are estimates only. Note: A number of contracts may indicate an “Amendment Date” that may exceed the “Expiration Date”. In these instances, the “Amendment Date” reflects an automated system time/date stamp that the system appends to the contract when the electronic version was accessed or modified, not necessarily when the legal instrument (the contract itself) was modified. Note: This report may not include contract information for the Oregon Judicial Department, Oregon State Lottery, Oregon University System, Oregon State Treasurer, or semi-independent state agencies, boards, and commissions. Some executive branch agencies have independent contracting authority for specific goods and services (e.g., Transportation, Secretary of State, State Treasurer, Human Services, Fish and Wildlife, Parks and Recreation, Aviation, Economic and Community Development, Housing, Corrections, Veterans Affairs, Military, Education, and state agencies "specifically authorized" by any law outside the Code to "enter into a contract"). Thus, the ORPIN system may not capture contract information about those activities.
+***************************
+259
+contracts agency contracts state contracts Revenue & Expense Contracts: Agencies: As of June 30, 2013 This report provides information on contracts and amendments to contracts issued from July 1, 2012 - June 30, 2013, for state agencies who are subject to DAS contracting authority. These agencies must report their contracting activity through the Oregon Procurement Information Network (ORPIN) system. The contract values reflected in this report are estimates.
+***************************
+260
+salaries state employees salaries of state employees wages of state employees Revenue & Expense Salaries: State Agencies: As of June 30, 2013 Salaries of state work force sorted by agency.
+***************************
+261
+revenue esd revenue esd revenue source esd revenue fund 2011 2012 Revenue & Expense Revenue: ESD: Revenue By Fund And Source-by ESD 2011-12 Revenues sorted by fund, source and ESD for FY 2011-2012
+***************************
+262
+expenditures esd northwest regional nw regional fiscal year 2013 Revenue & Expense Expenditures: ESD: Northwest Regional: Fiscal Year 2013 Expenditures for Northwest Regional ESD for Fiscal Year 2013
+***************************
+263
+salaries esd northwest regional nw regional fiscal year 2013 Revenue & Expense Salaries: ESD: Northwest Regional: Fiscal Year 2013 Salaries for Northwest Regional ESD for Fiscal Year 2013
+***************************
+264
+contracts esd northwest regional nw regional fiscal year 2013 Revenue & Expense Contracts: ESD: Northwest Regional: Fiscal Year 2013 Contracts for Northwest Regional ESD for Fiscal Yeear 2013
+***************************
+265
+expenditures esd harney fiscal year 2013 Revenue & Expense Expenditures: ESD: Harney: Fiscal Year 2013 Expenditures for Hareny ESD for Fiscal Year 2013
+***************************
+266
+contracts esd harney fiscal year 2013 Revenue & Expense Contracts: ESD: Harney: Fiscal Year 2013 Contracts for Harney ESD for Fiscal Year 2013
+***************************
+267
+expenditures esd grant fiscal year 2013 Revenue & Expense Expenditures: ESD: Grant: Fiscal Year 2013 Expenditures for Grant ESD for Fiscal Year 2013
+***************************
+268
+salaries esd grant fiscal year 2013 Revenue & Expense Salaries: ESD: Grant: Fiscal Year 2013 Salaries for Grant ESD for Fiscal Year 2013
+***************************
+269
+contracts esd grant fiscal year 2013 Revenue & Expense Contracts: ESD: Grant: Fiscal Year 2013 Contracts for the Grant ESD for Fiscal Year 2013
+***************************
+270
+expenditures esd douglas fiscal year 2013 Revenue & Expense Expenditures: ESD: Douglas: Fiscal Year 2013 Expenditures for Douglas ESD for Fiscal Year 2013
+***************************
+271
+salaries esd douglas fiscal year 2013 Revenue & Expense Salaries: ESD: Douglas: Fiscal Year 2013 Salaries for Douglas ESD for Fiscal Year 2013
+***************************
+272
+contracts esd douglas fiscal year 2013 Revenue & Expense Contracts: ESD: Douglas: Fiscal Year 2013 Contracts for Douglas ESD for Fiscal Year 2013
+***************************
+273
+expenditures esd north central fiscal year 2013 Revenue & Expense Expenditures: ESD: North Central: Fiscal Year 2013 Expenditures for North Central ESD for Fiscal Year 2013
+***************************
+274
+salaries esd north central fiscal year 2013 Revenue & Expense Salaries: ESD: North Central: Fiscal Year 2013 Salaries for North Central ESD for Fiscal Year 2013
+***************************
+275
+contracts esd north central fiscal year 2013 Revenue & Expense Contracts: ESD: North Central: Fiscal Year 2013 Contracts for North Central ESD for Fiscal Year 2013
+***************************
+276
+salaries esd south coast fiscal year 2013 Revenue & Expense Salaries: ESD: South Coast: Fiscal Year 2013 Salaries for South Coast ESD for Fiscal Yer 2013
+***************************
+277
+expenditures esd south coast fiscal year 2013 Revenue & Expense Expenditures: ESD: South Coast: Fiscal Year 2013 Expenditures for South Coast ESD for Fiscal Year 2013
+***************************
+278
+contracts esd south coast fiscal year 2013 Revenue & Expense Contracts: ESD: South Coast: Fiscal Year 2013 Contacts for South Coast ESD for Fiscal Year 2013
+***************************
+279
+salaries esd wallows fiscal year 2013 Revenue & Expense Salaries: ESD: Wallowa: Fiscal Year 2013 Salaries for Wallowa ESD for Fiscal Year 2013
+***************************
+280
+expenditures esd wallowa fiscal year 2013 Revenue & Expense Expenditures: ESD: Wallowa: Fiscal Year 2013 Expenditures for Wallowa ESD for Fiscal Year 2013
+***************************
+281
+contracts esd wallowa fiscal year 2013 Revenue & Expense Contracts: ESD: Wallowa: Fiscal Year 2013 Contracts for Wallowa ESD for Fiscal Year 2013
+***************************
+282
+salaries esd intermountain fiscal year 2013 Revenue & Expense Salaries: ESD: InterMountain: Fiscal Year 2013 Salaries for InterMountain ESD for Fiscal Year 2013
+***************************
+283
+expenditures esd intermountain fiscal year 2013 Revenue & Expense Expenditures: ESD: InterMountain: Fiscal Year 2013 Expenditures for InterMountain ESD for Fiscal Year 2013
+***************************
+284
+contracts esd inter mountain fiscal year 2013 Revenue & Expense Contracts: ESD: InterMountain: Fiscal Year 2013 Contracts for InterMountain ESD for Fiscal Year 2013
+***************************
+285
+salaries esd high desert fiscal year 2013 Revenue & Expense Salaries: ESD: High Desert: Fiscal Year 2013 Salaries for High Desert ESD for Fiscal Year 2013
+***************************
+286
+expenditures esd high desert fiscal year 2013 Revenue & Expense Expenditures: ESD: Hight Desert: Fiscal Year 2013 Expenditures for High Desert ESD for Fiscal Year 2013
+***************************
+287
+contracts esd high desert fiscal year 2013 Revenue & Expense Contracts: ESD: High Desert: Fiscal Year 2013 Contracts for High Desert ESD for Fiscal Year 2013
+***************************
+288
+salaries esd willamette fiscal year 2013 Revenue & Expense Salaries: ESD: Willamette: Fiscal Year 2013 Salaries for Willamette ESD for Fiscal Year 2013
+***************************
+289
+expenditures esd willamette fiscal year 2013 Revenue & Expense Expenditures: ESD: Willamette: Fiscal Year 2013 Expenditures for Willamette ESD for Fiscal Year 2013
+***************************
+290
+contracts esd willamette fiscal year 2013 Revenue & Expense Contracts: ESD: Willamette: Fiscal Year 2013 Contracts for Willamette ESD for Fiscal Year 2013
+***************************
+291
+expenditures esd lake county fiscal year 2013 Revenue & Expense Expenditures: ESD: Lake County: Fiscal Year 2013 Expenditures for Lake County ESD for Fiscal Year 2013
+***************************
+292
+business energy tax credit obdd renewable resource equipment manufacturing mfgbetc Revenue & Expense Renewable Resource Equipment Manufacturing OBDD Business Energy Tax Credit
+***************************
+293
+expenditures esd columbia gorge fiscal year 2013 Revenue & Expense Expenditures: ESD: Columbia Gorge: Fiscal Year 2013 ESD Expenditures for FY 2013
+***************************
+294
+contracts esd columbia gorge fiscal year 2013 Revenue & Expense Contracts: ESD: Columbia Gorge: Fiscal Year 2013 Columbia Gorge ESD Contracts for Fiscal year 2013
+***************************
+295
+salaries esd columbia gorge fiscal year 2013 Revenue & Expense Salaries: ESD: Columbia Gorge; Fiscal Year 2013 Salaries for Columbia Gorge ESD for Fiscal Year 2013
+***************************
+296
+contracts esd lake county fiscal year 2013 Revenue & Expense Contracts: ESD: Lake County: Fiscal Year 2013 Contracts for Lake County ESD for Fiscal Year 2013
+***************************
+297
+salaries esd lake county fiscal year 2013 Revenue & Expense Salaries: ESD: Lake County: Fiscal Year 2013 Salaries of Lake County ESD employees for Fiscal Year 2013
+***************************
+298
+salaries esd harney fiscal year 2013 Revenue & Expense Salaries: ESD: Harney; Fiscal Year 2013 Salries for Harney ESD for Fiscal Year 2013
+***************************
+299
+  CWSRF Longer Term Financing CWSRF Longer Term Financing
+***************************
+300
+oregon health authority icd10 icd equivalence map Health & Human Services ICD-10 Oregon-Specific Equivalence Map DISCLAIMER: The Oregon-Specific Equivalence Map includes ICD-9 codes translated to ICD-10 based on a clinical and policy analysis of each code. It is not intended to be used as an ICD-10 conversion or crosswalk tool. The final version of this map will be released in August 2014. The Oregon Health Authority (OHA) gives no indemnity as to the correctness of the information or the data given in the Oregon-Specific Equivalence Map and shall not be liable for any loss or damage arising directly or indirectly from use of the data supplied in the Oregon-Specific Equivalence Map. The information in the Oregon-Specific Equivalence Map has not been vetted by the Centers for Medicare and Medicaid Services (CMS) and should not be considered an official CMS document. OHA encourages readers to review the specific statutes, regulations and other interpretive materials relating to Oregon Administrative Rule 410-120-1280 – Billing.
+***************************
+301
+  onsitecomments onsitecomments
+***************************
+302
+  Columbia River Crossing Comments Columbia River Crossing Comments
+***************************
+303
+bills legislature legislative signed veto vetoed bill session 2013 Administrative Bills Signed by Governor Kitzhaber (2013) List of bills signed by Governor Kitzhaber in the 2013 Legislative Session
+***************************
+304
+  ORLNGquestions ORLNGquestions
+***************************
+305
+  DEQ Portland Metro Vehicle Inspection Stations DEQ VIP Station Location
+***************************
+306
+  IntelCorporation IntelCorporation
+***************************
+307
+boating facilities requests grants funding osmb board june 2013 2013-15 Natural Resources 2013-15 OSMB-Facilities Grant Requests June 2013 2013-15 OSMB-Facilities Grant Requests June 2013
+***************************
+308
+  Nuisance Feedback Nuisance Feedback
+***************************
+309
+  Toxics Water Quality Standards Comments Corrections and Clarifications to Toxics Water Quality Standards Comment Form
+***************************
+310
+  ORLEV Comments
+***************************
+311
+  DEQ Rule -- Oregon's Civil Penalties DEQ Rule -- Oregon's Civil Penalties
+***************************
+312
+bills signed governor legislative session 2011  Bills Signed by Governor Kitzhaber (2011) Bills Signed by Governor Kitzhaber (2011)
+***************************
+313
+ Natural Resources DEQ Comments DEQ Comments
+***************************
+314
+  WQFeeRule WQFeeRule
+***************************
+315
+ Revenue & Expense Salary: State Agencies: As of June 30, 2013 Salary: State Agencies: As of June 30, 2013
+***************************
+316
+icd 9 10 map Health & Human Services ICD-10 Master Equivalence Map DISCLAIMER: The Master Equivalence Map includes all existing ICD-9 and ICD-10 codes. It is not intended to be used as an ICD-10 conversion or crosswalk tool. 
+
+The Oregon Health Authority (OHA) gives no indemnity as to the correctness of the information or the data given in the Master Equivalence Map and shall not be liable for any loss or damage arising directly or indirectly from use of the data supplied in the Master Equivalence Map.  
+
+The information in the Master Equivalence Map has not been vetted by the Centers for Medicare and Medicaid Services (CMS) and should not be considered an official CMS document. 
+
+OHA encourages readers to review the specific statutes, regulations and other interpretive materials relating to OAR 410-120-1280 - Billing.
+***************************
+317
+motor restrictions motors prohibited motor boats speed boats jet boats outboard inboard stern drive motor boats Recreation Motorboat Restrictions in Oregon Waterbodies where the use of motors are prohibited.  Waterways where motor boats are not allowed are established in Oregon Administrative Rule 250 or Oregon Statute 830.
+***************************
+318
+  DEQ Questions DEQ Questions
+***************************
+319
+  City Limits [arcgis_rest_services_Framework_Admin_Bounds_WM_MapServer_0] City limits and city annexations for the State of Oregon. Source: ODOT, 1:24,000. Last updated: 2011.
+
+Full metadata record can be found here: http://gis.oregon.gov/DAS/EISPD/GEO/docs/metadata/citylim_2011.xml
+***************************
+320
+2013-15 boating facilitties grants Recreation 2013-15 Boating Facilitties Grants-Test 2013-15 Boating Facilitties Grants
+***************************
+321
+electric motor only waterways motor boat restrictions watercraft kicker motors under 10 horse power small electric motors open boats boats under 16 feet puddle jumpers Recreation "Electric Motor Only" Waterways in Oregon Some waterbodies in Oregon have been designated "electric motor only" by Oregon Administrative Rule or statute.  These waterbodies have been designated based on their topography, size and traditional boating uses.
+***************************
+322
+secretary of state elections drop boxes ballots voters  State of Oregon Ballot Drop Box Locations / May 2013 General Election Local ballot drop box locations, compiled by the Oregon Secretary of State's Office. The Oregon Geospatial Enterprise Office has developed a interactive map using this data to help the public find their nearest drop box location. You can find this application here: http://www.sos.state.or.us/dropbox/index.html.
+
+Please report any problems with the content (e.g., locations of drop boxes) to the OR Secretary of State's office Elections Division.
+***************************
+323
+  Board Meeting Audio 032013 Board Meeting Audio 032013
+***************************
+324
+clean marinas boating clean boating marinas moorages floating homes marine board Natural Resources Certified Clean Marinas The Oregon Clean Marina program is a voluntary program working to protect and improve local water quality by promoting the usage of environmentally sensitive practices at marinas. The program provides the opportunity for marinas, boatyards, yacht clubs, and floating home moorages to receive recognition for helping to establish and promote a cleaner marine environment for Oregon.
+
+If a facility is in compliance with existing environmental regulations and uses a high percentage of the recommended best management practices, it can be designated as an Oregon Clean Marina. Such certified marinas are authorized to fly the Clean Marina flag and use the logo in their advertising. The flag and logo are signals to boaters that a marina cares about the cleanliness of Oregon waterways.
+
+The program also provides information to marine facility managers on how to eliminate or reduce the input of polluting materials – such as oil, paint, cleaning chemicals, sewage, fish waste, and trash – into the environment.
+***************************
+325
+oregon places populated locations towns cities villages  Oregon Populated Places This point theme shows the location of populated places in the state of Oregon as derived from the 1:24,000 GNIS theme. 
+
+    This dataset was created from the USGS GNIS database. Several SSCGIS staff members have worked on this theme over the years. 
+
+Procedures_Used: The orppl theme was delineted from the 1990 GNIS theme. To get an idea how this coverage was created download the GNIS metadata. The orppl point theme was generated as the orcov theme. It was built for point topology after the theme was generated. it was than copied to oregnis. Arcedit was used to populate the coverage by selecting ppl from the desig item. The theme was again built for point topology. the theme was imported in 1991 and copied to the gniscov name. External was used 5 times to populate the database. the theme was then exported as gniscov. The gniscov was edited and built for point topology. Reselect was used twice. ArcEdit was used 6 times to edit the theme and than renamed to orppl. The theme was than built for point topology. The theme was than copied twice. One of these copies ws overlayed with house90 using the identity using the point .1 fuzzy tolerance and join options to join the two themes together. The theme was than copied to another directory. In the new directory the theme was edited 7 times and build for point topology. The theme was than renamed orppl and copied two more times. The theme was exported twice and built once between 1993 and 1995. The Projectcopy command was used to copy the projection info from the citylimits theme to the orppl. The theme was than exported twice and imported back in to be projected into the Oregon State transfer standard. The theme was built for point topology and imported back in so that metadata could be created for it.
+***************************
+326
+marine board board meeting portland boat show recreational boating boating facilities boating safety grant awards strategic plan osmb boating Administrative Audio of the Marine Board's January 2013 Meeting Listen to Marine Board members, agency staff, partners and the general public from the Board's January 10, 2013 meeting, held at the Portland Expo Center.
+***************************
+327
+ Revenue & Expense Business Energy Tax Credit Program - Update as of December 2012 Business Energy Tax Credit Program - Update as of December 2012
+***************************
+328
+ Revenue & Expense Film and Television Oregon Production Investment Fund - Fiscal Year 2012 Film and Television Oregon Production Investment Fund - Fiscal Year 2012
+***************************
+329
+ Revenue & Expense Green Light Program - Fiscal Year 2012 Green Light Program - Fiscal Year 2012
+***************************
+330
+ Revenue & Expense Renewable Resource Equipment Manufacturing Information Link: 
+http://www.oregon4biz.com/The-Oregon-Advantage/Incentives/Business-Energy-Tax-Credit
+***************************
+331
+ Revenue & Expense Oregon Investment Advantage - Fiscal Year 2012 Fiscal Year 2012 (annual) Certifications of Facility to Receive Oregon Investment Advantage Tax Benefit under ORS 316.778 or 317.391; Reporting Agency: Oregon Business Development Department*
+
+* Specially assembled information, not based on existing database that is maintained for equivalent purpose.
+
+** For further specificity about process & criteria, see: 
+http://www.oregon4biz.com/The-Oregon-Advantage/Incentives/The-oregon-Investment-Advantage/
+***************************
+332
+ Revenue & Expense Strategic Investment Program - Fiscal Year 2012 Fiscal Year 2012 Approval of Proposed Project to Receive Strategic Investment Program (SIP) Tax Benefit under ORS 307.123; Reporting Agency: Oregon Business Development Department, on behalf of Oregon Business Development Commission*
+
+ * Specially assembled information, not based on existing database that is maintained for equivalent purpose.
+
+   ** For further specificity about process & criteria, see
+: 
+http://www.oregon4biz.com/The-Oregon-Advantage/Incentives/Strategic-Investment-Program/
+***************************
+333
+ Revenue & Expense Oregon Recovery and Reinvestment Act Data - December, 2012 This data reflects the last update that will be provided on Data.Oregon.Gov. For subsequent updates, please visit http://www.recovery.gov/.
+***************************
+334
+ Revenue & Expense Expenditures: ESD: High Desert: Fiscal Year 2012 Expenditures: ESD: High Desert: Fiscal Year 2012
+***************************
+335
+ Revenue & Expense Salary: ESD: High Desert: Fiscal Year 2012 Salary: ESD: High Desert: Fiscal Year 2012
+***************************
+336
+ Revenue & Expense Contracts: ESD: Jefferson County: Fiscal Year 2012 Contracts: ESD: Jefferson County: Fiscal Year 2012
+***************************
+337
+ Administrative Marine Board Staff Report, January 10, 2013 Staff report to the Marine Board during their quarterly meeting held at the Portland Expo Center.
+***************************
+338
+ Revenue & Expense Salary: ESD: Jefferson County: Fiscal Year 2012 Salary: ESD: Jefferson County: Fiscal Year 2012
+***************************
+339
+ Revenue & Expense Expenditures: ESD: Jefferson County ESD: Fiscal Year 2012 Expenditures: ESD: Jefferson County ESD: Fiscal Year 2012
+***************************
+340
+ Revenue & Expense Expenditures: ESD: North Central ESD: Fiscal Year 2012 Expenditures: ESD: North Central ESD: Fiscal Year 2012
+***************************
+341
+ Revenue & Expense Contracts: ESD: North Central ESD: Fiscal Year 2012 Contracts: ESD: North Central ESD: Fiscal Year 2012
+***************************
+342
+ Revenue & Expense Salary: ESD: North Central ESD: Fiscal Year 2012 Salary: ESD: North Central ESD: Fiscal Year 2012
+***************************
+343
+ Administrative Oregon Recovery and Reinvestment Act Data - September, 2012 Oregon Recovery and Reinvestment Act Data - September, 2012
+***************************
+344
+ Revenue & Expense Contracts: Lottery: Fiscal Year 2012 Contracts: Lottery: Fiscal Year 2012
+***************************
+345
+  Waterway Obstructions Navigational Obstructions on Oregon waters
+***************************
+346
+ Revenue & Expense Salary: ESD: Columbia Gorge: Fiscal Year 2012 Salary: ESD: Columbia Gorge: Fiscal Year 2012
+***************************
+347
+ Revenue & Expense Salary: ESD: Linn Benton Lincoln ESD: Fiscal Year 2012 Salary: ESD: Linn Benton Lincoln ESD: Fiscal Year 2012
+***************************
+348
+ Revenue & Expense Salary:  ESD:  Malheur ESD:  Fiscal Year 2012 Salary:  ESD:  Malheur ESD:  Fiscal Year 2012
+***************************
+349
+ Revenue & Expense Salary:  ESD:  Wallowa:  Fiscal Year 2012 Salary:  ESD:  Wallowa:  Fiscal Year 2012
+***************************
+350
+ Revenue & Expense Expenditures:  ESD:  Wallowa:  Fiscal Year 2012 Expenditures:  ESD:  Wallowa:  Fiscal Year 2012
+***************************
+351
+ Revenue & Expense Contracts:  ESD:  Wallowa:  Fiscal Year 2012 Contracts:  ESD:  Wallowa:  Fiscal Year 2012
+***************************
+352
+ Revenue & Expense Expenditures: OUS: Chancellor's Office: Fiscal Year 2012 Expenditures: OUS: Chancellor's Office: Fiscal Year 2012
+***************************
+353
+ Revenue & Expense Expenditures: OUS: Eastern Oregon University: Fiscal Year 2012 Expenditures: OUS: Eastern Oregon University: Fiscal Year 2012
+***************************
+354
+ Revenue & Expense Expenditures: OUS: Oregon Institute of Technology: Fiscal Year 2012 Expenditures: OUS: Oregon Institute of Technology: Fiscal Year 2012
+***************************
+355
+ Revenue & Expense Expenditures: OUS: Oregon State University: Fiscal Year 2012 Expenditures: OUS: Oregon State University: Fiscal Year 2012
+***************************
+356
+ Revenue & Expense Expenditures: OUS: Portland State University: Fiscal Year 2012 Expenditures: OUS: Portland State University: Fiscal Year 2012
+***************************
+357
+ Revenue & Expense Expenditures: OUS: Southern Oregon University: Fiscal Year 2012 Expenditures: OUS: Southern Oregon University: Fiscal Year 2012
+***************************
+358
+ Revenue & Expense Expenditures: OUS: University of Oregon: Fiscal Year 2012 Expenditures: OUS: University of Oregon: Fiscal Year 2012
+***************************
+359
+ Revenue & Expense Expenditures: OUS: Western Oregon University: Fiscal Year 2012 Expenditures: OUS: Western Oregon University: Fiscal Year 2012
+***************************
+360
+ Revenue & Expense Contracts: OUS: Capital Construction Retainer Program: CSR Supplements: Fiscal Year 2012 Contracts: OUS: Capital Construction Retainer Program: CSR Supplements: Fiscal Year 2012
+***************************
+361
+ Revenue & Expense Contracts: OUS: Capital Construction Retainer Program: CSR Amendments: Fiscal Year 2012 Contracts: OUS: Capital Construction Retainer Program: CSR Amendments: Fiscal Year 2012
+***************************
+362
+ Revenue & Expense Contracts: OUS: Capital Construction Retainer Program: PC Amendments: Fiscal Year 2012 Contracts: OUS: Capital Construction Retainer Program: PC Amendments: Fiscal Year 2012
+***************************
+363
+ Revenue & Expense Contracts: OUS: Capital Construction Retainer Program: PC Supplements: Fiscal Year 2012 Contracts: OUS: Capital Construction Retainer Program: PC Supplements: Fiscal Year 2012
+***************************
+364
+ Revenue & Expense Contracts: OUS: Capital Construction Retainer Programs: Totals: Fiscal Year 2012 Contracts: OUS: Capital Construction Retainer Programs: Totals: Fiscal Year 2012
+***************************
+365
+ Revenue & Expense Contracts: Treasury: Fiscal Year 2012 Contracts: Treasury: Fiscal Year 2012
+***************************
+366
+ Revenue & Expense Salary: OUS: Southern Oregon University: Fiscal Year 2012 Salary: OUS: Southern Oregon University: Fiscal Year 2012
+***************************
+367
+ Revenue & Expense Salary: OUS: Portland State University: Fiscal Year 2012 Salary: OUS: Portland State University: Fiscal Year 2012
+***************************
+368
+ Revenue & Expense Salary: OUS: Western Oregon University: Fiscal Year 2012 Salary: OUS: Western Oregon University: Fiscal Year 2012
+***************************
+369
+ Revenue & Expense Salary: OUS: University of Oregon: Fiscal Year 2012 Salary: OUS: University of Oregon: Fiscal Year 2012
+***************************
+370
+ Revenue & Expense Salary: OUS: Oregon State University: Fiscal Year 2012 Salary: OUS: Oregon State University: Fiscal Year 2012
+***************************
+371
+ Revenue & Expense Salary: OUS: OIT: Fiscal Year 2012 Salary: OUS: OIT: Fiscal Year 2012
+***************************
+372
+ Revenue & Expense Salary: OUS: Eastern Oregon University: Fiscal Year 2012 Salary: OUS: Eastern Oregon University: Fiscal Year 2012
+***************************
+373
+ Revenue & Expense Salary: OUS: Chancellor's Office: Fiscal Year 2012 Salary: OUS: Chancellor's Office: Fiscal Year 2012
+***************************
+374
+ Revenue & Expense Contracts: ORPIN: As of June 30, 2012 Contracts: ORPIN: As of June 30, 2012
+***************************
+375
+ Revenue & Expense Expenditures: Agencies: Fiscal Year 2012 Expenditures: Agencies: Fiscal Year 2012
+***************************
+376
+ Revenue & Expense Contracts: ODOT: As of June 30, 2012 Contracts: ODOT: As of June 30, 2012
+***************************
+377
+system funding economic employers members Business Pers Facts November 2012 PERS Facts includes system funding information, economic impact information, as well as member and employer statistics.
+***************************
+378
+ Revenue & Expense Contracts: ESD: Clackamas ESD: Fiscal Year 2012 Contracts: ESD: Clackamas ESD: Fiscal Year 2012
+***************************
+379
+ Revenue & Expense Contracts: ESD: Lane ESD: Fiscal Year 2012 Contracts: ESD: Lane ESD: Fiscal Year 2012
+***************************
+380
+ Revenue & Expense Index of ESD Expenditures: Fiscal Year 2011 Index of ESD Expenditures: Fiscal Year 2011
+***************************
+381
+ Revenue & Expense Expenditures: ESD: Willamette ESD: Fiscal Year 2012 Expenditures: ESD: Willamette ESD: Fiscal Year 2012
+***************************
+382
+ Revenue & Expense Contracts: ESD: Willamette ESD: Fiscal Year 2012 Contracts: ESD: Willamette ESD: Fiscal Year 2012
+***************************
+383
+ Revenue & Expense Salary: ESD: Willamette ESD: Fiscal Year 2012 Salary: ESD: Willamette ESD: Fiscal Year 2012
+***************************
+384
+ Revenue & Expense Salary: ESD: Northwest Regional ESD: Fiscal Year 2012 Salary: ESD: Northwest Regional ESD: Fiscal Year 2012
+***************************
+385
+ Revenue & Expense Expenditures: ESD: Multnomah ESD: Fiscal Year 2012 Expenditures: ESD: Multnomah ESD: Fiscal Year 2012
+***************************
+386
+ Revenue & Expense Contracts: ESD: Multnomah ESD: Fiscal Year 2012 Contracts: ESD: Multnomah ESD: Fiscal Year 2012
+***************************
+387
+ Revenue & Expense Salary: ESD: Multnomah ESD: Fiscal Year 2012 Salary: ESD: Multnomah ESD: Fiscal Year 2012
+***************************
+388
+ Revenue & Expense Expenditures: ESD: Malheur ESD: Fiscal Year 2012 Expenditures: ESD: Malheur ESD: Fiscal Year 2012
+***************************
+389
+ Revenue & Expense Contracts: ESD: Malheur ESD: Fiscal Year 2012 Contracts: ESD: Malheur ESD: Fiscal Year 2012
+***************************
+390
+ Revenue & Expense Contracts: ESD: Lake ESD: Fiscal Year 2012 Contracts: ESD: Lake ESD: Fiscal Year 2012
+***************************
+391
+ Revenue & Expense Expenditures: ESD: Lake: Fiscal Year 2012 Expenditures: ESD: Lake: Fiscal Year 2012
+***************************
+392
+ Revenue & Expense Salary: ESD: South Coast: Fiscal Year 2012 Salary: ESD: South Coast: Fiscal Year 2012
+***************************
+393
+ Revenue & Expense Contracts: ESD: Harney: Fiscal Year 2012 Contracts: ESD: Harney: Fiscal Year 2012
+***************************
+394
+ Revenue & Expense Contracts: ESD: South Coast: Fiscal Year 2012 Contracts: ESD: South Coast: Fiscal Year 2012
+***************************
+395
+ Revenue & Expense Expenditures: ESD: Northwest Regional ESD: Fiscal Year 2012 Expenditures: ESD: Northwest Regional ESD: Fiscal Year 2012
+***************************
+396
+ Revenue & Expense Contracts: ESD: Northwest Regional: Fiscal Year 2012 Contracts: ESD: Northwest Regional: Fiscal Year 2012
+***************************
+397
+ Revenue & Expense Contracts: ESD: Grant ESD: Fiscal Year 2012 Contracts: ESD: Grant ESD: Fiscal Year 2012
+***************************
+398
+ Revenue & Expense Expenditures: ESD: Lane ESD: Fiscal Year 2012 Expenditures: ESD: Lane ESD: Fiscal Year 2012
+***************************
+399
+ Revenue & Expense Salary: ESD: Grant County: Fiscal Year 2012 Salary: ESD: Grant County: Fiscal Year 2012
+***************************
+400
+ Revenue & Expense Expenditures: ESD: Grant County: Fiscal Year 2012 Expenditures: ESD: Grant County: Fiscal Year 2012
+***************************
+401
+ Revenue & Expense Expenditures: ESD: Columbia Gorge: Fiscal Year 2012 Expenditures: ESD: Columbia Gorge: Fiscal Year 2012
+***************************
+402
+ Revenue & Expense Contracts: ESD: Columbia Gorge: Fiscal Year 2012 Contracts: ESD: Columbia Gorge: Fiscal Year 2012
+***************************
+403
+ Revenue & Expense Salary: ESD: Lake ESD: Fiscal Year 2012 Salary: ESD: Lake ESD: Fiscal Year 2012
+***************************
+404
+ Revenue & Expense Salary: ESD: Douglas: Fiscal Year 2012 Salary: ESD: Douglas: Fiscal Year 2012
+***************************
+405
+ Revenue & Expense Expenditures: ESD: Douglas: Fiscal Year 2012 Expenditures: ESD: Douglas: Fiscal Year 2012
+***************************
+406
+  Contracts: ESD: Douglas: Fiscal Year 2012 Contracts: ESD: Douglas: Fiscal Year 2012
+***************************
+407
+ Revenue & Expense Contracts: State Agency: Oregon Judicial Department: Fiscal Year 2012 Contracts: State Agency: Oregon Judicial Department: Fiscal Year 2012
+***************************
+408
+ Revenue & Expense Contracts: ESD: High Desert: Fiscal Year 2012 Contracts: ESD: High Desert: Fiscal Year 2012
+***************************
+409
+  Revenue: ESD: Revenue By Fund And Source-by ESD 2010-11 Revenue: ESD: Revenue By Fund And Source-by ESD 2010-11
+***************************
+410
+ Revenue & Expense Contracts: ESD: Southern Oregon: Fiscal Year 2012 Contracts: ESD: Southern Oregon: Fiscal Year 2012
+***************************
+411
+ Revenue & Expense Contracts: ESD: Southern Oregon: Fiscal Year 2012 Contracts: ESD: Southern Oregon: Fiscal Year 2012
+***************************
+412
+ Revenue & Expense Salary: ESD: Southern Oregon ESD: Fiscal Year 2012 Salary: ESD: Southern Oregon ESD: Fiscal Year 2012
+***************************
+413
+  Expenditures: ESD: InterMountain: Fiscal Year 2012 Expenditures: ESD: InterMountain: Fiscal Year 2012
+***************************
+414
+  Salary: ESD: Harney ESD: Fiscal Year 2012 Salary: ESD: Harney ESD: Fiscal Year 2012
+***************************
+415
+ Revenue & Expense Expenditures: ESD: Harney ESD: Fiscal Year 2012 Expenditures: ESD: Harney ESD: Fiscal Year 2012
+***************************
+416
+ Revenue & Expense Contracts: ESD: InterMountain: Fiscal Year 2012 Contracts: ESD: InterMountain: Fiscal Year 2012
+***************************
+417
+ Revenue & Expense Salary: ESD: InterMountain ESD: Fiscal Year 2012 Salary: ESD: InterMountain ESD: Fiscal Year 2012
+***************************
+418
+boating kayaks canoes motorboats waterskiing fishing angling regulations boating regulations rules waterways waterway rules state of oregon marine board osmb state marine board boating safety boating access boating facilities boating education education rivers bays lakes reservoirs pacific ocean Recreation Oregon State Marine Board's Boating Regulations Handbook 2011-2013 Learn the rules and regulations for operating motorboats on Oregon's waterways. This handbook contains waterway-specific rules, equipment requirements, and navigation "rules of the road." It can be printed and folded vertically for easy storage in your boat compartment.
+***************************
+419
+ Revenue & Expense Expenditures: ESD: Linn Benton Lincoln: Fiscal Year 2012 Expenditures: ESD: Linn Benton Lincoln: Fiscal Year 2012
+***************************
+420
+ Revenue & Expense Contracts: ESD: Linn Benton Lincoln: Fiscal Year 2012 Contracts: ESD: Linn Benton Lincoln: Fiscal Year 2012
+***************************
+421
+ Revenue & Expense Salary: ESD: Clackamas: Fiscal Year 2012 Salary: ESD: Clackamas: Fiscal Year 2012
+***************************
+422
+ Revenue & Expense Expenditures: ESD: Clackamas: Fiscal Year 2012 Expenditures: ESD: Clackamas: Fiscal Year 2012
+***************************
+423
+ Revenue & Expense Salary: ESD: Lane: Fiscal Year 2012 Salary: ESD: Lane: Fiscal Year 2012
+***************************
+424
+ Revenue & Expense Salary: State Agencies: As of June 30, 2012 Salary: State Agencies: As of June 30, 2012
+***************************
+425
+revenue esd wallowa region 18 2012 Education ESD Wallowa REVENUE BY FUND AND SOURCE  2011  2012 ESD Wallowa REVENUE BY FUND AND SOURCE  2011  2012
+***************************
+426
+expenditures esd wallowa region 18 2012 Education Expenditures  ESD  Wallowa  Fiscal Year 2012 Expenditures  ESD  Wallowa  Fiscal Year 2012
+***************************
+427
+salary esd wallowa region 18 2012 Education Salary  ESD  Wallowa  Fiscal Year 2012 Salary  ESD  Wallowa  Fiscal Year 2012
+***************************
+428
+contracts region18 wallowa 2012 Education Contracts  ESD  Wallowa  Fiscal Year 2012 Contracts  ESD  Wallowa  Fiscal Year 2012
+***************************
+429
+foreclosure mediation Public Safety 2012 Foreclosure Avoidance Mediation Beneficiary Exemption Affidavits Financial institutions which have filed an exemption for participation in foreclosure avoidance mediation (2012)
+***************************
+430
+marine board staff report Administrative October 2012 Board Report Staff reports for the October 23 Board Meeting scheduled in Maupin from 9 am to 1 pm.
+***************************
+431
+oregon state marine board strategic plan boating boating safety boating access boat ramps boat rescue marine patrol law enforcement boater education boat registration boat title boating facilities marine board Recreation Oregon Marine Board Strategic Plan 2011-2016 The Oregon State Marine Board has a new strategic plan, based on customer feedback from an online survey, blog and town hall meetings.  This comprehensive plan is a new chart and Marine Board staff, with the help of Board Member Champions, are setting a new course for Your boating agency...
+***************************
+432
+boating facilities boat ramps procedures facility procedures grants oregon state marine board marine board facility grants Business 13-15 Boating Facilities Procedure Guide This procedure guide was designed to help waterway managers navigate through the boating facility grant process.
+***************************
+433
+fish and wildlife boating fishing hunting angling permits licenses regulations odfw marine board boat launches aquatic invasive species tyvek tags non-motorized paddling permits Natural Resources ODFW License Agents in OR Where outdoor enthusiasts can purchase Hunting and Fishing Licenses, Angling Tags, Controlled Hunt Applications, Game Bird Validations and Permits, Hunting Tags, Raffles, Sauvie Island Parking Permits and Aquatic Invasive Species Prevention Permits.
+***************************
+434
+oregon workers' compensation business Business Oregon Workers' Compensation System, Summary Statistics In 1968, most Oregon employers became subject to Oregon’s workers’ compensation statute. The table provides some information for much of the life of the workers’ compensation system. (Descriptions of the data series are provided in the document stored as an attachment under the "About" tab.)
+***************************
+435
+ Revenue & Expense Oregon Recovery and Reinvestment Act Data - June, 2012 This spreadsheet contains Oregon Recovery and Reinvestment Act (ARRA) Data reported on the State of Oregon Recovery site (http://oregon.gov/recovery/StimulusReporting/ARRA_Projects.shtml). Please note that this data reflects the preliminary data from the most recent reporting period of the American Recovery and Reinvestment Act of 2009, including data through March 30, 2011. This data available for viewing through an interactive map site. For this, and other information on ARRA projects, please visit Oregon's Economic Recovery site: http://www.oregon.gov/recovery. For the latest recovery award data, please visit http://www.recovery.gov.
+***************************
+436
+architect board meeting Public Safety Architect Board Meeting **Special Meeting, July 27, 2012, 10am. The Oregon Board of Architect Examiners will be considering an amended proposed order in the matter of Twist Architecture Inc, David Hansen, and Kirk Callison, respondents.
+
+The next regular meeting of the Oregon Board of Architect Examiners is August 24, 2012
+***************************
+437
+ Business Menu of Resources Items These links go to various resources for job seekers.
+***************************
+438
+oregon commission for the blind scheduled meetings Administrative Oregon Commissoin for the Blind Scheduled Meetings This is a list of all the meetings and hearings scheduled for the Commission for the Blind. This information can also be found (in a more accessible format) at:
+http://www.oregon.gov/Blind/news.shtml
+***************************
+439
+  Oregon Hop Commission Oregon Hop Commission
+***************************
+440
+unemployment rate unemployment employed lmi labor market information oregon employment department  Laborforce Data for Oregon This table contains Labforce data for the State of Oregon.
+***************************
+441
+oregon arra recovery and reinvestment act stimulus reporting jobs employment Administrative Oregon Recovery and Reinvestment Act Data - March, 2012 This spreadsheet contains Oregon Recovery and Reinvestment Act (ARRA) Data reported on the State of Oregon Recovery site (http://oregon.gov/recovery/StimulusReporting/ARRA_Projects.shtml). Please note that this data reflects the preliminary data from the most recent reporting period of the American Recovery and Reinvestment Act of 2009, including data through March 30, 2011. This data available for viewing through an interactive map site. For this, and other information on ARRA projects, please visit Oregon's Economic Recovery site: http://www.oregon.gov/recovery. For the latest recovery award data, please visit http://www.recovery.gov.
+***************************
+442
+  Mile Posts [ArcGIS_rest_services_Framework_Trans_GeneralMap_WM_MapServer_0] This data contains mileposts on state owned highways.
+***************************
+443
+bills governor signed legislature legislative kitzhaber 2012 session  Bills Signed by Governor Kitzhaber (2012) Bills Signed by Governor Kitzhaber (2012)
+***************************
+444
+oregon prison population total inmate count inmates prisoners number oregon forecast economic analysis Public Safety Oregon Prison Population, Total Inmate Count, 1980 to 2011, Monthly Dates and the count of inmates in the State of Oregon's prison system for the date. Based on a DOC report for 1980 -1993. Based on query of DOC data for 1994-current. JSUM population snapshot person-level detail, count status='IN' and responsible location not 'IBRO or 'OYA'. Alternate valid counts exist.
+***************************
+445
+prison inmate population forecast actual count comparison oregon projection estimate inmates prisoners corrections economic analysis oea  Prison Forecast History, Comparison to Actual, Detail Oregon prison inmate forecast values for all OEA forecasts (1995 on), and some from 1993, 1994. Includes actual population counts and differences for each forecast value (if actual is known).
+***************************
+446
+ Health & Human Services DHS-Internet Work Queue DHS-Internet Work Queue
+***************************
+447
+ Revenue & Expense Summary of Expired Contracts - As of December 31, 2011 The following data is provided as an extract from the Statewide Procurement System (Oregon Procurement Information Network - ORPIN). It is a complete list of contracts that expired on or before December 31, 2011 and represents the full extent of electronic records of expired contracts that are tracked within ORPIN. The contract values reflected in the report are estimates only. 
+
+Note: A number of contracts may indicate an “Amendment Date” that may exceed the “Expiration Date”.  In these instances, the “Amendment Date” reflects an automated system time/date stamp that the system appends to the contract when the electronic version was accessed or modified, not necessarily when the legal instrument (the contract itself) was modified. 
+
+Note: This report may not include contract information for the Oregon Judicial Department, Oregon State Lottery, Oregon University System, Oregon State Treasurer, or semi-independent state agencies, boards, and commissions. Some executive branch agencies have independent contracting authority for specific goods and services (e.g., Transportation, Secretary of State, State Treasurer, Human Services, Fish and Wildlife, Parks and Recreation, Aviation, Economic and Community Development, Housing, Corrections, Veterans Affairs, Military, Education, and state agencies "specifically authorized" by any law outside the Code to "enter into a contract"). Thus, the ORPIN system may not capture contract information about those activities.
+***************************
+448
+ Revenue & Expense Expenditures: State Agencies: Fiscal Year 2011 This report provides information on expenditures (i.e., cash transactions/payments) for the agencies that utilize the State Financial Management Application (SFMA) issued for the fiscal year 2011 (July 1, 2010 - June 30, 2011). See the Oregon Transparency Website Expenditure page for more detail: http://oregon.gov/transparency/expenditures.page
+***************************
+449
+ Revenue & Expense Salary: ESD: Willamette: Fiscal Year 2011 Salary: ESD: Willamette: Fiscal Year 2011
+***************************
+450
+ Revenue & Expense Index of ESD Salary Information: Fiscal Year 2011 Index of ESD Salary Information: Fiscal Year 2011
+***************************
+451
+ Revenue & Expense Salary: ESD: Wallowa: Fiscal Year 2011 Salary: ESD: Wallowa: Fiscal Year 2011
+***************************
+452
+ Revenue & Expense Salary: ESD: Southern Oregon: Fiscal Year 2011 Salary: ESD: Southern Oregon: Fiscal Year 2011
+***************************
+453
+ Revenue & Expense Salary: ESD: South Coast: Fiscal Year 2011 Salary: ESD: South Coast: Fiscal Year 2011
+***************************
+454
+ Revenue & Expense Salary: ESD: Northwest Regional: Fiscal Year 2011 Salary: ESD: Northwest Regional: Fiscal Year 2011
+***************************
+455
+ Revenue & Expense Salary: ESD: Northcentral: Fiscal Year 2011 Salary: ESD: Northcentral: Fiscal Year 2011
+***************************
+456
+ Revenue & Expense Salary: ESD: Multnomah: Fiscal Year 2011 Salary: ESD: Multnomah: Fiscal Year 2011
+***************************
+457
+ Revenue & Expense Salary: ESD: Malheur: Fiscal Year 2011 Salary: ESD: Malheur: Fiscal Year 2011
+***************************
+458
+ Revenue & Expense Salary: ESD: Linn Benton: Fiscal Year 2011 Salary: ESD: Linn Benton: Fiscal Year 2011
+***************************
+459
+ Revenue & Expense Salary: ESD: Lane: Fiscal Year 2011 Salary: ESD: Lane: Fiscal Year 2011
+***************************
+460
+ Revenue & Expense Salary: ESD: Lake: Fiscal Year 2011 Salary: ESD: Lake: Fiscal Year 2011
+***************************
+461
+ Revenue & Expense Salary: ESD: Jefferson: Fiscal Year 2011 Salary: ESD: Jefferson: Fiscal Year 2011
+***************************
+462
+ Revenue & Expense Salary: ESD: Intermountain: Fiscal Year 2011 Salary: ESD: Intermountain: Fiscal Year 2011
+***************************
+463
+ Revenue & Expense Salary: ESD: High Desert: Fiscal Year 2011 Salary: ESD: High Desert: Fiscal Year 2011
+***************************
+464
+ Revenue & Expense Salary: ESD: Harney: Fiscal Year 2011 Salary: ESD: Harney: Fiscal Year 2011
+***************************
+465
+ Revenue & Expense Salary: ESD: Grant: Fiscal Year 2011 Salary: ESD: Grant: Fiscal Year 2011
+***************************
+466
+ Revenue & Expense Salary: ESD: Douglas: Fiscal Year 2011 Salary: ESD: Douglas: Fiscal Year 2011
+***************************
+467
+ Revenue & Expense Salary: ESD: Columbia Gorge: Fiscal Year 2011 Salary: ESD: Columbia Gorge: Fiscal Year 2011
+***************************
+468
+ Revenue & Expense Salary: ESD: Clackamas: Fiscal Year 2011 Salary: ESD: Clackamas: Fiscal Year 2011
+***************************
+469
+ Revenue & Expense Index of ESD Contracts: Fiscal Year 2011 Index of ESD Contracts: Fiscal Year 2011
+***************************
+470
+ Revenue & Expense Contracts: ESD: Willamette: Fiscal Year 2011 Contracts: ESD: Willamette: Fiscal Year 2011
+***************************
+471
+ Revenue & Expense Contracts: ESD: Wallowa: Fiscal Year 2011 Contracts: ESD: Wallowa: Fiscal Year 2011
+***************************
+472
+ Revenue & Expense Contracts: ESD: Southern Oregon: Fiscal Year 2011 Contracts: ESD: Southern Oregon: Fiscal Year 2011
+***************************
+473
+ Revenue & Expense Contracts: ESD: South Coast: Fiscal Year 2011 Contracts: ESD: South Coast: Fiscal Year 2011
+***************************
+474
+ Revenue & Expense Contracts: ESD: NW Regional: Fiscal Year 2011 Contracts: ESD: NW Regional: Fiscal Year 2011
+***************************
+475
+ Revenue & Expense Contracts: ESD: Northcentral: Fiscal Year 2011 Contracts: ESD: Northcentral: Fiscal Year 2011
+***************************
+476
+ Revenue & Expense Contracts: ESD: Multnomah: Fiscal Year 2011 Contracts: ESD: Multnomah: Fiscal Year 2011
+***************************
+477
+ Revenue & Expense Contracts: ESD: Malheur: Fiscal Year 2011 Contracts: ESD: Malheur: Fiscal Year 2011
+***************************
+478
+ Revenue & Expense Contracts: ESD: Linn Benton: Fiscal Year 2011 Contracts: ESD: Linn Benton: Fiscal Year 2011
+***************************
+479
+ Revenue & Expense Contracts: ESD: Lane: Fiscal Year 2011 Contracts: ESD: Lane: Fiscal Year 2011
+***************************
+480
+ Revenue & Expense Contracts: ESD: Lake: Fiscal Year 2011 Contracts: ESD: Lake: Fiscal Year 2011
+***************************
+481
+ Revenue & Expense Contracts: ESD: Jefferson: Fiscal Year 2011 Contracts: ESD: Jefferson: Fiscal Year 2011
+***************************
+482
+ Revenue & Expense Contracts: ESD: Intermountain: Fiscal Year 2011 Contracts: ESD: Intermountain: Fiscal Year 2011
+***************************
+483
+ Revenue & Expense Contracts: ESD: High Desert: Fiscal Year 2011 Contracts: ESD: High Desert: Fiscal Year 2011
+***************************
+484
+ Revenue & Expense Contracts: ESD: Harney: Fiscal Year 2011 Contracts: ESD: Harney: Fiscal Year 2011
+***************************
+485
+ Revenue & Expense Contracts: ESD: Grant: Fiscal Year 2011 Contracts: ESD: Grant: Fiscal Year 2011
+***************************
+486
+ Revenue & Expense Contracts: ESD: Douglas: Fiscal Year 2011 Contracts: ESD: Douglas: Fiscal Year 2011
+***************************
+487
+ Revenue & Expense Contracts: ESD: Columbia Gorge: Fiscal Year 2011 Contracts: ESD: Columbia Gorge: Fiscal Year 2011
+***************************
+488
+ Revenue & Expense Contracts: ESD: Clackamas: Fiscal Year 2011 Contracts: ESD: Clackamas: Fiscal Year 2011
+***************************
+489
+ Revenue & Expense Expenditures: ESD: Douglas: Fiscal Year 2011 Expenditures: ESD: Douglas: Fiscal Year 2011
+***************************
+490
+forestry Natural Resources Streamside protection, forest diversity on Forestry Board agenda The Oregon Board of Forestry will hold its next regular business meeting at 8:30 a.m. on Wednesday, Jan. 4, 2012, in the Tillamook Room - Building C, 2600 State St., in Salem. The meeting is open to the public. The agenda can be found on the board's website, www.oregonforestry.gov.
+***************************
+491
+ Revenue & Expense Expenditures: ESD: Willamette: Fiscal Year 2011 Expenditures: ESD: Willamette: Fiscal Year 2011
+***************************
+492
+ Revenue & Expense Expenditures: ESD: Wallowa: Fiscal Year 2011 Expenditures: ESD: Wallowa: Fiscal Year 2011
+***************************
+493
+ Revenue & Expense Expenditures: ESD: Southern Oregon: Fiscal Year 2011 Expenditures: ESD: Southern Oregon: Fiscal Year 2011
+***************************
+494
+ Revenue & Expense Expenditures: ESD: South Coast: Fiscal Year 2011 Expenditures: ESD: South Coast: Fiscal Year 2011
+***************************
+495
+ Revenue & Expense Expenditures: ESD: Northwest Regional: Fiscal Year 2011 Expenditures: ESD: Northwest Regional: Fiscal Year 2011
+***************************
+496
+ Revenue & Expense Expenditures: ESD: Northcentral: Fiscal Year 2011 Expenditures: ESD: Northcentral: Fiscal Year 2011
+***************************
+497
+ Revenue & Expense Expenditures: ESD: Multnomah: Fiscal Year 2011 Expenditures: ESD: Multnomah: Fiscal Year 2011
+***************************
+498
+ Revenue & Expense Expenditures: ESD: Malheur: Fiscal Year 2011 Expenditures: ESD: Malheur: Fiscal Year 2011
+***************************
+499
+ Revenue & Expense Expenditures: ESD: Linn Benton Lincoln: Fiscal Year 2011 Expenditures: ESD: Linn Benton Lincoln: Fiscal Year 2011
+***************************
+500
+ Revenue & Expense Expenditures: ESD: Lane: Fiscal Year 2011 Expenditures: ESD: Lane: Fiscal Year 2011
+***************************
+501
+ Revenue & Expense Expenditures: ESD: Lake County: Fiscal Year 2011 Expenditures: ESD: Lake County: Fiscal Year 2011
+***************************
+502
+ Revenue & Expense Expenditures: ESD: Jefferson: Fiscal Year 2011 Expenditures: ESD: Jefferson: Fiscal Year 2011
+***************************
+503
+ Revenue & Expense Expenditures: ESD: InterMountain: Fiscal Year 2011 Expenditures: ESD: InterMountain: Fiscal Year 2011
+***************************
+504
+ Revenue & Expense Expenditures: ESD: High Desert: Fiscal Year 2011 Expenditures: ESD: High Desert: Fiscal Year 2011
+***************************
+505
+ Revenue & Expense Expenditures: ESD: Harney: Fiscal Year 2011 Expenditures: ESD: Harney: Fiscal Year 2011
+***************************
+506
+ Revenue & Expense Expenditures: ESD: Grant: Fiscal Year 2011 Expenditures: ESD: Grant: Fiscal Year 2011
+***************************
+507
+ Revenue & Expense Expenditures: ESD: Clackamas: Fiscal Year 2011 Expenditures: ESD: Clackamas: Fiscal Year 2011
+***************************
+508
+ Revenue & Expense Expenditures: ESD: Columbia Gorge: Fiscal Year 2011 Expenditures: ESD: Columbia Gorge: Fiscal Year 2011
+***************************
+509
+ Revenue & Expense Contracts: Agencies: As of June 30, 2011 This report provides information on contracts and amendments to contracts issued from July 1, 2010 - June 30, 2011, for state agencies who are subject to DAS contracting authority. These agencies must report their contracting activity through the Oregon Procurement Information Network (ORPIN) system. The contract values reflected in this report are estimates.
+***************************
+510
+ Revenue & Expense Expenditures: WOU: Fiscal Year 2011 Expenditures: WOU: Fiscal Year 2011
+***************************
+511
+ Revenue & Expense Expenditures: U of  O: Fiscal Year 2011 Expenditures: U of  O: Fiscal Year 2011
+***************************
+512
+ Revenue & Expense Expenditures: SOU: Fiscal Year 2011 Expenditures: SOU: Fiscal Year 2011
+***************************
+513
+ Revenue & Expense Expenditures: PSU: Fiscal Year 2011 Expenditures: PSU: Fiscal Year 2011
+***************************
+514
+ Revenue & Expense Expenditures: OSU: Fiscal Year 2011 Expenditures: OSU: Fiscal Year 2011
+***************************
+515
+ Revenue & Expense Expenditures: OIT: Fiscal Year 2011 Expenditures: OIT: Fiscal Year 2011
+***************************
+516
+ Revenue & Expense Expenditures: Eastern Oregon University: Fiscal Year 2011 Expenditures: Eastern Oregon University: Fiscal Year 2011
+***************************
+517
+ Revenue & Expense Expenditures: Chancellor's Office: Fiscal Year 2011 Expenditures: Chancellor's Office: Fiscal Year 2011
+***************************
+518
+ Revenue & Expense Contracts: Treasury: Fiscal Year 2011 Contracts: Treasury: Fiscal Year 2011
+***************************
+519
+ Revenue & Expense Contracts: Judicial: Fiscal Year 2011 Contracts: Judicial: Fiscal Year 2011
+***************************
+520
+  Contracts: Lottery: Fiscal Year 2011 Contracts: Lottery: Fiscal Year 2011
+***************************
+521
+ Revenue & Expense Contracts: ODOT: Fiscal Year 2011 Contracts: ODOT: Fiscal Year 2011
+***************************
+522
+ Revenue & Expense ESD REVENUE BY FUND AND SOURCE: 2009, 2010 ESD REVENUE BY FUND AND SOURCE: 2009, 2010
+***************************
+523
+ Revenue & Expense Salaries: Western Oregon University: Fiscal Year: 2011 Salaries: Western Oregon University: Fiscal Year: 2011
+***************************
+524
+ Revenue & Expense Salaries: University of Oregon: Fiscal Year: 2011 Salaries: University of Oregon: Fiscal Year: 2011
+***************************
+525
+ Revenue & Expense Salaries: Southern Oregon University: Fiscal Year: 2011 Salaries: Southern Oregon University: Fiscal Year: 2011
+***************************
+526
+ Revenue & Expense Salaries: Portland State University: Fiscal Year 2011 Salaries: Portland State University: Fiscal Year 2011
+***************************
+527
+ Revenue & Expense Salaries: Oregon State University: Fiscal Year: 2011 Salaries: Oregon State University: Fiscal Year: 2011
+***************************
+528
+ Revenue & Expense Salaries: Oregon Institute of Technology: Fiscal Year: 2011 Salaries: Oregon Institute of Technology: Fiscal Year: 2011
+***************************
+529
+ Revenue & Expense Salaries: Eastern Oregon University: Fiscal Year 2011 Salaries: Eastern Oregon University: Fiscal Year 2011
+***************************
+530
+ Revenue & Expense Salaries: Chancellor's Office: Fiscal Year 2011 Salaries: Chancellor's Office: Fiscal Year 2011
+***************************
+531
+ Revenue & Expense Salaries: State Agencies: Fiscal Year 2011 Each annual salary listed in this report is 12 times that particular employee's monthly adjusted salary rate as of June 30, 2011 (between July 1, 2010 and June 30, 2011). "Annual Salary" includes most differential payments (such as work-out-of-classification and bilingual differential), but excludes payments for overtime, shift differential, benefits, and vacation payout. The report does not account for unpaid furlough leave that management employees began taking in fiscal year 2010-2011; neither does it reflect step decreases and unpaid furlough leave that some classified employees began taking after June 2009. This report does not include annual salaries for employees of the Oregon University System, semi-independent agencies, temporary employees, or records protected by court order. For more State of Oregon Workforce/salary information please visit the Oregon Transparency Website: http://www.oregon.gov/transparency/.
+***************************
+532
+waterbody fishing hunting cruising sailing activities trips uses marine boat boating boats lake reservoir river county days Recreation Waterbodies In Rank Order Triennial Survey Results -2008
+***************************
+533
+waterbody destination ramp launch marina county trips use days activity fishing sailing pwc water skiing cruising days boat boats boating Recreation Activity By County And Waterbody Triennial Survey Results for 2010
+***************************
+534
+survey triennial county waterbody boats boat boating results fishing hunting sailing pwc cruising recreation trips day use Recreation Total Boat Use By County Triennial Survey Results for 2010
+***************************
+535
+inmate population age group monthly count prison oregon doc department corrections Public Safety Oregon Inmates Monlthly Age Group Monthly count of inmates since 1994 by age group
+***************************
+536
+oregon inmate crime offense Public Safety Oregon Inmate Off Group Oregon Inmates by offense group
+***************************
+537
+public libraries Education Oregon Public Libraries General address/location information of Oregon public libraries (including branches)
+***************************
+538
+public libraries Education Public Library Hours Open hours of Oregon Public Libraries (created from the 2009-2010 public library statistics report)
+***************************
+539
+compensable fatal fatality fatalities work related death injury industry occupational workers compensation oregon osha Public Safety Oregon Workers' Compensation Compensable Fatal Dataset, 2001 - 2010 Compensable fatalities are workers' compensation claims that are accepted by insurers arising from a fatal occupational injury or disease.  Data excludes deaths of workers not subject to Oregon workers' compensation coverage, such as workers who were self-employed or who worked in Oregon for out-of-state employers, city of Portland police and fire employees, and federal employees.
+
+Data are continually updated to be as accurate as possible, so reports may vary over time.
+***************************
+540
+criminal delinquency oya youth authority crime arrest offense juvenile corrections close custody Public Safety Oregon Juvenile Referrals 2008 - 2010 This dataset contains delinquency and criminal referrals of Oregon youth to county juvenile departments between 2008 and 2010. Referrals in the juvenile justice system are analogous to arrests in the adult system. Each row in this dataset represents a unique referral and includes demographic information about the referred youth. Youth may be referred multiple times; hence, some youth are associated with multiple referrals in this data set.    For more information please go to:  http://www.oregon.gov/OYA/jjis_data_eval
+***************************
+541
+recidivism juvenile youth justice corrections oya juvenile department arrest crime Public Safety 2009_Recidivism.pdf Statewide recidivism rates of youth referred in 2009. Recidivism is a new referral within 12 months of the youth's first referral in the calendar year.
+***************************
+542
+south coast lower rogue volunteer water quality monitoring Natural Resources SCLR LASARStations Grab Sites South Coast/Lower Rogue Watershed Councils grab water quality monitoring sites associated with DEQ LASAR numbers
+***************************
+543
+oregon prison forecast parole post-prison supervision jail local control parole population Public Safety Oregon Dept. of Corrections Prison Forecast April 2011 Oregon DOC Prison, Probation, Local Control (Jail), and Parole/Post-Prison Supervision forecast generated in April, 2011.
+***************************
+544
+business costs workers' compensation insurance rates rate ranking Business Workers' Compensation Costs, Percent of National Median, 1986-2010 The Information Management Division of the Oregon Department of Consumer and Business Services conducts a state-by-state comparison of workers’ compensation rates every two years. The goal of this study is to produce a comparison of premium rates for a comparable set of classifications across all states. The study has been done because states’ economies, industries, and mix of occupations differ significantly. Therefore, simple analyses, such as overall average rates, are not comparable among states. The study uses a comparable set of occupational classes to address this problem. It uses the National Council on Compensation Insurance classification codes. Of the approximately 450 active classes in Oregon, 50 were selected based on relative importance as measured by share of losses in Oregon. 
+
+This table provides the results of the surveys since 1986. However, the study methodology does impose some limitations on its use as a time series. The set of surveyed classes and associated payroll weights both change over time. To overcome this problem, the median rate index for each study was used as a benchmark, creating a data series of states’ rates as percentages of the median rate index for each study. Thus, a state’s rate index as a percentage of the median can be used as an indicator of its relative cost at a given point in time..
+
+Users of this premium rate ranking study should be aware of some of the other issues in comparing premium rates among states. There are many factors that cannot be separately measured in each state, but that contribute to overall rate level and individual class rates. Users are referred to the report for more information on the methodology.
+
+Link to summary report: http://www4.cbs.state.or.us/ex/imd/reports/rpt/index.cfm?fuseaction=version_view&version_tk=184455&ProgID=FEARA012
+
+Link to full report:
+http://www4.cbs.state.or.us/ex/imd/reports/rpt/index.cfm?fuseaction=version_view&version_tk=185127&ProgID=FEARA011
+***************************
+545
+  Oregon Hospitals: Beds Available NOT ACTUAL DATA!! THIS DATASET WAS SET UP FOR A TEST FOR OPENGOVWEST, 2011
+***************************
+546
+business costs workers' compensation insurance rates rate ranking Business Workers' Compensation Rates, State-by-State Comparison, 2010 The Information Management Division of the Oregon Department of Consumer and Business Services conducts a state-by-state comparison of workers’ compensation rates every two years. The goal of this study is to produce a comparison of premium rates for a comparable set of classifications across all states. The study has been done because states’ economies, industries, and mix of occupations differ significantly. Therefore, simple analyses, such as overall average rates, are not comparable among states. The study uses a comparable set of occupational classes to address this problem. It uses the National Council on Compensation Insurance classification codes. Of the approximately 450 active classes in Oregon, 50 were selected based on relative importance as measured by share of losses in Oregon. 
+
+Users of this premium rate ranking study should be aware of some of the other issues in comparing premium rates among states. There are many factors that cannot be separately measured in each state, but that contribute to overall rate level and individual class rates. Users are referred to the report for more information on the methodology.
+
+Link to summary report: http://www4.cbs.state.or.us/ex/imd/reports/rpt/index.cfm?fuseaction=version_view&version_tk=184455&ProgID=FEARA012
+
+Link to full report:
+http://www4.cbs.state.or.us/ex/imd/reports/rpt/index.cfm?fuseaction=version_view&version_tk=185127&ProgID=FEARA011
+***************************
+547
+healthy people 2020.  leading health indicators.  cdc Health & Human Services Healthy People 2020 - Leading Health Indicators Healthy People 2020.  Leading Health Indicators.  CDC
+***************************
+548
+ Education Education: Actual Operating Cost Per Student Actual expenditures for operating funds (General, Special Revenue, Enterprise and Food Services Funds) per student. Student count is enrollment as of October 1.
+***************************
+549
+library college books media Education Oregon Libraries All Libraries in Oregon
+***************************
+550
+revenue expense tax expenditures oregon data data.oregon.gov Revenue & Expense 2011-13 Tax Expenditure Report - List of Tax Expenditures The 1995 Budget Accountability Act (the Act) requires the governor, with the assistance of the Department of Revenue and the Department of Administrative Services, to produce a tax expenditure report every biennium, along with the Governor’s Recommended Budget. The report was first prepared in 1996 for the 1997–99 biennium. This report covers tax expenditures for the 2011–13 biennium.
+***************************
+551
+ Revenue & Expense Contracts: Treasury: As of June 30, 2010 Contracts: Treasury: As of June 30, 2010
+***************************
+552
+ Revenue & Expense Contracts: Transportation: As of June 30, 2010 Contracts: Transportation: As of June 30, 2010
+***************************
+553
+ Revenue & Expense Contracts: Judicial Department: As of June 30, 2010 Contracts: Judicial Department: As of June 30, 2010
+***************************
+554
+ Revenue & Expense Salary: WOU: As of June 30, 2010 Salary: WOU: As of June 30, 2010
+***************************
+555
+ Revenue & Expense Salary: UofO: As of June 30, 2010 Salary: UofO: As of June 30, 2010
+***************************
+556
+ Revenue & Expense Salary: SOU: As of June 30, 2010 Salary: SOU: As of June 30, 2010
+***************************
+557
+ Revenue & Expense Salary: PSU: As of June 30, 2010 Salary: PSU: As of June 30, 2010
+***************************
+558
+ Revenue & Expense Salary: OSU: As of June 30, 2010 Salary: OSU: As of June 30, 2010
+***************************
+559
+ Revenue & Expense Salary: OIT: As of June 30, 2010 Salary: OIT: As of June 30, 2010
+***************************
+560
+ Revenue & Expense Salary: EOU: As of June 30, 2010 Salary: EOU: As of June 30, 2010
+***************************
+561
+ Revenue & Expense Salary: Chancellor's Office: As of June 30, 2010 Salary: Chancellor's Office: As of June 30, 2010
+***************************
+562
+ Revenue & Expense Expenditures: WOU: As of June 30, 2010 Expenditures: WOU: As of June 30, 2010
+***************************
+563
+ Revenue & Expense Expenditures: UofO: As of June 30, 2010 Expenditures: UofO: As of June 30, 2010
+***************************
+564
+ Revenue & Expense Expenditures: SOU: As of June 30, 2010 Expenditures: SOU: As of June 30, 2010
+***************************
+565
+ Revenue & Expense Expenditures: PSU: As of June 30, 2010 Expenditures: PSU: As of June 30, 2010
+***************************
+566
+ Revenue & Expense Expenditures: OSU: As of June 30, 2010 Expenditures: OSU: As of June 30, 2010
+***************************
+567
+ Revenue & Expense Contracts: OUS- Capital Report Amendments: As of June 30, 2010 Contracts: OUS- Capital Report Amendments: As of June 30, 2010
+***************************
+568
+ Revenue & Expense Contracts: OUS- CCR PC Supplements: As of June 30, 2010 Contracts: OUS- CCR PC Supplements: As of June 30, 2010
+***************************
+569
+ Revenue & Expense Contracts: OUS- CCR PC Amendments: As of June 30, 2010 Contracts: OUS- CCR PC Amendments: As of June 30, 2010
+***************************
+570
+ Revenue & Expense Contracts: OUS- Capital- Report- Supplements: As of June 30, 2010 Contracts: OUS- Capital- Report- Supplements: As of June 30, 2010
+***************************
+571
+ Revenue & Expense Contracts: OUS Capital Construction Projects: As of June 30, 2010 Contracts: OUS Capital Construction Projects: As of June 30, 2010
+***************************
+572
+ Revenue & Expense Contracts: Lottery: As of June 30, 2010 Contracts: Lottery: As of June 30, 2010
+***************************
+573
+driver education Transportation Driver Education Sites Map 2011 Driver Education site locations in Clackamas, Multnomah and Washington counties.
+***************************
+574
+ Revenue & Expense Expenditures: OIT: As of June 30, 2010 Expenditures: OIT: As of June 30, 2010
+***************************
+575
+ Revenue & Expense Expenditures: EOU: As of June 30, 2010 Expenditures: EOU: As of June 30, 2010
+***************************
+576
+ Revenue & Expense Expenditures: Chancellor's Office: As of June 30, 2010 Expenditures: Chancellor's Office: As of June 30, 2010
+***************************
+577
+ Revenue & Expense Expenditures: Transportation: As of June 30, 2010 Expenditures: Transportation: As of June 30, 2010
+***************************
+578
+ Revenue & Expense Expenditures: Lottery: As of June 30, 2010 Expenditures: Lottery: As of June 30, 2010
+***************************
+579
+contract procurement oregon transparency data data.oregon.gov state agency Revenue & Expense Contracts: ORPIN: As of June 30, 2010 This report provides information on contracts and amendments to contracts issued from July 1, 2009 - June 30, 2010, for state agencies who are subject to DAS contracting authority. These agencies must report their contracting activity through the Oregon Procurement Information Network (ORPIN) system. The contract values reflected in this report are estimates. 
+For more detail on this and other state of Oregon Contracts files, visit the Oregon Transparency Website Contracts/Procurements page:
+
+Note: The ORPIN Contracts Report is for period ending June 30, 2010. However, the file was updated on July 26, 2011 to reflect a modification to Price Agreement #8605.
+***************************
+580
+expenditures oregon state agencies transparency data data.oregon.gov Revenue & Expense Expenditures: Agencies: As of June 30, 2010 This report provides information on expenditures (i.e., cash transactions/payments) for the agencies that utilize the State Financial Management Application (SFMA) issued for the fiscal year 2010 (July 1, 2009 - June 30, 2010).   See the Oregon Transparency Website Expenditure page for more detail: http://oregon.gov/transparency/expenditures.page
+***************************
+581
+workforce salary oregon transparency state agency data data.oregon.gov  Salaries: Agencies: As of June 30, 2010 Each annual salary listed in this report is 12 times that particular employee's monthly adjusted salary rate as of June 30, 2010 (between July 1, 2009 and June 30, 2010). "Annual Salary" includes most differential payments (such as work-out-of-classification and bilingual differential), but excludes payments for overtime, shift differential, benefits, and vacation payout. The report does not account for unpaid furlough leave that management employees began taking in fiscal year 2009-2010; neither does it reflect step decreases and unpaid furlough leave that some classified employees began taking after June 2009.
+
+This report does not include annual salaries for employees of the Oregon University System, semi-independent agencies, temporary employees, or records protected by court order.
+
+For more State of Oregon Workforce/salary information please visit the Oregon Transparency Website: http://oregon.gov/transparency/state_workforce.page
+***************************
+582
+creff renewable energy feaibility studies  Community Renewable Energy Feasibility Fund (CREFF) Community Renewable Energy Feasibility Fund awards
+***************************
+583
+oregon prison admissions county population inmates offenders Public Safety Oregon Prison Admissions by County Fiscal 2010 The number of offenders admitted to Oregon Prison by County.   Includes % of county population.
+***************************
+584
+prison probation parole pps post-prison supervision forecast population Public Safety Oregon Offender Forecast Oct 2010 10 year Forecast for Oregon Offenders in Prison, Jail, Probation, and Post-Prison Supervision.
+***************************
+585
+prison oregon address custody medium maximum minimum Public Safety Oregon Prisons Names and addresses of Oregon State Prisons
+***************************
+586
+schools energy efficiency calendar  Calendar for Energy Efficient Schools Program Calendar for Energy Efficient Schools Program
+***************************
+587
+timber harvest 2009 timber harvest timber harvest in wester oregon in 2009 Government 2009 West OR Timber Harvest Timber harvest statistics for 2009 in western Oregon
+***************************
+588
+oregon corrections prisons infrastructure jails jail prison facilities detention federal state local justice doj Government Correctional Institutions The Jails and Prisons sub-layer is part of the Emergency Law Enforcement Sector and the Critical Infrastructure Category. A Jail or Prison consists of any facility or location where individuals are regularly and lawfully detained against their will. This includes Federal and State prisons, local jails, and juvenile detention facilities, as well as law enforcement temporary holding facilities. Work camps, including camps operated seasonally, are included if they otherwise meet the definition. A Federal Prison is a facility operated by the Federal Bureau of Prisons for the incarceration of individuals. A State Prison is a facility operated by a state, commonwealth, or territory of the US for the incarceration of individuals for a term usually longer than 1 year. A Juvenile Detention Facility is a facility for the incarceration of those who have not yet reached the age of majority (usually 18 years). A Local Jail is a locally administered facility that holds inmates beyond arraignment (usually 72 hours) and is staffed by municipal or county employees. A temporary holding facility, sometimes referred to as a "police lock up" or "drunk tank", is a facility used to detain people prior to arraignment. Locations that are administrative offices only are excluded from the dataset. This definition of Jails is consistent with that used by the Department of Justice (DOJ) in their "National Jail Census", with the exception of "temporary holding facilities", which the DOJ excludes.
+
+Locations which function primarily as law enforcement offices are included in this dataset if they have holding cells.
+
+If the facility is enclosed with a fence, wall, or structure with a gate around the buildings only, the locations were depicted as "on entity" at the center of the facility. If the facility's buildings are not enclosed, the locations were depicted as "on entity" on the main building or "block face" on the correct street segment.
+
+For full metadata record, please refer to the Oregon Geospatial Library: http://gis.oregon.gov/DAS/EISPD/GEO/sdlibrary.shtml
+***************************
+589
+oregon boat ramps recreation beach coastal access points cultural  Oregon Access Points And Boat Ramps The beach access points theme was created to display the location of public beach access along the Oregon Coast. Boat ramp locations were added to the dataset to allow users to view the location of boat ramps along the Columbia River and the Willamete River north of the Oregon City Dam. This is a tabular representation of a GIS dataset available on the OR Spatial Data Library. Please refer to the Oregon Geospatial Enterprise Office for a full metadata record and link to the full, spatially enabled dataset: http://gis.oregon.gov/DAS/EISPD/GEO/sdlibrary.shtml
+***************************
+590
+oregon emergency preparedness public health departments community facilities administrative Government Oregon Public Health Departments 2010-02-19 State and Local Public Health Departments
+
+Governmental public health departments are responsible for creating and maintaining conditions that keep people healthy. A local health department may be locally governed, part of a region or district, be an office or an administrative unit of the state health department, or a hybrid of these. Furthermore, each community has a unique "public health system" comprising individuals and public and private entities that are engaged in activities that affect the public's health.
+(Excerpted from the Operational Definition of a functional local health department, National Association of County and City Health Officials, November 2005)
+Please reference <http://www.naccho.org/topics/infrastructure/accreditation/upload/OperationalDefinitionBrochure-2.pdf> for more information.
+
+Facilities involved in direct patient care are intended to be excluded from this dataset; however, some of the entities represented in this dataset serve as both administrative and clinical locations.
+
+This dataset only includes the headquarters of Public Health Departments, not their satellite offices.
+
+Some health departments encompass multiple counties; therefore, not every county will be represented by an individual record. Also, some areas will appear to have over representation depending on the structure of the health departments in that particular region.
+
+Visiting nurses are represented in this dataset if they are contracted through the local government to fulfill the duties and responsibilities of the local health organization.
+
+Effort was made by TechniGraphics to verify whether or not each health department tracks statistics on communicable diseases.
+ 
+For more information, please refer to the full metadata record on the Oregon Geospatial Enterprise Office Site: http://gis.oregon.gov/DAS/EISPD/GEO/sdlibrary.shtml
+***************************
+591
+oregon preparedness emergency nursing home nursing_home facility facilities long term care ltc disabled care treatment assisted living assisted Government Oregon Nursing Homes 2010-02-26 A nursing home is commonly referred to as a skilled nursing facility, long term care (LTC) facility, or rest home, and may have a different standardized name throughout the United States, but is most commonly referred to as a nursing home. A nursing home traditionally offers 24-hour (skilled) nursing to the elderly or to disabled patients having a variety of medical conditions who require personal care services above that of an assisted living but do not require hospitalization. The personal care services provided may or may not include, but are not limited to: skilled nursing, long term inpatient care, room and board, meals, laundry, and assistance with: dressing, grooming, getting in and out of bed, medications, bathing, and toileting.
+
+For purposes of this dataset, an assisted living facility is defined as a facility where the elderly, who are not related to the operator, reside and receive care, treatment, or services. Although not at the level of a nursing home, the services are above the level of an independent living community. They may include several hours per week of supportive care, personal care, or nursing care per resident. Generally, an assisted living facility offers help in daily living (laundry, cooking, cleaning, etc.) and personal assistance (bathing, eating, clothing, etc.). Many assisted living facilities offer assistance with medication and a lesser level of nursing care than what is offered at a nursing home.
+
+Assisted living facilities may be regulated by size restrictions depending on which type of assisted living facility it is considered to be in the state in which it exists. For example, Adult Family Homes in Wisconsin have between 3-4 elderly residents while Community Based Residential Facilities have 5 or more. Almost every state has different terminology to describe their version of the assisted living facility system.
+
+The structures in which assisted living facilities exist are varied as well. Depending on the type, an assisted living facility may operate out of a personal residence or a nursing home style structure, and it may be set up as apartment style living or as a campus setting in a continuing care retirement community. Multiple assisted living facilities may exist at one location or may be co-located with nursing homes and/or other similar health care facilities.
+
+If a facility is licensed by a state and holds multiple licenses, it is represented once in this dataset for each license, even if the licenses are for the same location.
+
+This dataset does not include retirement communities, adult daycare facilities, or rehabilitation facilities. Nursing Homes that are operated by and co-located with a hospital are also excluded because the locations are included in the hospital dataset.
+
+For complete metadata record, please see the OR Geospatial Enterprise Office: http://gis.oregon.gov/DAS/EISPD/GEO/sdlibrary.shtml
+***************************
+592
+oregon hospitals preparedness emergency facilities health healthcare medical hospital diagnostic care surgical veterans childrens specialty public psychiatric substance  Oregon Hospitals 2008-09-20 Hospitals in Oregon
+The term "hospital" ... means an institution which-
+(1) is primarily engaged in providing, by or under the supervision of physicians, to inpatients
+
+	(A) diagnostic services and therapeutic services for medical diagnosis, treatment, and care of injured, disabled, or sick persons, or 
+	(B) rehabilitation services for the rehabilitation of injured, disabled, or sick persons; 
+
+(...)
+(5) provides 24-hour nursing service rendered or supervised by a registered professional nurse, and has a licensed practical nurse or registered professional nurse on duty at all times; ...
+(...)
+(7) in the case of an institution in any State in which State or applicable local law provides for the licensing of hospitals,
+
+	(A) is licensed pursuant to such law or 
+	(B) is approved, by the agency of such State or locality responsible for licensing hospitals, as meeting the standards established for such licensing; 
+
+(Excerpt from Title XVIII of the Social Security Act [42 U.S.C. § 1395x(e)], <http://www4.law.cornell.edu/uscode/html/uscode42/usc_sec_42_00001395---x000-.html>)
+Included in this dataset are General Medical and Surgical Hospitals, Psychiatric and Substance Abuse Hospitals, and Specialty Hospitals (e.g., Children's Hospitals, Cancer Hospitals, Maternity Hospitals, Rehabilitation Hospitals, etc.).
+TGS has made a concerted effort to include all general medical/surgical hospitals in Oregon. Other types of hospitals are included if they were represented in datasets sent by the state. Therefore, not all of the specialty hospitals in Oregon are represented in this dataset.
+Hospitals operated by the Veterans Administration (VA) are included, even if the state they are located in does not license VA Hospitals.
+Nursing homes and Urgent Care facilities are excluded because they are included in a separate dataset. Locations that are administrative offices only are excluded from the dataset.
+Records with "-DOD" appended to the end of the [NAME] value are located on a military base, as defined by the Defense Installation Spatial Data Infrastructure (DISDI) military installations and military range boundaries.
+Text fields in this dataset have been set to all upper case to facilitate consistent database engine search results.
+All diacritics (e.g., the German umlaut or the Spanish tilde) have been replaced with their closest equivalent English character to facilitate use with database systems that may not support diacritics.
+The currentness of this dataset is indicated by the [CONTDATE] field. Based upon this field, the oldest record dates from 08/23/2006 and the newest record dates from 05/28/2008 
+
+For full metadata record, please refer to the Oregon Geospatial Library: http://gis.oregon.gov/DAS/EISPD/GEO/sdlibrary.shtml
+***************************
+593
+oregon emergency fire stations fire facilities preparedness ems departments stations  Oregon Fire Stations 2008-09-19 Fire Stations in Oregon
+Any location where fire fighters are stationed or based out of, or where equipment that such personnel use in carrying out their jobs is stored for ready use. Fire Departments not having a permanent location are included, in which case their location has been depicted at the city/town hall or at the center of their service area if a city/town hall does not exist. This dataset includes those locations primarily engaged in forest or grasslands fire fighting, including fire lookout towers if the towers are in current use for fire protection purposes. This dataset includes both private and governmental entities. Fire fighting training academies are also included.
+This dataset is comprised completely of license free data.
+The Fire Station dataset and the EMS dataset were merged into one working file. TGS processed as one file and then separated for delivery purposes.
+Records with "-DOD" appended to the end of the [NAME] value are located on a military base, as defined by the Defense Installation Spatial Data Infrastructure (DISDI) military installations and military range boundaries.
+Text fields in this dataset have been set to all upper case to facilitate consistent database engine search results.
+All diacritics (e.g., the German umlaut or the Spanish tilde) have been replaced with their closest equivalent English character to facilitate use with database systems that may not support diacritics.
+The currentness of this dataset is indicated by the [CONTDATE] field. Based upon this field, the oldest record dates from 07/11/2006 and the newest record dates from 06/02/2008. 
+
+This is a tabular representation of a geospatial dataset available from the Oregon Geospatial Enterprise Office: http://gis.oregon.gov/DAS/EISPD/GEO/sdlibrary.shtml.
+***************************
+594
+emergency eoc centers preparedness gis facilities oregon  Emergency Operation Centers 2007-07-26 Emergency Operations Centers (EOC) in Oregon
+
+"The physical location at which the coordination of information and resources to support domestic incident management activities normally takes place. An EOC may be a temporary facility or may be located in
+a more central or permanently established facility, perhaps at a higher level of organization within a jurisdiction. EOCs may be organized by major functional disciplines (e.g., fire, law enforcement, and medical services), by jurisdiction (e.g., Federal, State, regional, county, city, tribal), or some combination thereof."
+
+(Excerpted from the National Incident Management System)
+
+In instances where TGS could not verify the location of an Emergency Operations Center due to non-cooperation of the entity and to the exhaustion of all possible alternative resources, its location was depicted at the center of the service area. 
+
+In cases where an Emergency Operations Center has a mobile unit, TGS captured the location of the mobile unit as a separate record.  This record represents where the mobile unit is stored.  
+
+Text fields in this dataset have been set to all upper case to facilitate consistent database engine search results.
+
+All diacritics (e.g., the German umlaut or the Spanish tilde) have been replaced with their closest equivalent English character to facilitate use with database systems that may not support diacritics.  
+
+The currentness of this dataset is indicated by the [CONTDATE] attribute. Based upon this attribute, the oldest record dates from 03/27/2007 and the newest record dates from 04/23/2007.
+
+One data point was removed at the request of the City of Portland 11/24/08.
+
+This is a tabular representation of a geospatial dataset available from the Oregon Geospatial Enterprise Office: http://gis.oregon.gov/DAS/EISPD/GEO/sdlibrary.shtml.
+***************************
+595
+assets buildings leased owned oregon  Oregon State Owned/Leased Buildings Locations of buildings owned and leased by the State of Oregon.
+
+[Note: This dataset does not contain a complete list of state owned and leased buildings, a updated dataset will be uploaded shortly.]
+***************************

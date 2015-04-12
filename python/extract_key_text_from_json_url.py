@@ -3,49 +3,63 @@ import sys
 import urllib.request
 import json
 import codecs
+import re
 
 from pprint import pprint
 
 from collections import namedtuple
 
 
-URL = {'NY.GOV'     : 'https://data.ny.gov/data.json',
-       'OREGON.GOV' : 'https://data.oregon.gov/data.json',
-       'HAWAII.GOV' : 'https://data.hawaii.gov/data.json'}
+URL = {'NY_GOV'     : 'https://data.ny.gov/data.json',
+       'OREGON_GOV' : 'https://data.oregon.gov/data.json',
+       'HAWAII_GOV' : 'https://data.hawaii.gov/data.json'}
 
 def main():
     '''.'''
         
-    json_object = get_json_from_url( URL['NY.GOV'] )
+    for key,url in URL.items():    
     
-    assert(json_object['conformsTo'] == 'https://project-open-data.cio.gov/v1.1/schema')    
+        json_object = get_json_from_url( url )
+        assert(json_object['conformsTo'] == 'https://project-open-data.cio.gov/v1.1/schema')
+        filename = key + '_readout.txt'
     
-    with open('visual_of_combined.txt','w') as output:
-        for idx,dataset in enumerate(json_object['dataset']):
-            if 'keyword' in dataset.keys():
-                keywords = ' '.join(str(x) for x in dataset['keyword'])
-            if 'theme' in dataset.keys():
-                theme = ' '.join(str(x) for x in dataset['theme'])
-            if 'title' in dataset.keys():
-                title = str(dataset['title'])
-            if 'description' in dataset.keys():
-                description = str(dataset['description'])
+        #all the misery about encodings was because I opened this file object without specifying 
+        #the encoding, and it defaulted to cp1252 ... never again
+        with open(filename,'w',encoding='utf-8') as output:
+            
+            for idx,dataset in enumerate(json_object['dataset']):
+                keywords = ''
+                theme = ''
+                title = ''
+                description = ''
+                if 'keyword' in dataset.keys():
+                    keywords = ' '.join(str(x) for x in dataset['keyword'])
+                if 'theme' in dataset.keys():
+                    theme = ' '.join(str(x) for x in dataset['theme'])
+                if 'title' in dataset.keys():
+                    title = str(dataset['title'])
+                if 'description' in dataset.keys():
+                    description = str(dataset['description'])
+                        
+                dataset_essentials = (keywords,theme,title,description)
+                combined = ' '.join(dataset_essentials)                    #<<<<<<<<<<<<<<<<<<<< combined is a string containing potential keywords
                 
-            dataset_essentials = (keywords,theme,title,description)
-            combined = ' '.join(dataset_essentials)                    #<<<<<<<<<<<<<<<<<<<< combined is a string containing potential keywords
+                atypical_hyphen = r'[\u2010]'
+                common_hyphen = r'-'
+                combined = re.sub(atypical_hyphen, common_hyphen, combined)
 
-            ############################################################################
-            #     Insert code/function, or call function, to get word count here
-            
-            ############################################################################
-            #combined.encode('utf-8', errors = 'ignore')
-            
-            output.write(str(idx) + '\n')
-            try:
-                output.write(combined + '\n')
-            except UnicodeEncodeError:
-                pass
-            output.write('***************************\n')
+                ############################################################################
+                #     Insert code/function, or call function, to get word count here
+                
+                ############################################################################
+                
+                output.write(str(idx) + '\n')            
+                try:
+                    output.write(combined + '\n')
+                except UnicodeEncodeError:
+                    print('UnicodeEncodeError was passed by')
+                    pass
+                output.write('***************************\n')
             
     
 
