@@ -32,7 +32,7 @@ def main():
         json_object = get_json_from_url( url )
         assert(json_object['conformsTo'] == 'https://project-open-data.cio.gov/v1.1/schema')
         '''filename = key + '_readout.txt' '''
-        filename = key + '_keywords_ign.txt'
+        filename = key + '_keywords.txt'
     
         with open(filename,'w',encoding='utf-8') as output:
             
@@ -50,26 +50,22 @@ def main():
                     title = str(dataset['title'])
                 if 'description' in dataset.keys():
                     description = str(dataset['description'])
-                if 'landingPage' in dataset.keys():
-                    landing_url = dataset['landingPage']
                 
-                print(landing_url)
+                '''if 'landingPage' in dataset.keys():
+                    landing_url = dataset['landingPage']
                 landing_url_json = (landing_url.split('/d/')[0] + '/api/views/' +
                                    landing_url.split('/d/')[1] + '/rows.json?accessType=DOWNLOAD')
-                print(landing_url_json)
-                #landing_json = get_json_from_url(landing_url) 
                 combined = get_text_from_url(landing_url_json)
-                print('here')
-                #dataset_essentials = (keywords,theme,title,description)
-                #combined = ' '.join(dataset_essentials) # combined is a string containing potential keywords
+                combined = re.sub(r'[^a-zA-Z]',r' ', combined)'''
+                
+                dataset_essentials = (keywords,theme,title,description)
+                combined = ' '.join(dataset_essentials) # combined is a string containing potential keywords
                 
                 atypical_hyphen = r'[\u2010]'
                 common_hyphen = r'-'
                 combined = re.sub(atypical_hyphen, common_hyphen, combined)
-                print('here')
+                
                 ############################################################################
-                combined = re.sub(r'[^a-zA-Z]',r' ', combined)
-                print('here')
                 wordcount={}
                 
                 for word in combined.split():
@@ -85,15 +81,12 @@ def main():
                 
                 sorted_wordcount = sorted(wordcount.items(), key=operator.itemgetter(1), reverse=True)    
                         
-                output.write(str(idx) + '\n')
+                output.write(str(idx) + ' ' + str(title) + '\n')
                 for item in sorted_wordcount:
                     output.write(str(item[0]) + ' ' + str(item[1]))
                     output.write('\n')
-                #for word,instances in sorted_wordcount.items():
-                #    output.write(str(word) + '  ' + str(instances))
-                #    output.write('\n')
                 output.write('***************************\n')        
-                sys.exit(1)
+                #sys.exit(1)
                         
                 
                 

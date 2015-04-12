@@ -1,8057 +1,6323 @@
-0
-State 2
-Statements 2
-Ethics 2
-Expenditure 2
-Hawaii 2
-Organizations 2
-Commissions 2
-***************************
-1
-State 2
-Statements 2
-Registration 2
-Ethics 2
-Hawaii 2
-Lobbyist 2
-Commissions 2
-***************************
-2
-State 2
-Statements 2
-Ethics 2
-Expenditure 2
-Lobbyists 2
-Hawaii 2
-Commissions 2
-***************************
-3
-State 2
-Commissions 2
-Disclosures 2
-Ethics 2
-Hawaii 2
-Public 2
-***************************
-4
-and 6
-the 5
-a 5
-of 4
-use 4
-for 4
-only 4
-be 3
-pesticides 3
-licensed 3
-pesticide 3
-certified 3
-is 3
-or 3
-by 3
- 2
-applicator 2
+0 Hawaii State Ethics Commission's Organizations' Expenditure Statements
+statements 2
+commissions 2
 state 2
-to 2
-Product 2
-Restricted 2
-will 2
-List 2
-in 2
-names 1
-unless 1
-after 1
-these 1
-additional 1
-current 1
-Hawaii 1
-Health 1
-person 1
-direct 1
-that 1
-2 1
-restricted 1
-including 1
-expired 1
-one 1
-number 1
-can 1
-applicators 1
-distributed 1
-informational 1
-under 1
-distribution 1
-are 1
-sale 1
-discontinued 1
-Current 1
-two 1
-violation 1
-indicated 1
-Expired 1
-parenthesis 1
-This 1
-products 1
-1 1
-product 1
-renewed 1
+organizations 2
+expenditure 2
+hawaii 2
+ethics 2
+***************************
+1 Hawaii State Ethics Commission's Lobbyist Registration Statements
+statements 2
+commissions 2
+state 2
+registration 2
+hawaii 2
+lobbyist 2
+ethics 2
+***************************
+2 Hawaii State Ethics Commission's Lobbyists' Expenditure Statements
+statements 2
+commissions 2
+state 2
+lobbyists 2
+expenditure 2
+hawaii 2
+ethics 2
+***************************
+3 Hawaii State Ethics Commission's Public Disclosures
+commissions 2
+state 2
+public 2
+disclosures 2
+hawaii 2
+ethics 2
+***************************
+4 Current & Expired Product List
+certified 3
+product 3
+pesticides 3
+list 3
+licensed 3
+restricted 3
+pesticide 3
+ 2
+state 2
+applicator 2
+current 2
+expired 2
 federal 1
-followed 1
-period 1
-years 1
-example 1
-an 1
-supervision 1
-license 1
-provided 1
-asterisk 1
-expires 1
-purposes 1
-sold 1
-dealer 1
+1 1
+indicated 1
+number 1
 indicate 1
-list 1
-laws 1
-currently 1
-It 1
-***************************
-5
-claimed 3
-weeks 3
-ui 2
-wc 2
-are 2
-actually 1
-paid 1
-benefits 1
-requests 1
-weekly 1
-WC2009 1
-unemployment 1
-whether 1
-Weeks 1
-not 1
-Employment 1
-claims 1
-ODI 1
-To 1
-payments 1
-UI 1
-for 1
-Present 1
-or 1
-***************************
-6
-claims 4
-of 2
-a 2
-Initial 2
-ic 2
-year 2
-benefit 2
-to 1
-unemployment 1
-additional 1
-2009 1
-claimants 1
-initiate 1
-the 1
-initial 1
-ui 1
-Employment 1
-begin 1
-new 1
-subsequent 1
-eligibility 1
-To 1
-Claims 1
-UI 1
-within 1
-Present 1
-period 1
-determination 1
-or 1
-***************************
-7
-State 2
-By 2
-Hawaii 2
-Notices 2
-County 2
-Candidates 2
-Filed 2
-Fundraiser 2
-fundraiser 2
-and 2
-campaign 2
-Community 1
-notices 1
-commission 1
+products 1
+health 1
+dealer 1
+renewed 1
 hawaii 1
-candidate 1
+including 1
+distributed 1
+expires 1
+2 1
+discontinued 1
+sold 1
+asterisk 1
+are 1
+laws 1
+applicators 1
+license 1
+informational 1
+names 1
+additional 1
+sale 1
+unless 1
+under 1
+currently 1
+supervision 1
+purposes 1
+example 1
+followed 1
+years 1
+provided 1
+direct 1
+period 1
+distribution 1
+violation 1
+parenthesis 1
+***************************
+5 UI WC2009 To Present ODI
+weeks 4
+ui 3
+claimed 3
+are 2
+wc 2
+requests 1
+actually 1
+employment 1
+wc2009 1
+odi 1
+whether 1
+weekly 1
+claims 1
+paid 1
+payments 1
+unemployment 1
+benefits 1
+present 1
+***************************
+6 UI Initial Claims 2009 To Present
+claims 5
+initial 3
+ui 2
+year 2
+ic 2
+benefit 2
+eligibility 1
+determination 1
+initiate 1
+employment 1
+additional 1
+subsequent 1
+within 1
+unemployment 1
+2009 1
+begin 1
+claimants 1
+period 1
+present 1
+***************************
+7 Fundraiser Notices Filed By Hawaii State and County Candidates
+fundraiser 4
+candidates 3
+hawaii 3
+notices 3
+campaign 2
+county 2
+filed 2
+state 2
 finance 1
-candidates 1
+candidate 1
+commission 1
+community 1
 spending 1
 ***************************
-8
-for 3
-Gasoline 2
+8 Agricultural Use Refunds (Gasoline)
+gasoline 3
+1 2
+per 2
+agricultural 2
 gallon 2
 cent 2
-1 2
-is 2
-of 2
-a 2
-per 2
-in 2
-gasoline 1
-Agricultural 1
-used 1
-Refunds 1
-on 1
-agricultural 1
-production 1
-The 1
-to 1
-Use 1
-refund 1
-excess 1
-any 1
-subject 1
-only 1
-such 1
-taxes 1
-offroad 1
-tax 1
-consumption 1
-user 1
+refunds 1
 paid 1
-eligible 1
-***************************
-9
-the 6
-and 4
-State 3
-tax 2
-are 2
-how 2
-Fuel 1
-Allocation 1
-shows 1
-divided 1
-fuel 1
-series 1
-This 1
-special 1
-liquid 1
-funds 1
-Counties 1
-Liquid 1
-Tax 1
-environmental 1
-taxes 1
-among 1
-Fund 1
-County 1
-distributed 1
-between 1
-various 1
-by 1
-response 1
-collections 1
-***************************
-10
-is 3
-Tax 2
-Fuel 2
-Allocation 2
-County 2
-by 2
-Maui 2
-as 1
-what 1
-form 1
-on 1
-island 1
-reported 1
-which 1
-M20A 1
-The 1
+used 1
+excess 1
 tax 1
-99 1
-of 1
-collected 1
-Island 1
-***************************
-11
-the 2
-and 2
-services 1
-etc 1
-activity 1
-retailing 1
-Collections 1
-shows 1
-excise 1
-series 1
-This 1
-eg 1
-broken 1
-Use 1
-taxpayer 1
-General 1
-of 1
-Tax 1
-taxes 1
-tax 1
-collected 1
-income 1
-general 1
-for 1
-taxable 1
-by 1
-Excise 1
-down 1
-contracting 1
-***************************
-12
-and 4
-fuel 3
-quantities 2
-to 2
-by 2
-Tax 2
-taxes 2
-tax 2
-amounts 1
-Fuel 1
-Collections 1
-shows 1
-type 1
-series 1
-county 1
-This 1
-The 1
-of 1
-Liquid 1
 subject 1
-the 1
-environmental 1
-broken 1
-for 1
-are 1
-Base 1
+refund 1
+consumption 1
+taxes 1
+production 1
+user 1
+such 1
+eligible 1
+offroad 1
+***************************
+9 Liquid Fuel Tax Allocation by Fund
+state 3
+tax 3
+are 2
+liquid 2
+fuel 2
+series 1
+special 1
+among 1
 response 1
-or 1
+divided 1
+taxes 1
+funds 1
+shows 1
+various 1
+fund 1
+distributed 1
+allocation 1
+county 1
+between 1
+collections 1
+environmental 1
+counties 1
+***************************
+10 Maui County Fuel Tax Allocation (by Island)
+tax 3
+county 2
+fuel 2
+allocation 2
+island 2
+maui 2
+reported 1
+form 1
+m20a 1
+collected 1
+99 1
+***************************
+11 General Excise and Use Tax Collections
+tax 2
+excise 2
+general 2
+series 1
+broken 1
+contracting 1
+eg 1
+taxable 1
+activity 1
+etc 1
+taxpayer 1
+services 1
+collections 1
+taxes 1
+shows 1
+income 1
+down 1
+retailing 1
+collected 1
+***************************
+12 Liquid Fuel Tax Base and Tax Collections
+fuel 4
+tax 4
+quantities 2
+taxes 2
+base 1
+series 1
+broken 1
+environmental 1
+response 1
+county 1
+type 1
+amounts 1
+are 1
+collections 1
+subject 1
+liquid 1
+shows 1
 down 1
 ***************************
-13
-and 4
-the 2
-tax 2
-Tax 1
-on 1
-Collections 1
+13 Liquor Tax Collections and Permits
+tax 3
+collections 2
+liquor 2
+permits 1
+fees 1
+series 1
+interest 1
 permit 1
 shows 1
 penalties 1
-fees 1
-series 1
-Liquor 1
-This 1
-liquor 1
-Permits 1
-interest 1
-of 1
-collections 1
 ***************************
-14
-the 3
-of 2
-shows 2
+14 Tobacco Tax Collections and Permits
+tobacco 3
 series 2
-tobacco 2
-and 2
-cigarettes 1
-among 1
-type 1
-This 1
-The 1
-allocated 1
-how 1
-Permits 1
-also 1
-product 1
-Tobacco 1
-Tax 1
-on 1
-taxes 1
-is 1
+tax 2
+collections 2
+shows 2
+permits 1
 broken 1
-tax 1
 special 1
-cigarette 1
-funds 1
-various 1
-Collections 1
-by 1
-down 1
-collections 1
-***************************
-15
-the 5
-and 3
-of 2
-State 2
-taxes 2
-Tax 1
-shows 1
-series 1
-This 1
-special 1
-administered 1
-collections 1
-allocations 1
-Distribution 1
-general 1
+type 1
 among 1
+allocated 1
+taxes 1
 funds 1
+product 1
+also 1
+down 1
+cigarettes 1
+cigarette 1
 various 1
-Collections 1
-by 1
-States 1
+***************************
+15 State Tax Collections and Distribution
+state 2
+collections 2
+taxes 2
 fund 1
+series 1
+special 1
+tax 1
+among 1
+states 1
+general 1
+administered 1
+funds 1
+shows 1
+various 1
+allocations 1
+distribution 1
 ***************************
-16
-Request 2
-Semiannual 2
-Log 2
-Master 2
-Record 2
-FY 2
-2015 2
-For 2
-OIP 2
-UIPA 2
+16 OIP Master UIPA Record Request Semiannual Log For FY 2015
+uipa 3
+oip 3
+request 3
+record 3
 2014 2
-December 1
-July 1
+2015 2
+log 2
+fy 2
+semiannual 2
+master 2
 requests 1
-received 1
-uipa 1
-request 1
 through 1
-1 1
-records 1
-record 1
-Support 1
+support 1
 31 1
-oip 1
-GovernmentWide 1
-***************************
-17
-Awarded 2
-Projects 2
-***************************
-18
-Completed 2
-Projects 2
-***************************
-19
-Projects 2
-Accepted 2
-***************************
-20
-Under 2
-Construction 2
-Projects 2
-***************************
-21
-Planned 2
-Projects 2
-***************************
-22
-of 4
-Log 4
-Master 3
-the 3
-Request 2
-This 2
-is 2
-Record 2
-FY 2
-for 2
-UIPA 2
-2014 2
- 1
-Branch 1
-one 1
-End 1
-YearEnd 1
-with 1
-Summary 1
-Year 1
-deleted 1
-Health 1
-Hazardous 1
-Department 1
-Waste 1
-as 1
-March 1
-19mar15 1
-2015 1
-OIPs 1
-19 1
-For 1
-OIP 1
-Solid 1
-agency 1
-basis 1
-***************************
-23
-2014 3
-Request 2
-YearEnd 2
-Log 2
-Master 2
-Record 2
-FY 2
-For 2
-OIP 2
-UIPA 2
-July 1
-requests 1
-received 1
-uipa 1
+governmentwide 1
 1 1
-request 1
-30 1
-through 1
+december 1
+july 1
+received 1
 records 1
-record 1
-Support 1
-oip 1
-2013 1
-GovernmentWide 1
-June 1
 ***************************
-24
-Ethics 4
-State 2
-Advice 2
-Hawaii 2
-Commissions 2
-***************************
-25
-Agricultural 2
-Good 2
-Kauai 2
-Use 2
-Neighbor 2
-Program 2
-usage 1
-as 1
-Pesticides 1
-reported 1
-Health 1
-RUP 1
-Reporting 1
-the 1
-Aggregate 1
-of 1
-through 1
-Restricted 1
-***************************
-26
-of 2
-monthly 1
-the 1
-Log 1
-use 1
-in 1
-farms 1
-Agricultural 1
-RUP 1
-Receipt 1
-Kauai 1
-from 1
-participating 1
-KAGNP 1
-Program 1
-Neighbor 1
-those 1
-Record 1
-receipt 1
-summary 1
-Good 1
-***************************
-27
-DBEDT 2
-Gasoline 2
-Prices 2
-vs 2
-Source 2
-Hawaii 2
-US 2
-***************************
-28
-EIA 2
-Electricity 2
-Prices 2
-vs 2
-Source 2
-Hawaii 2
-US 2
-***************************
-29
-brand 2
-HDOA 2
-Livestock 1
-the 1
-in 1
-included 1
-with 1
-Updated 1
-dataset 1
-TEST 1
-picture 1
-Dataset 1
-Registered 1
-***************************
-30
- 2
-Statewide 2
-Election 2
-Maps 2
-***************************
-31
-by 4
-status 2
-employment 2
-of 2
-employed 2
-Number 2
-employments 2
-QHTBs 2
-***************************
-32
-Tax 2
-Expenses 2
-And 2
-Reported 2
-Credit 2
-Research 2
-***************************
-33
-High 2
-Technology 2
-Businesses 2
-Qualified 2
-***************************
-34
-Ledger 2
-Dataset 2
-Hawaii 2
-***************************
-35
-Tax 2
-Credit 2
-Film 2
-***************************
-36
-Expenditures 2
-***************************
-37
-campaign 4
-contributions 3
-December 2
-State 2
-31 2
-Hawaii 2
-Durable 2
-From 2
-Through 2
-8 2
-2006 2
-County 2
-For 2
-November 2
-Candidates 2
-and 2
-spending 2
-Assets 2
-2014 2
-commission 1
-candidate 1
-finance 1
-political 1
-Community 1
-hawaii 1
-candidates 1
-***************************
-38
-Filed 2
-Committees 2
-Fundraiser 2
-By 2
-Hawaii 2
-Notices 2
-Noncandidate 2
-Community 1
-***************************
-39
-campaign 4
-contributions 3
-December 2
-State 2
-31 2
-Made 2
-Hawaii 2
-From 2
-Through 2
-8 2
-2006 2
-By 2
-County 2
-Expenditures 2
-November 2
-Candidates 2
-and 2
-spending 2
-2014 2
-commission 1
-candidate 1
-finance 1
-political 1
-Community 1
-hawaii 1
-candidates 1
-***************************
-40
-campaign 4
-contributions 3
-December 2
-State 2
-31 2
-Hawaii 2
-From 2
-Through 2
-8 2
-2006 2
-County 2
-Receipts 2
-For 2
-November 2
-Other 2
-Candidates 2
-and 2
-spending 2
-2014 2
-commission 1
-candidate 1
-finance 1
-political 1
-Community 1
-hawaii 1
-candidates 1
-***************************
-41
-campaign 4
-contributions 3
-December 2
-31 2
-Hawaii 2
-2008 2
-Durable 2
-From 2
-1 2
-January 2
-Noncandidate 2
-Through 2
-Committees 2
-2014 2
-spending 2
-Assets 2
-For 2
-commission 1
-finance 1
-candidate 1
-political 1
-Community 1
-hawaii 1
-candidates 1
-***************************
-42
-campaign 4
-contributions 3
-December 2
-31 2
-Hawaii 2
-2008 2
-1 2
-From 2
-January 2
-Noncandidate 2
-Through 2
-Expenditures 2
-Committees 2
-Unpaid 2
-2014 2
-spending 2
-For 2
-commission 1
-finance 1
-candidate 1
-candidates 1
-political 1
-Community 1
-hawaii 1
-***************************
-43
-campaign 4
-contributions 3
-December 2
-31 2
-Hawaii 2
-2008 2
-1 2
-From 2
-Contributions 2
-Received 2
-January 2
-By 2
-Noncandidate 2
-Through 2
-Committees 2
-spending 2
-2014 2
-commission 1
-finance 1
-political 1
-Community 1
-hawaii 1
-candidate 1
-candidates 1
-***************************
-44
-campaign 4
-contributions 3
-December 2
-31 2
-Made 2
-Hawaii 2
-1 2
-From 2
-Campaign 2
-Through 2
-January 2
-2008 2
-By 2
-Noncandidate 2
-To 2
-Contributions 2
-Committees 2
-Candidates 2
-spending 2
-2014 2
-commission 1
-candidate 1
-finance 1
-political 1
-Community 1
-hawaii 1
-candidates 1
-***************************
-45
-campaign 4
-contributions 3
-December 2
-State 2
-31 2
-Hawaii 2
-Loans 2
-From 2
-Through 2
-8 2
-2006 2
-Received 2
-County 2
-November 2
-By 2
-Candidates 2
-and 2
-spending 2
-2014 2
-commission 1
-candidate 1
-finance 1
-political 1
-Community 1
-hawaii 1
-candidates 1
-***************************
-46
-campaign 4
-contributions 3
-December 2
-State 2
-2006 2
-31 2
-Hawaii 2
-From 2
-Through 2
-8 2
-County 2
-Expenditures 2
-For 2
-November 2
-Candidates 2
-Unpaid 2
-and 2
-spending 2
-2014 2
-commission 1
-candidate 1
-finance 1
-candidates 1
-political 1
-Community 1
-hawaii 1
-***************************
-47
-campaign 4
-contributions 3
-December 2
-31 2
-Hawaii 2
-2008 2
-Noncandidate 2
-From 2
-1 2
-January 2
-Committees 2
-Through 2
-Receipts 2
-For 2
-Other 2
-spending 2
-2014 2
-commission 1
-finance 1
-candidate 1
-political 1
-Community 1
-hawaii 1
-candidates 1
-***************************
-48
-campaign 4
-contributions 3
-December 2
-31 2
-Made 2
-Hawaii 2
-1 2
-From 2
-January 2
-2008 2
-By 2
-Noncandidate 2
-Through 2
-Expenditures 2
-Committees 2
-spending 2
-2014 2
-commission 1
-candidate 1
-finance 1
-political 1
-Community 1
-hawaii 1
-candidates 1
-***************************
-49
-campaign 4
-contributions 3
-December 2
-Through 2
-31 2
-Hawaii 2
-From 2
-Campaign 2
-Contributions 2
-Received 2
-2006 2
-8 2
-By 2
-County 2
-November 2
-State 2
-Candidates 2
-and 2
-spending 2
-2014 2
-elections 1
-commission 1
-candidate 1
-finance 1
-political 1
-Community 1
-hawaii 1
-candidates 1
-***************************
-50
-campaign 4
-contributions 3
-State 2
-Hawaii 2
-County 2
-Candidates 2
-For 2
-and 2
-spending 2
-Profiles 2
-Community 1
-commission 1
-hawaii 1
-political 1
-candidate 1
-finance 1
-candidates 1
-***************************
-51
-campaign 4
-contributions 3
-For 2
-Hawaii 2
-Reports 2
-Committees 2
-Noncandidate 2
-Organizational 2
-spending 2
-Community 1
-commission 1
-hawaii 1
-candidate 1
-finance 1
-candidates 1
-political 1
-***************************
-52
-campaign 4
-contributions 3
-State 2
-For 2
-Hawaii 2
-Reports 2
-County 2
-Candidates 2
-Organizational 2
-and 2
-spending 2
-Community 1
-commission 1
-hawaii 1
-candidate 1
-finance 1
-candidates 1
-political 1
-***************************
-53
-Projects 2
-Capital 2
-Improvement 2
-***************************
-54
- 2
-Elections 2
-Committees 2
-Issue 2
-Ballot 2
-campaign 2
-spending 2
-2014 2
-Community 1
-elections 1
-commission 1
-candidates 1
-***************************
-55
-campaign 4
-contributions 3
-Periods 2
-Hawaii 2
-Noncandidate 2
-for 2
-Committees 2
-spending 2
-Election 2
-Community 1
-commission 1
-hawaii 1
-candidate 1
-finance 1
-candidates 1
-political 1
-***************************
-56
-Total 4
- 2
-and 2
-PACs 2
-Disbursements 2
-Receipts 2
-Elections 2
-2014 2
-Super 2
-Community 1
-***************************
-57
-2014 4
-Independent 2
-of 2
- 2
-as 2
-Elections 2
-Committees 2
-Financial 2
-November 2
-Summaries 2
-4 2
-campaign 2
-spending 2
-Expenditure 2
-Community 1
-elections 1
-commission 1
-candidates 1
-***************************
-58
-LongForm 2
-Hawaii 2
-Configuration 2
-Content 2
-***************************
-59
-UFund 2
-2015 2
-FY 2
-Data 2
-***************************
-60
-Ezshp 2
-***************************
-61
-Tax 2
-Dbedt 2
-Credits 2
-Economic 1
-Development 1
-***************************
-62
-Operating 2
-Hawaii 2
-Budget 2
-***************************
-63
-Major 2
-Recurring 2
-Federal 2
-Awards 2
-***************************
-64
-Services 2
-Office 2
-of 2
-Log 2
-UIPA 2
-Maui 2
-Requests 2
-Record 2
-Council 2
-County 2
-Other 1
-***************************
-65
-String 2
-Hawaii 2
-Configurations 2
-***************************
-66
- 2
-2014 2
-July 1
-Log 1
-Support 1
-JulyDecember 1
-FY 1
-FY2015 1
-Budget 1
-2015 1
-Finance 1
-FORM 1
-UIPA 1
-Request 1
-And 1
-GovernmentWide 1
-Record 1
-Dec 1
-***************************
-67
-value 4
-of 4
-solar 2
-percentage 2
-permit 2
+17 Projects Awarded
+awarded 2
 projects 2
-DBEDT 2
-as 2
-Related 2
-total 2
-Solar 2
-Expenditures 2
-building 2
-Construction 2
-Source 2
 ***************************
-68
- 4
-campaign 4
-contributions 3
-and 2
-Lt 2
-Disbursements 2
-Elections 2
-Receipts 2
-Governor 2
+18 Projects Completed
+completed 2
+projects 2
+***************************
+19 Projects Accepted
+accepted 2
+projects 2
+***************************
+20 Projects Under Construction
+under 2
+construction 2
+projects 2
+***************************
+21 Projects Planned
+planned 2
+projects 2
+***************************
+22 OIP Master UIPA Record Request Year- End Log For FY 2014 19mar15
+log 4
+master 3
+uipa 2
 2014 2
-spending 2
-Community 1
-elections 1
-commission 1
-hawaii 1
-candidate 1
-finance 1
-candidates 1
-political 1
+fy 2
+request 2
+record 2
+basis 1
+oips 1
+ 1
+19 1
+health 1
+end 1
+year 1
+yearend 1
+oip 1
+department 1
+hazardous 1
+solid 1
+2015 1
+march 1
+waste 1
+agency 1
+branch 1
+deleted 1
+19mar15 1
+summary 1
 ***************************
-69
- 4
-campaign 4
-contributions 3
-and 2
-Disbursements 2
-Elections 2
-Mayor 2
-Receipts 2
-Kauai 2
-2014 2
-spending 2
-Community 1
-elections 1
-commission 1
-hawaii 1
-candidate 1
-finance 1
-candidates 1
-political 1
+23 OIP Master UIPA Record Request Year-End Log For FY 2014
+uipa 3
+2014 3
+oip 3
+request 3
+record 3
+log 2
+fy 2
+yearend 2
+master 2
+2013 1
+requests 1
+june 1
+through 1
+support 1
+30 1
+governmentwide 1
+1 1
+july 1
+received 1
+records 1
 ***************************
-70
- 4
-campaign 4
-contributions 3
-Mayor 2
-Disbursements 2
-Elections 2
-Maui 2
-Receipts 2
-and 2
-2014 2
-spending 2
-Community 1
-elections 1
-commission 1
-hawaii 1
-candidate 1
-finance 1
-candidates 1
-political 1
+24 Hawaii State Ethics Commission's Ethics Advice
+ethics 4
+commissions 2
+state 2
+hawaii 2
+advice 2
 ***************************
-71
- 4
-campaign 4
-contributions 3
-and 2
-Disbursements 2
-Elections 2
-Receipts 2
-Governor 2
-2014 2
-spending 2
-Community 1
-elections 1
-commission 1
-hawaii 1
-candidate 1
-finance 1
-candidates 1
-political 1
+25 Kaua'i Agricultural Good Neighbor Program RUP Use Reporting
+kauai 2
+agricultural 2
+neighbor 2
+program 2
+reporting 1
+rup 1
+usage 1
+pesticides 1
+reported 1
+aggregate 1
+health 1
+restricted 1
+through 1
 ***************************
-72
-2014 4
-10 2
-Top 2
+26 KAGNP Receipt Log
+receipt 2
+kauai 1
+farms 1
+monthly 1
+from 1
+those 1
+kagnp 1
+log 1
+participating 1
+rup 1
+agricultural 1
+neighbor 1
+record 1
+summary 1
+program 1
+***************************
+27 Gasoline Prices: U.S. vs. Hawaii  (Source: DBEDT)
+vs 2
+gasoline 2
+dbedt 2
+source 2
+hawaii 2
+prices 2
+***************************
+28 Electricity Prices: U.S. vs Hawaii  (Source: EIA)
+vs 2
+electricity 2
+source 2
+hawaii 2
+prices 2
+eia 2
+***************************
+29 HDOA TEST Dataset
+hdoa 2
+brand 2
+dataset 2
+included 1
+updated 1
+picture 1
+test 1
+registered 1
+livestock 1
+***************************
+30 Election Maps - Statewide
  2
-as 2
-Surplus 2
-Elections 2
-November 2
-of 2
-4 2
-Community 1
+election 2
+statewide 2
+maps 2
+***************************
+31 Number of employments employed by QHTBs, by employment status
+number 2
+employment 2
+status 2
+employments 2
+qhtbs 2
+employed 2
+***************************
+32 Reported Research Expenses And Tax Credit
+reported 2
+expenses 2
+research 2
+credit 2
+tax 2
+***************************
+33 Qualified High Technology Businesses
+high 2
+businesses 2
+qualified 2
+technology 2
+***************************
+34 Hawaii Ledger Dataset
+ledger 2
+hawaii 2
+dataset 2
+***************************
+35 Film Tax Credit
+tax 2
+film 2
+credit 2
+***************************
+36 Expenditures
+expenditures 2
+***************************
+37 Durable Assets For Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014
+campaign 4
+contributions 3
+hawaii 3
+candidates 3
+8 2
+state 2
+2014 2
+2006 2
+assets 2
+november 2
+through 2
+from 2
+december 2
+county 2
+31 2
+durable 2
+spending 2
+finance 1
+candidate 1
+commission 1
+community 1
+political 1
+***************************
+38 Fundraiser Notices Filed By Hawaii Noncandidate Committees
+committees 2
+filed 2
+noncandidate 2
+fundraiser 2
+hawaii 2
+notices 2
+community 1
+***************************
+39 Expenditures Made By Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014
+campaign 4
+hawaii 3
+contributions 3
+candidates 3
+8 2
+state 2
+2014 2
+expenditures 2
+december 2
+2006 2
+november 2
+through 2
+from 2
+county 2
+31 2
+spending 2
+made 2
+finance 1
+candidate 1
+commission 1
+community 1
+political 1
+***************************
+40 Other Receipts For Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014
+campaign 4
+contributions 3
+hawaii 3
+candidates 3
+spending 2
+2014 2
+from 2
+state 2
+31 2
+2006 2
+county 2
+december 2
+8 2
+receipts 2
+november 2
+through 2
+finance 1
+political 1
+candidate 1
+commission 1
+community 1
+***************************
+41 Durable Assets For Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014
+campaign 4
+contributions 3
+hawaii 3
+1 2
+2014 2
+noncandidate 2
+assets 2
+committees 2
+through 2
+from 2
+december 2
+2008 2
+31 2
+january 2
+durable 2
+spending 2
+finance 1
+community 1
+candidate 1
+commission 1
+political 1
+candidates 1
+***************************
+42 Unpaid Expenditures For Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014
+campaign 4
+contributions 3
+hawaii 3
+1 2
+2014 2
+expenditures 2
+from 2
+december 2
+noncandidate 2
+january 2
+committees 2
+through 2
+unpaid 2
+2008 2
+31 2
+spending 2
+candidate 1
+community 1
+finance 1
+commission 1
+political 1
+candidates 1
+***************************
+43 Contributions Received By Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014
+contributions 5
+campaign 4
+hawaii 3
+2014 2
+2008 2
+1 2
+noncandidate 2
+committees 2
+from 2
+31 2
+december 2
+received 2
+january 2
+spending 2
+through 2
+finance 1
+political 1
+candidate 1
+commission 1
+community 1
+candidates 1
+***************************
+44 Campaign Contributions Made To Candidates By Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014
+campaign 6
+contributions 5
+hawaii 3
+candidates 3
+2014 2
+2008 2
+1 2
+noncandidate 2
+committees 2
+from 2
+31 2
+december 2
+january 2
+through 2
+spending 2
+made 2
+finance 1
+political 1
+candidate 1
+commission 1
+community 1
+***************************
+45 Loans Received By Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014
+campaign 4
+contributions 3
+hawaii 3
+candidates 3
+8 2
+state 2
+2014 2
+2006 2
+november 2
+through 2
+from 2
+december 2
+county 2
+loans 2
+31 2
+spending 2
+received 2
+finance 1
+candidate 1
+commission 1
+community 1
+political 1
+***************************
+46 Unpaid Expenditures For Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014
+campaign 4
+hawaii 3
+contributions 3
+candidates 3
+8 2
+2014 2
+expenditures 2
+unpaid 2
+december 2
+2006 2
+november 2
+through 2
+from 2
+county 2
+31 2
+spending 2
+state 2
+candidate 1
+finance 1
+commission 1
+community 1
+political 1
+***************************
+47 Other Receipts For Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014
+campaign 4
+contributions 3
+hawaii 3
+2014 2
+spending 2
+2008 2
+1 2
+noncandidate 2
+committees 2
+from 2
+31 2
+december 2
+january 2
+receipts 2
+through 2
+finance 1
+political 1
+candidate 1
+commission 1
+community 1
+candidates 1
+***************************
+48 Expenditures Made By Hawaii Noncandidate Committees From January 1, 2008 Through December 31, 2014
+campaign 4
+contributions 3
+hawaii 3
+1 2
+2014 2
+expenditures 2
+december 2
+noncandidate 2
+january 2
+committees 2
+through 2
+from 2
+2008 2
+31 2
+spending 2
+made 2
+finance 1
+community 1
+candidate 1
+commission 1
+political 1
+candidates 1
+***************************
+49 Campaign Contributions Received By Hawaii State and County Candidates From November 8, 2006 Through December 31, 2014
+campaign 6
+contributions 5
+hawaii 3
+candidates 3
+8 2
+state 2
+2014 2
+2006 2
+november 2
+through 2
+from 2
+december 2
+county 2
+31 2
+spending 2
+received 2
+finance 1
+candidate 1
+commission 1
+community 1
+political 1
 elections 1
+***************************
+50 Profiles For Hawaii State and County Candidates
+campaign 4
+contributions 3
+hawaii 3
+candidates 3
+state 2
+county 2
+profiles 2
+spending 2
+finance 1
+political 1
+candidate 1
+commission 1
+community 1
+***************************
+51 Organizational Reports For Hawaii Noncandidate Committees
+campaign 4
+contributions 3
+hawaii 3
+noncandidate 2
+committees 2
+organizational 2
+reports 2
+spending 2
+finance 1
+political 1
+candidate 1
+commission 1
+community 1
+candidates 1
+***************************
+52 Organizational Reports For Hawaii State and County Candidates
+campaign 4
+contributions 3
+hawaii 3
+candidates 3
+state 2
+county 2
+organizational 2
+reports 2
+spending 2
+finance 1
+political 1
+candidate 1
+commission 1
+community 1
+***************************
+53 Capital Improvement Projects
+projects 2
+capital 2
+improvement 2
+***************************
+54 2014 Elections - Ballot Issue Committees
+elections 3
+ 2
+issue 2
+2014 2
+ballot 2
+campaign 2
+spending 2
+committees 2
+commission 1
+community 1
+candidates 1
+***************************
+55 Election Periods for Hawaii Noncandidate Committees
+campaign 4
+contributions 3
+hawaii 3
+noncandidate 2
+periods 2
+committees 2
+election 2
+spending 2
+finance 1
+political 1
+candidate 1
+commission 1
+community 1
+candidates 1
+***************************
+56 2014 Elections - Super PACs Total Receipts and Total Disbursements
+total 4
+ 2
+super 2
+elections 2
+2014 2
+receipts 2
+disbursements 2
+pacs 2
+community 1
+***************************
+57 2014 Elections - Independent Expenditure Committees Financial Summaries (as of November 4, 2014)
+2014 4
+elections 3
+ 2
+4 2
+campaign 2
+independent 2
+financial 2
+committees 2
+summaries 2
+expenditure 2
+spending 2
+november 2
+commission 1
+community 1
+candidates 1
+***************************
+58 Hawaii Long-Form Content Configuration
+content 2
+configuration 2
+hawaii 2
+longform 2
+***************************
+59 UFund Data FY 2015
+fy 2
+data 2
+ufund 2
+2015 2
+***************************
+60 Ez.shp
+ezshp 2
+***************************
+61 Dbedt Tax Credits
+tax 2
+credits 2
+dbedt 2
+development 1
+economic 1
+***************************
+62 Hawaii Operating Budget
+operating 2
+budget 2
+hawaii 2
+***************************
+63 Major Recurring Federal Awards
+federal 2
+recurring 2
+major 2
+awards 2
+***************************
+64 Maui County Office of Council Services: UIPA Record Requests Log
+uipa 2
+county 2
+services 2
+requests 2
+log 2
+council 2
+office 2
+record 2
+maui 2
+***************************
+65 Hawaii String Configurations
+configurations 2
+hawaii 2
+string 2
+***************************
+66 UIPA- Record- Request- Log- FORM. FY2015 July - Dec 2014 - Budget And Finance
+ 2
+2014 2
+finance 1
+uipa 1
+july 1
+form 1
+budget 1
+support 1
+governmentwide 1
+julydecember 1
+dec 1
+log 1
+fy 1
+request 1
+fy2015 1
+2015 1
+record 1
+***************************
+67 Solar- Related Construction Expenditures (value of solar projects as percentage of total building permit value)    (Source: DBEDT)
+solar 4
+value 4
+building 2
+permit 2
+dbedt 2
+source 2
+expenditures 2
+percentage 2
+projects 2
+total 2
+construction 2
+related 2
+***************************
+68 2014 Elections - Lt. Governor - Receipts and Disbursements
+ 4
+campaign 4
+contributions 3
+elections 3
+receipts 2
+2014 2
+disbursements 2
+lt 2
+governor 2
+spending 2
+finance 1
+political 1
+candidate 1
+hawaii 1
+commission 1
+community 1
+candidates 1
+***************************
+69 2014 Elections - Kauai Mayor - Receipts and Disbursements
+ 4
+campaign 4
+contributions 3
+elections 3
+kauai 2
+receipts 2
+2014 2
+disbursements 2
+mayor 2
+spending 2
+finance 1
+political 1
+candidate 1
+hawaii 1
+commission 1
+community 1
+candidates 1
+***************************
+70 2014 Elections - Maui Mayor - Receipts and Disbursements
+ 4
+campaign 4
+contributions 3
+elections 3
+maui 2
+receipts 2
+2014 2
+disbursements 2
+mayor 2
+spending 2
+finance 1
+political 1
+candidate 1
+hawaii 1
+commission 1
+community 1
+candidates 1
+***************************
+71 2014 Elections - Governor - Receipts and Disbursements
+ 4
+campaign 4
+contributions 3
+elections 3
+receipts 2
+2014 2
+disbursements 2
+governor 2
+spending 2
+finance 1
+political 1
+candidate 1
+hawaii 1
+commission 1
+community 1
+candidates 1
+***************************
+72 2014 Elections - Top 10 Surplus (as of November 4, 2014)
+2014 4
+elections 3
+ 2
+top 2
+surplus 2
+november 2
+4 2
+10 2
 campaign 1
+community 1
 spending 1
 ***************************
-73
-10 2
-Cost 2
-Top 2
+73 2014 Elections - Top 10 Cost Per Vote
+elections 3
  2
-Elections 2
-Per 2
-Vote 2
+top 2
+per 2
 campaign 2
 2014 2
-Community 1
-elections 1
-spending 1
-***************************
-74
-Expenditures 2
-by 2
-Category 2
-2014 2
-Community 1
-elections 1
-campaign 1
-spending 1
-***************************
-75
- 2
-Expenditures 2
-Use 2
-by 2
-Elections 2
-Authorized 2
-2014 2
-Community 1
-commission 1
-campaign 1
-spending 1
-***************************
-76
- 2
+vote 2
+cost 2
 10 2
-Expenditures 2
-Top 2
-Elections 2
+community 1
+spending 1
+***************************
+74 2014 Expenditures by Category
 2014 2
-Community 1
+expenditures 2
+category 2
+elections 1
+campaign 1
+community 1
+spending 1
+***************************
+75 2014 Elections - Expenditures by Authorized Use
+ 2
+expenditures 2
+elections 2
+2014 2
+authorized 2
 commission 1
+community 1
 campaign 1
 spending 1
 ***************************
-77
+76 2014 Elections - Top 10 Expenditures
  2
+top 2
+expenditures 2
+elections 2
+2014 2
 10 2
-Top 2
-Disbursements 2
-RepaidForgiven 2
-Elections 2
-Loans 2
-Ex 2
-PaidForgiven 2
-Expenditures 2
+commission 1
+community 1
+campaign 1
+spending 1
+***************************
+77 2014 Elections - Top 10 Disbursements (includes Expenditures, Loans Repaid/Forgiven and Unpaid Ex. Paid/Forgiven)
+ 2
+top 2
+paidforgiven 2
+2014 2
+expenditures 2
+disbursements 2
+repaidforgiven 2
+10 2
+loans 2
+ex 2
+unpaid 2
+elections 2
 includes 2
-Unpaid 2
-and 2
-2014 2
-Community 1
+campaign 1
 commission 1
+community 1
+spending 1
+***************************
+78 2014 Elections - Loans by Loan Type
+ 2
+type 2
+elections 2
+2014 2
+loans 2
+loan 2
+commission 1
+community 1
 campaign 1
 spending 1
 ***************************
-78
+79 2014 Elections - Top 10 Loans
  2
-Loan 2
-by 2
-Elections 2
-Type 2
-Loans 2
+top 2
+elections 2
 2014 2
-Community 1
-commission 1
-campaign 1
-spending 1
-***************************
-79
- 2
 10 2
-Top 2
-Elections 2
-Loans 2
-2014 2
-Community 1
+loans 2
 commission 1
+community 1
 campaign 1
 spending 1
 ***************************
-80
+80 2014 Elections - Contributions Received (more than $100) by Contibutor Type
  2
-more 2
-Elections 2
-Contributions 2
+type 2
 100 2
-than 2
-by 2
-Type 2
-Received 2
-Contibutor 2
+contibutor 2
+contributions 2
+elections 2
+received 2
+more 2
 2014 2
-Community 1
 cmapaign 1
 commission 1
+community 1
 spending 1
 ***************************
-81
+81 2014 Elections - Top 10 Contributions Received
  2
-10 2
-Top 2
-Elections 2
-Received 2
-Contributions 2
+top 2
+elections 2
 2014 2
-Community 1
+10 2
+contributions 2
+received 2
 commission 1
+community 1
 campaign 1
 spending 1
 ***************************
-82
+82 2014 Elections - Total Disbursements
  2
-Disbursements 2
-Total 2
-Elections 2
+total 2
+elections 2
 2014 2
-Community 1
+disbursements 2
+community 1
 ***************************
-83
+83 2014 Elections - Total Receipts
  2
-Receipts 2
-Total 2
-Elections 2
+total 2
+elections 2
 2014 2
-Community 1
+receipts 2
+community 1
 ***************************
-84
+84 2014 Elections - Total Receipts and Disbursements by Office
  2
-Office 2
-Disbursements 2
-Receipts 2
-Total 2
-Elections 2
-by 2
-and 2
+total 2
+elections 2
 2014 2
-Community 1
+office 2
+disbursements 2
+receipts 2
+community 1
 ***************************
-85
-Receipts 4
+85 2014 Elections - Top 10 Receipts (includes Contributions Received, Other Receipts and Loans)
+receipts 4
  2
+top 2
+2014 2
 10 2
-Top 2
-Elections 2
-Received 2
-Other 2
-Loans 2
-Contributions 2
+loans 2
+contributions 2
+elections 2
+received 2
 includes 2
-and 2
-2014 2
-Community 1
-commission 1
-campaign 1
 spending 1
+campaign 1
+commission 1
+community 1
 ***************************
-86
-View 2
-Bid 2
-Results 2
+86 View Bid Results
+results 2
+view 2
+bid 2
 ***************************
-87
-DataSet 1
-only 1
-purposes 1
-For 1
-Sample 1
+87 Sample DataSet
+sample 1
 testing 1
+purposes 1
+dataset 1
 ***************************
-88
-Request 2
-Semiannual 2
-Log 2
-Master 2
-Record 2
-FY 2
+88 OIP Master UIPA Record Request Semiannual Log for FY 2014
+uipa 3
+oip 3
+request 3
+record 3
 2013 2
-OIP 2
-UIPA 2
 2014 2
-December 1
-July 1
+log 2
+fy 2
+semiannual 2
+master 2
 requests 1
-received 1
-uipa 1
-request 1
 through 1
-1 1
-records 1
-record 1
-Support 1
+support 1
 31 1
-oip 1
-for 1
-For 1
-GovernmentWide 1
+governmentwide 1
+1 1
+december 1
+july 1
+received 1
+records 1
 ***************************
-89
+89 Construction Bids 13-14
+bids 2
+construction 2
 1314 2
-Construction 2
-Bids 2
 ***************************
-90
-Construction 2
-Bids 2
+90 Construction Bids
+bids 2
+construction 2
 ***************************
-91
-hawaii 2
-SBIR 2
-Hawaii 2
-2013 2
+91 Phase 2 SBIR Awards in Hawaii - 2000~2013
+hawaii 4
+sbir 3
+awards 2
 2 2
-in 2
-Phase 2
-Awards 2
+phase 2
+2013 2
+development 2
  1
-to 1
-innovate 1
-high 1
-sbir 1
-from 1
-award 1
-development 1
-Economic 1
-Development 1
-htdc 1
-2000 1
 20002013 1
+2000 1
 technology 1
-corporation 1
-***************************
-92
-2013 3
-1 3
- 2
-2000 2
-to 2
-SBIR 2
-Hawaii 2
-in 2
-Phase 2
-Awards 2
-of 1
-hawaii 1
-sbir 1
-phase 1
-from 1
-State 1
 award 1
-Economic 1
-Development 1
+htdc 1
+from 1
+high 1
+corporation 1
+economic 1
+innovate 1
 ***************************
-93
-IE 2
-for 2
+92 SBIR Awards in Hawaii - Phase 1 - 2000 to 2013
+1 3
+phase 3
+2013 3
+sbir 3
+hawaii 3
+ 2
+awards 2
+2000 2
+award 1
+from 1
+economic 1
+development 1
+state 1
+***************************
+93 IE for 2014
+ie 2
 2014 2
 ***************************
-94
-Expenditures 2
-Open 2
-Config 2
-Content 2
+94 [Open Expenditures] Content Config
+open 2
+expenditures 2
+config 2
+content 2
 ***************************
-95
-Config 2
-Expenditures 2
-Open 2
-String 2
+95 [Open Expenditures] String Config
+open 2
+expenditures 2
+config 2
+string 2
 ***************************
-96
-Hawaii 4
+96 Hawaii Renewable Portfolio Standards ( RPS)  (Source: Hawaii Public Utilities Commission)
+hawaii 4
  2
-Source 2
-Utilities 2
-Renewable 2
-Commission 2
-Standards 2
-RPS 2
-Portfolio 2
-Public 2
+commission 2
+public 2
+renewable 2
+rps 2
+source 2
+standards 2
+utilities 2
+portfolio 2
 ***************************
-97
-Hawaii 4
-Utilities 2
-Commission 2
-Energy 2
-Standards 2
-EEPS 2
-Source 2
-Efficiency 2
-Public 2
-Portfolio 2
+97 Hawaii Energy Efficiency Portfolio Standards (EEPS)  (Source: Hawaii Public Utilities Commission)
+hawaii 4
+source 2
+energy 2
+commission 2
+public 2
+eeps 2
+efficiency 2
+standards 2
+utilities 2
+portfolio 2
 ***************************
-98
-Hawaii 4
-Source 2
-Utilities 2
-Renewable 2
-Commission 2
-Energy 2
-Generation 2
-by 2
-UtilityCounty 2
-Public 2
+98 Hawaii Renewable Energy Generation by Utility/County (Source: Hawaii Public Utilities Commission)
+hawaii 4
+energy 2
+commission 2
+generation 2
+renewable 2
+utilitycounty 2
+source 2
+utilities 2
+public 2
 ***************************
-99
-Hawaii 4
-Distributed 2
-Commission 2
-New 2
-Public 2
-Installed 2
-Utilities 2
-Renewable 2
-Systems 2
-In 2
-Energy 2
-Source 2
+99 New Distributed Renewable Energy Systems Installed In Hawaii (Source: Hawaii Public Utilities Commission)
+hawaii 4
+energy 2
+commission 2
+public 2
+renewable 2
+source 2
+distributed 2
+installed 2
+systems 2
+utilities 2
 ***************************
-100
-and 5
+100 Table 21.25 STATE GOVERNMENT CAPITAL IMPROVEMENT PROJECT EXPENDITURES  1990 TO 2013
+general 4
 bonds 4
  3
-of 3
+federal 3
 obligation 3
-revenue 2
-General 2
-DBEDT 2
-general 2
-the 2
-funds 2
-consists 2
+revenue 3
 special 2
+dbedt 2
+consists 2
+source 2
+capital 2
+funds 2
+state 2
 bond 2
-federal 2
-TO 1
-cip 1
-go 1
-complete 1
-Federal 1
-Hawaii 1
-capital 1
-Revenue 1
-STATE 1
-IMPROVEMENT 1
-aid 1
-CAPITAL 1
-Department 1
-State 1
-Accounting 1
-data 1
-includes 1
-for 1
-Databook 1
-1990 1
-httphawaiigovdbedtinfoeconomicdatabook 1
-EXPENDITURES 1
-PROJECT 1
-2125 1
-calculations 1
-to 1
-2013 1
-primary 1
-GOVERNMENT 1
-secondary 1
-source 1
-Table 1
-records 1
-site 1
-GovernmentWide 1
-Support 1
-purpose 1
 interstate 1
-Please 1
-Services 1
-by 1
-reimbursable 1
-Source 1
-***************************
-101
-the 2
-county 1
-Databook 1
-Tourism 1
 complete 1
-VISITOR 1
-Hawaii 1
-ACCOMMODATIONS 1
-go 1
-to 1
-Units 1
-Of 1
-2013 1
-and 1
-Table 1
-site 1
-visitor 1
-Culture 1
-annual 1
-Recreation 1
-data 1
 httphawaiigovdbedtinfoeconomicdatabook 1
-Visitor 1
-DBEDT 1
-1975 1
-TO 1
-Authority 1
-Please 1
-Inventory 1
-unit 1
-COUNTY 1
-number 1
-Plant 1
-source 1
-BY 1
-Source 1
-for 1
-2334 1
-***************************
-102
-in 6
- 5
-of 4
-the 3
-and 3
-were 3
-on 3
-1 3
-2000 3
-2010 3
-figures 2
-estimates 2
-2013 2
-Kalawao 2
-Population 2
-County 2
-or 2
-90 2
-April 2
-based 2
-released 2
-location 1
-homeported 1
-revised 1
-2009 1
-had 1
-differ 1
-July 1
-Table 1
-estimate 1
-other 1
-present 1
-for 1
-COUNTY 1
-residents 1
-Settlement 1
-military 1
-as 1
-from 1
-Includes 1
-after 1
-residence 1
-visitors 1
-through 1
-GovernmentWide 1
-March 1
-excludes 1
-106 1
-somewhat 1
-28 1
-Source 1
-upon 1
-stationed 1
-Maui 1
-Hawaii 1
-may 1
-Based 1
-usual 1
-includes 1
-census 1
-which 1
-Bureau 1
-RESIDENT 1
-cited 1
-BY 1
-date 1
-2014 1
-September 1
-absent 1
-earlier 1
-population 1
-Census 1
-physical 1
-revisions 1
-POPULATION 1
-US 1
-temporarily 1
-Support 1
-regardless 1
-TO 1
-personnel 1
-place 1
-Kalaupapa 1
-tables 1
-147 1
-2011 1
-***************************
-103
-of 4
-the 4
- 3
-County 3
-population 3
-data 3
-on 2
-present 2
-DBEDT 2
-2013 2
-Includes 2
-Kalawao 2
-as 2
-an 2
-was 1
-Databook 1
-visitors 1
-Maui 1
-de 1
-Hawaii 1
-is 1
-Please 1
-go 1
-Economic 1
-Development 1
-1 1
-usual 1
-July 1
-includes 1
-for 1
-census 1
-which 1
-daily 1
-facto 1
-COUNTY 1
-1990 1
-90 1
-Molokai 1
-Bureau 1
-FACTO 1
-Settlement 1
-BY 1
-military 1
-complete 1
-but 1
-site 1
-all 1
 calculations 1
-to 1
-Kalaupapa 1
-absent 1
-based 1
-persons 1
-POPULATION 1
-tourism 1
-both 1
-Census 1
-The 1
-109 1
-source 1
-residence 1
-calculated 1
-Table 1
-US 1
-temporarily 1
-and 1
-httphawaiigovdbedtinfoeconomicdatabook 1
-in 1
-Source 1
-excludes 1
-TO 1
-area 1
-physically 1
-regardless 1
-status 1
-place 1
-residents 1
-by 1
-DE 1
-average 1
-or 1
-***************************
-104
-HIGH 2
-SCHOOL 2
-Office 1
-University 1
-of 1
-Analysis 1
-Hawaii 1
-graduates 1
-HAWAII 1
-high 1
+cip 1
+secondary 1
+hawaii 1
+project 1
+government 1
+1990 1
+please 1
+table 1
+primary 1
+services 1
+databook 1
+expenditures 1
+governmentwide 1
 2013 1
-STATE 1
-AND 1
-1982 1
-PRIVATE 1
-Table 1
-314 1
-school 1
+aid 1
+site 1
+purpose 1
+reimbursable 1
+department 1
+2125 1
+data 1
+support 1
+accounting 1
+includes 1
+improvement 1
 records 1
-and 1
-private 1
-Economic 1
-public 1
-TO 1
-Development 1
-PUBLIC 1
-GRADUATES 1
-BY 1
-Source 1
-Research 1
-Institutional 1
 ***************************
-105
- 2
-students 2
-of 2
+101 Table 23.34 VISITOR ACCOMMODATIONS, BY COUNTY  1975 TO 2013 (number Of Units)
+visitor 3
+source 2
+county 2
+plant 1
+inventory 1
+dbedt 1
+complete 1
+recreation 1
+number 1
+2013 1
+unit 1
+site 1
+1975 1
+httphawaiigovdbedtinfoeconomicdatabook 1
+accommodations 1
+2334 1
+hawaii 1
+units 1
+culture 1
+annual 1
+data 1
+please 1
+table 1
+tourism 1
+databook 1
+authority 1
+***************************
+102 Table 1.06 RESIDENT POPULATION, BY COUNTY 2000 TO 2013 (as of July 1)
+ 5
+population 4
+1 3
+based 3
+2010 3
+were 3
+county 3
+2000 3
+released 2
+april 2
+census 2
+90 2
+estimates 2
+kalawao 2
+2013 2
+figures 2
 includes 2
-and 2
-University 1
-Analysis 1
-admits 1
-THE 1
-Office 1
+march 1
+july 1
+from 1
+bureau 1
+may 1
+147 1
+estimate 1
+homeported 1
+maui 1
+hawaii 1
+stationed 1
+temporarily 1
+source 1
+earlier 1
+table 1
+place 1
+military 1
+visitors 1
+28 1
+resident 1
+revisions 1
+present 1
+2011 1
+absent 1
+settlement 1
+governmentwide 1
+physical 1
+cited 1
+kalaupapa 1
+2009 1
+usual 1
+regardless 1
+through 1
+2014 1
+had 1
+tables 1
+upon 1
+revised 1
+residence 1
+support 1
+date 1
+september 1
+106 1
+location 1
+personnel 1
+differ 1
+excludes 1
+residents 1
+somewhat 1
+***************************
+103 Table 1.09 DE FACTO POPULATION, BY COUNTY  1990 TO 2013 (as of July 1)
+county 4
+population 4
+ 3
+includes 3
+data 3
+dbedt 2
+de 2
+census 2
+source 2
+kalawao 2
+2013 2
+facto 2
+present 2
+average 1
+1 1
+july 1
+bureau 1
+complete 1
+based 1
+httphawaiigovdbedtinfoeconomicdatabook 1
+maui 1
+residence 1
+temporarily 1
+90 1
+1990 1
+please 1
+daily 1
+table 1
+economic 1
+place 1
+visitors 1
+excludes 1
+calculations 1
+persons 1
+absent 1
+settlement 1
+both 1
+kalaupapa 1
+site 1
+hawaii 1
+molokai 1
+usual 1
+regardless 1
+was 1
+military 1
+databook 1
+status 1
+109 1
+area 1
+tourism 1
+physically 1
+development 1
+residents 1
+calculated 1
+***************************
+104 Table 3.14 HAWAII STATE HIGH SCHOOL GRADUATES BY PUBLIC AND PRIVATE HIGH SCHOOL 1982 TO 2013
+school 3
+high 3
+graduates 2
+private 2
+public 2
+hawaii 2
+institutional 1
+state 1
+university 1
+source 1
+office 1
+analysis 1
+table 1
+2013 1
+economic 1
+1982 1
+development 1
+records 1
+research 1
+314 1
+***************************
+105 Table 3.22 HEADCOUNT ENROLLMENT AT THE UNIVERSITY OF HAWAII, BY CAMPUS  FALL 1997 TO 2013
+ 2
+fall 2
+students 2
+hawaii 2
+university 2
+headcount 2
+enrollment 2
+includes 2
+uh 1
+322 1
+early 1
 special 1
 credit 1
-educational 1
-enrollment 1
-Economic 1
-Development 1
-322 1
-on 1
-early 1
-headcount 1
-at 1
-CAMPUS 1
-for 1
-no 1
-UNIVERSITY 1
-Unclassified 1
-Institutional 1
-all 1
-ENROLLMENT 1
-FALL 1
-Hawaii 1
-AT 1
-HAWAII 1
-BY 1
+manoa 1
 2013 1
-Manoa 1
-Table 1
-records 1
-HEADCOUNT 1
-years 1
-concurrent 1
-data 1
-OF 1
-TO 1
-Research 1
-registrants 1
 shown 1
-UH 1
+educational 1
+records 1
+campus 1
+unclassified 1
+research 1
+economic 1
 1997 1
-Source 1
-Fall 1
+institutional 1
+concurrent 1
+years 1
+analysis 1
+table 1
+registrants 1
+admits 1
+source 1
+office 1
+development 1
+data 1
 level 1
 ***************************
-106
-for 4
+106 Table 10.03 ACTIVE DUTY PERSONNEL, BY SERVICE 1953 TO 2013
+personnel 4
  3
-of 3
-and 3
-the 2
-Freedom 2
-to 2
 30 2
-Personnel 2
-Defense 2
+service 2
+defense 2
+active 2
+source 2
+freedom 2
+duty 2
+data 2
 1953 2
-by 2
-Military 2
-DOD 1
-Historical 1
-navy 1
-Analysis 1
-Databook 1
-afloat 1
-army 1
-source 1
-Statistical 1
-go 1
-Active 1
-Enduring 1
-Safety 1
-Department 1
-Coast 1
-Exclude 1
-Dawn 1
-Data 1
-1957 1
-Guard 1
-Manpower 1
-httphawaiigovdbedtinfoeconomicdatabook 1
-DBEDT 1
-PERSONNEL 1
-Center 1
-1003 1
-include 1
-temporary 1
-Iraqi 1
-deployed 1
+military 2
+iraqi 1
 shorebased 1
-but 1
-site 1
-New 1
-SERVICE 1
-Please 1
-air 1
-BY 1
-Public 1
-Information 1
-RegionCountry 1
-2013 1
-Total 1
-Table 1
-US 1
-as 1
+analysis 1
+dbedt 1
+statistical 1
+complete 1
+september 1
+navy 1
+information 1
+division 1
+afloat 1
 1956 1
-Operations 1
-thereafter 1
-Source 1
-Duty 1
-TO 1
+coast 1
+safety 1
+dod 1
+regioncountry 1
+1957 1
+june 1
+please 1
+include 1
+table 1
+historical 1
+exclude 1
+air 1
+public 1
+excludes 1
+guard 1
+center 1
+1003 1
+dawn 1
+deployed 1
+httphawaiigovdbedtinfoeconomicdatabook 1
+2013 1
+site 1
 force 1
-personnel 1
-data 1
-Service 1
-DUTY 1
-Excludes 1
-Division 1
-September 1
-As 1
-ACTIVE 1
-complete 1
-June 1
-or 1
+army 1
+department 1
+databook 1
 marine 1
+temporary 1
+total 1
+manpower 1
+operations 1
+thereafter 1
+enduring 1
 ***************************
-107
-to 3
-data 3
+107 Table 11.11 SOCIAL SECURITY BENEFICIARIES AND BENEFITS PAID 1991 TO 2012
+data 4
+security 3
+social 3
+beneficiaries 2
  2
-on 2
-Previous 2
 based 2
-the 2
 2006 2
-beneficiaries 1
-Office 1
-SECURITY 1
-security 1
-2012 1
-go 1
-complete 1
-Administration 1
-special 1
-PAID 1
-samples 1
+source 2
+previous 2
 percent 1
-of 1
-Please 1
-Economic 1
-Development 1
-Data 1
-Annual 1
-includes 1
-for 1
-DBEDT 1
-Record 1
-Social 1
-Databook 1
-100 1
-httphawaiigovdbedtinfoeconomicdatabook 1
-and 1
-SOCIAL 1
-site 1
-December 1
-1111 1
-age72 1
-Policy 1
-AND 1
-after 1
-1991 1
-Master 1
-Table 1
-US 1
-BENEFICIARIES 1
-Supplement 1
-2007 1
-TO 1
-Beneficiary 1
-Statistical 1
-Security 1
+please 1
+special 1
+policy 1
 10percent 1
-social 1
-source 1
-Source 1
-BENEFITS 1
-***************************
-108
-and 4
-Hawaii 3
-the 3
-of 2
-for 2
-Employees 2
-Employment 2
-Labor 2
- 1
-2012 1
-Databook 1
-dollars 1
-Items 1
-Federal 1
-Honolulu 1
-WAGE 1
-Unemployment 1
-CONSTANT 1
-ANNUAL 1
-Department 1
-Covered 1
-Please 1
-Economic 1
-Development 1
-Law 1
-State 1
-data 1
-IN 1
-All 1
-government 1
-wage 1
-DBEDT 1
-US 1
-DOLLARS 1
-Industrial 1
-including 1
+office 1
+statistical 1
 complete 1
-Payrolls 1
-Index 1
-to 1
-Bureau 1
-1227 1
-AND 1
-CURRENT 1
-source 1
-Price 1
-Table 1
-Compensation 1
-httphawaiigovdbedtinfoeconomicdatabook 1
-go 1
-in 1
-TO 1
-Consumer 1
-Relations 1
-Statistics 1
-1969 1
-For 1
-by 1
-AVERAGE 1
+2007 1
+databook 1
+1111 1
+supplement 1
 site 1
-Source 1
-Security 1
+administration 1
+1991 1
+economic 1
+100 1
+age72 1
+master 1
+2012 1
+beneficiary 1
+includes 1
+annual 1
+dbedt 1
+table 1
+december 1
+samples 1
+paid 1
+development 1
+benefits 1
+record 1
+httphawaiigovdbedtinfoeconomicdatabook 1
 ***************************
-109
-the 11
-of 6
-to 5
-GDP 5
-and 4
+108 Table 12.27 AVERAGE ANNUAL WAGE  IN CURRENT AND CONSTANT DOLLARS  1969 TO 2012
+hawaii 3
+source 2
+labor 2
+employees 2
+wage 2
+employment 2
+dollars 2
+ 1
+federal 1
+average 1
+constant 1
+dbedt 1
+bureau 1
+1227 1
+complete 1
+payrolls 1
+compensation 1
+security 1
+httphawaiigovdbedtinfoeconomicdatabook 1
+2012 1
+department 1
+current 1
+including 1
+government 1
+items 1
+table 1
+law 1
+relations 1
+databook 1
+1969 1
+state 1
+index 1
+site 1
+honolulu 1
+economic 1
+annual 1
+price 1
+industrial 1
+data 1
+covered 1
+consumer 1
+statistics 1
+development 1
+unemployment 1
+please 1
+***************************
+109 Table 13.02 GROSS DOMESTIC PRODUCT, TOTAL AND PER CAPITA AND RESIDENT POPULATION 1963 TO 2013
+gdp 6
 estimates 4
 data 4
  3
-is 3
-for 3
-2013 3
 series 3
+gross 3
+product 3
+2013 3
+population 3
+industry 3
 1963 3
-Personal 2
-State 2
-a 2
-AND 2
-industry 2
-Economic 2
-on 2
+dbedt 2
+bureau 2
 discontinuity 2
-DBEDT 2
-Bureau 2
-that 2
-time 2
-an 2
-in 2
-DOMESTIC 1
-capita 1
-Databook 1
-gdp 1
-affect 1
-inflationadjusted 1
-income 1
-each 1
-levels 1
-SIC 1
-CAPITA 1
-NAICS 1
-19292013 1
-Gross 1
-Population 1
-PER 1
-Users 1
-when 1
-RESIDENT 1
-within 1
-httphawaiigovdbedtinfoeconomicdatabook 1
-States 1
-complete 1
-Real 1
-This 1
-change 1
-from 1
-GROSS 1
-prices 1
-Product 1
-construct 1
-Employment 1
-goods 1
-March 1
-rates 1
-appending 1
-national 1
-Please 1
-Industry 1
-are 1
-1997 1
-site 1
-growth 1
-summary 1
-There 1
-1302 1
-TOTAL 1
-Analysis 1
-Midyear 1
-definition 1
-go 1
-measure 1
-may 1
-Income 1
-27 1
-Development 1
-updated 1
-Annual 1
-at 1
-definitions 1
-cautioned 1
-strongly 1
-resident 1
-attempt 1
-Domestic 1
-source 1
-2014 1
-services 1
-based 1
-SA13 1
-population 1
-against 1
-POPULATION 1
-both 1
-Census 1
-Last 1
-produced 1
-product 1
-single 1
-Table 1
-US 1
-calculation 1
-Source 1
-TO 1
-two 1
-by 1
-PRODUCT 1
-gross 1
-***************************
-110
-of 3
-income 3
- 2
-Economic 2
-the 2
-DBEDT 2
-July 2
-population 2
-1 2
-AND 2
+economic 2
+resident 2
+income 2
+capita 2
+state 2
+domestic 2
 personal 2
-by 2
-capita 1
-1307 1
-TOTAL 1
-2012 1
-Databook 1
-complete 1
-THE 1
-is 1
-CAPITA 1
-1969 1
-PERSONAL 1
-Development 1
-State 1
-data 1
-Resident 1
-Analysis 1
-Personal 1
-for 1
-INCOME 1
+source 2
+census 1
+states 1
+employment 1
+based 1
+may 1
+27 1
+attempt 1
 httphawaiigovdbedtinfoeconomicdatabook 1
-FOR 1
-and 1
-Income 1
-calculations 1
-to 1
-divided 1
-Bureau 1
-indicated 1
-UNITED 1
-HAWAII 1
+appending 1
+construct 1
+1302 1
+2014 1
+definitions 1
+annual 1
+affect 1
+growth 1
+complete 1
+analysis 1
+table 1
+goods 1
+naics 1
+measure 1
+services 1
+rates 1
+change 1
+sic 1
+summary 1
+against 1
+strongly 1
+are 1
+per 1
+produced 1
+single 1
+users 1
+both 1
 site 1
-source 1
-Table 1
-US 1
-Please 1
-as 1
-PER 1
-go 1
-TO 1
-year 1
-STATES 1
-Per 1
-total 1
-Source 1
-***************************
-111
-and 4
- 3
-of 3
-the 3
-ALL 2
-Hawaii 2
-Honolulu 2
-Department 2
-Economic 2
-Development 2
-State 2
-FOR 2
-Labor 2
-PRICE 1
-price 1
-HONOLULU 1
-Databook 1
-complete 1
-CPI 1
-go 1
-CONSUMERS 1
-Statistics 1
-1940 1
-Relations 1
-Consumers 1
-httphawaiigovdbedtinfoeconomicdatabook 1
-DBEDT 1
-STATES 1
-1404 1
-for 1
-surveys 1
-Industrial 1
-cited 1
-19401963 1
-States 1
-Eugene 1
-source 1
-CONSUMER 1
-URBAN 1
-UNITED 1
-Urban 1
-100 1
-CPIU 1
-Bureau 1
-1963 1
-Please 1
-index 1
-2013 1
-ITEMS 1
-AND 1
+real 1
 from 1
-site 1
-19821984 1
-Price 1
-Table 1
-US 1
-to 1
-U 1
-Danaher 1
-before 1
-cpi 1
-data 1
-in 1
-average 1
-TO 1
-Consumer 1
-Planning 1
-Excludes 1
-United 1
-For 1
-by 1
-IndexAll 1
-Source 1
-rent 1
-INDEX 1
+national 1
+19292013 1
+prices 1
+1997 1
+last 1
+databook 1
+calculation 1
+definition 1
+march 1
+inflationadjusted 1
+sa13 1
+each 1
+total 1
+midyear 1
+cautioned 1
+within 1
+development 1
+levels 1
+please 1
+updated 1
 ***************************
-112
-in 10
-the 9
-and 7
+110 Table 13.07 TOTAL AND PER CAPITA PERSONAL INCOME FOR THE UNITED STATES AND HAWAII 1969 TO 2012
+income 5
+personal 4
+ 2
+per 2
+capita 2
+1 2
+july 2
+dbedt 2
+population 2
+source 2
+economic 2
+total 2
+united 1
+indicated 1
+calculations 1
+bureau 1
+states 1
+1969 1
+divided 1
+1307 1
+httphawaiigovdbedtinfoeconomicdatabook 1
+state 1
+complete 1
+year 1
+data 1
+2012 1
+site 1
+please 1
+analysis 1
+table 1
+hawaii 1
+development 1
+resident 1
+databook 1
+***************************
+111 Table 14.04 CONSUMER PRICE INDEX, FOR ALL URBAN CONSUMERS ( CPI- U), ALL ITEMS, FOR HONOLULU AND UNITED STATES  1940 TO 2013
+ 3
+honolulu 3
+price 3
+states 2
+cpi 2
+urban 2
+hawaii 2
+source 2
+labor 2
+united 2
+state 2
+index 2
+economic 2
+department 2
+consumer 2
+development 2
+consumers 2
+average 1
+dbedt 1
+bureau 1
+table 1
+1404 1
+please 1
+httphawaiigovdbedtinfoeconomicdatabook 1
+items 1
+from 1
+19821984 1
+rent 1
+indexall 1
+19401963 1
+danaher 1
+relations 1
+databook 1
+excludes 1
+complete 1
+u 1
+2013 1
+cited 1
+site 1
+1940 1
+before 1
+eugene 1
+100 1
+industrial 1
+1963 1
+data 1
+cpiu 1
+statistics 1
+planning 1
+surveys 1
+***************************
+112 Table 17.03 CONSUMPTION OF ENERGY BY END- USE SECTOR 1960 TO 2011
+energy 9
  5
-of 5
-energy 5
 are 5
 included 4
-which 4
 fuels 4
-for 3
-Energy 3
-be 3
-mostly 2
-net 2
-is 2
-gaseous 2
-they 2
-1980 2
-other 2
-1989 2
-gasoline 2
-to 2
-adjusted 2
-Beginning 2
-from 2
-fossil 2
-once 2
-doublecounting 2
-derived 2
-gas 2
-natural 2
+from 3
+beginning 3
 counted 2
-but 2
-should 2
-both 2
-only 2
-motor 2
+gasoline 2
+mostly 2
+adjusted 2
+fossil 2
+derived 2
+net 2
+gas 2
 supplemental 2
+gaseous 2
+should 2
+1989 2
+consumption 2
+natural 2
+both 2
+once 2
+1980 2
+data 2
+doublecounting 2
+source 2
 total 2
-solar 1
-Data 1
-btu 1
-Databook 1
-amouts 1
-Department 1
-cannot 1
-coverage 1
-1992 1
-Trillion 1
-State 1
-identified 1
-1960 1
-a 1
-due 1
-httphawaiigovdbedtinfoeconomicdatabook 1
-ENERGY 1
-complete 1
+sector 2
+motor 2
+information 1
 consumed 1
-USE 1
-2011 1
-through 1
-sector 1
-BY 1
-thermal 1
-beginning 1
-data 1
-into 1
-Please 1
-photovoltaic 1
-OF 1
-separately 1
-SEDS 1
-SECTOR 1
-Source 1
-There 1
-fuel 1
-Administration 1
-1988 1
-go 1
-Economic 1
-Development 1
-sources 1
+dbedt 1
+trillion 1
+please 1
+complete 1
+seds 1
+cannot 1
+table 1
 discontinuity 1
-DBEDT 1
-CONSUMPTION 1
-renewable 1
 expanded 1
 site 1
-that 1
-between 1
-residential 1
-ethanol 1
-1703 1
-Small 1
-From 1
-source 1
-commercial 1
-Table 1
-US 1
-not 1
-includes 1
 1981 1
-TO 1
-blended 1
+due 1
+commercial 1
+identified 1
+administration 1
+coverage 1
+1988 1
+thermal 1
+between 1
+btu 1
+department 1
+2011 1
+state 1
+renewable 1
+databook 1
+residential 1
+httphawaiigovdbedtinfoeconomicdatabook 1
+end 1
+1703 1
+small 1
+solar 1
+ethanol 1
 column 1
-System 1
-consumption 1
-Information 1
-END 1
-***************************
-113
- 2
-Economic 2
-Development 2
-Planning 1
-TO 1
-of 1
-2012 1
-Tourism 1
-Hawaii 1
-PRIMARY 1
-Department 1
-Strategic 1
-Energy 1
-Industries 1
-Business 1
-1993 1
-Table 1
-State 1
-energy 1
-1705 1
-ENERGY 1
-CONSUMPTION 1
-SOURCE 1
-records 1
-Division 1
-Branch 1
-Policy 1
-BY 1
-Source 1
-***************************
-114
- 3
-and 3
-vehicles 3
-of 2
-State 2
-cars 2
-shipped 1
-passenger 1
-buses 1
-Hawaii 1
-trailers 1
-Department 1
-Taxable 1
-Exclude 1
-Economic 1
-Development 1
-registered 1
-Safe 1
-scrapped 1
-COUNTY 1
-exempt 1
-subsequently 1
-BY 1
-but 1
-2013 1
-VEHICLES 1
-Includes 1
-semitrailers 1
-Transportation 1
-Table 1
-records 1
-Program 1
-ambulances 1
-1995 1
-MOTOR 1
-TO 1
-or 1
-trucks 1
-out 1
-motorcycles 1
-REGISTERED 1
-Source 1
-1807 1
-Communities 1
-***************************
-115
-of 6
- 4
-and 3
-bus 2
-Honolulu 2
-City 2
-buses 2
-Transportation 2
-in 2
-County 2
-34 1
-Vehicle 1
-strike 1
-active 1
-2004 1
-30 1
-Department 1
-Number 1
-Facilities 1
+economic 1
+through 1
 system 1
-FOR 1
-estimated 1
-provided 1
-miles 1
-for 1
-passengers 1
-number 1
-OAHU 1
-Division 1
-to 1
-Transit 1
-PUBLIC 1
-TRANSIT 1
-2013 1
-days 1
-refers 1
-Public 1
-Bus 1
-transit 1
-1993 1
-Table 1
-records 1
-1825 1
-Source 1
-TO 1
-fleet 1
-Services 1
-Service 1
-are 1
-by 1
-total 1
-June 1
-As 1
+sources 1
+separately 1
+1992 1
+blended 1
+photovoltaic 1
+1960 1
+development 1
+fuel 1
+includes 1
+amouts 1
 ***************************
-116
-of 3
-State 2
-Hawaii 2
-Intents 2
-County 2
-Filed 2
-Candidates 2
-By 2
-Statement 2
-and 2
-commission 1
-candidate 1
-intent 1
+113 Table 17.05 PRIMARY ENERGY CONSUMPTION, BY SOURCE  1993 TO 2012
+energy 3
+ 2
+economic 2
+source 2
+development 2
+state 1
+1993 1
+strategic 1
+2012 1
+consumption 1
+division 1
+department 1
+primary 1
+policy 1
+1705 1
+table 1
+hawaii 1
+branch 1
+industries 1
+tourism 1
+planning 1
+records 1
+business 1
+***************************
+114 Table 18.07  MOTOR VEHICLES REGISTERED, BY COUNTY 1995 TO 2013
+vehicles 4
+ 3
+state 2
+cars 2
+registered 2
+transportation 1
+subsequently 1
+2013 1
+trailers 1
+trucks 1
+communities 1
+records 1
+motorcycles 1
+1807 1
+economic 1
+department 1
+passenger 1
+semitrailers 1
+buses 1
+ambulances 1
+source 1
+scrapped 1
+table 1
+taxable 1
+hawaii 1
+exclude 1
+county 1
+safe 1
+exempt 1
+development 1
+includes 1
+1995 1
+shipped 1
+motor 1
+program 1
+***************************
+115 Table 18.25 PUBLIC TRANSIT, FOR OAHU  1993 TO 2013
+ 4
+transit 3
+bus 3
+number 2
+honolulu 2
+buses 2
+county 2
+public 2
+transportation 2
+city 2
+are 1
+estimated 1
+30 1
+refers 1
+days 1
+total 1
+strike 1
+2013 1
+system 1
+service 1
+2004 1
+division 1
+1825 1
+fleet 1
+facilities 1
+1993 1
+june 1
+vehicle 1
+source 1
+passengers 1
+provided 1
+34 1
+table 1
+records 1
+services 1
+active 1
+oahu 1
+miles 1
+department 1
+***************************
+116 Statement of Intents Filed By Hawaii State and County Candidates
+candidates 3
+statement 3
+hawaii 3
+state 2
+filed 2
+intents 2
+county 2
 finance 1
 campaign 1
-Community 1
-hawaii 1
+candidate 1
+commission 1
 public 1
-ampaign 1
-statement 1
-candidates 1
-spending 1
+intent 1
+community 1
 funds 1
+spending 1
+ampaign 1
 ***************************
-117
-State 2
-By 2
-Hawaii 2
-Notices 2
-County 2
-Candidates 2
-Filed 2
-Fundraiser 2
-fundraiser 2
-and 2
+117 Fundraiser Notices Filed By Hawaii State and County Candidates (2009-2012)
+fundraiser 4
+candidates 3
+hawaii 3
+notices 3
 campaign 2
 20092012 2
-Community 1
-notices 1
-commission 1
-hawaii 1
-candidate 1
+county 2
+filed 2
+state 2
 finance 1
-candidates 1
+candidate 1
+commission 1
+community 1
 spending 1
 ***************************
-118
+118 Electricity Use per Capita (monthly kWh per person)
 per 4
+electricity 2
 monthly 2
-Use 2
-Electricity 2
-kWh 2
-person 2
-Capita 2
+capita 2
+kwh 2
 ***************************
-119
-to 2
+119 Sample (Practice) OIP Master UIPA Records Request Log For All Agencies
+log 3
+practice 3
+uipa 2
 requests 2
-of 2
-Practices 2
-Master 2
-practice 2
-Log 2
-Information 2
-Uniform 1
-all 1
-Office 1
-Sample 1
-using 1
-under 1
-upload 1
-the 1
-uipa 1
-OIP 1
-their 1
-Practice 1
-Request 1
-records 1
-log 1
-record 1
-own 1
-All 1
-sample 1
-oip 1
-Records 1
-agencies 1
-for 1
-Act 1
-For 1
+information 2
+oip 2
+agencies 2
+sample 2
+practices 2
+master 2
+records 2
+office 1
+act 1
 received 1
-UIPA 1
+upload 1
+uniform 1
+under 1
 logs 1
-Agencies 1
+own 1
+using 1
+request 1
+record 1
 ***************************
-120
-Degrees 2
+120 University Of Hawaii - Degrees Awarded By Major, CIP, And Hawaiian Legacy
+degrees 3
+university 2
+awarded 2
+education 2
  1
-Major 1
-Awarded 1
-University 1
-higher 1
 2012 1
-degrees 1
-Hawaii 1
-CIP 1
-Years 1
-Legacy 1
-Of 1
-2013 1
-Fiscal 1
-And 1
-Formal 1
-outcomes 1
-education 1
-college 1
-By 1
-Hawaiian 1
-awarded 1
-for 1
-Education 1
-2014 1
-university 1
-2010 1
 2011 1
-***************************
-121
-University 2
-Hawaii 2
-Fall 2
-for 2
-demographics 2
-Enrollment 2
- 1
-the 1
-Enrollments 1
-of 1
+cip 1
+outcomes 1
 higher 1
-education 1
-gender 1
-college 1
-Demographics 1
-enrollment 1
-from 1
-Of 1
-Education 1
+legacy 1
+2013 1
 2010 1
-Formal 1
+years 1
+major 1
+fiscal 1
+college 1
+2014 1
+hawaiian 1
+hawaii 1
+formal 1
 ***************************
-122
-enrollment 2
+121 University Of Hawaii - Enrollment Demographics
+enrollment 3
+demographics 3
+university 2
+fall 2
+education 2
+hawaii 2
  1
-zipcode 1
 enrollments 1
-headcount 1
-education 1
+gender 1
 higher 1
+from 1
+2010 1
+college 1
+formal 1
+***************************
+122 University Of Hawaii - Enrollment By Zipcode
+enrollment 3
+zipcode 2
+education 2
+ 1
+university 1
+enrollments 1
 code 1
-University 1
-Hawaii 1
-By 1
-Fall 1
-for 1
+higher 1
+fall 1
+headcount 1
 zip 1
-Of 1
-Education 1
-Summary 1
-by 1
-Zipcode 1
-Formal 1
-Enrollment 1
+hawaii 1
+summary 1
+formal 1
 ***************************
-123
-Edge 2
-Clean 2
-Nation 2
-Electric 2
-in 2
-Source 2
-Vehicles 2
-Second 2
-Registered 2
+123 Second in Nation 2014 Electric Vehicles Registered (Source: Clean Edge)
+edge 2
+nation 2
+electric 2
 2014 2
+vehicles 2
+source 2
+second 2
+registered 2
+clean 2
 ***************************
-124
-Capita 4
-Top 2
-Energy 2
-Cumulative 2
-First 2
-Renewable 2
-GridConnected 2
-Nation 2
-US 2
-Interstate 2
-Ten 2
-Ranked 2
-Installed 2
-PV 2
-per 2
-Capacity 2
-Per 2
-by 2
-States 2
-Source 2
-in 2
-Council 2
-***************************
-125
-State 2
-and 2
-Hawaii 2
-County 2
-Candidates 2
-Filed 2
-By 2
-Affidavits 2
-Community 1
-hawaii 1
-limits 1
-expenditure 1
-candidate 1
-ampaign 1
-affidavit 1
-commission 1
-finance 1
-candidates 1
-campaign 1
-spending 1
-***************************
-126
-Hawaii 4
-Source 2
-Utilities 2
-Renewable 2
-Commission 2
-Energy 2
-Generation 2
-By 2
-Resource 2
-Public 2
-***************************
-127
-Electric 2
-Vehicle 2
-Hawaii 2
-Charging 2
-Public 2
-Stations 2
-***************************
-128
-of 2
-Hawaii 2
-State 2
-the 2
-by 2
- 1
-dataset 1
-Job 1
-shows 1
-monthly 1
-with 1
-This 1
-Count 1
-Industry 1
-new 1
-will 1
-be 1
-Employment 1
-updated 1
-data 1
-industry 1
-job 1
-for 1
-counts 1
-and 1
-***************************
-129
-Source 2
-Use 2
-Gallons 2
-by 2
-DBEDT 2
-Petroleum 2
-Hawaiis 2
-Sector 2
-***************************
-130
-Source 4
-Production 2
-Electricity 2
-by 2
-EIA 2
-Hawaiis 2
-***************************
-131
-Announced 2
-Jobs 2
-Energy 2
-Environmental 2
-E2 2
-in 2
-Entrepreneurs 2
-2013 2
-Clean 2
-Nation 2
-Third 2
-Source 2
-***************************
-132
-Maui 2
-County 2
- 1
-Employment 1
-employers 1
-Top 1
-as 1
-Employers 1
-provided 1
-50 1
-InfoGroup 1
-by 1
-Largest 1
-in 1
-***************************
-133
-County 2
-Kauai 2
- 1
-Employment 1
-employers 1
-Top 1
-as 1
-Employers 1
-provided 1
-InfoGroup 1
-by 1
-50 1
-Largest 1
-in 1
-***************************
-134
-Hawaii 2
-County 2
- 1
-Employment 1
-employers 1
-Top 1
-as 1
-Employers 1
-provided 1
-50 1
-InfoGroup 1
-business 1
-by 1
-Largest 1
-company 1
-in 1
-employer 1
-***************************
-135
-Honolulu 2
-County 2
- 1
-Employment 1
-employers 1
-Top 1
-as 1
-Employers 1
-provided 1
-50 1
-InfoGroup 1
-business 1
-by 1
-Largest 1
-company 1
-in 1
-employer 1
-***************************
-136
-Services 4
-Energy 4
-Coalition 4
-the 2
-to 2
-Top 2
-Nation 2
-First 2
-2013 2
-In 2
-Race 2
-Source 2
-***************************
-137
-Green 4
-Building 4
-Ninth 2
-Council 2
-Nation 2
-LEED 2
-in 2
-Source 2
-US 2
-2013 2
-***************************
-138
-Indices 2
- 2
-Nation 2
-Young 2
-in 2
-Attractiveness 2
-Second 2
-2013 2
-United 2
-Energy 2
-States 2
-Source 2
-Renewable 2
-Ernst 2
-***************************
-139
-2013 4
-of 4
-solar 2
- 2
+124 First in Nation Per Capita Top Ten U.S. States Ranked by Grid-Connected PV Cumulative Installed Capacity per Capita (Source: Interstate Renewable Energy Council)
+per 4
+capita 4
+pv 2
+top 2
+council 2
+source 2
+interstate 2
+states 2
 installed 2
-more 2
-50 2
-First 2
-with 2
+cumulative 2
+ranked 2
+energy 2
+nation 2
+ten 2
+renewable 2
 capacity 2
-person 2
-America 2
-The 2
-Nation 2
-Center 2
-Stars 2
-Solar 2
-in 2
-Source 2
-Environment 2
-Policy 2
-Research 2
-PV 2
-per 2
-than 2
-end 2
-Cities 2
-watts 2
+gridconnected 2
 ***************************
-140
-on 2
-datahawaiigov 2
-RPS 2
-copy 2
+125 Affidavits Filed By Hawaii State and County Candidates
+candidates 3
+hawaii 3
+affidavits 2
+county 2
+filed 2
+state 2
+finance 1
+campaign 1
+candidate 1
+affidavit 1
+limits 1
+commission 1
+community 1
+expenditure 1
+spending 1
+ampaign 1
 ***************************
-141
- 6
-Seasonally 2
-unemployment 2
-Not 2
-County 2
-UNEMPLOYMENT 2
-RATE 2
-Monthly 2
-MAUI 2
-Adjusted 2
+126 Hawaii Renewable Energy Generation By Resource (Source: Hawaii Public Utilities Commission)
+hawaii 4
+resource 2
+energy 2
+commission 2
+generation 2
+renewable 2
+source 2
+utilities 2
+public 2
+***************************
+127 Hawaii Public Electric Vehicle Charging Stations
+electric 2
+public 2
+vehicle 2
+charging 2
+hawaii 2
+stations 2
+***************************
+128 Job Count by Industry - State of Hawaii
+state 2
+industry 2
+job 2
+hawaii 2
+ 1
+employment 1
 monthly 1
-county 1
-Employment 1
-employed 1
-unemployed 1
-rate 1
-maui 1
-***************************
-142
- 6
-Annual 2
-Seasonally 2
-unemployment 2
-Not 2
-County 2
-UNEMPLOYMENT 2
-RATE 2
-MAUI 2
-Adjusted 2
-Employment 1
-county 1
-employed 1
-unemployed 1
-rate 1
-maui 1
-annual 1
-***************************
-143
- 6
-Annual 2
-Seasonally 2
-Not 2
-HAWAII 2
-STATE 2
-OF 2
-JOBCOUNT 2
-Adjusted 2
-Employment 1
-hawaii 1
-jobcount 1
-jobs 1
-job 1
-state 1
 count 1
-annual 1
+updated 1
+counts 1
+shows 1
+data 1
+dataset 1
 ***************************
-144
-Page 2
-Stories 2
-Home 2
+129 Hawaii's Petroleum Use, Gallons by Sector (Source: DBEDT)
+hawaiis 2
+gallons 2
+dbedt 2
+source 2
+petroleum 2
+sector 2
 ***************************
-145
+130 Hawaii's Electricity Production by Source (Source: EIA)
+source 4
+hawaiis 2
+production 2
+electricity 2
+eia 2
+***************************
+131 Third in Nation 2013 Clean Energy Jobs Announced (Source: E2 Environmental Entrepreneurs)
+energy 2
+nation 2
+announced 2
+environmental 2
+e2 2
+source 2
+clean 2
+jobs 2
+third 2
+2013 2
+entrepreneurs 2
+***************************
+132 Top 50 Employers - Maui County
+county 2
+employers 2
+maui 2
+ 1
+top 1
+largest 1
+50 1
+employment 1
+infogroup 1
+provided 1
+***************************
+133 Top 50 Employers - Kauai County
+kauai 2
+county 2
+employers 2
+ 1
+top 1
+largest 1
+50 1
+employment 1
+infogroup 1
+provided 1
+***************************
+134 Top 50 Employers - Hawaii County
+county 2
+hawaii 2
+employers 2
+ 1
+employer 1
+top 1
+employment 1
+provided 1
+company 1
+50 1
+largest 1
+infogroup 1
+business 1
+***************************
+135 Top 50 Employers - Honolulu County
+county 2
+honolulu 2
+employers 2
+ 1
+employer 1
+top 1
+employment 1
+provided 1
+company 1
+50 1
+largest 1
+infogroup 1
+business 1
+***************************
+136 First In Nation 2013 Energy Services Coalition "Race to the Top"  (Source: Energy Services Coalition)
+energy 4
+services 4
+coalition 4
+top 2
+nation 2
+race 2
+source 2
+2013 2
+***************************
+137 Ninth in Nation 2013 LEED Green Building (Source: U.S. Green Building Council)
+building 4
+green 4
+leed 2
+nation 2
+ninth 2
+source 2
+council 2
+2013 2
+***************************
+138 Second in Nation 2013 United States Renewable Energy Attractiveness Indices (Source: Ernst & Young)
+ 2
+united 2
+energy 2
+attractiveness 2
+source 2
+states 2
+2013 2
+indices 2
+young 2
+nation 2
+renewable 2
+ernst 2
+second 2
+***************************
+139 First in Nation 2013 The "Solar Stars" (Cities with more than 50 watts of installed solar PV capacity per person, end of 2013)  (Source: Environment America Research & Policy Center)
+solar 4
+2013 4
+pv 2
+ 2
+per 2
+watts 2
+policy 2
+cities 2
+stars 2
+america 2
+installed 2
+center 2
+end 2
+source 2
+environment 2
+nation 2
+50 2
+more 2
+capacity 2
+research 2
+***************************
+140 RPS copy on data.hawaii.gov
+datahawaiigov 2
+copy 2
+rps 2
+***************************
+141 UNEMPLOYMENT RATE - MAUI County - Monthly - Not Seasonally Adjusted
  6
-Seasonally 2
-OF 2
-unemployment 2
-Not 2
-HAWAII 2
-STATE 2
-UNEMPLOYMENT 2
-RATE 2
-Monthly 2
-Adjusted 2
-monthly 1
-hawaii 1
-Employment 1
-employed 1
-state 1
+unemployment 4
+county 3
+rate 3
+monthly 3
+maui 3
+adjusted 2
+seasonally 2
+employment 1
 unemployed 1
-rate 1
+employed 1
 ***************************
-146
+142 UNEMPLOYMENT RATE - MAUI County - Annual - Not Seasonally Adjusted
  6
-Seasonally 2
-unemployment 2
-Not 2
-County 2
-UNEMPLOYMENT 2
-RATE 2
-Monthly 2
-Adjusted 2
-KAUAI 2
-monthly 1
+unemployment 4
+county 3
+rate 3
+annual 3
+maui 3
+adjusted 2
+seasonally 2
+employment 1
+unemployed 1
+employed 1
+***************************
+143 JOBCOUNT - STATE OF HAWAII - Annual - Not Seasonally Adjusted
+ 6
+state 3
+jobcount 3
+annual 3
+hawaii 3
+seasonally 2
+adjusted 2
+job 1
+employment 1
+jobs 1
+count 1
+***************************
+144 Home Page Stories
+home 2
+page 2
+stories 2
+***************************
+145 UNEMPLOYMENT RATE - STATE OF HAWAII - Monthly - Not Seasonally Adjusted
+ 6
+unemployment 4
+rate 3
+state 3
+monthly 3
+hawaii 3
+seasonally 2
+adjusted 2
+employment 1
+employed 1
+unemployed 1
+***************************
+146 UNEMPLOYMENT RATE - KAUAI County - Monthly - Not Seasonally Adjusted
+ 6
+unemployment 4
+kauai 3
+county 3
+rate 3
+monthly 3
+adjusted 2
+seasonally 2
+employment 1
+employed 1
+unemployed 1
+***************************
+147 UNEMPLOYMENT RATE - KAUAI County - Annual - Not Seasonally Adjusted
+ 6
+unemployment 4
+kauai 3
+county 3
+rate 3
+annual 3
+adjusted 2
+seasonally 2
+employment 1
+employed 1
+unemployed 1
+***************************
+148 UNEMPLOYMENT RATE - HONOLULU - Monthly - Not Seasonally Adjusted
+ 6
+unemployment 4
+rate 3
+honolulu 3
+monthly 3
+seasonally 2
+adjusted 2
+employment 1
+oahu 1
+employed 1
+unemployed 1
+***************************
+149 UNEMPLOYMENT RATE - HONOLULU - Annual - Not Seasonally Adjusted
+ 6
+unemployment 4
+annual 3
+rate 3
+honolulu 3
+seasonally 2
+adjusted 2
+unemployed 1
+employment 1
+employed 1
 county 1
-kauai 1
-Employment 1
-employed 1
-unemployed 1
-rate 1
-***************************
-147
- 6
-Annual 2
-Seasonally 2
-unemployment 2
-Not 2
-County 2
-UNEMPLOYMENT 2
-RATE 2
-Adjusted 2
-KAUAI 2
-Employment 1
-county 1
-kauai 1
-employed 1
-unemployed 1
-rate 1
-annual 1
-***************************
-148
- 6
-Seasonally 2
-HONOLULU 2
-unemployment 2
-Not 2
-UNEMPLOYMENT 2
-RATE 2
-Monthly 2
-Adjusted 2
-monthly 1
-honolulu 1
-Employment 1
-employed 1
-unemployed 1
-rate 1
 oahu 1
 ***************************
-149
+150 UNEMPLOYMENT RATE - HAWAII County - Monthly - Not Seasonally Adjusted
  6
-Annual 2
-Seasonally 2
-HONOLULU 2
-unemployment 2
-Not 2
-UNEMPLOYMENT 2
-RATE 2
-Adjusted 2
-Employment 1
-honolulu 1
-employed 1
-county 1
-unemployed 1
-rate 1
-oahu 1
-annual 1
-***************************
-150
- 6
-Seasonally 2
-unemployment 2
-Not 2
-HAWAII 2
-County 2
-UNEMPLOYMENT 2
-RATE 2
-Monthly 2
-Adjusted 2
-monthly 1
-county 1
-hawaii 1
-Employment 1
+unemployment 4
+county 3
+rate 3
+monthly 3
+hawaii 3
+adjusted 2
+seasonally 2
+employment 1
 employed 1
 unemployed 1
-rate 1
 ***************************
-151
+151 UNEMPLOYMENT RATE - HAWAII County - Annual - Not Seasonally Adjusted
  6
-Annual 2
-Seasonally 2
-unemployment 2
-Not 2
-HAWAII 2
-County 2
-UNEMPLOYMENT 2
-RATE 2
-Adjusted 2
-Employment 1
-county 1
-hawaii 1
+unemployment 4
+county 3
+rate 3
+annual 3
+hawaii 3
+adjusted 2
+seasonally 2
+employment 1
 employed 1
 unemployed 1
-rate 1
-annual 1
 ***************************
-152
+152 UNEMPLOYMENT RATE - STATE OF HAWAII - Monthly - Seasonally Adjusted
  6
-Seasonally 2
-OF 2
-unemployment 2
-HAWAII 2
-STATE 2
-UNEMPLOYMENT 2
-RATE 2
-Monthly 2
-Adjusted 2
-monthly 1
-hawaii 1
-Employment 1
+unemployment 4
+rate 3
+state 3
+monthly 3
+hawaii 3
+seasonally 2
+adjusted 2
+employment 1
 employed 1
-state 1
 unemployed 1
-rate 1
 ***************************
-153
-Stores 2
-Grocery 2
-HGBP 2
-green 1
-dbedt 1
-grocery 1
+153 HGBP Grocery Stores
+grocery 3
+hgbp 2
+stores 2
+development 1
 store 1
 sustainabe 1
-Economic 1
-Development 1
+dbedt 1
+green 1
+economic 1
 ***************************
-154
-Restaurants 2
-HGBP 2
-restaurants 1
+154 HGBP Restaurants
+restaurants 3
+hgbp 2
+development 1
+dbedt 1
+green 1
 sustainable 1
 hawaii 1
-green 1
-dbedt 1
-Economic 1
-Development 1
+economic 1
 ***************************
-155
+155 HGBP Hotels & Resorts
  2
-HGBP 2
-Resorts 2
-Hotels 2
-hotel 1
-hospitality 1
-green 1
-business 1
+hgbp 2
+hotels 2
+resorts 2
 resort 1
-Economic 1
-Development 1
+hospitality 1
+development 1
+green 1
+hotel 1
+economic 1
+business 1
 ***************************
-156
-Green 2
-Business 2
-Program 2
-offices 1
-hawaii 1
+156 Green Business Program
+green 3
+business 3
+program 2
 grocery 1
 hotels 1
 restaurants 1
-business 1
-green 1
-stores 1
 dbedt 1
-Economic 1
-Development 1
+economic 1
+offices 1
+development 1
+stores 1
+hawaii 1
 ***************************
-157
-Sixth 2
-Installations 2
-Nation 2
-Solar 2
-in 2
-Annual 2
+157 Sixth in Nation 2013 Annual PV Installations (Source: Solar Energy Industries Association)
+pv 2
+installations 2
+nation 2
+association 2
+annual 2
+solar 2
+industries 2
+source 2
+sixth 2
+energy 2
 2013 2
-PV 2
-Energy 2
-Industries 2
-Association 2
-Source 2
 ***************************
-158
-International 2
-in 2
-Hawaii 2
-Students 2
+158 International Students in Hawaii
+international 2
+students 2
+hawaii 2
 ***************************
-159
-State 2
-Tax 2
-International 2
-Study 2
-On 2
-Revenue 2
+159 State Tax Revenue On International Study
+tax 2
+international 2
+state 2
+study 2
+revenue 2
 ***************************
-160
-International 2
-Study 2
-Spending2 2
-Hawaii 2
-Direct 2
+160 Hawaii International Study Direct Spending-2
+international 2
+spending2 2
+direct 2
+hawaii 2
+study 2
 ***************************
-161
-13 1
+161 Special Expenditures
  1
-Expenditures 1
-Special 1
-Support 1
-GovernmentWide 1
-FY 1
-0112 1
-***************************
-162
 13 1
- 1
-Trust 1
-Support 1
-GovernmentWide 1
-FY 1
-Expenditures 1
+fy 1
+special 1
+expenditures 1
+support 1
 0112 1
+governmentwide 1
 ***************************
-163
+162 Trust Expenditures
+ 1
 13 1
- 1
-Expenditures 1
+fy 1
+expenditures 1
+trust 1
+support 1
 0112 1
-Support 1
-GovernmentWide 1
-FY 1
-Bond 1
+governmentwide 1
 ***************************
-164
+163 Bond Expenditures
+ 1
 13 1
- 1
-Expenditures 1
-Support 1
-General 1
-GovernmentWide 1
-FY 1
+fy 1
+bond 1
+expenditures 1
+support 1
 0112 1
+governmentwide 1
 ***************************
-165
-Expenditures 1
-20130123 1
-Support 1
-GovernmentWide 1
-Card 1
+164 General Expenditures
+ 1
+13 1
+general 1
+expenditures 1
+fy 1
+support 1
+0112 1
+governmentwide 1
+***************************
+165 Purchasing Card Expenditures
+card 1
+purchasing 1
+expenditures 1
+support 1
 uploaded 1
-Purchasing 1
+governmentwide 1
+20130123 1
 ***************************
-166
-Major 1
-for 1
-use 1
-Descriptions 1
-Object 1
-with 1
+166 Major Object Descriptions
+expenditure 1
 data 1
-Expenditure 1
+major 1
+descriptions 1
+object 1
 ***************************
-167
-for 1
-use 1
-Descriptions 1
-ID 1
-with 1
+167 Program ID Descriptions
+id 1
 data 1
-Expenditure 1
-Program 1
+expenditure 1
+descriptions 1
+program 1
 ***************************
-168
-to 1
+168 Department Descriptions
+expenditure 1
+data 1
 used 1
-Descriptions 1
-data 1
-Department 1
-with 1
-Expenditure 1
-be 1
+descriptions 1
+department 1
 ***************************
-169
-Expenses 2
-Current 2
-Budget 2
-Other 2
-K2 2
-Table 2
-Leasing 2
+169 Budget Table: K2 (Other Current Expenses: Leasing)
+current 2
+budget 2
+expenses 2
+table 2
+k2 2
+leasing 2
 ***************************
-170
-J4 2
-Table 2
-Budget 2
-Vehicles 2
-Motor 2
+170 Budget Table: J4 (Motor Vehicles)
+budget 2
+j4 2
+table 2
+motor 2
+vehicles 2
 ***************************
-171
-Table 2
-Budget 2
-J3 2
-Equipment 2
+171 Budget Table: J3 (Equipment)
+budget 2
+j3 2
+table 2
+equipment 2
 ***************************
-172
-Expenses 2
-Current 2
-Budget 2
-Other 2
-J2 2
-Table 2
+172 Budget Table: J2 (Other Current Expenses)
+budget 2
+expenses 2
+j2 2
+table 2
+current 2
 ***************************
-173
+173 Budget Table - J1 (Salary and FTE)
  2
-FTE 2
-and 2
-Budget 2
-J1 2
-Salary 2
-Table 2
+salary 2
+fte 2
+j1 2
+budget 2
+table 2
 ***************************
-174
-to 2
-Report 2
-Spending 2
-Legislature 2
-OIMNT 1
-oimt 1
-acquisitions 1
-OIMT 1
-Other 1
+174 OIMT Spending Report to Legislature FY13-FY14
+spending 3
+oimt 2
+report 2
+legislature 2
 procurements 1
-spending 1
-FY13FY14 1
+acquisitions 1
+oimnt 1
+fy13fy14 1
 ***************************
-175
-PC 1
-WKLY 1
-TSSB 1
-ICSD 1
+175 PC TSSB WKLY
+pc 1
+icsd 1
+tssb 1
+wkly 1
 ***************************
-176
-Blog 2
-Posts 2
+176 Blog Posts
+posts 2
+blog 2
 ***************************
-177
-Students 2
-in 2
+177 Top 10 Source Countries Of International Students in the US 2013
+top 2
+students 2
+countries 2
+source 2
+international 2
 10 2
-Of 2
-International 2
-Top 2
-Countries 2
-Source 2
-the 2
 2013 2
-US 2
 ***************************
-178
-Compare 2
-Market 2
-International 2
-Hawaii 2
-Study 2
-Share 2
-To 2
-US 2
+178 Hawaii International Study Market Share Compare To US
+market 2
+share 2
+compare 2
+international 2
+hawaii 2
+study 2
 ***************************
-179
-State 3
-Hawaii 3
-Offices 2
-Important 2
-Departments 2
-Counties 2
-and 2
-the 1
-GovernmentWide 1
-Support 1
+179 Hawaii State Departments,  Counties and Important Offices
+state 3
+hawaii 3
+important 2
+departments 2
+offices 2
+counties 2
 data 1
-in 1
-at 1
-This 1
-is 1
-Portal 1
+support 1
+governmentwide 1
 leveraged 1
 httpsportalehawaiigovgovernmentdepartmentsandagencies 1
+portal 1
 ***************************
-180
-Credit 2
-State 2
-of 2
-Underlying 2
-Hawaii 2
-for 2
-Ratings 2
+180 Underlying Credit Ratings for State of Hawaii
+credit 3
+underlying 3
+ratings 3
+state 2
+hawaii 2
+investor 1
+development 1
 relations 1
-underlying 1
+economic 1
+***************************
+181 Fitch Ratings for DHHL - 8/11/11
+fitch 2
+ratings 2
+ 1
+homelands 1
+dhhl 1
+11 1
+august 1
+81111 1
+development 1
+2011 1
+hawaiian 1
+economic 1
+published 1
+department 1
+***************************
+182 Fitch Ratings for DBF - 8/11/11
+fitch 3
+rating 2
+ 1
+2011 1
+homelands 1
+11 1
 ratings 1
-credit 1
-investor 1
-Economic 1
-Development 1
-***************************
-181
-for 2
-Fitch 2
-Ratings 2
- 1
-on 1
-of 1
-August 1
-Hawaiian 1
-81111 1
-Homelands 1
-published 1
-11 1
-Department 1
-DHHL 1
-Economic 1
-Development 1
-2011 1
-***************************
-182
-Fitch 2
-for 2
- 1
-fitch 1
-of 1
-August 1
-81111 1
-Development 1
-rating 1
-published 1
-Ratings 1
-Department 1
-Economic 1
-Homelands 1
-on 1
 report 1
-11 1
-relations 1
-Hawaiian 1
-DBF 1
-Rating 1
+dbf 1
+august 1
+81111 1
 investor 1
-2011 1
-***************************
-183
-Credit 2
-Underlying 2
-for 2
-Ratings 2
+development 1
 relations 1
-of 1
-Economic 1
-Hawaiian 1
-Hawaii 1
-Homelands 1
-Department 1
-DHHL 1
-investor 1
-Development 1
+hawaiian 1
+economic 1
+published 1
+department 1
 ***************************
-184
-Credit 2
-of 2
-Underlying 2
-for 2
-Ratings 2
-State 1
+183 Underlying Credit Ratings for DHHL
+credit 2
+underlying 2
+ratings 2
+homelands 1
+dhhl 1
+hawaii 1
+investor 1
+development 1
 relations 1
-Economic 1
-Hawaii 1
-DBF 1
-Finance 1
-Department 1
-Budget 1
-and 1
+hawaiian 1
+economic 1
+department 1
+***************************
+184 Underlying Credit Ratings for DBF
+credit 2
+underlying 2
+ratings 2
+finance 1
+state 1
+budget 1
+hawaii 1
+dbf 1
 investor 1
-Development 1
+development 1
+relations 1
+economic 1
+department 1
 ***************************
-185
-Page 2
-Featured 2
-Story 2
-Home 2
+185 Home Page Featured Story
+home 2
+page 2
+featured 2
+story 2
 ***************************
-186
-Addresses 2
-PSD 2
-Facility 2
+186 PSD Facility Addresses
+addresses 2
+facility 2
+psd 2
 ***************************
-187
-Safety 3
-Public 3
-Weekly 2
-of 2
-Population 2
-Department 2
-Reports 2
+187 Department of  Public Safety Weekly Population Reports
+public 3
+safety 3
+reports 2
+population 2
+weekly 2
+department 2
 ***************************
-188
-Location 1
+188 Roll-up By Location
+source 1
+httpsdatahawaiigovpublicsafetyrollupbylocationv3gj97wt 1
 data 1
-By 1
-httpsdatahawaiigovPublicSafetyRollupbyLocationv3gj97wt 1
-Source 1
-Rollup 1
+rollup 1
+location 1
 ***************************
-189
-Interview 2
-OIMT 2
-Open 2
-Data 2
+189 OIMT Open Data Interview alt
+open 2
 alt 2
+data 2
+interview 2
+oimt 2
 ***************************
-190
-Public 2
-Safety 2
-Updated 1
-data 1
-Population 1
-for 1
-httpsdatahawaiigovPublicSafetyDepartmentofPublicSafetyBedCapacity2013qv4nm8rb 1
-August 1
-Reports 1
+190 Department Of  Public Safety Weekly Population Reports
+safety 2
+public 2
+august 1
+department 1
+httpsdatahawaiigovpublicsafetydepartmentofpublicsafetybedcapacity2013qv4nm8rb 1
+weekly 1
 2013 1
-Weekly 1
-Of 1
-Capacity 1
-Department 1
-Dataset 1
-Bed 1
+updated 1
+reports 1
+bed 1
+capacity 1
+data 1
+population 1
+dataset 1
 ***************************
-191
-State 2
-for 2
-Pictures 2
-Candidates 2
-Profile 2
-and 2
-Hawaii 2
-County 2
+191 Profile Pictures for Hawaii State and County Candidates
+county 2
+pictures 2
+state 2
+profile 2
+hawaii 2
+candidates 2
 ***************************
-192
-Interview 2
-OIMT 2
-Open 2
-Data 2
+192 OIMT Open Data Interview
+open 2
+data 2
+interview 2
+oimt 2
 ***************************
-193
-Messages 2
+193 Messages
+messages 2
 ***************************
-194
-on 1
+194 Category Information
 categories 1
-to 1
-Home 1
-configure 1
-Information 1
-Category 1
-Dataset 1
-the 1
+information 1
+home 1
 page 1
+configure 1
+dataset 1
+category 1
 ***************************
-195
-File 2
-Part 2
-Download 2
-TRAINING 2
-DATASET 2
-Formatting 2
-HandsOn 2
+195 TRAINING DATASET: Hands-On Formatting Data Part 2 (Download This File)
+training 3
+file 2
 2 2
-This 2
-Data 2
-Training 1
+dataset 2
+formatting 2
+data 2
+download 2
+handson 2
+part 2
 ***************************
-196
-File 2
-Download 2
-TRAINING 2
-DATASET 2
-HandsOn 2
-Uploading 2
-This 2
-Data 2
-Training 1
+196 TRAINING DATASET: Hands-On Uploading Data (Download This File)
+training 3
+file 2
+dataset 2
+download 2
+data 2
+uploading 2
+handson 2
 ***************************
-197
-File 2
-Part 2
-Download 2
-TRAINING 2
-DATASET 2
-Formatting 2
-HandsOn 2
-This 2
+197 TRAINING DATASET: Hands-On Formatting Data Part 1 (Download This File)
+training 3
+file 2
 1 2
-Data 2
-Training 1
+dataset 2
+formatting 2
+data 2
+download 2
+handson 2
+part 2
 ***************************
-198
-farmers 2
-local 2
-Hawaii 2
+198 Hawaii Farmer's Markets
+local 3
+farmers 3
+hawaii 2
 market 2
-one 1
-of 1
-Matters 1
-Farmers 1
-fruits 1
-throughout 1
-Markets 1
-Buy 1
-Local 1
-at 1
-It 1
+markets 1
 neighborhood 1
-many 1
+fruits 1
 vegetables 1
-Economic 1
-Development 1
+throughout 1
+development 1
+buy 1
+many 1
+economic 1
+matters 1
 ***************************
-199
+199 data.hawaii.gov Dataset Catalog
 datahawaiigov 2
-Dataset 2
-Catalog 2
+dataset 2
+catalog 2
 ***************************
-200
-Stations 2
-EV 2
-Hawaii 2
-Charging 2
+200 Hawaii EV Charging Stations 02072013
+charging 2
+stations 2
+ev 2
+hawaii 2
+development 1
 02072013 1
-Economic 1
-Development 1
+economic 1
 ***************************
-201
-for 4
-the 2
+201 Table 9.51 FEDERAL EXPENDITURES IN HAWAII, BY TYPE  1983 TO 2010
+federal 4
 30 2
-federal 2
+year 2
+fiscal 2
+source 2
  1
-Databook 1
-IN 1
+type 1
+state 1
+2010 1
+census 1
+expenditures 1
 complete 1
-Federal 1
-go 1
-to 1
-Consolidated 1
-FEDERAL 1
-County 1
-Economic 1
-Development 1
-State 1
+951 1
+others 1
+september 1
+dbedt 1
+httphawaiigovdbedtinfoeconomicdatabook 1
+funds 1
+1983 1
+economic 1
 data 1
 ending 1
-DBEDT 1
-EXPENDITURES 1
-expenditure 1
-and 1
-Funds 1
-others 1
-951 1
-httphawaiigovdbedtinfoeconomicdatabook 1
-fiscal 1
-Areas 1
-1983 1
-Bureau 1
-HAWAII 1
-Year 1
-Census 1
-In 1
-Fiscal 1
-Table 1
-US 1
-BY 1
-Report 1
-June 1
-TO 1
-TYPE 1
-Please 1
-year 1
-For 1
-September 1
-source 1
-Millions 1
-Source 1
-2010 1
+june 1
 site 1
+please 1
+consolidated 1
+report 1
+table 1
+hawaii 1
+county 1
+millions 1
+bureau 1
+development 1
+expenditure 1
+databook 1
+areas 1
 ***************************
-202
+202 OIP Master UIPA Record Request Year-End Log For FY 2013
+uipa 3
 2013 3
-Request 2
-YearEnd 2
-Log 2
-Master 2
-Record 2
-FY 2
-For 2
-OIP 2
-UIPA 2
-July 1
-requests 1
-received 1
-June 1
-uipa 1
-1 1
+oip 3
+request 3
+record 3
+log 2
+fy 2
+yearend 2
+master 2
 30 1
+requests 1
+june 1
 through 1
-records 1
-record 1
-Support 1
 2012 1
-oip 1
-GovernmentWide 1
-request 1
+support 1
+governmentwide 1
+july 1
+1 1
+received 1
+records 1
 ***************************
-203
+203 UNEMPLOYMENT RATE - HONOLULU - Monthly - Seasonally Adjusted
  6
-Seasonally 2
-HONOLULU 2
-unemployment 2
-UNEMPLOYMENT 2
-RATE 2
-Monthly 2
-Adjusted 2
-monthly 1
-honolulu 1
-Employment 1
+unemployment 4
+rate 3
+honolulu 3
+monthly 3
+seasonally 2
+adjusted 2
+employment 1
+oahu 1
 employed 1
 unemployed 1
-rate 1
+***************************
+204 JOBCOUNT - STATE OF HAWAII - Monthly - Not Seasonally Adjusted
+ 6
+monthly 3
+state 3
+jobcount 3
+hawaii 3
+seasonally 2
+adjusted 2
+job 1
+employment 1
+jobs 1
+count 1
+***************************
+205 JOBCOUNT - STATE OF HAWAII - Monthly - Total Jobcount - Seasonally Adjusted
+ 8
+jobcount 5
+state 3
+monthly 3
+hawaii 3
+seasonally 2
+adjusted 2
+total 2
+jobs 1
+job 1
+employment 1
+count 1
+***************************
+206 Oahu State Public Parking Lots
+parking 1
+september 1
+state 1
+public 1
+20 1
+lots 1
+facilities 1
+transportation 1
+2013 1
 oahu 1
 ***************************
-204
- 6
-Seasonally 2
-Not 2
-HAWAII 2
-STATE 2
-OF 2
-JOBCOUNT 2
-Monthly 2
-Adjusted 2
-monthly 1
-hawaii 1
-Employment 1
-jobcount 1
-jobs 1
-job 1
-state 1
-count 1
-***************************
-205
- 8
-Seasonally 2
-Total 2
-HAWAII 2
-Adjusted 2
-STATE 2
-OF 2
-JOBCOUNT 2
-Monthly 2
-Jobcount 2
-monthly 1
-hawaii 1
-Employment 1
-jobcount 1
-jobs 1
-job 1
-state 1
-count 1
-***************************
-206
-State 1
-2013 1
-September 1
-20 1
-Facilities 1
-Transportation 1
-Oahu 1
-Lots 1
-Public 1
-Parking 1
-***************************
-207
+207 Connector Market Place Assisters
+market 1
+updated 1
 9913 1
-Market 1
-Updated 1
-Assisters 1
-Connector 1
-Place 1
+assisters 1
+connector 1
+place 1
 ***************************
-208
-Locations 1
-Offices 1
-MedQUEST 1
-***************************
-209
- 3
-Stores 2
-Offices 2
-Retail 2
-HGBP 2
+208 Med-QUEST Offices
+locations 1
+medquest 1
 offices 1
+***************************
+209 HGBP Retail Stores & Offices
+ 3
+retail 3
+stores 3
+offices 3
+hgbp 2
+development 1
+green 1
+sustainable 1
 hawaii 1
-retail 1
-sustainable 1
-green 1
-stores 1
-Economic 1
-Development 1
+economic 1
 ***************************
-210
-Agencies 2
-HGBP 2
-State 2
-agencies 1
-state 1
-sustainable 1
-green 1
+210 HGBP State Agencies
+agencies 3
+state 3
+hgbp 2
+development 1
 dbedt 1
-Economic 1
-Development 1
+green 1
+sustainable 1
+economic 1
 ***************************
-211
-July 2
-Public 2
-Safety 2
+211 Department of  Public Safety Weekly Population Reports
+july 2
+safety 2
+public 2
  1
-PSD 1
-of 1
-Population 1
-2012 1
 data 1
-31 1
-Reports 1
-definitions 1
-Weekly 1
-2013 1
-Attached 1
-Department 1
-for 1
-***************************
-212
-Statewide 2
-Buildings 2
-Certified 2
-LEED 2
-***************************
-213
- 2
-Conferences 2
-Initial 2
-Held 2
-RSN 1
-Appeals 1
-Board 1
-Relations 1
-Labor 1
-39973 1
-Industrial 1
-and 1
-***************************
-214
- 2
-Status 2
-Conferences 2
-Held 2
-Settlement 2
-And 2
-RSN 1
-39974 1
-Board 1
-Relations 1
-Labor 1
-Industrial 1
-and 1
-Appeals 1
-***************************
-215
-and 3
- 2
-Hearings 2
-Trials 2
-Novo 2
-Held 2
-De 2
-Employment 1
-RSN 1
-39975 1
-Labor 1
-Appeals 1
-trial 1
-Relations 1
-Industrial 1
-hearing 1
-Board 1
-***************************
-216
-Appeals 3
- 2
-39972 1
-RSN 1
-of 1
-Board 1
-Relations 1
-Labor 1
-Industrial 1
-Number 1
-and 1
-Received 1
-***************************
-217
- 2
-Motions 2
-Hearings 2
-Held 2
-RSN 1
-Appeals 1
-Board 1
-39976 1
-Relations 1
-Labor 1
-Industrial 1
-and 1
-***************************
-218
-Mobile 2
-Apps 2
-state 1
-for 1
-of 1
-Other 1
-Hawaiigov 1
-Hawaii 1
-the 1
-***************************
-219
-Passenger 2
-May 2
-comparison 1
-excluding 1
 2012 1
+weekly 1
+2013 1
+attached 1
+definitions 1
+reports 1
+psd 1
+31 1
+department 1
+population 1
+***************************
+212 Statewide LEED Certified Buildings
+leed 2
+certified 2
+statewide 2
+buildings 2
+***************************
+213 Initial Conferences Held ( RSN 39973)
+initial 2
+conferences 2
+held 2
+ 2
+board 1
+rsn 1
+industrial 1
+relations 1
+appeals 1
+labor 1
+39973 1
+***************************
+214 Settlement And Status Conferences Held ( RSN 39974)
+conferences 2
+ 2
+held 2
+status 2
+settlement 2
+appeals 1
+industrial 1
+labor 1
+39974 1
+board 1
+rsn 1
+relations 1
+***************************
+215 Trials and Hearings De Novo Held ( RSN 39975)
+trials 2
+ 2
+novo 2
+held 2
+de 2
+hearings 2
+appeals 1
+industrial 1
+employment 1
+board 1
+labor 1
+hearing 1
+trial 1
+39975 1
+relations 1
+rsn 1
+***************************
+216 Number of Appeals ( RSN 39972)
+appeals 3
+ 2
+board 1
+industrial 1
+39972 1
+rsn 1
+relations 1
+number 1
+labor 1
+received 1
+***************************
+217 Motions Hearings Held ( RSN 39976)
+ 2
+motions 2
+held 2
+hearings 2
+rsn 1
+appeals 1
+industrial 1
+relations 1
+39976 1
+labor 1
+board 1
+***************************
+218 Hawaii.gov Mobile Apps
+apps 2
+mobile 2
+state 1
+hawaii 1
+hawaiigov 1
+***************************
+219 Passenger Counts May 2013
+passenger 2
+may 2
+counts 2
 flights 1
-Canada 1
-Updated 1
-Counts 1
+monday 1
+excluding 1
+international 1
+daily 1
+count 1
 2013 1
 from 1
-Count 1
-Economic 1
-Development 1
-through 1
-Monday 1
-Friday 1
-International 1
+development 1
+2012 1
+updated 1
+canada 1
 included 1
-daily 1
-for 1
-counts 1
+friday 1
+economic 1
+comparison 1
+through 1
 ***************************
-220
-10 2
-Top 2
+220 Top 10 Source Countries Of International Undergraduate Student In The US 2012
+top 2
 2012 2
-International 2
-Countries 2
-Student 2
-The 2
-Of 2
-In 2
-Undergraduate 2
-Source 2
-US 2
+countries 2
+source 2
+international 2
+student 2
+10 2
+undergraduate 2
 ***************************
-221
-Public 2
+221 Department of Public Safety Bed Capacity 2013
+safety 2
+public 2
+capacity 2
 2013 2
-Capacity 2
-Safety 2
-Q1 1
-of 1
-Population 1
-Weekly 1
-with 1
-Bed 1
-the 1
-is 1
+q1 1
+report 1
+bed 1
 compared 1
-Department 1
-Report 1
+weekly 1
+population 1
+department 1
 ***************************
-222
-Direct 2
-International 2
-Study 2
-Hawaii 2
-Spending 2
+222 Hawaii International Study Direct Spending final
 final 2
-State 1
-of 1
+international 2
+spending 2
+direct 2
+hawaii 2
+study 2
+state 1
 ***************************
-223
-of 2
-CIP 2
-a 2
-and 2
+223 CIP 2011-2012
 are 2
+cip 2
+capital 2
+projects 2
+improvement 2
  1
-types 1
-projects 1
-to 1
-utility 1
 code 1
 landscape 1
-capital 1
-accounted 1
-improvement 1
-Capital 1
-budget 1
-facilities 1
-Economic 1
-Development 1
-existing 1
-new 1
-20112012 1
-for 1
 modifications 1
+repairs 1
+20112012 1
+development 1
+maintenance 1
+facilities 1
+economic 1
+existing 1
 department 1
+budget 1
+accounted 1
 renovations 1
-major 1
-Improvement 1
 improvements 1
+types 1
+construction 1
+utility 1
 land 1
 acquisition 1
-repairs 1
-construction 1
-Projects 1
-in 1
-These 1
-maintenance 1
+major 1
 ***************************
-224
-State 2
-Consumption 2
-Example 2
-Electricity 2
-Agencies 2
-Lead 2
-By 2
-Hawaii 2
+224 Lead By Example Hawaii State Agencies Electricity Consumption
+agencies 2
+electricity 2
+state 2
+consumption 2
+example 2
+lead 2
+hawaii 2
 ***************************
-225
-Enrollment 2
-Zone 2
-Enterprise 2
-Economic 1
-Development 1
-***************************
-226
-Passenger 2
-May 2
-Domestic 2
-International 2
-and 2
-Counts 2
-2013 2
-Economic 1
-Development 1
-***************************
-227
-TestDailypassenger 2
-Total 2
-***************************
-228
-2013 3
-Legislature 2
-Bills 2
-Passed 2
-bills 1
-the 1
-legislature 1
-Support 1
-GovernmentWide 1
-That 1
-that 1
-***************************
-229
-Hawaii 2
-pay 1
-of 1
-Online 1
-searches 1
-that 1
-this 1
-Charity 1
-conduct 1
-registration 1
-registered 1
-annual 1
-State 1
-the 1
-can 1
-charitable 1
-fees 1
-On 1
-for 1
-are 1
-due 1
-organizations 1
-you 1
-and 1
-in 1
-site 1
-***************************
-230
-Crime 3
- 2
-in 2
-Hawaii 2
-Uniform 1
-Data 1
-1975 1
-MS 1
-Reports 1
-for 1
-Excel 1
-format 1
-2011 1
-***************************
-231
-AND 2
-ERP 2
-PARTIES 2
-20130423 2
-INTERESTED 2
-STAFF 2
-Other 1
-***************************
-232
-of 3
-maps 2
-charts 2
-the 2
-to 1
-Data 1
-Quarter 1
-Hawaii 1
-available 1
-quarter 1
-public 1
-State 1
-GovernmentWide 1
-Support 1
-data 1
-made 1
-updates 1
-Open 1
-number 1
-open 1
-datasets 1
-by 1
-and 1
-growth 1
-***************************
-233
-DAGS 1
-2013 1
-Support 1
-data 1
-supplied 1
-GovernmentWide 1
-Encumbrances 1
-CIP 1
-***************************
-234
-of 7
-and 7
-Hawaii 6
- 3
-Department 3
-Data 2
-revised 2
-compiled 2
-Economic 2
-Support 2
-by 2
-departments 1
-Historical 1
-Indicators 1
-Tourism 1
-series 1
-READ 1
-Honolulu 1
-Relations 1
-labor 1
-county 1
-Inc 1
-Final 1
-2 1
-Realtors 1
-details 1
-Development 1
-January 1
-State 1
-DLIR 1
-arrivals 1
-1999 1
-Labor 1
-DBEDT 1
-Eastbound 1
-Association 1
-Harvey 1
-Industrial 1
-Maui 1
-international 1
-For 1
-Guaranty 1
-to 1
-httpwwwhiwiorgcgidataanalysisPAGEID94 1
-REALTORS 1
-see 1
-air 1
-Westbound 1
-1 1
-from 1
-Of 1
-Title 1
-tables 1
-Business 1
-dbedt 1
-been 1
-not 1
-Taxation 1
-building 1
-GovernmentWide 1
-have 1
-They 1
-data 1
-jobs 1
-comparable 1
-force 1
-Board 1
-domestic 1
-consist 1
-Statistics 1
-are 1
-Branch 1
+225 Enterprise Zone Enrollment
+enterprise 2
+enrollment 2
+zone 2
+development 1
 economic 1
-Shapiro 1
-Monthly 1
-Source 1
 ***************************
-235
-Tax 2
-Tobacco 2
-Collections 2
-tax 1
-tobacco 1
-Support 1
-TAX 1
-122012 1
-GovernmentWide 1
+226 Passenger Counts  International and Domestic May 2013
+passenger 2
+counts 2
+2013 2
+international 2
+may 2
+domestic 2
+development 1
+economic 1
 ***************************
-236
-Permits 2
-Liquor 2
-Collections 2
-And 2
-tax 1
-Support 1
-TAX 1
-122012 1
-GovernmentWide 1
-liquor 1
+227 Test-Dailypassenger Total
+testdailypassenger 2
+total 2
 ***************************
-237
-TAX 2
-SCHEDULE 2
-Tax 1
-GALLON 1
-Fuel 1
-fuel 1
-122012 1
-gallon 1
-rates 1
-1 1
-LIQUID 1
-Effective 1
-FUEL 1
-July 1
-Support 1
-PER 1
-OF 1
-RATES 1
-in 1
-tax 1
-rate 1
-per 1
-RATE 1
-cents 1
-GovernmentWide 1
-2010 1
+228 Bills That Passed 2013 Legislature
+bills 3
+2013 3
+legislature 3
+passed 2
+support 1
+governmentwide 1
 ***************************
-238
+229 Hawaii Charity Online
+hawaii 2
+are 1
+state 1
+annual 1
+conduct 1
+fees 1
+charitable 1
+site 1
+charity 1
+organizations 1
+pay 1
+registration 1
+due 1
+online 1
+searches 1
+registered 1
+***************************
+230 Crime in Hawaii - Uniform Crime Reports
+crime 3
  2
-tax 2
-Tax 1
-Fuel 1
-2012 1
-fuel 1
+hawaii 2
+1975 1
+2011 1
+reports 1
+format 1
+ms 1
+excel 1
+data 1
+uniform 1
+***************************
+231 20130423 ERP STAFF AND INTERESTED PARTIES
+interested 2
+parties 2
+20130423 2
+erp 2
+staff 2
+***************************
+232 State of Hawaii Open Data growth
+charts 2
+maps 2
+quarter 2
+open 2
+data 2
+number 1
+state 1
+available 1
+datasets 1
+growth 1
+governmentwide 1
+updates 1
+hawaii 1
+public 1
+support 1
+made 1
+***************************
+233 2013 CIP Encumbrances
+encumbrances 1
+cip 1
+supplied 1
+support 1
+data 1
+governmentwide 1
+dags 1
+2013 1
+***************************
+234 Monthly Economic Indicators - State Of Hawaii
+hawaii 6
+ 3
+economic 3
+department 3
+data 3
+dbedt 2
+revised 2
+realtors 2
+labor 2
+compiled 2
+support 2
+building 1
+series 1
 1 1
+force 1
+guaranty 1
+board 1
+read 1
+shapiro 1
+final 1
+january 1
+maui 1
+httpwwwhiwiorgcgidataanalysispageid94 1
+historical 1
+details 1
+departments 1
+source 1
+2 1
+arrivals 1
 from 1
-to 1
-12 1
-Liquid 1
-105 1
-Allocations 1
-July 1
-GovernmentWide 1
-increased 1
-Monthly 1
-Support 1
-Research 1
-005 1
-TAX 1
+comparable 1
+county 1
+air 1
+eastbound 1
+tourism 1
+title 1
+taxation 1
+relations 1
+indicators 1
+business 1
+are 1
+state 1
+westbound 1
+jobs 1
+governmentwide 1
+dlir 1
+inc 1
+been 1
+association 1
+consist 1
+honolulu 1
+industrial 1
+international 1
+monthly 1
+domestic 1
+1999 1
+statistics 1
+branch 1
+development 1
+harvey 1
+tables 1
+***************************
+235 TAX 12-2012 Tobacco Tax Collections
+tax 4
+tobacco 3
+collections 2
+122012 1
+support 1
+governmentwide 1
+***************************
+236 TAX 12-2012 Liquor Collections And Permits
+liquor 3
+collections 2
+permits 2
+tax 2
+122012 1
+support 1
+governmentwide 1
+***************************
+237 TAX 12-2012 LIQUID FUEL RATE SCHEDULE
+tax 4
+fuel 3
+per 2
+gallon 2
+schedule 2
+rate 2
+rates 2
+1 1
+july 1
+support 1
+governmentwide 1
 liquid 1
-allocation 1
-Planning 1
-barrel 1
-rate 1
+2010 1
+cents 1
+122012 1
+effective 1
+***************************
+238 TAX 12 2012 Liquid Fuel Allocations
+tax 4
+ 2
+liquid 2
+fuel 2
 per 1
+monthly 1
+1 1
+july 1
+barrel 1
+governmentwide 1
+005 1
+2010 1
+rate 1
+effective 1
+12 1
+allocations 1
+increased 1
+2012 1
+research 1
+allocation 1
+105 1
+from 1
 environmental 1
 011513 1
-2010 1
-Effective 1
+planning 1
+support 1
 ***************************
-239
-fuel 2
-Natural 2
-Gas 2
-Effective 1
-Fuel 1
-Collections 1
-Gallons 1
-2012 1
-Ethanol 1
-Methanol 1
-Products 1
-liquid 1
-Biodiesel 1
+239 TAX 12 2012  Liquid Fuel Collections
+fuel 3
+natural 2
+tax 2
+gas 2
+barrel 2
+liquid 2
+per 1
+naphtha 1
+governmentwide 1
+products 1
+liquefied 1
+gallons 1
+biodiesel 1
+ethanol 1
+effective 1
 12 1
 means 1
-of 1
-Liquid 1
-US 1
-Barrel 1
-Compressed 1
-and 1
-includes 1
-Support 1
 42 1
-TAX 1
-Liquefied 1
-tax 1
-Petroleum 1
-per 1
-Other 1
-Naphtha 1
-GovernmentWide 1
-barrel 1
 7193 1
+2012 1
+support 1
+methanol 1
+collections 1
+compressed 1
+petroleum 1
+includes 1
 ***************************
-240
-December 1
-data 1
-DAGS 1
-Support 1
+240 December 2012 Encumbrances
+encumbrances 1
 2012 1
 supplied 1
-GovernmentWide 1
-Encumbrances 1
-***************************
-241
-October 1
+support 1
 data 1
-DAGS 1
-Support 1
-2012 1
-supplied 1
-GovernmentWide 1
-Encumbrances 1
+governmentwide 1
+dags 1
+december 1
 ***************************
-242
+241 October 2012 Encumbrances
+encumbrances 1
+october 1
+supplied 1
+support 1
+data 1
+governmentwide 1
+dags 1
+2012 1
+***************************
+242 September 2012 Encumbrances
 ebcumbrance 1
-DAGS 1
-Support 1
-September 1
+encumbrances 1
+september 1
 2012 1
 supplied 1
+support 1
 data 1
-GovernmentWide 1
-Encumbrances 1
+governmentwide 1
+dags 1
 ***************************
-243
-General 2
+243 General Election 2012 Summary Results
+election 2
+general 2
 2012 2
-Summary 2
-Election 2
+results 2
+summary 2
 elections 1
-Support 1
-GovernmentWide 1
-results 1
-Results 1
+support 1
+governmentwide 1
 ***************************
-244
-General 2
+244 General Election 2012 Results
+election 2
+general 2
 2012 2
-Election 2
-Results 2
+results 2
 elections 1
-Support 1
-GovernmentWide 1
+support 1
+governmentwide 1
 ***************************
-245
-State 1
-Legislators 1
-of 1
-and 1
-Support 1
-with 1
-Hawaii 1
-district 1
-info 1
-location 1
-senate 1
+245 State of Hawaii Elected Officials
+state 1
+officials 1
 contact 1
-Elected 1
-Officials 1
-GovernmentWide 1
+senate 1
+district 1
+governmentwide 1
+hawaii 1
+elected 1
+location 1
+legislators 1
 house 1
+info 1
+support 1
 ***************************
-246
-Tax 2
-Processed 2
-Returns 2
+246 Tax Returns Processed
+tax 2
+processed 2
+returns 2
 ***************************
-247
-Civil 2
-Unions 2
-on 1
-Statistics 1
-unions 1
+247 Civil Unions YTD 2012
+unions 3
+civil 3
+ytd 1
+statistics 1
+health 1
 2012 1
-YTD 1
-civil 1
-Health 1
 ***************************
-248
-DBEDT 2
-Electricity 2
-Annual 2
-Hawaii 2
-Consumption 2
+248 DBEDT Hawaii Annual Electricity Consumption
+annual 2
+electricity 2
+hawaii 2
+consumption 2
+dbedt 2
 ***************************
-249
-Electricity 2
-Annual 2
-Cost 2
-Hawaii 2
+249 Hawaii Annual Electricity Cost
+cost 2
+electricity 2
+hawaii 2
+annual 2
 ***************************
-250
-Green 2
-Industry 2
-By 2
-Jobs 2
+250 Green Jobs By Industry
+green 2
+jobs 2
+industry 2
 ***************************
-251
-Tax 2
-Card 2
-Report 2
+251 Report Card 4c Tax TAT
+tax 2
+card 2
 4c 2
-TAT 2
+report 2
+tat 2
 ***************************
-252
-Tax 4
-Visitor 2
-Expenditures 2
-Report 2
+252 Report Card 4b Tax Tax Revenues From Visitor Expenditures
+tax 4
 4b 2
-Card 2
-From 2
-Revenues 2
+card 2
+expenditures 2
+visitor 2
+report 2
+from 2
+revenues 2
 ***************************
-253
-Tax 2
+253 Report Card 4a Tax Visitor Expenditures
+visitor 2
+card 2
 4a 2
-Expenditures 2
-Report 2
-Visitor 2
-Card 2
+tax 2
+expenditures 2
+report 2
 ***************************
-254
-Report 2
-Resident 2
+254 Report Card 3i Resident Sentiment Resources
+card 2
+resources 2
+sentiment 2
+resident 2
+report 2
 3i 2
-Card 2
-Resources 2
-Sentiment 2
 ***************************
-255
-Treatment 2
-Sentiment 2
-Resident 2
+255 Report Card 3h Resident Sentiment Treatment
+card 2
+treatment 2
 3h 2
-Card 2
-Report 2
+sentiment 2
+resident 2
+report 2
 ***************************
-256
-Jobs 2
-Sentiment 2
-Resident 2
+256 Report Card 3g Resident Sentiment Jobs
+card 2
 3g 2
-Card 2
-Report 2
+sentiment 2
+resident 2
+jobs 2
+report 2
 ***************************
-257
+257 Report Card 3f Resident Sentiment Govt Promote
+card 2
+promote 2
+govt 2
+sentiment 2
+resident 2
+report 2
 3f 2
-Sentiment 2
-Resident 2
-Govt 2
-Promote 2
-Card 2
-Report 2
 ***************************
-258
-Life 2
+258 Report Card 3e Resident Sentiment Quality of Life
+card 2
 3e 2
-of 2
-Report 2
-Resident 2
-Card 2
-Quality 2
-Sentiment 2
+life 2
+quality 2
+sentiment 2
+resident 2
+report 2
 ***************************
-259
-Locals 2
-Report 2
-Resident 2
+259 Report Card 3d Resident Sentiment Island Expense Locals
+card 2
+expense 2
+sentiment 2
+resident 2
+locals 2
+report 2
 3d 2
-Island 2
-Card 2
-Expense 2
-Sentiment 2
+island 2
 ***************************
-260
-Economy 2
+260 Report Card 3c Resident Sentiment Island Economy
+card 2
 3c 2
-Report 2
-Resident 2
-Island 2
-Card 2
-Sentiment 2
+sentiment 2
+resident 2
+report 2
+island 2
+economy 2
 ***************************
-261
-Family 2
-for 2
-Sentiment 2
-Resident 2
+261 Report Card 3b Resident Sentiment Tourism for Family
 3b 2
-Tourism 2
-Card 2
-Report 2
+card 2
+tourism 2
+sentiment 2
+resident 2
+family 2
+report 2
 ***************************
-262
-Benefits 2
-Sentiment 2
-Resident 2
-Card 2
+262 Report Card 3a Resident Sentiment Benefits
+card 2
+sentiment 2
+resident 2
+benefits 2
+report 2
 3a 2
-Report 2
 ***************************
-263
-Statewide 2
-MMA 2
-Expectations 2
-Report 2
-By 2
+263 Report Card 2.3a VSAT Expectations Statewide By MMA
+card 2
 23a 2
-Card 2
-VSAT 2
+vsat 2
+expectations 2
+report 2
+mma 2
+statewide 2
 ***************************
-264
-Statewide 2
+264 Report Card 2.2a VSAT Return Statewide By MMA
+card 2
+vsat 2
+statewide 2
+report 2
+mma 2
+return 2
 22a 2
-Report 2
-Return 2
-By 2
-MMA 2
-Card 2
-VSAT 2
 ***************************
-265
+265 Report Card 2.1g VSAT Recommend Big Island By MMA
+card 2
+vsat 2
+big 2
+recommend 2
 21g 2
-Report 2
-By 2
-Island 2
-Recommend 2
-MMA 2
-Card 2
-VSAT 2
-Big 2
+report 2
+island 2
+mma 2
 ***************************
-266
+266 Report Card 2.1f VSAT Recommend Kauai By MMA
+kauai 2
+card 2
 21f 2
-Report 2
-Kauai 2
-By 2
-Recommend 2
-MMA 2
-Card 2
-VSAT 2
+vsat 2
+recommend 2
+report 2
+mma 2
 ***************************
-267
-Lanai 2
-Report 2
-By 2
+267 Report Card 2.1e VSAT Recommend Lanai By MMA
+card 2
+vsat 2
+lanai 2
+recommend 2
+report 2
+mma 2
 21e 2
-Recommend 2
-MMA 2
-Card 2
-VSAT 2
 ***************************
-268
+268 2.1d VSAT Recommend Molokai By MMA
 21d 2
-Molokai 2
-By 2
-Recommend 2
-MMA 2
-VSAT 2
+recommend 2
+mma 2
+vsat 2
+molokai 2
 ***************************
-269
-Report 2
-Maui 2
-By 2
-Recommend 2
-MMA 2
-Card 2
-VSAT 2
+269 Report Card 2.1c VSAT Recommend Maui By MMA
 21c 2
+card 2
+vsat 2
+recommend 2
+report 2
+mma 2
+maui 2
 ***************************
-270
+270 Report Card 2.1b VSAT Recommend Oahu By MMA
+card 2
+vsat 2
+recommend 2
 21b 2
-Report 2
-By 2
-Oahu 2
-Recommend 2
-MMA 2
-Card 2
-VSAT 2
+report 2
+mma 2
+oahu 2
 ***************************
-271
-Statewide 2
-Report 2
-By 2
-Recommend 2
-MMA 2
-Card 2
-VSAT 2
+271 Report Card 2.1a VSAT Recommend Statewide By MMA
+card 2
+vsat 2
 21a 2
+recommend 2
+report 2
+mma 2
+statewide 2
 ***************************
-272
-Overall 2
-Satisfaction 2
-Report 2
-By 2
-Card 2
-Hawaii 2
-MMA 2
+272 Report Card 2g VSAT Overall Satisfaction Hawaii Island By MMA
+card 2
+mma 2
+vsat 2
 2g 2
-VSAT 2
-Island 2
+satisfaction 2
+report 2
+overall 2
+island 2
+hawaii 2
 ***************************
-273
-Overall 2
-Satisfaction 2
-Report 2
-Kauai 2
-By 2
-MMA 2
-Card 2
-VSAT 2
+273 Report Card 2f VSAT Overall Satisfaction Kauai By MMA
+kauai 2
+card 2
 2f 2
+vsat 2
+satisfaction 2
+report 2
+overall 2
+mma 2
 ***************************
-274
-Overall 2
-Satisfaction 2
-Lanai 2
-Report 2
-By 2
+274 Report Card 2e VSAT Overall Satisfaction Lanai By MMA
+card 2
+vsat 2
+satisfaction 2
+lanai 2
 2e 2
-MMA 2
-Card 2
-VSAT 2
+report 2
+overall 2
+mma 2
 ***************************
-275
-Overall 2
-Satisfaction 2
-Report 2
-Molokai 2
+275 Report Card 2d VSAT Overall Satisfaction Molokai By MMA
+card 2
 2d 2
-By 2
-MMA 2
-Card 2
-VSAT 2
+vsat 2
+satisfaction 2
+molokai 2
+report 2
+overall 2
+mma 2
 ***************************
-276
+276 Report Card 2c VSAT Overall Satisfaction Maui By MMA
+card 2
 2c 2
-Overall 2
-Satisfaction 2
-Report 2
-By 2
-Maui 2
-MMA 2
-Card 2
-VSAT 2
+vsat 2
+satisfaction 2
+report 2
+overall 2
+mma 2
+maui 2
 ***************************
-277
-Overall 2
-Satisfaction 2
+277 Report Card 2b VSAT Overall Satisfaction Oahu By MMA
+card 2
+vsat 2
 2b 2
-Report 2
-By 2
-Oahu 2
-MMA 2
-Card 2
-VSAT 2
+satisfaction 2
+report 2
+overall 2
+mma 2
+oahu 2
 ***************************
-278
-Overall 2
-Report 2
-Visitor 2
-Card 2
-Hawaii 2
-Numbers 2
+278 Report Card 1:  Overall Hawaii Visitor Numbers
+visitor 2
+card 2
 1 2
+report 2
+overall 2
+numbers 2
+hawaii 2
 ***************************
-279
-of 2
-livestock 2
-brands 2
-registered 2
-for 2
-Listing 1
-with 1
-Brands 1
-Health 1
-20122014 1
-To 1
-Department 1
-annual 1
-years 1
-Livestock 1
-the 1
-Disease 1
-Control 1
-Agriculture 1
-supplements 1
-Animal 1
-Registered 1
-Branch 1
-include 1
-Hawaiis 1
+279 Hawaii's Registered Livestock Brands
+brands 3
+livestock 3
+registered 3
 year 1
 2011 1
-***************************
-280
-of 3
-and 2
-State 1
- 1
-Conclusions 1
-Decision 1
-Support 1
-Land 1
-Fact 1
-Hawaii 1
-Order 1
-Counties 1
-Use 1
-Commission 1
-Per 1
-Findings 1
-GovernmentWide 1
-Law 1
-***************************
-281
-to 2
-CIP 2
- 1
-need 1
-of 1
-2012 1
-extract 1
-Administration 1
-Financial 1
-fields 1
-from 1
-Additional 1
-analysis 1
-may 1
-interpret 1
-Management 1
-dags 1
-be 1
-monthly 1
-Encumberances 1
-GovernmentWide 1
-Support 1
-done 1
-famis 1
-Created 1
-FAMIS 1
-a 1
-System 1
-and 1
-June 1
-Encumbrances 1
-***************************
-282
-of 3
-Statewide 2
-food 2
-Food 2
-the 2
-all 1
-ice 1
-Est 1
-restaurant 1
-Mom 1
-Health 1
-supermarkets 1
-List112011 1
-Markets 1
-stores 1
-from 1
-like 1
-Fastfood 1
-etc 1
-wagons 1
-Pop 1
-take 1
-Restaurants 1
-as 1
-and 1
-CostcoSamsWalmart 1
-markets 1
-Mega 1
-lunch 1
+annual 1
+control 1
+agriculture 1
 include 1
-shave 1
-manufacturers 1
-out 1
-stands 1
-Establishments 1
-everything 1
-dbase 1
-permitted 1
-end 1
-Convenience 1
-These 1
-2011 1
-***************************
-283
-in 2
-Hawaii 2
-Stations 2
-Public 2
-ev 2
-Charging 2
-charging 1
-electric 1
-stations 1
-vehicles 1
-Transportation 1
-Facilities 1
-***************************
-284
-Contact 2
-EV 2
-Shared 2
-Directory 2
-***************************
-285
-food 2
-Food 2
-Establishments 2
-permitted 1
-all 1
-ice 1
-of 1
-etc 1
-Mom 1
-Health 1
-supermarkets 1
-markets 1
-Markets 1
-stores 1
-from 1
-Fastfood 1
-manufacturers 1
-Pop 1
-take 1
-Restaurants 1
-the 1
-CostcoSamsWalmart 1
-represent 1
-Mega 1
-lunch 1
-include 1
-shave 1
-lists 1
-restaurants 1
-out 1
-stands 1
-everything 1
-OAHU 1
-wagons 1
-and 1
-Convenience 1
-These 1
-like 1
-***************************
-286
-Health 4
-Rural 2
-Clinics 1
-rural 1
-of 1
-Department 1
-Clinic 1
+20122014 1
 health 1
+listing 1
+hawaiis 1
+branch 1
+disease 1
+years 1
+supplements 1
+animal 1
+department 1
 ***************************
-287
-SLH 2
-13 2
-FY 2
-BY 2
-ACT 2
-Cost 1
-106 1
-164 1
-HAWAII 1
-STATE 1
-Operating 1
-AS 1
-CODE 1
-OPERATING 1
-budget 1
-AMENDED 1
-fy13 1
-GovernmentWide 1
-Budget 1
-Element 1
-Support 1
-ID 1
-AND 1
-By 1
-COST 1
+280 State of Hawaii - Land Use Commission
+ 1
+decision 1
+per 1
+state 1
+counties 1
+land 1
+fact 1
+governmentwide 1
+hawaii 1
+findings 1
+commission 1
+conclusions 1
+law 1
+order 1
+support 1
+***************************
+281 CIP Encumberances June 2012
+famis 2
+cip 2
+encumbrances 1
+ 1
+monthly 1
+additional 1
+interpret 1
+governmentwide 1
+june 1
+system 1
+encumberances 1
+administration 1
+dags 1
+management 1
+may 1
+extract 1
 2012 1
-ELEMENT 1
-ORGANIZATION 1
-SUB 1
-APPROPRIATIONS 1
-w 1
-OF 1
-PROGRAM 1
-2011 1
+support 1
+analysis 1
+from 1
+financial 1
+need 1
+fields 1
+done 1
+created 1
 ***************************
-288
-FY 4
+282 Statewide Food Est List11-2011
+food 4
+markets 2
+statewide 2
+2011 1
+restaurant 1
+fastfood 1
+restaurants 1
+permitted 1
+health 1
+end 1
+mega 1
+etc 1
+convenience 1
+pop 1
+shave 1
+lunch 1
+manufacturers 1
+wagons 1
+list112011 1
+est 1
+include 1
+from 1
+dbase 1
+establishments 1
+stands 1
+ice 1
+supermarkets 1
+costcosamswalmart 1
+everything 1
+mom 1
+stores 1
+***************************
+283 Public Charging Stations in Hawaii
+stations 3
+charging 3
+hawaii 2
+ev 2
+public 2
+electric 1
+vehicles 1
+facilities 1
+transportation 1
+***************************
+284 Shared EV Contact Directory
+shared 2
+contact 2
+ev 2
+directory 2
+***************************
+285 OAHU Food Establishments
+food 4
+markets 2
+restaurants 2
+establishments 2
+shave 1
+fastfood 1
+represent 1
+permitted 1
+health 1
+wagons 1
+mega 1
+etc 1
+convenience 1
+pop 1
+manufacturers 1
+lists 1
+stands 1
+include 1
+from 1
+costcosamswalmart 1
+stores 1
+lunch 1
+ice 1
+supermarkets 1
+oahu 1
+everything 1
+mom 1
+***************************
+286 Rural Health Clinics
+health 5
+rural 3
+clinic 1
+clinics 1
+department 1
+***************************
+287 FY 13 Operating Budget By Cost Element (w. SUB)
+slh 2
+element 2
+operating 2
+13 2
+cost 2
+budget 2
+fy 2
+act 2
+2011 1
+state 1
+164 1
+code 1
+organization 1
+governmentwide 1
+hawaii 1
+2012 1
+appropriations 1
+support 1
+106 1
+id 1
+amended 1
+w 1
+sub 1
+fy13 1
+program 1
+***************************
+288 FY 12 & FY 13 CIP Budget
+fy 4
  3
-SLH 2
 13 2
 12 2
-ACT 2
-not 2
-of 1
-was 1
-2012 1
+budget 2
+slh 2
+projects 2
+act 2
+2011 1
+state 1
 164 1
-District 1
-CIP 1
-STATE 1
-IMPROVEMENT 1
-CAPITAL 1
-area 1
-AMENDED 1
-project 1
-GovernmentWide 1
-time 1
-Budget 1
+agr 1
 fy12 1
-include 1
-some 1
-2011 1
-for 1
-A102 1
-designations 1
-and 1
-alpha 1
-Numbers 1
-projects 1
-Also 1
-program 1
-HAWAII 1
-BY 1
+item 1
+rep 1
+governmentwide 1
 eg 1
-AGR 1
-AS 1
-download 1
-is 1
-Senate 1
-PROJECTS 1
-do 1
-Item 1
-budget 1
-fy13 1
-Note 1
-Support 1
 available 1
-OF 1
 106 1
-at 1
-P12000 1
-Rep 1
 information 1
+district 1
+include 1
+download 1
+hawaii 1
+numbers 1
+note 1
+was 1
+project 1
+2012 1
+cip 1
+support 1
+area 1
+capital 1
+designations 1
+a102 1
+amended 1
+alpha 1
+p12000 1
+also 1
+program 1
+fy13 1
+senate 1
+improvement 1
 ***************************
-289
-Hawaii 2
-eGov 1
-Applications 1
-applications 1
-Support 1
-apps 1
-Apps 1
+289 Hawaii eGov Apps
+hawaii 2
+applications 2
+apps 2
+egov 2
 egovernment 1
-Portal 1
-egov 1
 app 1
-GovernmentWide 1
-All 1
+portal 1
+governmentwide 1
+support 1
 ***************************
-290
-Slideshow 2
-Content 2
+290 Slideshow Content
+content 2
+slideshow 2
 ***************************
-291
-Category 2
-Stories 1
-for 1
-of 1
+291 Category Stories
+category 2
 pages 1
-Detail 1
-Dataset 1
 information 1
+dataset 1
+stories 1
+detail 1
 ***************************
-292
-State 2
-Cost 2
-Of 2
-For 2
-Electricity 2
-Agencies 2
-cost 1
-DBEDT 1
-Year 1
-electricity 1
-Fiscal 1
-by 1
-Economic 1
-Development 1
+292 DBEDT Cost Of Electricity For State Agencies by Fiscal Year
+electricity 3
+cost 3
+agencies 2
+state 2
+year 1
+dbedt 1
+development 1
+economic 1
+fiscal 1
 ***************************
-293
-of 1
-Providers 1
-training 1
-providers 1
-Training 1
-completers 1
+293 Hawaii Training Providers 2011
+providers 2
+training 2
 programs 1
-and 1
-Hawaii 1
-List 1
 2011 1
+completers 1
+hawaii 1
+list 1
 ***************************
-294
-CIP 2
-Expenditures 2
+294 CIP Expenditures
+expenditures 2
+famis 2
+cip 2
  1
-to 1
-Management 1
-Data 1
-Extract 1
-Financial 1
-Coded 1
-Information 1
-from 1
 analysis 1
-may 1
-interpret 1
-Accounting 1
-Monthly 1
-Support 1
-famis 1
-FAMIS 1
-dags 1
-System 1
+accounting 1
 further 1
-fields 1
+interpret 1
+governmentwide 1
+may 1
+information 1
+dags 1
+management 1
+coded 1
+system 1
+extract 1
 require 1
-GovernmentWide 1
+support 1
+monthly 1
+from 1
+financial 1
+fields 1
+data 1
 ***************************
-295
-English 3
-and 2
-SocioEconomic 1
-Demographic 1
-income 1
+295 Ability To Speak English By Total Income
+english 4
+income 2
+speak 2
 5 1
-less 1
-only 1
-Proficient 1
-Total 1
-Profile 1
-Excluding 1
-english 1
-those 1
-Culture 1
+socioeconomic 1
+culture 1
+profile 1
+ability 1
+lep 1
 years 1
-Limited 1
-LEP 1
-Recreation 1
-Population 1
-Speak 1
-By 1
-To 1
-Ability 1
-old 1
-speak 1
-Income 1
-than 1
-Hawaiis 1
-or 1
-A 1
-***************************
-296
-English 3
-and 2
-SocioEconomic 1
-Demographic 1
-race 1
-LEP 1
-5 1
-less 1
-only 1
-Proficient 1
-Profile 1
-Excluding 1
-english 1
+recreation 1
+excluding 1
+proficient 1
 those 1
-Race 1
-years 1
-Limited 1
-Recreation 1
-Culture 1
-Population 1
-Speak 1
-By 1
-To 1
-Ability 1
-old 1
-speak 1
-than 1
-Hawaiis 1
-or 1
-A 1
-***************************
-297
-English 3
-and 2
-SocioEconomic 1
-Demographic 1
-LEP 1
-5 1
+population 1
+hawaiis 1
+total 1
+demographic 1
 less 1
-Nativity 1
+limited 1
+old 1
+***************************
+296 Ability To Speak English By Race
+english 4
+race 2
+speak 2
+5 1
+socioeconomic 1
+profile 1
+ability 1
+years 1
+recreation 1
+excluding 1
+those 1
+population 1
+hawaiis 1
+lep 1
+demographic 1
+culture 1
+less 1
+limited 1
+proficient 1
+old 1
+***************************
+297 Ability To Speak English By Nativity
+english 4
+speak 2
+5 1
+socioeconomic 1
+culture 1
+profile 1
+ability 1
+lep 1
+years 1
+recreation 1
+excluding 1
+those 1
+population 1
+nativity 1
 native 1
-only 1
-Proficient 1
-Profile 1
-Excluding 1
-english 1
-those 1
-Culture 1
-years 1
-Limited 1
-Recreation 1
-Population 1
-Speak 1
-By 1
-To 1
-Ability 1
-old 1
-speak 1
-than 1
-Hawaiis 1
-or 1
-A 1
-***************************
-298
-English 3
-and 2
-SocioEconomic 1
-marital 1
-LEP 1
-5 1
+demographic 1
 less 1
-only 1
-Proficient 1
-Profile 1
-Excluding 1
-english 1
-those 1
-Culture 1
-years 1
-Limited 1
-Recreation 1
-Status 1
-Population 1
-Speak 1
-By 1
-To 1
-Ability 1
+limited 1
+proficient 1
 old 1
-Demographic 1
-speak 1
-A 1
-than 1
-Hawaiis 1
-or 1
-Marital 1
+hawaiis 1
 ***************************
-299
-English 3
-and 2
-english 1
-SocioEconomic 1
-Demographic 1
-LEP 1
+298 Ability To Speak English By Marital Status
+english 4
+marital 2
+speak 2
 5 1
-less 1
-only 1
-Proficient 1
-Profile 1
-Excluding 1
+socioeconomic 1
+culture 1
+profile 1
+ability 1
+status 1
+recreation 1
+excluding 1
 those 1
+population 1
+hawaiis 1
+lep 1
+demographic 1
+less 1
+years 1
+proficient 1
+old 1
+limited 1
+***************************
+299 Ability To Speak English By Language
+english 4
+language 2
+speak 2
+5 1
+socioeconomic 1
+culture 1
+profile 1
+ability 1
+years 1
+recreation 1
+excluding 1
+those 1
+population 1
+hawaiis 1
+lep 1
+demographic 1
+less 1
+limited 1
+proficient 1
+old 1
+***************************
+300 Ability To Speak English By Gender
+english 4
+speak 2
+5 1
+socioeconomic 1
+culture 1
+ability 1
+gender 1
+years 1
+recreation 1
+excluding 1
+those 1
+population 1
+hawaiis 1
+lep 1
+demographic 1
+less 1
+limited 1
+proficient 1
+old 1
+profile 1
+***************************
+301 Ability To Speak English By Age
+english 3
+age 2
+speak 2
+old 1
 language 1
-Culture 1
-years 1
-Limited 1
-Recreation 1
-Population 1
-Speak 1
-By 1
-To 1
-Ability 1
-old 1
-speak 1
-than 1
-Hawaiis 1
-or 1
-A 1
-Language 1
-***************************
-300
-English 3
-and 2
-english 1
-SocioEconomic 1
-Demographic 1
-LEP 1
-5 1
-less 1
-only 1
-Proficient 1
-Profile 1
-Excluding 1
-Gender 1
-those 1
-Culture 1
-years 1
-Limited 1
-Recreation 1
-Population 1
-Speak 1
-By 1
-To 1
-Ability 1
-old 1
-speak 1
-than 1
-Hawaiis 1
-or 1
-A 1
-***************************
-301
-English 2
+profile 1
+ability 1
 2007 1
-PROFICIENT 1
-PROFILE 1
-5 1
-less 1
-AND 1
-only 1
-age 1
-POPULATION 1
-LIMITED 1
-Excluding 1
+recreation 1
+excluding 1
 those 1
-language 1
-Culture 1
+lep 1
+population 1
+5 1
+socioeconomic 1
+culture 1
 years 1
-Recreation 1
-SOCIOECONOMIC 1
-Speak 1
-HAWAIIS 1
-By 1
-DEMOGRAPHIC 1
-To 1
-Ability 1
-old 1
-speak 1
-Age 1
-ENGLISH 1
-than 1
-and 1
-LEP 1
-or 1
-A 1
+hawaiis 1
+demographic 1
+less 1
+limited 1
+proficient 1
 ***************************
-302
-Right 2
-Entry 2
-Of 2
-DHHL 2
-of 1
-dhhl 1
-entry 1
-home 1
+302 DHHL Right Of Entry
+entry 3
+dhhl 3
+right 3
 hawaiian 1
 lands 1
-Economic 1
-Development 1
-right 1
+development 1
+home 1
+economic 1
 ***************************
-303
-Defense 3
-State 2
-Siren 2
-Locations 2
-Civil 2
-Emergency 2
+303 Department of Defense - State Civil Defense Emergency Siren Locations
+defense 3
+siren 3
+state 2
+locations 2
+civil 2
+emergency 2
+public 1
  1
 scd 1
-Safety 1
-Public 1
-Department 1
-of 1
-siren 1
+safety 1
+department 1
 ***************************
-304
-State 2
-Hurricane 2
-Civil 2
-Shelters 2
-Defense 2
+304 State Civil Defense Hurricane Shelters
+state 2
+shelters 2
+defense 2
+civil 2
+hurricane 2
 schools 1
-Safety 1
-at 1
+public 1
 shelter 1
-Public 1
+safety 1
 ***************************
-305
-Leases 2
-General 2
-DHHL 2
-hawaiian 1
-leases 1
-dhhl 1
+305 DHHL General Leases
+general 3
+dhhl 3
+leases 3
 lands 1
-Economic 1
-Development 1
+development 1
 home 1
-general 1
-***************************
-306
-DHHL 2
-Licenses 2
 hawaiian 1
-lands 1
-licenses 1
-dhhl 1
-Economic 1
-Development 1
-home 1
+economic 1
 ***************************
-307
-Permits 2
-Revocable 2
-DHHL 2
+306 DHHL Licenses
+licenses 3
+dhhl 3
+lands 1
+development 1
+home 1
+hawaiian 1
+economic 1
+***************************
+307 DHHL Revocable Permits
+permits 3
+dhhl 3
+revocable 2
 recovable 1
-permits 1
-hawaiian 1
-dhhl 1
 lands 1
-Economic 1
-Development 1
 home 1
+development 1
+hawaiian 1
+economic 1
 ***************************
-308
-and 9
-green 8
+308 Hawaii Directory Of Green Employers
+green 10
+hawaii 7
+employers 7
+energy 6
  5
-of 5
-employers 5
-Hawaii 4
-energy 4
-in 4
-the 3
-Directory 3
-their 3
-The 3
+directory 4
 jobs 3
-hawaii 3
+sustainable 2
+education 2
+describe 2
+renewable 2
+core 2
+labor 2
+waste 2
+natural 2
+dlir 2
+profiles 2
+companies 2
 workers 2
-clean 2
+department 2
+businesses 2
+industrial 2
+relations 2
 efficiency 2
 occupations 2
-they 2
-sustainable 2
-describe 2
-core 2
-businesses 2
-Green 2
-Energy 2
-waste 2
-Employers 2
-profiles 2
-these 2
-that 2
-renewable 2
-companies 2
-solar 1
-production 1
-learn 1
-students 1
-is 1
-Department 1
-advisors 1
-specify 1
-can 1
-leed 1
-a 1
-Reduce 1
-selfposted 1
-require 1
-Jobseekers 1
-conservation 1
-employees 1
-skills 1
-environment 1
-areas 1
-department 1
-Of 1
-recycling 1
-industrial 1
-Employment 1
-support 1
-Generate 1
-relations 1
-conserve 1
-about 1
-management 1
-operations 1
-resources 1
-initiative 1
-recycle 1
-dlir 1
-others 1
-labor 1
-to 1
-growing 1
+clean 2
+reduce 1
 employer 1
-pollution 1
-Labor 1
-want 1
-DLIR 1
-sustainability 1
-natural 1
-training 1
-Industrial 1
-counselors 1
-online 1
-defines 1
-environmentallyfriendly 1
-directory 1
-workforce 1
-employ 1
-as 1
-education 1
-contains 1
-Relations 1
-Natural 1
-Education 1
+students 1
 access 1
+support 1
+environmentallyfriendly 1
+recycling 1
+counselors 1
+others 1
+defines 1
+leed 1
+workforce 1
+require 1
+sustainability 1
+skills 1
+conserve 1
+management 1
+environment 1
+online 1
+initiative 1
+growing 1
+about 1
+contains 1
+employees 1
+solar 1
+recycle 1
+conservation 1
+generate 1
+selfposted 1
+employ 1
+specify 1
+training 1
+jobseekers 1
+employment 1
+operations 1
+advisors 1
+resources 1
+production 1
+pollution 1
+learn 1
+areas 1
 ***************************
-309
-unions 2
-Maui 2
-County 2
-deaths 2
-Births 2
-civil 2
+309 Maui County Births, Deaths, Marriages, Civil Unions 2012
+deaths 3
+unions 3
+civil 3
+county 2
+marriages 2
+births 2
+maui 2
+birth 1
+2012 1
 mariiage 1
-Unions 1
-2012 1
-in 1
-Health 1
-Marriages 1
-marriages 1
-Civil 1
-and 1
-birth 1
-Deaths 1
+health 1
 ***************************
-310
-unions 2
-County 2
-Kauai 2
-Births 2
+310 Kauai County Births, Deaths, Marriages, Civil Unions 2012
+civil 3
+unions 3
+kauai 2
+deaths 2
+marriages 2
+county 2
+births 2
+2012 1
+death 1
+health 1
+birth 1
+marriage 1
+***************************
+311 Honolulu County Births, Deaths, Marriages, Civil Unions 2012
+marriages 2
 civil 2
-Deaths 2
-death 1
-marriages 1
-Unions 1
-2012 1
-in 1
-Health 1
-Marriages 1
-Civil 1
-marriage 1
-and 1
-birth 1
-***************************
-311
-County 2
-Honolulu 2
+county 2
+honolulu 2
  1
-marriages 1
-of 1
-death 1
-Unions 1
+deaths 1
 2012 1
+death 1
+health 1
 statistics 1
-Health 1
-Marriages 1
-Civil 1
-Births 1
 union 1
-civil 1
-City 1
 birth 1
-Deaths 1
+city 1
+births 1
+unions 1
 ***************************
-312
-Hawaii 2
-County 2
-death 1
-of 1
-marriagee 1
-Unions 1
+312 Hawaii County Births, Deaths, Marriages, Civil Unions 2012
+civil 2
+county 2
+hawaii 2
+deaths 1
 2012 1
+marriages 1
+death 1
+health 1
 island 1
-Health 1
-Marriages 1
-Civil 1
 statistics 1
-Births 1
 union 1
-civil 1
-and 1
 birth 1
-Deaths 1
+marriagee 1
+births 1
+unions 1
 ***************************
-313
-Unions 2
-Marriages 2
-Civil 2
-Births 2
-Deaths 2
-Statewide 1
-counts 1
-death 1
-2012 1
+313 Statewide Births, Deaths, Marriages, Civil Unions 2012
+civil 3
+deaths 2
+marriages 2
+unions 2
+births 2
 month 1
-Health 1
-marriage 1
-by 1
-civil 1
-and 1
-birth 1
-***************************
-314
-Marriages 2
-and 2
-Where 1
-Both 1
-Recreation 1
 2012 1
-Groom 1
-Bride 1
-NonResidents 1
-Nonresident 1
-wedding 1
-Are 1
-Culture 1
-***************************
-315
-Birth 2
-State 1
- 1
-over 1
-of 1
-Rate 1
-rates 1
-time 1
-Hawaii 1
-1900 1
-Health 1
-birth 1
-2011 1
-***************************
-316
-Health 2
-State 1
- 1
-the 1
-of 1
-Rate 1
-Hawaii 1
-1900 1
-from 1
-Statistics 1
-Of 1
 death 1
-Department 1
-Death 1
+health 1
+birth 1
+counts 1
+statewide 1
+marriage 1
+***************************
+314 Non-resident Marriages 2012
+marriages 2
+are 1
+culture 1
+2012 1
+recreation 1
+nonresidents 1
+both 1
+groom 1
+bride 1
+where 1
+nonresident 1
+wedding 1
+***************************
+315 Birth Rate, State of Hawaii 1900 - 2011
+birth 3
+ 1
+1900 1
+rate 1
+state 1
+rates 1
 2011 1
+hawaii 1
+health 1
 ***************************
-317
-Fossil 2
-Electric 2
-DBEDT 2
-Hybrid 2
-Of 2
-Chart 2
-Pie 2
-Cars 2
-electric 1
-hybrid 1
-Economic 1
-Development 1
+316 Death Rate, State Of Hawaii 1900 - 2011
+death 2
+health 2
+ 1
+1900 1
+rate 1
+state 1
+statistics 1
+from 1
+2011 1
+department 1
+hawaii 1
 ***************************
-318
-Distributed 2
-DBEDT 2
-New 2
-Hawaii 2
-Installed 2
-Renewable 2
-Systems 2
-In 2
-Energy 2
+317 DBEDT Pie Chart Of Electric Hybrid Fossil Cars
+hybrid 3
+electric 3
+fossil 2
+dbedt 2
+chart 2
+pie 2
+cars 2
+development 1
+economic 1
+***************************
+318 DBEDT New Distributed Renewable Energy Systems Installed In Hawaii Annually 2001-2010
+energy 3
+renewable 3
 20012010 2
-Annually 2
-energy 1
-renewable 1
-Economic 1
-Development 1
+annually 2
+dbedt 2
+distributed 2
+installed 2
+systems 2
+hawaii 2
+development 1
+economic 1
 ***************************
-319
-Customer 2
-Annual 2
-Solar 2
-HECO 2
-Watts 2
+319 DBEDT HECO Ranks Third In 2010 Annual Solar Watts Per Customer
+per 2
+watts 2
+heco 2
+annual 2
+dbedt 2
+customer 2
+third 2
 2010 2
-DBEDT 2
-Ranks 2
-In 2
-Third 2
-Per 2
+solar 2
+ranks 2
 electricity 1
-Economic 1
-Development 1
+development 1
+economic 1
 ***************************
-320
-Job 2
-Economy 2
-Clean 2
-Growth 2
-DBEDT 2
-Hawaiis 2
-clean 1
-Economic 1
-job 1
-Development 1
+320 DBEDT Hawaii's Clean Economy Job Growth
+clean 3
+job 3
+hawaiis 2
+growth 2
+dbedt 2
+economy 2
+development 1
+economic 1
 ***************************
-321
-Miles 2
-Vehicle 2
-DBEDT 2
+321 DBEDT Hawaii Vehicle Miles Traveled 1990-2010
+vehicle 3
+miles 3
+traveled 2
 19902010 2
-Traveled 2
-Hawaii 2
-vehicle 1
-miles 1
-Transportation 1
-Facilities 1
+dbedt 2
+hawaii 2
+facilities 1
+transportation 1
 ***************************
-322
-Top 2
-DBEDT 2
-Among 2
-Hawaii 2
-The 2
-Utility 2
-Companies 2
-Rank 2
+322 DBEDT Hawaii Utility Companies Rank Among The Top
+utility 3
+among 2
+top 2
+rank 2
+dbedt 2
+companies 2
+hawaii 2
+development 1
+energy 1
 electric 1
-energy 1
-utility 1
-Economic 1
-Development 1
+economic 1
 ***************************
-323
-Customer 2
-Top 2
-Watts 2
-DBEDT 2
-Among 2
-Cumulative 2
-Hawaii 2
-The 2
-Utility 2
-Solar 2
-Companies 2
-Rank 2
-Per 2
-In 2
+323 DBEDT Hawaii Utility Companies Rank Among The Top In Cumulative Solar Watts Per Customer
+utility 3
+top 2
+watts 2
+solar 2
+dbedt 2
+among 2
+cumulative 2
+hawaii 2
+per 2
+rank 2
+customer 2
+companies 2
 energy 1
-utility 1
-Economic 1
-Development 1
+development 1
+economic 1
 ***************************
-324
-State 2
-Cost 2
-FY10 2
-DBEDT 2
-Hawaii 2
-Electricity 2
-Agencies 2
-FY05 2
-And 2
-Consumption 2
+324 DBEDT Hawaii State Agencies Electricity Consumption And Cost FY05- FY10
+electricity 3
+cost 2
+state 2
+dbedt 2
+fy05 2
+agencies 2
+hawaii 2
+fy10 2
+consumption 2
 energy 1
-Economic 1
-electricity 1
-Development 1
+development 1
+economic 1
 ***************************
-325
+325 DBEDT Hawaii Renewable Energy Generation 2005-2010
+energy 3
 20052010 2
-Renewable 2
-Energy 2
-Generation 2
-DBEDT 2
-Hawaii 2
-energy 1
-Economic 1
-Development 1
+generation 2
+renewable 2
+dbedt 2
+hawaii 2
+development 1
+economic 1
 ***************************
-326
-Gross 2
-Domestic 2
-DBEDT 2
-Product 2
-Nominal 2
-Hawaii 2
+326 DBEDT Hawaii Nominal Gross Domestic Product 2000-2010
+product 3
+gross 2
 20002010 2
-product 1
-Economic 1
-Development 1
+dbedt 2
+nominal 2
+hawaii 2
+domestic 2
+development 1
+economic 1
 ***************************
-327
-DBEDT 2
-Fossil 2
-Fuel 2
-Expenditures 2
-Consumption 2
+327 DBEDT Hawaii Fossil Fuel Consumption And Expenditures 1970-2009
+fuel 3
+fossil 2
+consumption 2
+dbedt 2
+expenditures 2
 19702009 2
-And 2
-Hawaii 2
-fuel 1
-Economic 1
-Development 1
+hawaii 2
+development 1
+economic 1
 ***************************
-328
-Star 2
-Energy 2
-Buildings 2
-DBEDT 2
-Hawaii 2
+328 DBEDT Hawaii Energy Star Buildings 2003-2011
+energy 3
 20032011 2
+buildings 2
+dbedt 2
+star 2
+hawaii 2
 building 1
-energy 1
-Economic 1
-Development 1
+development 1
+economic 1
 ***************************
-329
+329 DBEDT Hawaii Energy Efficiency Improvements 2005-2010
+energy 3
+efficiency 2
 20052010 2
-Energy 2
-DBEDT 2
-Improvements 2
-Hawaii 2
-Efficiency 2
-energy 1
-Economic 1
-Development 1
+dbedt 2
+improvements 2
+hawaii 2
+development 1
+economic 1
 ***************************
-330
-Consumption 2
-Electricity 2
-DBEDT 2
-Hawaii 2
+330 DBEDT Hawaii Electricity Consumption 1970-2010
+electricity 3
+consumption 2
+dbedt 2
 19702010 2
-electricity 1
+hawaii 2
 energy 1
-Economic 1
-Development 1
+development 1
+economic 1
 ***************************
-331
-Population 2
-DBEDT 2
-By 2
-Hawaii 2
-County 2
-De 2
-Facto 2
+331 DBEDT Hawaii De Facto Population By County 2000-2010
+population 3
+hawaii 2
+county 2
 20002010 2
+dbedt 2
+facto 2
+de 2
 people 1
-population 1
-Economic 1
-Development 1
+development 1
+economic 1
 ***************************
-332
-Electric 2
-DBEDT 2
-Cumulative 2
-Hawaii 2
-Hybrid 2
-And 2
+332 DBEDT Hawaii Cumulative Hybrid And Electric Vehicles Registered 2000-2010
+hybrid 3
+electric 2
+dbedt 2
+cumulative 2
+vehicles 2
 20002010 2
-Registered 2
-Vehicles 2
+registered 2
+hawaii 2
 energy 1
+economic 1
 electricity 1
-hybrid 1
-Economic 1
-Development 1
+development 1
 ***************************
-333
-Annual 2
-Cost 2
-DBEDT 2
+333 DBEDT Hawaii Annual Electricity Cost And Consumption 2006-2010
+electricity 3
+consumption 2
+annual 2
 20062010 2
-Hawaii 2
-Electricity 2
-And 2
-Consumption 2
+dbedt 2
+cost 2
+hawaii 2
 energy 1
-Economic 1
-electricity 1
-Development 1
+development 1
+economic 1
 ***************************
-334
-Per 2
-Contracting 2
-Energy 2
-Performance 2
-DBEDT 2
-Savings 2
-Capita 2
+334 DBEDT Energy Savings Performance Contracting Per Capita
+energy 3
+savings 2
+capita 2
+per 2
+dbedt 2
+contracting 2
+performance 2
+development 1
+economic 1
+***************************
+335 DBEDT Electricity Consumption By State Agencies FY05- FY10
+electricity 3
+fy10 2
+state 2
+consumption 2
+dbedt 2
+fy05 2
+agencies 2
 energy 1
-Economic 1
-Development 1
+development 1
+economic 1
 ***************************
-335
-State 2
-FY10 2
-DBEDT 2
-By 2
-Electricity 2
-Agencies 2
-FY05 2
-Consumption 2
-energy 1
-electricity 1
-Economic 1
-Development 1
+336 DBEDT Currently Proposed Renewable Energy Projects In Hawaii
+energy 3
+hawaii 2
+currently 2
+renewable 2
+dbedt 2
+projects 2
+proposed 2
+development 1
+economic 1
 ***************************
-336
-Renewable 2
-Energy 2
-DBEDT 2
-Projects 2
-Hawaii 2
-Currently 2
-Proposed 2
-In 2
-energy 1
-Economic 1
-Development 1
-***************************
-337
-Per 2
-Capita 2
-Capacity 2
-DBEDT 2
-Photovoltaic 2
-Cumulative 2
-Installed 2
-electricity 1
-energy 1
-Economic 1
-Development 1
-***************************
-338
-State 2
-Cost 2
-FY10 2
-DBEDT 2
-Of 2
-For 2
-FY05 2
-Electricity 2
-Agencies 2
+337 DBEDT Cumulative Installed Photovoltaic Capacity Per Capita
+per 2
+photovoltaic 2
+dbedt 2
+capacity 2
+installed 2
+capita 2
+cumulative 2
 energy 1
 electricity 1
-Economic 1
-Development 1
+development 1
+economic 1
 ***************************
-339
-Job 2
-Clean 2
-Growth 2
-DBEDT 2
+338 DBEDT Cost Of Electricity For State Agencies FY05- FY10
+electricity 3
+fy10 2
+state 2
+agencies 2
+dbedt 2
+fy05 2
+cost 2
+energy 1
+development 1
+economic 1
+***************************
+339 DBEDT Clean Economy Job Growth 2003-2010
+clean 3
+economy 3
+growth 2
+dbedt 2
+job 2
 20032010 2
-Economy 2
-clean 1
-economy 1
-Economic 1
-Development 1
+development 1
+economic 1
 ***************************
-340
-U 2
-Gasoline 2
-Regular 2
-DBEDT 2
+340 DBEDT Average Monthly Regular Gasoline Price Hawaii Vs U. S. 2006-2010
+gasoline 3
+vs 2
+regular 2
+u 2
+price 2
+s 2
+monthly 2
+hawaii 2
 20062010 2
-Hawaii 2
-Vs 2
-Average 2
-Price 2
-S 2
-Monthly 2
-gasoline 1
+dbedt 2
+average 2
+development 1
 fuel 1
-Economic 1
-Development 1
+economic 1
 ***************************
-341
-U 2
-Annual 2
-Gasoline 2
-Regular 2
-DBEDT 2
+341 DBEDT Average Annual Regular Gasoline Price Hawaii Vs U. S. 2006-2010
+gasoline 3
+annual 2
+dbedt 2
+s 2
+vs 2
+hawaii 2
+price 2
 20062010 2
-Hawaii 2
-Vs 2
-Average 2
-Price 2
-S 2
-gasoline 1
+regular 2
+average 2
+u 2
 energy 1
-Economic 1
-Development 1
+development 1
+economic 1
 ***************************
-342
-Health 2
-Hospitals 2
-Department 1
+342 Hospitals in Hawaii
+hospitals 2
+health 2
 listing 1
 hospital 1
-of 1
-in 1
-Hawaii 1
+hawaii 1
+department 1
 ***************************
-343
+343 Table 7.03 VISITOR ARRIVALS AND AVERAGE DAILY VISITOR CENSUS 1966 TO 2011
 from 4
  3
+visitor 3
 overnight 2
-visitors 2
-the 2
-includes 2
-flights 2
-passengers 2
-and 2
-all 2
-VISITOR 2
-or 2
 originating 2
-nonovernight 1
-ARRIVALS 1
-mainland 1
-Hawaii 1
+flights 2
+tourism 2
+passengers 2
+includes 2
+visitors 2
+united 1
+average 1
 state 1
-trips 1
-Economic 1
-Development 1
-visitor 1
-any 1
-other 1
-703 1
-Covers 1
-DAILY 1
-Domestic 1
-States 1
-these 1
-staying 1
-Tourism 1
-tourism 1
-AND 1
-Table 1
-US 1
-CENSUS 1
-1966 1
-interisland 1
-in 1
-reported 1
-TO 1
-Authority 1
-longer 1
-United 1
-International 1
-territories 1
+census 1
+daily 1
+covers 1
+states 1
 countries 1
-by 1
-AVERAGE 1
-anywhere 1
-Source 1
+1966 1
+authority 1
+domestic 1
+reported 1
+staying 1
 2011 1
+hawaii 1
+703 1
+economic 1
+international 1
+territories 1
+trips 1
+interisland 1
+arrivals 1
+table 1
+nonovernight 1
+mainland 1
+source 1
+development 1
+longer 1
+anywhere 1
 ***************************
-344
-Care 2
-Nursing 2
-Skilled 2
-Facilities 2
-Health 2
-of 1
-care 1
-Department 1
-nursing 1
-***************************
-345
-Physical 2
-Outpatient 2
-therapy 2
-locations 2
-Health 2
-Therapy 1
-of 1
-physical 1
-outpatient 1
-Department 1
-***************************
-346
-Procurement 2
+344 Skilled Nursing Care Facilities
+nursing 3
+care 3
+skilled 2
 facilities 2
-Health 2
-Organ 2
-of 1
+health 2
+department 1
+***************************
+345 Outpatient Physical therapy locations
+therapy 3
+outpatient 3
+physical 3
+health 2
+locations 2
+department 1
+***************************
+346 Organ Procurement facilities
+organ 3
+procurement 2
+facilities 2
+health 2
 organs 1
-Department 1
-organ 1
+department 1
 ***************************
-347
-Care 2
-Intermediate 2
-Facilities 2
-Licensed 2
-the 1
-Retarded 1
+347 Licensed Intermediate Care Facilities
+retarded 2
+facilities 2
+intermediate 2
+licensed 2
+care 2
+health 2
+mentally 1
 mental 1
-retarded 1
-Mentally 1
-Health 1
-for 1
+***************************
+348 Hospice Facilities
+hospice 3
+health 2
+listing 1
+facilities 1
+department 1
+***************************
+349 Home Health Agencies
+health 5
+home 3
+agencies 2
+listing 1
+department 1
+***************************
+350 Family Guidance Centers
+guidance 3
+family 3
+centers 2
+health 2
+listing 1
+department 1
+***************************
+351 Free Standing X-Ray Facility
+xray 3
+standing 2
+facility 2
+free 2
 health 1
 ***************************
-348
-Hospice 2
-Health 2
-hospice 1
-of 1
-Department 1
-Facilities 1
-listing 1
-***************************
-349
-Health 4
-Agencies 2
-Home 2
-listing 1
+352 Family Guidance Centers
+family 3
+guidance 2
+centers 2
 health 1
-of 1
-Department 1
-home 1
 ***************************
-350
-Family 2
-of 2
-Guidance 2
-Health 2
-listing 1
-centers 1
-Department 1
-family 1
-Centers 1
-guidance 1
-***************************
-351
-Free 2
-Facility 2
-xray 1
-standing 1
-XRay 1
-Standing 1
-XRAY 1
-Health 1
-***************************
-352
-Family 2
-Centers 2
-Guidance 2
-family 1
-Health 1
-***************************
-353
-Station 2
-Data 2
-Energy 2
-Alt 2
-ev 1
+353 Alt Energy Station Data
+data 2
+energy 2
+alt 2
+station 2
 electric 1
 charging 1
-Transportation 1
-Facilities 1
-Refueling 1
+facilities 1
+ev 1
+transportation 1
+refueling 1
 ***************************
-354
-Dialysis 2
-in 1
+354 Dialysis Centers
+dialysis 2
+center 1
+health 1
 doh 1
-Hawaii 1
-Centers 1
-Center 1
-Health 1
+centers 1
+hawaii 1
 ***************************
-355
-DOH 1
+355 DOH CAMHD
+residential 1
+camhd 1
 services 1
-Intensive 1
-Home 1
-Residential 1
-or 1
-care 1
-Health 1
-CAMHD 1
-***************************
-356
-surgery 1
-Surgical 1
-Outpatient 1
+home 1
 doh 1
-Ambulatory 1
-Centers 1
+intensive 1
+care 1
+health 1
+***************************
+356 Ambulatory Surgical Centers
+surgery 1
+ambulatory 1
+doh 1
+surgical 1
+centers 1
+outpatient 1
+health 1
 locations 1
-Health 1
 ***************************
-357
-and 3
-Prevention 2
-Services 2
-Abuse 2
-Drug 2
-Alocohol 1
-of 1
-in 1
-Alcohol 1
-Health 1
+357 Alcohol and Drug Abuse Prevention Services
+alcohol 2
+drug 2
+prevention 2
+abuse 2
+services 2
+awareness 1
 drugs 1
-alcohol 1
+health 1
 participating 1
-Location 1
 facilities 1
-Awareness 1
+location 1
+alocohol 1
 ***************************
-358
-Health 3
-Day 2
-Center 2
-Adult 2
+358 Adult Day Health Center facilities
+health 3
+adult 2
+center 2
+day 2
+facilities 1
 adhc 1
-facilities 1
 ***************************
-359
-the 2
-big 1
-Food 1
+359 Hawaii County TEFAP Agencies
+big 2
+agencies 2
+island 2
 participate 1
-Support 1
-on 1
-island 1
-Island 1
-USDA 1
-Hawaii 1
-Big 1
-County 1
-agencies 1
-in 1
-TEFAP 1
-Agencies 1
-Program 1
-Emergency 1
-who 1
-GovernmentWide 1
-Organizations 1
-***************************
-360
-in 2
-Maui 2
-County 2
-USDA 1
-the 1
+support 1
+governmentwide 1
+usda 1
 county 1
-Support 1
-agencies 1
-TEFAP 1
-participating 1
-Agencies 1
-maui 1
-GovernmentWide 1
-Organizations 1
-***************************
-361
-Kauai 2
-USDA 1
-the 1
-Food 1
-kauai 1
-Support 1
-on 1
-in 1
-Program 1
-agencies 1
-TEFAP 1
-participating 1
-Agencies 1
-Emergency 1
-GovernmentWide 1
-Organizations 1
-***************************
-362
-USDA 1
-the 1
-Food 1
-Support 1
-in 1
+emergency 1
+hawaii 1
+organizations 1
+food 1
 tefap 1
-Program 1
-Assistance 1
-TEFAP 1
+program 1
+***************************
+360 Maui County TEFAP Agencies
+county 3
+maui 3
+agencies 2
 participating 1
-Agencies 1
-Emergency 1
-GovernmentWide 1
-Oahu 1
-Organizations 1
-oahu 1
+organizations 1
+usda 1
+support 1
+tefap 1
+governmentwide 1
 ***************************
-363
-Primary 2
+361 Kauai TEFAP Agencies
+kauai 3
+agencies 2
+program 1
+emergency 1
+food 1
+participating 1
+organizations 1
+support 1
+usda 1
+governmentwide 1
+tefap 1
+***************************
+362 Oahu TEFAP Agencies
+tefap 2
+oahu 2
+agencies 1
+organizations 1
+support 1
+assistance 1
+governmentwide 1
+usda 1
+program 1
+emergency 1
+food 1
+participating 1
+***************************
+363 Primary Election Summary Results 2012
+election 3
+primary 3
 2012 2
-Summary 2
-Election 2
-the 1
-of 1
-Support 1
-Results 1
-primary 1
-election 1
-GovernmentWide 1
-results 1
+results 2
+summary 2
+support 1
+governmentwide 1
 ***************************
-364
-Primary 2
+364 Primary Election Precinct Results 2012
+election 3
+primary 3
 2012 2
-Election 2
-the 1
-of 1
-Support 1
-Results 1
-Precinct 1
-Detailed 1
-primary 1
-election 1
-GovernmentWide 1
-results 1
+results 2
+precinct 1
+detailed 1
+support 1
+governmentwide 1
 ***************************
-365
-of 3
-Hawaii 3
-visitor 3
-Plant 2
-accommodations 2
-the 2
-Inventory 2
-Visitor 2
+365 2011 Visitor Plant Inventory Hawaii
+visitor 5
+hawaii 3
+inventory 2
+plant 2
 2011 2
+accommodations 2
  1
-Existing 1
-Authoritys 1
-rooms 1
-units 1
-as 1
-The 1
-individual 1
-May 1
+vacation 1
 1 1
-Economic 1
-Development 1
 condo 1
-breakfast 1
 bed 1
 results 1
-hotel 1
-in 1
+existing 1
+units 1
+may 1
+individual 1
 enumeration 1
+authoritys 1
+economic 1
 timeshare 1
+rooms 1
+tourism 1
+development 1
+breakfast 1
 tourist 1
+hotel 1
 presents 1
-Tourism 1
-vacation 1
 ***************************
-366
+366 HI-NBM-ADDRESS-SHP-December 2011
+broadband 4
 data 3
-of 2
-Broadband 2
-the 2
-and 2
-broadband 2
-This 2
-in 2
 2011 2
-December 1
-2012 1
-Administration 1
-District 1
-state 1
-2 1
-contain 1
-availibility 1
-every 1
-State 1
-NTIA 1
-over 1
-Availibility 1
-National 1
-current 1
-HINBMADDRESSSHPDecember 1
-Territory 1
-April 1
-square 1
-to 1
-Telecommunications 1
-on 1
-Columbia 1
+state 2
+availibility 2
+initiative 1
 1 1
-submitted 1
-Census 1
-is 1
-December2011 1
-grantees 1
-Initiative 1
-as 1
-GovernmentWide 1
-folders 1
-Support 1
-from 1
-points 1
-31 1
+census 1
+territory 1
+every 1
 mile 1
-Information 1
+folders 1
+31 1
+governmentwide 1
+points 1
+columbia 1
+information 1
+district 1
+national 1
+current 1
+april 1
+ntia 1
+administration 1
+2012 1
+submitted 1
+support 1
+from 1
+december 1
+hinbmaddressshpdecember 1
+square 1
+grantees 1
+telecommunications 1
 address 1
 blocks 1
+contain 1
+2 1
+december2011 1
 ***************************
-367
-HI 1
-Broadband 1
-SHP 1
-December2011 1
-Information 1
-NBM 1
-Block 1
-***************************
-368
-HI 1
-Broadband 1
-SHP 1
-Road 1
-December2011 1
-NBM 1
+367 HI- NBM- Block- SHP- December-2011
+shp 1
+block 1
 information 1
+hi 1
+broadband 1
+december2011 1
+nbm 1
 ***************************
-369
-HI 1
-Broadband 1
-SHP 1
-Wireless 1
-December2011 1
-Information 1
-NBM 1
+368 HI- NBM- Road- SHP- December-2011
+shp 1
+information 1
+hi 1
+broadband 1
+december2011 1
+road 1
+nbm 1
 ***************************
-370
-Development 2
-Book 2
-Economic 2
-Data 2
-the 1
-and 1
-Tables 1
-Sections 1
-Avilable 1
-Business 1
-Tourism 1
-links 1
-DatSets 1
-via 1
-Department 1
+369 HI- NBM- Wireless- SHP- December-2011
+wireless 1
+shp 1
+information 1
+hi 1
+broadband 1
+december2011 1
+nbm 1
+***************************
+370 2011 Data Book Sections And Tables
+data 2
+development 2
+book 2
+economic 2
+avilable 1
+business 1
 2011 1
+links 1
+department 1
 databook 1
 800 1
-of 1
-And 1
-Over 1
+datsets 1
+via 1
+tourism 1
+tables 1
+sections 1
 ***************************
-371
-State 2
-Open 2
-Of 2
-Data 2
-Policy 2
-Hawaii 2
+371 State Of Hawaii Open Data Policy
+open 2
+data 2
+state 2
+hawaii 2
+policy 2
 ***************************
-372
-of 5
-the 3
-enforced 1
-SEALS 1
-agricultural 1
-with 1
-Hawaiigrown 1
-QUALITY 1
-Products 1
+372 SEALS OF QUALITY
+quality 3
+seals 3
+products 2
 are 1
-or 1
-is 1
-quality 1
-this 1
-genuine 1
-seals 1
-seal 1
-Hawaiimade 1
-producers 1
-Economic 1
-represents 1
-crop 1
-that 1
-guarantee 1
-products 1
-premium 1
-OF 1
-Development 1
-a 1
+hawaiigrown 1
 agriculture 1
-Quality 1
-State 1
-by 1
-Hawaii 1
-Hawaiis 1
+crop 1
+represents 1
 cream 1
-Seals 1
-***************************
-373
-schools 2
-Hawaii 2
-all 1
-Data 1
-public 1
-Schools 1
-about 1
-in 1
-Public 1
-***************************
-374
-Areas 2
-Interest 2
-Recreation 1
-of 1
-in 1
-Of 1
-and 1
-Hawaii 1
-Honolulu 1
-Culture 1
-***************************
-375
-Oahu 2
-for 1
-Other 1
-Zipcodes 1
-Layer 1
-Zipcode 1
-***************************
-376
-Listing 2
-Health 2
-DOH 1
-Nursing 1
-health 1
-listing 1
-public 1
-nursing 1
-Facilities 1
-Public 1
-***************************
-377
-Home 2
-Residential 2
-Care 2
-Adult 2
-DOH 1
-Listing 1
-LISTING 1
-listing 1
-Facilities 1
-arch 1
-Health 1
-***************************
-378
-DOH 1
-Listing 1
-HIV 1
-std 1
-STD 1
-Clinic 1
-Facilities 1
-hiv 1
-Health 1
-clinic 1
-***************************
-379
-Listing 2
-Assisted 2
-Living 2
-Facilities 2
-DOH 1
-alf 1
-listing 1
-Health 1
-***************************
-380
-Indicators 2
-indicators 1
-Actual 1
-Key 1
-Environmental 1
-2015 1
-key 1
-TO 1
-Hawaii 1
-Health 1
-DOH 1
-for 1
-A1 1
-Table 1
-economic 1
-Forecast 1
-of 1
-and 1
-Economic 1
-2010 1
-***************************
-381
-Waste 1
-Indicators 1
-Environmental 1
-Generated 1
-generated 1
-Health 1
-DOH 1
-19 1
-Hazardous 1
-waste 1
-Table 1
-hazardous 1
-***************************
-382
-Tanks 1
-18 1
-Indicators 1
-Environmental 1
-tanks 1
-storage 1
-Health 1
-DOH 1
-Leaking 1
-leaking 1
-Storage 1
-underground 1
-Table 1
-Underground 1
-***************************
-383
-Waste 1
-DOH 1
-Solid 1
-Indicators 1
-Environmental 1
-tons 1
-17 1
-Health 1
-Recycled 1
-in 1
-recycled 1
-waste 1
-Table 1
-solid 1
-***************************
-384
-Waste 1
-Person 1
-Solid 1
-Indicators 1
-Environmental 1
-Generated 1
-generated 1
-Health 1
-DOH 1
-Pounds 1
-Per 1
-waste 1
-Table 1
-16 1
-solid 1
-***************************
-385
-Indicators 1
-Table 1
-Chemical 1
-Environmental 1
-chemical 1
-Releases 1
-15 1
-Health 1
-DOH 1
-oil 1
-Oil 1
-releases 1
-and 1
-***************************
-386
-TRI 1
-release 1
-inventory 1
-14 1
-Environmental 1
-in 1
-toxic 1
-Toxic 1
-Health 1
-DOH 1
-Release 1
-Inventory 1
-Indicators 1
-Table 1
-pounds 1
-***************************
-387
-13 1
-Recycled 1
-Indicators 1
-Environmental 1
-recycled 1
-DOH 1
-wastewater 1
-Table 1
-Health 1
-Wastewater 1
-***************************
-388
- 1
-Treatment 1
-Indicators 1
-Environmental 1
-Operations 1
-Plant 1
-plant 1
-Health 1
-treatment 1
-Compliance 1
-DOH 1
-12 1
-wastewater 1
-Table 1
-Wastewater 1
-***************************
-389
-Indicators 1
-Environmental 1
-injection 1
-UIC 1
-Health 1
-Control 1
-DOH 1
-11 1
-Permits 1
-Injection 1
-Total 1
-underground 1
-control 1
-Table 1
-Underground 1
-***************************
-390
-10 1
-Sanitary 1
-Surveys 1
-Environmental 1
-Drinking 1
-water 1
-sanitary 1
-Cumulative 1
-Water 1
-Health 1
-DOH 1
-Systems 1
-Indicators 1
-of 1
-Table 1
-***************************
-391
-safe 1
-percentage 1
-Safe 1
-of 1
-Population 1
-served 1
-Percentage 1
-water 1
-Drinking 1
-population 1
-Health 1
-DOH 1
-drinking 1
-Water 1
-Indicators 1
-9 1
-Table 1
-Environmental 1
-***************************
-392
-DOH 1
-Indicators 1
-of 1
-Environmental 1
-perennial 1
-streams 1
-Island 1
-Hawaiian 1
-Health 1
-Perennial 1
-7 1
-number 1
-by 1
-Number 1
-Table 1
-Streams 1
-***************************
-393
-waters 1
-Indicators 1
-by 1
-of 1
-Waters 1
-Environmental 1
-Coastal 1
-Hawaiian 1
-Health 1
-DOH 1
-hawaiian 1
-6 1
-Number 1
-2006 1
-Table 1
-coastal 1
-Island 1
-***************************
-394
-Indicators 1
-Levels 1
-of 1
-Environmental 1
-Honolulu 1
-Carbon 1
-monoxide 1
-Health 1
-Ambient 1
-5 1
-DOH 1
-in 1
-carbon 1
-CO 1
-levels 1
-Table 1
-Monoxide 1
-***************************
-395
-DOH 1
-airborne 1
-of 1
-Environmental 1
-Honolulu 1
-PM 1
-in 1
-Health 1
-Ambient 1
-Airborne 1
-particulates 1
-Levels 1
-levels 1
-ambient 1
-2 1
-Indicators 1
-Table 1
-Particulates 1
-***************************
-396
-Locations 2
-Army 2
-Hawaii 2
-National 2
-Guard 2
-Facility 2
-army 1
-Defense 1
-hiarng 1
-Public 1
-Safety 1
-Department 1
-of 1
-***************************
-397
-Hawaii 2
-Air 2
-National 2
-Guard 2
-Locations 1
-of 1
-Defense 1
-hiang 1
-Public 1
-Department 1
-Safety 1
-Facility 1
-***************************
-398
-Inventory 2
- 1
-all 1
-and 1
-of 1
-library 1
-2012 1
-statewide 1
-Libraries 1
-Material 1
-for 1
-Education 1
-their 1
-materials 1
-value 1
-2005 1
-libraries 1
-Formal 1
-***************************
-399
- 2
-Programs 2
-FY2011 2
-FY2009 2
-Hosted 1
-library 1
-attendance 1
-with 1
-Education 1
-Hawaii 1
-State 1
-Public 1
-Libraries 1
-Library 1
-hosted 1
-Formal 1
-***************************
-400
-Programs 2
-the 2
-Outreach 2
- 1
-FY2011 1
-FY2009 1
-library 1
-Library 1
-Education 1
-Hawaii 1
-Public 1
-System 1
-State 1
-Statistics 1
-Libraries 1
-conducted 1
-by 1
-regarding 1
-Formal 1
-***************************
-401
-1984 2
-2011 2
- 1
-State 1
-the 1
-of 1
-library 1
-for 1
-holdings 1
-Education 1
-Hawaii 1
-Public 1
-quantity 1
-years 1
-Libraries 1
-through 1
-Library 1
-Formal 1
-Holdings 1
-***************************
-402
-1984 2
-Circulation 2
-2011 2
- 1
-years 1
-library 1
-Library 1
-public 1
-Libraries 1
-Hawaii 1
-quantities 1
-circulation 1
-System 1
+producers 1
+hawaiimade 1
 state 1
-Activity 1
-Education 1
-through 1
-for 1
-Formal 1
+economic 1
+seal 1
+enforced 1
+hawaii 1
+hawaiis 1
+agricultural 1
+development 1
+genuine 1
+premium 1
+guarantee 1
 ***************************
-403
- 1
-Borrowers 1
-of 1
-Library 1
-by 1
-Education 1
-borrowers 1
-for 1
-1984 1
-19842011 1
-Libraries 1
-Number 1
-Formal 1
-2011 1
-***************************
-404
-Libraries 2
-of 1
-library 1
-in 1
-Quantities 1
-contained 1
-Statistics 1
-various 1
-20052011 1
-Collections 1
-Education 1
-Formal 1
-media 1
-***************************
-405
-Libraries 2
- 1
-State 1
-the 1
-library 1
-expenditure 1
-Education 1
-items 1
-procured 1
-for 1
-Expenditures 1
-FY2007 1
-FY2010 1
-by 1
-Expenditure 1
-Formal 1
-information 1
-***************************
-406
-Handicapped 2
-Blind 2
-Physically 2
-NLS 1
-handicapped 1
-PUBLIC 1
-blind 1
-Fiscal 1
-Libraries 1
-And 1
-SERVICES 1
-Formal 1
-the 1
-library 1
-Service 1
-STATISTICS 1
-National 1
-for 1
-Education 1
-Library 1
-SECTION 1
-and 1
-2011 1
-***************************
-407
-Annual 2
-holdings 2
-Statistics 2
-library 1
-20102011 1
-Libraries 1
-Comparison 1
-for 1
-borrowers 1
-Education 1
-Circulation 1
-books 1
-and 1
-Formal 1
-holds 1
-***************************
-408
-Insurance 2
-insurance 2
-license 2
-entities 2
-with 1
-ins 1
-dcca 1
-DCCA 1
-License 1
-Search 1
+373 Hawaii Public Schools
+schools 3
+hawaii 2
+public 2
 about 1
-search 1
-Lookup 1
-Economic 1
-Development 1
-registered 1
-information 1
+data 1
 ***************************
-409
+374 Honolulu Areas Of Interest
+interest 2
+areas 2
+hawaii 1
+culture 1
+recreation 1
+honolulu 1
+***************************
+375 Oahu Zipcodes
+oahu 2
+zipcode 1
+zipcodes 1
+layer 1
+***************************
+376 Public Health Nursing Listing
+health 3
+listing 3
+public 2
+nursing 2
+doh 1
+facilities 1
+***************************
+377 Adult Residential Care Home LISTING
+listing 3
+adult 2
+home 2
+residential 2
+care 2
+arch 1
+facilities 1
+doh 1
+health 1
+***************************
+378 STD HIV Clinic
+hiv 2
+std 2
+clinic 2
+facilities 1
+listing 1
+doh 1
+health 1
+***************************
+379 Assisted Living Facilities Listing
+listing 3
+living 2
+assisted 2
+facilities 2
+doh 1
+alf 1
+health 1
+***************************
+380 Table A1: Actual and Forecast of Key Economic Indicators for Hawaii: 2010 TO 2015
+indicators 3
+key 2
+economic 2
+a1 1
+2015 1
+doh 1
+table 1
+2010 1
+health 1
+environmental 1
+actual 1
+forecast 1
+hawaii 1
+***************************
+381 Table 19: Hazardous Waste Generated
+hazardous 2
+waste 2
+generated 2
+environmental 1
+doh 1
+indicators 1
+table 1
+health 1
+19 1
+***************************
+382 Table 18: Leaking Underground Storage Tanks
+storage 2
+leaking 2
+underground 2
+tanks 2
+18 1
+table 1
+indicators 1
+environmental 1
+doh 1
+health 1
+***************************
+383 Table 17: Solid Waste Recycled (in tons)
+recycled 2
+solid 2
+waste 2
+environmental 1
+doh 1
+indicators 1
+tons 1
+table 1
+health 1
+17 1
+***************************
+384 Table 16: Solid Waste Generated Per Person (Pounds)
+solid 2
+waste 2
+generated 2
+pounds 1
+per 1
+environmental 1
+16 1
+doh 1
+indicators 1
+table 1
+health 1
+***************************
+385 Table 15: Oil and Chemical Releases
+oil 2
+chemical 2
+releases 2
+environmental 1
+15 1
+doh 1
+indicators 1
+table 1
+health 1
+***************************
+386 Table 14: Toxic Release Inventory (TRI) (in pounds)
+toxic 2
+inventory 2
+release 2
+environmental 1
+pounds 1
+tri 1
+doh 1
+indicators 1
+14 1
+table 1
+health 1
+***************************
+387 Table 13: Wastewater Recycled
+recycled 2
+wastewater 2
+13 1
+environmental 1
+doh 1
+indicators 1
+table 1
+health 1
+***************************
+388 Table 12: Wastewater Treatment Plant Operations & Compliance
+plant 2
+wastewater 2
+treatment 2
+ 1
+operations 1
+doh 1
+table 1
+compliance 1
+health 1
+environmental 1
+indicators 1
+12 1
+***************************
+389 Table 11: Total Underground Injection Control (UIC) Permits
+control 2
+injection 2
+underground 2
+permits 1
+uic 1
+doh 1
+11 1
+table 1
+health 1
+total 1
+environmental 1
+indicators 1
+***************************
+390 Table 10: Cumulative Sanitary Surveys of Drinking Water Systems
+sanitary 2
+water 2
+cumulative 1
+drinking 1
+doh 1
+10 1
+table 1
+health 1
+environmental 1
+indicators 1
+surveys 1
+systems 1
+***************************
+391 Table 9: Percentage of Population served Safe Drinking Water
+percentage 2
+safe 2
+drinking 2
+water 2
+population 2
+doh 1
+served 1
+table 1
+health 1
+environmental 1
+9 1
+indicators 1
+***************************
+392 Table 7: Number of Hawaiian Perennial Streams by Island
+perennial 2
+streams 2
+number 2
+indicators 1
+hawaiian 1
+island 1
+environmental 1
+doh 1
+table 1
+health 1
+7 1
+***************************
+393 Table 6: Number of Hawaiian Coastal Waters by Island (2006)
+waters 2
+coastal 2
+hawaiian 2
+6 1
+doh 1
+number 1
+table 1
+health 1
+indicators 1
+environmental 1
+2006 1
+island 1
+***************************
+394 Table 5: Ambient Levels of Carbon Monoxide (CO) in Honolulu
+carbon 2
+monoxide 2
+levels 2
+5 1
+health 1
+environmental 1
+doh 1
+table 1
+co 1
+ambient 1
+honolulu 1
+indicators 1
+***************************
+395 Table 2: Ambient Levels of Airborne Particulates (PM) in Honolulu
+levels 2
+particulates 2
+ambient 2
+airborne 2
+pm 1
+doh 1
+2 1
+table 1
+health 1
+environmental 1
+honolulu 1
+indicators 1
+***************************
+396 Department of Defense Hawaii Army National Guard Facility Locations
+army 3
+guard 2
+facility 2
+locations 2
+national 2
+hawaii 2
+safety 1
+hiarng 1
+defense 1
+public 1
+department 1
+***************************
+397 Department of Defense Hawaii Air National Guard
+air 2
+hawaii 2
+national 2
+guard 2
+defense 1
+public 1
+locations 1
+hiang 1
+facility 1
+safety 1
+department 1
+***************************
+398 Libraries Material Inventory 2005 - 2012
+inventory 2
+libraries 2
+ 1
+materials 1
+2012 1
+library 1
+material 1
+2005 1
+value 1
+statewide 1
+education 1
+formal 1
+***************************
+399 Libraries Hosted Programs FY2009 - FY2011
+ 2
+programs 2
+fy2009 2
+fy2011 2
+library 2
+hosted 2
+education 1
+public 1
+attendance 1
+state 1
+libraries 1
+hawaii 1
+formal 1
+***************************
+400 Libraries Outreach Programs FY2009 - FY2011
+programs 2
+library 2
+outreach 2
+ 1
+fy2009 1
+conducted 1
+libraries 1
+education 1
+system 1
+statistics 1
+hawaii 1
+state 1
+public 1
+fy2011 1
+regarding 1
+formal 1
+***************************
+401 Libraries Holdings 1984 - 2011
+2011 2
+library 2
+holdings 2
+1984 2
+ 1
+state 1
+years 1
+libraries 1
+education 1
+quantity 1
+public 1
+through 1
+formal 1
+hawaii 1
+***************************
+402 Libraries Circulation Activity 1984 - 2011
+circulation 3
+2011 2
+library 2
+1984 2
+ 1
+state 1
+quantities 1
+years 1
+libraries 1
+education 1
+system 1
+public 1
+activity 1
+through 1
+formal 1
+hawaii 1
+***************************
+403 Libraries Borrowers 1984 - 2011
+borrowers 2
+ 1
+2011 1
+19842011 1
+number 1
+libraries 1
+formal 1
+library 1
+education 1
+1984 1
+***************************
+404 Libraries Collections Statistics 2005-2011
+libraries 2
+statistics 1
+contained 1
+collections 1
+quantities 1
+20052011 1
+media 1
+various 1
+library 1
+education 1
+formal 1
+***************************
+405 Libraries Expenditures FY2007 - FY2010
+expenditure 2
+libraries 2
+ 1
+fy2007 1
+procured 1
+expenditures 1
+items 1
+library 1
+education 1
+fy2010 1
+information 1
+state 1
+formal 1
+***************************
+406 Libraries Blind And Physically Handicapped Fiscal 2011
+blind 3
+handicapped 3
+library 2
+physically 2
+nls 1
+2011 1
+service 1
+libraries 1
+statistics 1
+services 1
+public 1
+section 1
+national 1
+formal 1
+education 1
+fiscal 1
+***************************
+407 Libraries Annual Statistics Comparison 2010-2011
+statistics 2
+holdings 2
+annual 2
+books 1
+20102011 1
+circulation 1
+holds 1
+libraries 1
+library 1
+borrowers 1
+comparison 1
+formal 1
+education 1
+***************************
+408 Insurance License Search
+insurance 4
+license 3
+search 2
+dcca 2
+entities 2
+ins 1
+about 1
+lookup 1
+information 1
+development 1
+registered 1
+economic 1
+***************************
+409 Professional and Vocational Licensing (PVL) Search
 licensed 4
-vocational 3
-licensing 3
-a 3
-professional 3
-and 3
-have 3
+licensing 4
+professional 4
+vocational 4
+pvl 3
+search 3
 companies 3
 professionals 2
-the 2
-for 2
-by 2
-search 2
-that 2
-PVL 2
+dcca 2
  1
-responsible 1
-RME 1
-of 1
-local 1
-dcca 1
-Federal 1
-include 1
-professions 1
-Search 1
-may 1
-DCCA 1
-entity 1
-those 1
-Economic 1
-Development 1
+federal 1
 managing 1
-government 1
-other 1
-profession 1
-These 1
-broker 1
-Professional 1
-real 1
-associated 1
-web 1
-employees 1
-site 1
-State 1
-to 1
-agenciesSome 1
-contractors 1
-with 1
-This 1
-Licensing 1
-Vocational 1
-PB 1
-vocation 1
-principal 1
-allows 1
-estate 1
-about 1
-company 1
-pvl 1
-Please 1
-website 1
-license 1
-Other 1
-be 1
-check 1
-you 1
-list 1
-or 1
+those 1
+may 1
 information 1
+broker 1
+contractors 1
+government 1
+principal 1
+please 1
+include 1
+economic 1
+agenciessome 1
+check 1
+website 1
+local 1
+state 1
+entity 1
+license 1
+about 1
+responsible 1
+site 1
+estate 1
+real 1
+employees 1
+rme 1
+professions 1
+list 1
+allows 1
+web 1
+company 1
+pb 1
+development 1
+profession 1
+vocation 1
+associated 1
 ***************************
-410
-business 5
-name 3
-to 3
-a 3
-of 2
-Search 2
-search 2
+410 Business Name Search
+business 6
+search 4
+name 4
+information 2
 registration 2
 companyentity 2
-and 2
-information 2
-breg 1
-exists 1
 simply 1
-standing 1
-determine 1
-dcca 1
-good 1
 documents 1
-The 1
-is 1
-whether 1
-Development 1
-proceed 1
-the 1
-this 1
-purpose 1
 certificate 1
-for 1
-Business 1
-Economic 1
-can 1
-purchase 1
-then 1
-You 1
-on 1
+dcca 1
+whether 1
+development 1
+determine 1
+obtain 1
+purpose 1
+economic 1
+proceed 1
 provide 1
-other 1
-obtain 1
-by 1
+exists 1
 basic 1
-Name 1
-or 1
+standing 1
+purchase 1
+breg 1
 ***************************
-411
-OCP 6
+411 Office of Consumer Protection (OCP) Complaint History Search
+ocp 7
 site 5
-to 5
-web 4
-in 4
 information 4
+web 4
+protection 3
 complaints 3
-that 3
 filed 3
-this 3
-cases 2
-reflected 2
-of 2
+consumer 3
 were 2
-protection 2
-The 2
-consumer 2
+complaint 2
+reflected 2
+search 2
+office 2
 about 2
-by 2
-you 1
-NOT 1
-processed 1
-go 1
-dcca 1
-Hawaii 1
-Office 1
-is 1
-contained 1
-Search 1
-may 1
-business 1
-more 1
-relate 1
-designed 1
-on 1
-the 1
-do 1
-comprise 1
-ocp 1
-httphawaiigovdccaocpabout 1
-Complaint 1
-be 1
-DOES 1
-Actions 1
-detailed 1
-Protection 1
-Legal 1
-all 1
-Case 1
-with 1
-Other 1
-numbers 1
-This 1
+history 2
+cases 2
 are 1
-initiated 1
-from 1
+comprise 1
+access 1
+help 1
+does 1
+hawaii 1
+business 1
 2001 1
-office 1
-search 1
-history 1
-records 1
-regarding 1
-not 1
-before 1
-public 1
-official 1
-available 1
-History 1
-Consumer 1
-or 1
 provides 1
-complaint 1
-For 1
-obtain 1
-how 1
-basic 1
-help 1
-access 1
-companies 1
-***************************
-412
-RICO 6
-site 5
-to 5
-complaints 4
-web 4
-in 4
-information 4
-that 3
-filed 3
-this 3
-cases 2
-reflected 2
-were 2
-The 2
-by 2
-about 2
-more 1
-Complaints 1
-NOT 1
-processed 1
-go 1
-httphawaiigovdccaricoabout 1
-dcca 1
-Hawaii 1
-Office 1
-is 1
-contained 1
-Regulated 1
-Industries 1
-business 1
-are 1
-relate 1
+available 1
+from 1
 designed 1
-on 1
-the 1
-rico 1
-do 1
-comprise 1
-Complaint 1
-industries 1
-be 1
-DOES 1
-Actions 1
-detailed 1
-Legal 1
-public 1
-all 1
-may 1
-Case 1
-with 1
-Other 1
-numbers 1
-This 1
-selected 1
-or 1
-initiated 1
-from 1
-office 1
-search 1
-history 1
-you 1
-records 1
 regarding 1
-not 1
+httphawaiigovdccaocpabout 1
+initiated 1
+public 1
+legal 1
+relate 1
+dcca 1
 before 1
-official 1
-available 1
-History 1
-companies 1
-provides 1
-complaint 1
-For 1
+more 1
 obtain 1
-how 1
-Search 1
+companies 1
+case 1
+actions 1
+processed 1
+numbers 1
+may 1
+contained 1
+official 1
 basic 1
-help 1
-access 1
-regulated 1
+detailed 1
+records 1
+***************************
+412 Regulated Industries Complaints Office (RICO) Complaint History Search
+rico 7
+site 5
+complaints 5
+information 4
+web 4
+filed 3
+were 2
+complaint 2
+reflected 2
+search 2
+office 2
+about 2
+history 2
+regulated 2
+industries 2
+cases 2
+are 1
 1986 1
+comprise 1
+access 1
+help 1
+does 1
+hawaii 1
+business 1
+provides 1
+available 1
+from 1
+designed 1
+regarding 1
+initiated 1
+processed 1
+httphawaiigovdccaricoabout 1
+public 1
+legal 1
+selected 1
+relate 1
+dcca 1
+before 1
+more 1
+obtain 1
+companies 1
+case 1
+actions 1
+numbers 1
+may 1
+contained 1
+official 1
+basic 1
+detailed 1
+records 1
 ***************************
-413
-Training 2
-Developer 2
+413 Training - State of Hawaii Developer training session
+training 3
+developer 2
  1
-State 1
-the 1
-of 1
-accessed 1
-on 1
-Hawaii 1
-can 1
-session 1
-The 1
-be 1
 recording 1
+state 1
+july 1
+accessed 1
+from 1
+education 1
+session 1
+here 1
 17 1
-from 1
-here 1
-training 1
-Education 1
-Formal 1
-July 1
+hawaii 1
+formal 1
 ***************************
-414
-Publisher 2
-Training 2
+414 Training - State of Hawaii Publisher training session #2
+training 3
+publisher 2
  1
-July 1
-of 1
-training 1
-Hawaii 1
-The 1
-from 1
-here 1
+recording 1
+state 1
+july 1
 2 1
-be 1
-State 1
-on 1
-the 1
-16 1
-can 1
-session 1
-Formal 1
-recording 1
+from 1
 accessed 1
-Education 1
+education 1
+here 1
+session 1
+16 1
+hawaii 1
+formal 1
 ***************************
-415
-of 2
-Hawaii 2
-the 2
-Training 2
+415 Training - Hawaii Publisher Training session
+training 3
+hawaii 2
+publisher 2
  1
-July 1
-on 1
-Education 1
-publisher 1
-Formal 1
-State 1
-one 1
-Publisher 1
+recording 1
+state 1
+july 1
 2012 1
-session 1
 done 1
-recording 1
-for 1
-training 1
 6 1
-hour 1
-A 1
-***************************
-416
-of 4
-Open 4
-the 3
-Data 2
-Hawaii 2
-to 2
-It 2
- 1
-many 1
 session 1
-Briefing 1
-is 1
-also 1
-done 1
-Formal 1
-State 1
-one 1
-what 1
-government 1
-Training 1
-a 1
-recording 1
-for 1
-Socrata 1
-training 1
-relationship 1
-citizens 1
-covers 1
-and 1
-others 1
-all 1
-used 1
-on 1
-uses 1
+formal 1
+education 1
 hour 1
-have 1
-data 1
-about 1
-improve 1
-explores 1
-features 1
-A 1
-Education 1
-how 1
-by 1
-Government 1
 ***************************
-417
-the 2
+416 Training - Hawaii Briefing on Open Government
+open 4
+data 3
+hawaii 2
+government 2
+training 2
+ 1
+state 1
+briefing 1
+covers 1
+hour 1
+others 1
+session 1
+citizens 1
+relationship 1
+socrata 1
+explores 1
+improve 1
+recording 1
+formal 1
+used 1
+many 1
+features 1
+uses 1
+education 1
+done 1
+also 1
+about 1
+***************************
+417 OIE-FAVN TEST RESULTS BY MICROCHIP - under construction with test data
+microchip 2
+test 2
 data 2
  1
-microchip 1
-dataset 1
-at 1
-with 1
-Health 1
-TEST 1
-go 1
-test 1
-AQS 1
-this 1
-httphawaiigovhdoaaiaqscopy_of_microchip 1
-details 1
-on 1
-BY 1
-RESULTS 1
-in 1
-webpage 1
-provided 1
-MICROCHIP 1
-OIEFAVN 1
 under 1
-please 1
-construction 1
-For 1
-***************************
-418
-Future 2
-Prices 2
-WTI 2
-of 1
-Contract 1
-Daily 1
-Development 1
-seo 1
-Oil 1
-1 1
-Economic 1
-Barrel 1
-***************************
-419
-AAA 2
-Fuel 2
-Prices 2
-seo 1
-Monthly 1
-Economic 1
-Development 1
-***************************
-420
-HI 2
-Electricity 2
-Prices 2
-seo 1
-Support 1
-GovernmentWide 1
-***************************
-421
-HI 1
- 1
-production 1
-2012 1
-Supply 1
-KWh 1
-Electric 1
-2008 1
-purchase 1
-Development 1
-electricity 1
-seo 1
-utility 1
-and 1
-Economic 1
-Utility 1
-***************************
-422
-Statistics 2
-Libraries 2
-2011 2
-State 1
-of 1
-library 1
-in 1
-Hawaii 1
-Social 1
-type 1
-Public 1
-Services 1
-for 1
-by 1
-Collection 1
-media 1
-***************************
-423
-State 2
-the 2
-of 2
-Hawaii 2
-Libraries 2
-Listing 1
-library 1
-in 1
-Social 1
-Public 1
-Services 1
-Of 1
-***************************
-424
-Libraries 2
-laptops 1
-and 1
-of 1
-Computers 1
-Available 1
-in 1
-Social 1
-Hawaii 1
-Services 1
-available 1
-computers 1
-desktop 1
-Number 1
-coputers 1
-***************************
-425
-of 2
- 1
-State 1
-the 1
-library 1
-in 1
-Hawaii 1
-Social 1
-holdings 1
-FY12 1
-Services 1
-FY84 1
-Libraries 1
-Number 1
-libraries 1
-Holdings 1
-have 1
-***************************
-426
-of 2
-internet 2
-Libraries 2
- 1
-sessions 1
-the 1
-use 1
-Internet 1
-in 1
-By 1
-Social 1
-Hawaii 1
-State 1
-Year 1
-Services 1
-Sessions 1
-FY11 1
-throughout 1
-FY06 1
-Number 1
-for 1
-***************************
-427
-Elections 2
-General 2
-2010 2
-Results 2
-elections 1
-Office 1
-of 1
-Support 1
-fom 1
-GovernmentWide 1
-vote 1
-Election 1
-***************************
-428
-Elections 2
-Summary 2
-General 2
-2010 2
-elections 1
-the 1
-of 1
 results 1
-Support 1
-Resultscsv 1
-Office 1
-from 1
-GovernmentWide 1
-Election 1
+please 1
+provided 1
+aqs 1
+webpage 1
+health 1
+details 1
+httphawaiigovhdoaaiaqscopy_of_microchip 1
+construction 1
+oiefavn 1
+dataset 1
 ***************************
-429
-class 2
-Minimum 1
-emplyment 1
-of 1
-Class 1
-Specification 1
-qualifications 1
-Department 1
-And 1
-specs 1
-positions 1
-State 1
-Employment 1
-Qualification 1
-jobs 1
-Human 1
-for 1
-minimum 1
-regarding 1
-and 1
-Resources 1
-information 1
+418 WTI Barrel of Oil Future Prices
+future 2
+prices 2
+wti 2
+oil 1
+1 1
+seo 1
+development 1
+barrel 1
+contract 1
+daily 1
+economic 1
 ***************************
-430
-State 2
-Holidays 2
-2013 2
-Employment 1
-days 1
+419 AAA Fuel Prices
+fuel 2
+aaa 2
+prices 2
+seo 1
+monthly 1
+development 1
+economic 1
+***************************
+420 HI Electricity Prices
+electricity 2
+hi 2
+prices 2
+seo 1
+support 1
+governmentwide 1
+***************************
+421 HI KWh Utility Supply 2008 - 2012
+utility 2
+ 1
+electric 1
+2012 1
+seo 1
+kwh 1
+supply 1
+purchase 1
+production 1
+development 1
+electricity 1
+2008 1
+hi 1
+economic 1
+***************************
+422 Libraries Collection Statistics 2011
+2011 2
+libraries 2
+statistics 2
+type 1
+social 1
+media 1
+library 1
+services 1
+public 1
+collection 1
+state 1
+hawaii 1
+***************************
+423 Libraries State Of Hawaii
+state 2
+libraries 2
+hawaii 2
+public 1
+services 1
+social 1
+library 1
+listing 1
+***************************
+424 Libraries Computers Available
+available 2
+libraries 2
+computers 2
+number 1
+services 1
+desktop 1
+social 1
+coputers 1
+laptops 1
+hawaii 1
+***************************
+425 Libraries Holdings FY84 - FY12
+holdings 2
+libraries 2
+ 1
+social 1
+fy84 1
+number 1
+services 1
+fy12 1
+library 1
+hawaii 1
+state 1
+***************************
+426 Libraries Internet Sessions By Year FY06 - FY11
+internet 3
+sessions 2
+libraries 2
+ 1
+social 1
+fy11 1
+number 1
+hawaii 1
 year 1
+services 1
+fy06 1
+state 1
+throughout 1
+***************************
+427 General Election Results 2010
+elections 3
+2010 2
+general 2
+results 2
+election 1
+office 1
+fom 1
+vote 1
+support 1
+governmentwide 1
+***************************
+428 General Election 2010 Summary Results.csv
+elections 3
+2010 2
+general 2
+summary 2
+election 1
+resultscsv 1
+office 1
+support 1
+results 1
+governmentwide 1
+from 1
+***************************
+429 Class Specification And Minimum Qualification
+class 3
+minimum 2
+jobs 1
+state 1
+qualification 1
+employment 1
+resources 1
+specification 1
+qualifications 1
+emplyment 1
+specs 1
+information 1
+positions 1
+human 1
+regarding 1
+department 1
+***************************
+430 2013 State Holidays
+state 2
+holidays 2
+2013 2
+year 1
+calendar 1
 off 1
+days 1
+employment 1
 holiday 1
 closed 1
-for 1
-calendar 1
 ***************************
-431
-Holidays 2
+431 2014 State Holidays
 2014 2
-State 1
-Employment 1
-of 1
-Hawaii 1
-Stte 1
-calendar 1
-for 1
-days 1
+holidays 2
 year 1
+calendar 1
+state 1
 off 1
+days 1
+employment 1
+stte 1
 holiday 1
+hawaii 1
 ***************************
-432
+432 Bills Passed 2012
+bills 3
 2012 3
-Bills 2
-Passed 2
-bills 1
-legislature 1
-Support 1
-by 1
-GovernmentWide 1
-Legislature 1
+passed 2
+legislature 2
+support 1
+governmentwide 1
 ***************************
